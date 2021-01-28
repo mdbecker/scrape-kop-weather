@@ -12,4 +12,4 @@ curl 'https://api.weather.com/v2/indices/pollen/daypart/7day?apiKey=6532d6454b8a
   -H 'sec-fetch-dest: empty' \
   -H 'referer: https://www.wunderground.com/' \
   -H 'accept-language: en-US,en;q=0.9' \
-  --compressed | jq .
+  --compressed | sed 's/"transactionId":[^,]*,//g' | sed 's/"expireTimeGmt":[^,]*,//g' | jq .
