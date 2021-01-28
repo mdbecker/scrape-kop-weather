@@ -12,4 +12,4 @@ curl 'https://sensors-out.wunderground.com/v3/iot/airquality/current?apiKey=ba9f
   -H 'sec-fetch-dest: empty' \
   -H 'referer: https://www.wunderground.com/' \
   -H 'accept-language: en-US,en;q=0.9' \
-  --compressed | jq .
+  --compressed | sed 's/"airQualitySensorId":\[[^]]*\],//g' | sed 's/"attribution":\[[^]]*\],//g' | sed 's/"sensorManufacturer":\[[^]]*\],//g' | sed 's/"elevation":\[[^]]*\],//g' | sed 's/"obsTimeIso":\[[^]]*\],//g' | sed 's/"epoch":\[[^]]*\],//g' | jq .
