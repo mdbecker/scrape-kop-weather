@@ -6,10 +6,10 @@
     "Tuesday"
   ],
   "expirationTimeUtc": [
-    1612677764,
-    1612677764,
-    1612677764,
-    1612677764
+    1612681582,
+    1612681582,
+    1612681582,
+    1612681582
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -54,20 +54,20 @@
     1612901504
   ],
   "narrative": [
-    "Snow likely. Lows overnight in the low 30s.",
-    "Snow. Highs in the upper 30s and lows in the upper teens.",
-    "Sunny. Highs in the low 30s and lows in the low 20s.",
-    "Showers of rain and snow early. Highs in the low 40s and lows in the upper 20s."
+    "Rain and snow showers. Lows overnight in the low 30s.",
+    "Snow likely. Highs in the upper 30s and lows in the upper teens.",
+    "Abundant sunshine. Highs in the low 30s and lows in the low 20s.",
+    "Rain and snow showers in the morning. Highs in the low 40s and lows in the upper 20s."
   ],
   "qpf": [
-    0.05,
-    0.45,
+    0.03,
+    0.43,
     0,
-    0.1
+    0.11
   ],
   "qpfSnow": [
-    0.4,
-    4.2,
+    0,
+    4,
     0,
     0.5
   ],
@@ -104,7 +104,7 @@
   "temperatureMin": [
     32,
     19,
-    21,
+    22,
     29
   ],
   "validTimeLocal": [
@@ -123,13 +123,13 @@
     {
       "cloudCover": [
         null,
-        89,
-        91,
-        18,
-        12,
-        72,
-        87,
-        67
+        88,
+        90,
+        17,
+        11,
+        71,
+        88,
+        66
       ],
       "dayOrNight": [
         null,
@@ -153,47 +153,47 @@
       ],
       "iconCode": [
         null,
-        16,
+        5,
         16,
         33,
         32,
         27,
         5,
-        27
+        29
       ],
       "iconCodeExtend": [
         null,
-        1600,
+        4900,
         1600,
         3300,
         3200,
         2700,
         6404,
-        2700
+        2900
       ],
       "narrative": [
         null,
-        "Cloudy with snow. Low 32F. Winds NE at 5 to 10 mph. Chance of snow 80%. Snow accumulations less than one inch.",
-        "Cloudy with snow. Temps nearly steady in the mid 30s. Winds NNW at 10 to 15 mph. Chance of snow 100%. Snow accumulating 3 to 5 inches.",
+        "Cloudy with rain and snow showers. Low 32F. Winds light and variable. Chance of precip 80%.",
+        "Snow likely. Temps nearly steady in the mid 30s. Winds NNW at 10 to 15 mph. Chance of snow 100%. Snow accumulating 3 to 5 inches.",
         "Mostly clear skies. Low 19F. Winds NW at 10 to 20 mph.",
-        "Sunny skies. High 31F. Winds NW at 5 to 10 mph.",
-        "Partly cloudy during the evening followed by cloudy skies overnight. Low 21F. Winds SE at 5 to 10 mph.",
-        "Cloudy with rain and snow showers in the morning. Remaining cloudy in the afternoon. High 43F. Winds NNW at 5 to 10 mph. Chance of rain 50%. Snow accumulations less than one inch.",
-        "Considerable cloudiness. Low 29F. Winds NW at 10 to 15 mph."
+        "Mainly sunny. High 31F. Winds WNW at 5 to 10 mph.",
+        "Partly cloudy skies during the evening will give way to cloudy skies overnight. Low 22F. Winds SE at 5 to 10 mph.",
+        "Cloudy with rain and snow showers in the morning. Remaining cloudy in the afternoon. High 43F. Winds NNW at 5 to 10 mph. Chance of rain 40%. Snow accumulations less than one inch.",
+        "Partly to mostly cloudy. Low 29F. Winds NW at 10 to 15 mph."
       ],
       "precipChance": [
         null,
-        83,
-        99,
+        79,
+        100,
         7,
         3,
-        24,
-        46,
-        9
+        22,
+        44,
+        12
       ],
       "precipType": [
         null,
-        "snow",
+        "precip",
         "snow",
         "snow",
         "precip",
@@ -203,18 +203,18 @@
       ],
       "qpf": [
         null,
-        0.05,
-        0.45,
+        0.03,
+        0.43,
         0,
         0,
         0,
-        0.1,
+        0.11,
         0
       ],
       "qpfSnow": [
         null,
-        0.4,
-        4.2,
+        0,
+        4,
         0,
         0,
         0,
@@ -243,17 +243,17 @@
       ],
       "relativeHumidity": [
         null,
-        71,
-        83,
-        62,
-        51,
-        69,
-        78,
+        74,
+        82,
+        61,
+        50,
+        66,
+        76,
         75
       ],
       "snowRange": [
         null,
-        "< 1",
+        "",
         "3-5",
         "",
         "",
@@ -267,29 +267,29 @@
         37,
         19,
         31,
-        21,
+        22,
         43,
         29
       ],
       "temperatureHeatIndex": [
         null,
         34,
-        36,
+        37,
         35,
         30,
         28,
         42,
-        38
+        37
       ],
       "temperatureWindChill": [
         null,
         28,
-        26,
+        27,
         10,
         10,
         17,
-        23,
-        22
+        22,
+        21
       ],
       "thunderCategory": [
         null,
@@ -333,30 +333,30 @@
       ],
       "windDirection": [
         null,
-        49,
-        345,
+        51,
+        343,
         306,
-        305,
-        131,
-        341,
-        323
+        302,
+        127,
+        343,
+        326
       ],
       "windDirectionCardinal": [
         null,
         "NE",
         "NNW",
         "NW",
-        "NW",
+        "WNW",
         "SE",
         "NNW",
         "NW"
       ],
       "windPhrase": [
         null,
-        "Winds NE at 5 to 10 mph.",
+        "Winds light and variable.",
         "Winds NNW at 10 to 15 mph.",
         "Winds NW at 10 to 20 mph.",
-        "Winds NW at 5 to 10 mph.",
+        "Winds WNW at 5 to 10 mph.",
         "Winds SE at 5 to 10 mph.",
         "Winds NNW at 5 to 10 mph.",
         "Winds NW at 10 to 15 mph."
@@ -364,32 +364,32 @@
       "windSpeed": [
         null,
         6,
-        12,
+        11,
         13,
         9,
         7,
-        8,
+        7,
         10
       ],
       "wxPhraseLong": [
         null,
-        "Snow",
+        "Rain/Snow Showers",
         "Snow",
         "Mostly Clear",
         "Sunny",
         "Mostly Cloudy",
         "AM Rain/Snow Showers",
-        "Mostly Cloudy"
+        "Partly Cloudy"
       ],
       "wxPhraseShort": [
         null,
-        "Snow",
+        "R/S Showers",
         "Snow",
         "M Clear",
         "Sunny",
         "M Cloudy",
         "AM Rain/Snow",
-        "M Cloudy"
+        "P Cloudy"
       ]
     }
   ]
