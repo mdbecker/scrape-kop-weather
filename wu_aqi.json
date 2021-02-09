@@ -4,7 +4,7 @@
     "longitude": -75.39,
     "source": "Contains Copernicus Atmosphere Monitoring Service information 2021 and/or modified Copernicus Atmosphere Monitoring Service information 2021",
     "disclaimer": "Neither the European Commission nor ECMWF is responsible for any use of this information",
-    "airQualityIndex": 28,
+    "airQualityIndex": 29,
     "airQualityCategory": "Good",
     "airQualityCategoryIndex": 1,
     "airQualityCategoryIndexColor": "00E838",
@@ -13,7 +13,7 @@
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 10.11,
+        "amount": 10.57,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -22,11 +22,11 @@
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 33.28,
+        "amount": 33.4,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 25
+        "index": 23
       },
       "SO2": {
         "name": "SO2",
@@ -40,25 +40,25 @@
       "PM2.5": {
         "name": "PM2.5",
         "phrase": "Particulate matter less than 2.5 microns",
-        "amount": 10.71,
+        "amount": 10.73,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 28
+        "index": 29
       },
       "PM10": {
         "name": "PM10",
         "phrase": "Particulate matter less than 10 microns",
-        "amount": 42.29,
+        "amount": 41.81,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 12
+        "index": 14
       },
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 222.34,
+        "amount": 224.66,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -75,6 +75,6 @@
         "text": "Air quality is considered satisfactory, and air pollution poses little or no risk."
       }
     },
-    "expireTimeGmt": 1612839600
+    "expireTimeGmt": 1612843200
   }
 }
