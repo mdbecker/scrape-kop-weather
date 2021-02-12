@@ -6,10 +6,10 @@
     "Monday"
   ],
   "expirationTimeUtc": [
-    1613128480,
-    1613128480,
-    1613128480,
-    1613128480
+    1613132082,
+    1613132082,
+    1613132082,
+    1613132082
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -55,15 +55,15 @@
   ],
   "narrative": [
     "Cloudy. Highs in the low 30s and lows in the mid 20s.",
-    "Cloudy. Highs in the upper 20s with temperatures nearly steady overnight.",
-    "A mixture of light rain and ice early. Highs in the upper 30s and lows in the low 30s.",
+    "Mostly cloudy. Highs in the upper 20s with temperatures nearly steady overnight.",
+    "Morning showers. Highs in the upper 30s and lows in the low 30s.",
     "Showers possible. Highs in the mid 30s and lows in the low 30s."
   ],
   "qpf": [
     0,
-    0.12,
-    0.14,
-    0.37
+    0.11,
+    0.15,
+    0.35
   ],
   "qpfSnow": [
     0,
@@ -103,9 +103,9 @@
   ],
   "temperatureMin": [
     25,
-    28,
+    27,
     33,
-    32
+    30
   ],
   "validTimeLocal": [
     "2021-02-12T07:00:00-0500",
@@ -122,14 +122,14 @@
   "daypart": [
     {
       "cloudCover": [
-        84,
+        82,
         82,
         95,
         99,
         96,
         95,
         95,
-        97
+        96
       ],
       "dayOrNight": [
         "D",
@@ -156,39 +156,39 @@
         26,
         26,
         7,
-        10,
+        39,
         11,
         11,
-        12
+        10
       ],
       "iconCodeExtend": [
         2600,
         2600,
         2600,
         700,
-        6504,
+        6103,
         1100,
         1100,
-        1200
+        8100
       ],
       "narrative": [
-        "Cloudy skies. High 31F. Winds NNE at 10 to 15 mph.",
+        "Generally cloudy. High 31F. Winds NNE at 10 to 15 mph.",
         "Cloudy skies. Low near 25F. Winds NNE at 5 to 10 mph.",
-        "Overcast. A few flurries or snow showers possible. High 29F. Winds NNE at 10 to 15 mph.",
-        "A mixture of winter precipitation types in the evening changing to just light freezing rain overnight. Low 28F. Winds NNE at 10 to 15 mph. Chance of precip 60%.",
-        "Periods of light rain and freezing rain early. Then remaining cloudy in the afternoon. High 38F. Winds N at 10 to 15 mph. Chance of precip 60%.",
-        "Overcast with rain showers at times. Low 33F. Winds NNE at 5 to 10 mph. Chance of rain 50%.",
-        "Overcast with rain showers at times. Temps nearly steady in the mid 30s. Winds N at 5 to 10 mph. Chance of rain 50%.",
-        "Rain showers in the evening will evolve into a more steady rain overnight. Low 32F. Winds NNE at 5 to 10 mph. Chance of rain 80%. Rainfall near a quarter of an inch."
+        "Cloudy. A few flurries or snow showers possible. High 29F. Winds NNE at 10 to 15 mph.",
+        "A mix of wintry precipitation early will transition to just light freezing rain late. Low 27F. Winds NNE at 10 to 15 mph. Chance of precip 60%.",
+        "Rain showers early with overcast skies later in the day. High 38F. Winds N at 10 to 15 mph. Chance of rain 50%.",
+        "Cloudy with showers. Low 33F. Winds NNE at 5 to 10 mph. Chance of rain 50%.",
+        "Considerable cloudiness with occasional rain showers. Temps nearly steady in the mid 30s. Winds N at 5 to 10 mph. Chance of rain 50%.",
+        "Showers in the evening with rain becoming steady and changing to freezing rain overnight. Low near 30F. Winds NNE at 10 to 15 mph. Chance of precip 80%."
       ],
       "precipChance": [
         4,
         5,
         24,
-        61,
-        56,
-        51,
-        51,
+        58,
+        53,
+        53,
+        48,
         81
       ],
       "precipType": [
@@ -196,20 +196,20 @@
         "precip",
         "precip",
         "precip",
-        "precip",
         "rain",
         "rain",
-        "rain"
+        "rain",
+        "precip"
       ],
       "qpf": [
         0,
         0,
         0,
-        0.12,
-        0.03,
         0.11,
-        0.07,
-        0.3
+        0.03,
+        0.12,
+        0.06,
+        0.28
       ],
       "qpfSnow": [
         0,
@@ -242,13 +242,13 @@
         null
       ],
       "relativeHumidity": [
-        57,
+        56,
         67,
-        70,
-        76,
+        72,
         77,
-        79,
-        82,
+        78,
+        81,
+        81,
         80
       ],
       "snowRange": [
@@ -265,11 +265,11 @@
         31,
         25,
         29,
-        28,
+        27,
         38,
         33,
         36,
-        32
+        30
       ],
       "temperatureHeatIndex": [
         30,
@@ -289,7 +289,7 @@
         24,
         28,
         28,
-        25
+        22
       ],
       "thunderCategory": [
         "No thunder",
@@ -335,11 +335,11 @@
         24,
         20,
         31,
-        27,
+        26,
         10,
         27,
-        10,
-        31
+        9,
+        29
       ],
       "windDirectionCardinal": [
         "NNE",
@@ -359,16 +359,16 @@
         "Winds N at 10 to 15 mph.",
         "Winds NNE at 5 to 10 mph.",
         "Winds N at 5 to 10 mph.",
-        "Winds NNE at 5 to 10 mph."
+        "Winds NNE at 10 to 15 mph."
       ],
       "windSpeed": [
         11,
         9,
         11,
+        10,
         11,
-        11,
-        8,
-        9,
+        7,
+        10,
         10
       ],
       "wxPhraseLong": [
@@ -376,20 +376,20 @@
         "Cloudy",
         "Cloudy",
         "Wintry Mix",
-        "AM Light Rain/Ice",
+        "AM Showers",
         "Showers",
         "Showers",
-        "Rain"
+        "Rain to Ice"
       ],
       "wxPhraseShort": [
         "Cloudy",
         "Cloudy",
         "Cloudy",
         "Wintry Mix",
-        "AM Rain/Ice",
+        "AM Showers",
         "Showers",
         "Showers",
-        "Rain"
+        "Rain to Ice"
       ]
     }
   ]
