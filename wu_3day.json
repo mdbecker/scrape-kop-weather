@@ -6,10 +6,10 @@
     "Tuesday"
   ],
   "expirationTimeUtc": [
-    1613234795,
-    1613234795,
-    1613234795,
-    1613234795
+    1613240201,
+    1613240201,
+    1613240201,
+    1613240201
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -54,19 +54,19 @@
     1613532962
   ],
   "narrative": [
-    "Wintry mix of precipitation. Highs in the low 30s and lows in the upper 20s.",
-    "Cloudy. Highs in the upper 30s and lows in the low 30s.",
+    "Freezing rain. Highs in the low 30s and lows in the upper 20s.",
+    "Mostly cloudy. Highs in the upper 30s and lows in the low 30s.",
     "Showers. Highs in the upper 30s and lows in the mid 30s.",
-    "Periods of rain early. Highs in the low 40s and lows in the low 20s."
+    "Cloudy with morning rain. Highs in the low 40s and lows in the upper teens."
   ],
   "qpf": [
-    0.12,
-    0.01,
-    0.61,
-    0.23
+    0.13,
+    0,
+    0.66,
+    0.22
   ],
   "qpfSnow": [
-    0.3,
+    0.2,
     0,
     0,
     0
@@ -99,13 +99,13 @@
     30,
     39,
     37,
-    42
+    41
   ],
   "temperatureMin": [
     27,
     33,
     35,
-    20
+    18
   ],
   "validTimeLocal": [
     "2021-02-13T07:00:00-0500",
@@ -122,14 +122,14 @@
   "daypart": [
     {
       "cloudCover": [
-        100,
+        99,
         99,
         95,
         91,
-        97,
         98,
-        76,
-        27
+        98,
+        73,
+        31
       ],
       "dayOrNight": [
         "D",
@@ -152,68 +152,68 @@
         "Tuesday night"
       ],
       "iconCode": [
-        7,
+        10,
         7,
         26,
-        45,
+        26,
         11,
         12,
         12,
         29
       ],
       "iconCodeExtend": [
-        700,
+        1000,
         6700,
         2600,
-        7100,
+        2600,
         1100,
         1200,
         6303,
         2900
       ],
       "narrative": [
-        "Cloudy with a mixture of winter precipitation. High around 30F. Winds NNE at 10 to 15 mph. Chance of precip 70%.",
+        "Expect periods of freezing rain. High around 30F. Winds NNE at 10 to 15 mph. Chance of precip 90%.",
         "A mix of wintry precipitation this evening. Then mainly cloudy overnight. Some icing possible. Low 27F. Winds NNE at 10 to 15 mph. Chance of precip 60%.",
         "Cloudy. High 39F. Winds N at 5 to 10 mph.",
-        "Cloudy skies with a few showers later at night. Low 33F. Winds NNE at 5 to 10 mph. Chance of rain 30%.",
+        "Cloudy. Low 33F. Winds NNE at 5 to 10 mph.",
         "Cloudy with occasional rain showers. Temps nearly steady in the mid 30s. Winds NNE at 5 to 10 mph. Chance of rain 60%.",
-        "Cloudy with periods of rain. Low near 35F. Winds NNE at 5 to 10 mph. Chance of rain 90%. Rainfall near a half an inch.",
-        "Rain early. A mix of sun and clouds in the afternoon. High 41F. Winds NNW at 10 to 15 mph. Chance of rain 90%. Rainfall near a quarter of an inch.",
-        "A few clouds. Low near 20F. Winds NW at 10 to 15 mph."
+        "Rain likely. Low near 35F. Winds NNE at 5 to 10 mph. Chance of rain 90%. Rainfall near a half an inch.",
+        "Rain early. A mix of sun and clouds in the afternoon. High 41F. Winds NNW at 10 to 15 mph. Chance of rain 90%. Rainfall around a quarter of an inch.",
+        "A few clouds from time to time. Low 18F. Winds NNW at 10 to 15 mph."
       ],
       "precipChance": [
-        68,
-        62,
-        21,
-        30,
+        88,
+        63,
+        19,
+        23,
         57,
         93,
-        94,
+        93,
         9
       ],
       "precipType": [
         "precip",
         "precip",
         "precip",
-        "rain",
+        "precip",
         "rain",
         "rain",
         "rain",
         "snow"
       ],
       "qpf": [
-        0.08,
-        0.05,
+        0.09,
+        0.04,
         0,
-        0.01,
+        0,
         0.07,
-        0.54,
-        0.23,
+        0.59,
+        0.22,
         0
       ],
       "qpfSnow": [
-        0.2,
-        0.2,
+        0.1,
+        0.1,
         0,
         0,
         0,
@@ -242,14 +242,14 @@
         null
       ],
       "relativeHumidity": [
-        61,
-        77,
-        74,
-        77,
-        79,
-        83,
+        62,
+        78,
+        73,
+        76,
+        80,
+        82,
         75,
-        61
+        60
       ],
       "snowRange": [
         "",
@@ -268,8 +268,8 @@
         33,
         37,
         35,
-        42,
-        20
+        41,
+        18
       ],
       "temperatureHeatIndex": [
         28,
@@ -277,19 +277,19 @@
         38,
         37,
         37,
-        38,
+        37,
         41,
-        37
+        36
       ],
       "temperatureWindChill": [
-        16,
+        17,
         18,
         24,
         27,
         28,
         30,
-        32,
-        11
+        30,
+        10
       ],
       "thunderCategory": [
         "No thunder",
@@ -318,7 +318,7 @@
         "Low",
         "Low",
         "Low",
-        "Moderate",
+        "Low",
         "Low"
       ],
       "uvIndex": [
@@ -328,18 +328,18 @@
         0,
         1,
         0,
-        3,
+        2,
         0
       ],
       "windDirection": [
         31,
         18,
-        0,
+        359,
         21,
-        23,
-        31,
-        337,
-        326
+        24,
+        30,
+        342,
+        327
       ],
       "windDirectionCardinal": [
         "NNE",
@@ -349,7 +349,7 @@
         "NNE",
         "NNE",
         "NNW",
-        "NW"
+        "NNW"
       ],
       "windPhrase": [
         "Winds NNE at 10 to 15 mph.",
@@ -359,7 +359,7 @@
         "Winds NNE at 5 to 10 mph.",
         "Winds NNE at 5 to 10 mph.",
         "Winds NNW at 10 to 15 mph.",
-        "Winds NW at 10 to 15 mph."
+        "Winds NNW at 10 to 15 mph."
       ],
       "windSpeed": [
         12,
@@ -372,20 +372,20 @@
         11
       ],
       "wxPhraseLong": [
-        "Wintry Mix",
+        "Freezing Rain",
         "Wintry Mix Early",
         "Cloudy",
-        "Showers Late",
+        "Cloudy",
         "Showers",
         "Rain",
         "AM Rain",
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
-        "Wintry Mix",
+        "Frz Rain",
         "Mix Early",
         "Cloudy",
-        "Shwrs Late",
+        "Cloudy",
         "Showers",
         "Rain",
         "AM Rain",
