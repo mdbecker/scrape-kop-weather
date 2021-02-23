@@ -13,16 +13,16 @@
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 6.52,
+        "amount": 10.2,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 3
+        "index": 5
       },
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 42.01,
+        "amount": 44.17,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -31,7 +31,7 @@
       "SO2": {
         "name": "SO2",
         "phrase": "Sulfur Dioxide",
-        "amount": 3.86,
+        "amount": 3.98,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -40,7 +40,7 @@
       "PM2.5": {
         "name": "PM2.5",
         "phrase": "Particulate matter less than 2.5 microns",
-        "amount": 15.63,
+        "amount": 14.05,
         "unit": "μg/m3",
         "category": "Moderate",
         "categoryIndex": 2,
@@ -49,7 +49,7 @@
       "PM10": {
         "name": "PM10",
         "phrase": "Particulate matter less than 10 microns",
-        "amount": 8.09,
+        "amount": 9.21,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -58,7 +58,7 @@
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 169.78,
+        "amount": 178.09,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -75,6 +75,6 @@
         "text": "Air quality is acceptable; however, for some pollutants there may be a moderate health concern for a very small number of people who are unusually sensitive to air pollution."
       }
     },
-    "expireTimeGmt": 1614078000
+    "expireTimeGmt": 1614081600
   }
 }
