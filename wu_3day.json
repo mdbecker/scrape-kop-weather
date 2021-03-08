@@ -6,10 +6,10 @@
     "Wednesday"
   ],
   "expirationTimeUtc": [
-    1615161547,
-    1615161547,
-    1615161547,
-    1615161547
+    1615168753,
+    1615168753,
+    1615168753,
+    1615168753
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -55,9 +55,9 @@
   ],
   "narrative": [
     "Clear. Lows overnight in the mid 20s.",
-    "Sunny. Highs in the mid 40s and lows in the mid 30s.",
-    "Plenty of sun. Highs in the low 60s and lows in the upper 30s.",
-    "A few clouds. Highs in the upper 60s and lows in the upper 40s."
+    "More sun than clouds. Highs in the mid 40s and lows in the mid 30s.",
+    "A few clouds. Highs in the low 60s and lows in the upper 30s.",
+    "More sun than clouds. Highs in the mid 60s and lows in the upper 40s."
   ],
   "qpf": [
     0,
@@ -97,9 +97,9 @@
   ],
   "temperatureMax": [
     null,
-    46,
+    45,
     62,
-    67
+    66
   ],
   "temperatureMin": [
     24,
@@ -123,13 +123,13 @@
     {
       "cloudCover": [
         null,
-        6,
+        3,
         11,
-        37,
+        36,
+        23,
         24,
-        26,
         14,
-        62
+        63
       ],
       "dayOrNight": [
         null,
@@ -154,32 +154,32 @@
       "iconCode": [
         null,
         31,
-        32,
-        29,
         34,
         29,
+        34,
+        33,
         34,
         27
       ],
       "iconCodeExtend": [
         null,
         3100,
-        3200,
-        2900,
         3400,
         2900,
+        3400,
+        3300,
         3400,
         2700
       ],
       "narrative": [
         null,
         "Clear skies. Low 24F. Winds NNW at 5 to 10 mph.",
-        "Sunny. High 46F. Winds WNW at 5 to 10 mph.",
-        "A few clouds from time to time. Low 34F. Winds SW at 5 to 10 mph.",
-        "A few clouds early, otherwise mostly sunny. High 62F. Winds WNW at 10 to 15 mph.",
-        "Partly cloudy. Low 38F. Winds light and variable.",
-        "Sunshine. High 67F. Winds SE at 10 to 15 mph.",
-        "Partly cloudy skies in the evening, then becoming cloudy overnight. Low 48F. Winds SSW at 5 to 10 mph."
+        "Generally sunny. High near 45F. Winds WNW at 5 to 10 mph.",
+        "A few clouds. Low 34F. Winds SW at 5 to 10 mph.",
+        "A few passing clouds, otherwise generally sunny. High 62F. Winds WNW at 10 to 15 mph.",
+        "Mainly clear skies. Low 38F. Winds NNE at 5 to 10 mph.",
+        "Sunshine. High 66F. Winds SE at 10 to 15 mph.",
+        "Partly cloudy during the evening followed by cloudy skies overnight. Low 48F. Winds SSW at 5 to 10 mph."
       ],
       "precipChance": [
         null,
@@ -188,7 +188,7 @@
         3,
         3,
         7,
-        6,
+        7,
         4
       ],
       "precipType": [
@@ -243,13 +243,13 @@
       ],
       "relativeHumidity": [
         null,
-        49,
+        50,
         38,
         54,
         49,
         69,
-        53,
-        61
+        52,
+        62
       ],
       "snowRange": [
         null,
@@ -264,17 +264,17 @@
       "temperature": [
         null,
         24,
-        46,
+        45,
         34,
         62,
         38,
-        67,
+        66,
         48
       ],
       "temperatureHeatIndex": [
         null,
-        37,
-        45,
+        34,
+        44,
         40,
         61,
         53,
@@ -283,7 +283,7 @@
       ],
       "temperatureWindChill": [
         null,
-        18,
+        19,
         18,
         30,
         33,
@@ -333,12 +333,12 @@
       ],
       "windDirection": [
         null,
-        344,
+        348,
         302,
         228,
-        282,
-        35,
-        141,
+        285,
+        33,
+        142,
         195
       ],
       "windDirectionCardinal": [
@@ -347,7 +347,7 @@
         "WNW",
         "SW",
         "WNW",
-        "NE",
+        "NNE",
         "SE",
         "SSW"
       ],
@@ -357,13 +357,13 @@
         "Winds WNW at 5 to 10 mph.",
         "Winds SW at 5 to 10 mph.",
         "Winds WNW at 10 to 15 mph.",
-        "Winds light and variable.",
+        "Winds NNE at 5 to 10 mph.",
         "Winds SE at 10 to 15 mph.",
         "Winds SSW at 5 to 10 mph."
       ],
       "windSpeed": [
         null,
-        10,
+        7,
         10,
         8,
         13,
@@ -374,20 +374,20 @@
       "wxPhraseLong": [
         null,
         "Clear",
-        "Sunny",
-        "Partly Cloudy",
         "Mostly Sunny",
         "Partly Cloudy",
+        "Mostly Sunny",
+        "Mostly Clear",
         "Mostly Sunny",
         "Mostly Cloudy"
       ],
       "wxPhraseShort": [
         null,
         "Clear",
-        "Sunny",
-        "P Cloudy",
         "M Sunny",
         "P Cloudy",
+        "M Sunny",
+        "M Clear",
         "M Sunny",
         "M Cloudy"
       ]
