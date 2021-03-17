@@ -6,10 +6,10 @@
     "Saturday"
   ],
   "expirationTimeUtc": [
-    1615971955,
-    1615971955,
-    1615971955,
-    1615971955
+    1615975562,
+    1615975562,
+    1615975562,
+    1615975562
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -55,13 +55,13 @@
   ],
   "narrative": [
     "Cloudy. Highs in the low 50s and lows in the low 40s.",
-    "Mainly cloudy and rainy. Potential for heavy rainfall. Highs in the low 50s and lows in the mid 30s.",
-    "Windy with morning snow showers. Highs in the mid 40s and lows in the upper 20s.",
+    "Cloudy, periods of rain. Potential for heavy rainfall. Highs in the low 50s and lows in the mid 30s.",
+    "Morning snow, windy at times. Highs in the mid 40s and lows in the upper 20s.",
     "Sunshine. Highs in the low 50s and lows in the low 30s."
   ],
   "qpf": [
     0,
-    1.78,
+    1.87,
     0.07,
     0
   ],
@@ -99,12 +99,12 @@
     54,
     51,
     45,
-    51
+    52
   ],
   "temperatureMin": [
     43,
     35,
-    27,
+    28,
     31
   ],
   "validTimeLocal": [
@@ -123,12 +123,12 @@
     {
       "cloudCover": [
         88,
-        87,
+        86,
         100,
         100,
-        70,
+        73,
         9,
-        7,
+        8,
         9
       ],
       "dayOrNight": [
@@ -155,8 +155,8 @@
         26,
         26,
         12,
-        12,
-        14,
+        5,
+        16,
         31,
         32,
         31
@@ -165,27 +165,27 @@
         2600,
         2600,
         1200,
-        1210,
-        6813,
+        510,
+        6913,
         3100,
         3200,
         3100
       ],
       "narrative": [
-        "Cloudy skies. Slight chance of a rain shower. High 53F. Winds NE at 5 to 10 mph.",
-        "Cloudy. Low 43F. Winds ESE at 5 to 10 mph.",
-        "Rain. Potential for heavy rainfall. High 51F. Winds ENE at 10 to 15 mph. Chance of rain 100%. Rainfall near an inch.",
-        "Rain likely. Becoming windy late. Snow may mix in late. Low around 35F. Winds NNE at 20 to 30 mph. Chance of rain 100%. Rainfall near a half an inch.",
-        "Windy with snow showers before noon. Winds diminishing later. High around 45F. Winds NNE at 20 to 30 mph. Chance of snow 60%. Snow accumulations less than one inch.  Winds could occasionally gust over 40 mph.",
-        "A mostly clear sky. Low 27F. Winds N at 10 to 20 mph.",
-        "A mainly sunny sky. High 51F. Winds N at 5 to 10 mph.",
-        "Clear skies. Low 31F. Winds NW at 5 to 10 mph."
+        "Cloudy. High 53F. Winds NNE at 5 to 10 mph.",
+        "Cloudy skies. Low 43F. Winds ESE at 5 to 10 mph.",
+        "Cloudy with periods of rain. Potential for heavy rainfall. High 51F. Winds E at 10 to 15 mph. Chance of rain 100%. Rainfall near an inch.",
+        "Rain...mixing with snow and becoming windy late. Low near 35F. Winds NNE at 20 to 30 mph. Chance of precip 100%.  Higher wind gusts possible.",
+        "Snow along with gusty winds during the morning. Then becoming partly cloudy during the afternoon. High near 45F. Winds NNE at 20 to 30 mph. Chance of snow 60%. Snow accumulations less than one inch.  Winds could occasionally gust over 40 mph.",
+        "A mostly clear sky. Low 28F. Winds NNE at 10 to 20 mph.",
+        "Sunny skies. High 52F. Winds N at 5 to 10 mph.",
+        "A mostly clear sky. Low 31F. Winds NW at 5 to 10 mph."
       ],
       "precipChance": [
-        15,
+        5,
         24,
         100,
-        98,
+        99,
         62,
         8,
         5,
@@ -195,7 +195,7 @@
         "rain",
         "rain",
         "rain",
-        "rain",
+        "precip",
         "snow",
         "precip",
         "rain",
@@ -204,8 +204,8 @@
       "qpf": [
         0,
         0,
-        1.06,
-        0.72,
+        1.09,
+        0.78,
         0.07,
         0,
         0,
@@ -222,20 +222,20 @@
         0
       ],
       "qualifierCode": [
-        "Q5015",
+        null,
         null,
         "Q9405",
-        "Q7857",
+        "Q1016",
         "Q1021",
         null,
         null,
         null
       ],
       "qualifierPhrase": [
-        "Slight chance of a rain shower.",
+        null,
         null,
         "Potential for heavy rainfall.",
-        "Snow may mix in late.",
+        "Higher wind gusts possible.",
         "Winds could occasionally gust over 40 mph.",
         null,
         null,
@@ -246,9 +246,9 @@
         78,
         84,
         78,
-        44,
-        44,
-        36,
+        45,
+        43,
+        35,
         56
       ],
       "snowRange": [
@@ -267,28 +267,28 @@
         51,
         35,
         45,
-        27,
-        51,
+        28,
+        52,
         31
       ],
       "temperatureHeatIndex": [
         52,
-        51,
+        50,
         51,
         50,
         44,
-        40,
+        41,
         50,
         46
       ],
       "temperatureWindChill": [
         33,
         42,
-        42,
+        41,
         27,
         23,
-        20,
-        20,
+        21,
+        21,
         27
       ],
       "thunderCategory": [
@@ -332,32 +332,32 @@
         0
       ],
       "windDirection": [
-        34,
-        107,
-        78,
-        30,
-        13,
-        9,
-        11,
-        321
+        32,
+        113,
+        80,
+        32,
+        15,
+        14,
+        10,
+        316
       ],
       "windDirectionCardinal": [
-        "NE",
+        "NNE",
         "ESE",
-        "ENE",
+        "E",
         "NNE",
         "NNE",
-        "N",
+        "NNE",
         "N",
         "NW"
       ],
       "windPhrase": [
-        "Winds NE at 5 to 10 mph.",
+        "Winds NNE at 5 to 10 mph.",
         "Winds ESE at 5 to 10 mph.",
-        "Winds ENE at 10 to 15 mph.",
+        "Winds E at 10 to 15 mph.",
         "Winds NNE at 20 to 30 mph.",
         "Winds NNE at 20 to 30 mph.",
-        "Winds N at 10 to 20 mph.",
+        "Winds NNE at 10 to 20 mph.",
         "Winds N at 5 to 10 mph.",
         "Winds NW at 5 to 10 mph."
       ],
@@ -375,8 +375,8 @@
         "Cloudy",
         "Cloudy",
         "Rain",
-        "Rain/Wind",
-        "AM Snow Showers/Wind",
+        "Rain/Snow/Wind",
+        "AM Snow/Wind",
         "Clear",
         "Sunny",
         "Clear"
@@ -385,8 +385,8 @@
         "Cloudy",
         "Cloudy",
         "Rain",
-        "Rain/Wind",
-        "AM Snw Shwrs",
+        "Rn/Snw/Wind",
+        "AM Snow/Wind",
         "Clear",
         "Sunny",
         "Clear"
