@@ -2,14 +2,14 @@
   "calendarDayTemperatureMax": [
     71,
     72,
-    69,
-    69
+    68,
+    71
   ],
   "calendarDayTemperatureMin": [
     45,
     49,
-    46,
-    48
+    47,
+    46
   ],
   "dayOfWeek": [
     "Monday",
@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1617656710,
-    1617656710,
-    1617656710,
-    1617656710
+    1617660459,
+    1617660459,
+    1617660459,
+    1617660459
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -66,10 +66,10 @@
     1617912874
   ],
   "narrative": [
-    "Mostly cloudy. Lows overnight in the upper 40s.",
-    "More sun than clouds. Highs in the low 70s and lows in the mid 40s.",
-    "Mix of sun and clouds. Highs in the upper 60s and lows in the upper 40s.",
-    "Mix of sun and clouds. Highs in the upper 60s and lows in the upper 40s."
+    "Considerable cloudiness. Lows overnight in the upper 40s.",
+    "Partly cloudy. Highs in the low 70s and lows in the upper 40s.",
+    "Clouds giving way to sun . Highs in the upper 60s and lows in the mid 40s.",
+    "Mix of sun and clouds. Highs in the low 70s and lows in the upper 40s."
   ],
   "qpf": [
     0,
@@ -110,13 +110,13 @@
   "temperatureMax": [
     null,
     72,
-    69,
-    69
+    68,
+    71
   ],
   "temperatureMin": [
     49,
+    47,
     46,
-    48,
     49
   ],
   "validTimeLocal": [
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        76,
+        74,
         23,
         60,
-        62,
-        37,
-        44,
-        68
+        68,
+        36,
+        42,
+        64
       ],
       "dayOrNight": [
         null,
@@ -165,8 +165,8 @@
       ],
       "iconCode": [
         null,
-        26,
-        34,
+        27,
+        30,
         29,
         30,
         29,
@@ -175,32 +175,32 @@
       ],
       "iconCodeExtend": [
         null,
-        2600,
-        3400,
-        2900,
+        2700,
         3000,
+        2900,
+        9003,
         2900,
         3000,
         2700
       ],
       "narrative": [
         null,
-        "Cloudy. Slight chance of a rain shower. Low 48F. NNW winds at 15 to 25 mph, decreasing to 5 to 10 mph.",
-        "Mostly sunny skies. High 72F. Winds NW at 10 to 15 mph.",
-        "Partly to mostly cloudy. Slight chance of a rain shower. Low 46F. Winds N at 5 to 10 mph.",
-        "Mostly cloudy skies early will become partly cloudy later in the day. Slight chance of a rain shower. High 69F. Winds NNW at 5 to 10 mph.",
-        "Partly cloudy. Low 48F. Winds SE at 5 to 10 mph.",
-        "Partly cloudy skies. High 69F. Winds SE at 10 to 15 mph.",
+        "Considerable cloudiness. Low 49F. Winds NNW at 10 to 20 mph.",
+        "Sunshine and clouds mixed. High 72F. Winds NW at 10 to 15 mph.",
+        "Partly to mostly cloudy. Slight chance of a rain shower. Low 47F. Winds N at 5 to 10 mph.",
+        "Cloudy skies early, then partly cloudy in the afternoon. Slight chance of a rain shower. High 68F. Winds light and variable.",
+        "A few clouds. Low 46F. Winds ESE at 5 to 10 mph.",
+        "Partly cloudy skies. High 71F. Winds SE at 10 to 15 mph.",
         "Partly cloudy during the evening followed by cloudy skies overnight. Low 48F. Winds ESE at 10 to 15 mph."
       ],
       "precipChance": [
         null,
-        16,
+        17,
         2,
         22,
-        21,
-        21,
-        10,
+        20,
+        14,
+        11,
         24
       ],
       "precipType": [
@@ -235,7 +235,7 @@
       ],
       "qualifierCode": [
         null,
-        "Q5015",
+        null,
         null,
         "Q5015",
         "Q5015",
@@ -245,7 +245,7 @@
       ],
       "qualifierPhrase": [
         null,
-        "Slight chance of a rain shower.",
+        null,
         null,
         "Slight chance of a rain shower.",
         "Slight chance of a rain shower.",
@@ -255,12 +255,12 @@
       ],
       "relativeHumidity": [
         null,
-        33,
+        34,
         32,
         42,
-        47,
-        61,
-        53,
+        46,
+        62,
+        52,
         67
       ],
       "snowRange": [
@@ -277,30 +277,30 @@
         null,
         49,
         72,
+        47,
+        68,
         46,
-        69,
-        48,
-        69,
+        71,
         49
       ],
       "temperatureHeatIndex": [
         null,
-        69,
+        68,
         70,
         68,
-        67,
-        65,
-        68,
-        61
+        66,
+        64,
+        69,
+        62
       ],
       "temperatureWindChill": [
         null,
         49,
         48,
-        45,
         46,
-        47,
-        48,
+        46,
+        46,
+        46,
         47
       ],
       "thunderCategory": [
@@ -345,37 +345,37 @@
       ],
       "windDirection": [
         null,
-        330,
-        317,
-        358,
-        339,
-        145,
-        131,
-        120
+        337,
+        314,
+        357,
+        353,
+        107,
+        125,
+        119
       ],
       "windDirectionCardinal": [
         null,
         "NNW",
         "NW",
         "N",
-        "NNW",
-        "SE",
+        "N",
+        "ESE",
         "SE",
         "ESE"
       ],
       "windPhrase": [
         null,
-        "NNW winds at 15 to 25 mph, decreasing to 5 to 10 mph.",
+        "Winds NNW at 10 to 20 mph.",
         "Winds NW at 10 to 15 mph.",
         "Winds N at 5 to 10 mph.",
-        "Winds NNW at 5 to 10 mph.",
-        "Winds SE at 5 to 10 mph.",
+        "Winds light and variable.",
+        "Winds ESE at 5 to 10 mph.",
         "Winds SE at 10 to 15 mph.",
         "Winds ESE at 10 to 15 mph."
       ],
       "windSpeed": [
         null,
-        19,
+        16,
         13,
         10,
         6,
@@ -385,20 +385,20 @@
       ],
       "wxPhraseLong": [
         null,
-        "Cloudy",
-        "Mostly Sunny",
+        "Mostly Cloudy",
         "Partly Cloudy",
         "Partly Cloudy",
+        "AM Clouds/PM Sun",
         "Partly Cloudy",
         "Partly Cloudy",
         "Mostly Cloudy"
       ],
       "wxPhraseShort": [
         null,
-        "Cloudy",
-        "M Sunny",
+        "M Cloudy",
         "P Cloudy",
         "P Cloudy",
+        "AM Clouds",
         "P Cloudy",
         "P Cloudy",
         "M Cloudy"
