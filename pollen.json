@@ -1,6 +1,6 @@
 {
   "Type": "pollen",
-  "ForecastDate": "2021-04-17T00:00:00-04:00",
+  "ForecastDate": "2021-04-18T00:00:00-04:00",
   "Location": {
     "ZIP": "19406",
     "City": "KING OF PRUSSIA",
@@ -29,31 +29,6 @@
         ],
         "Period": "0001-01-01T00:00:00",
         "Type": "Yesterday",
-        "Index": 10.9
-      },
-      {
-        "Triggers": [
-          {
-            "LGID": 4,
-            "Name": "Maple",
-            "Genus": "Acer",
-            "PlantType": "Tree"
-          },
-          {
-            "LGID": 272,
-            "Name": "Juniper",
-            "Genus": "Juniperus",
-            "PlantType": "Tree"
-          },
-          {
-            "LGID": 184,
-            "Name": "Poplar",
-            "Genus": "Populus",
-            "PlantType": "Tree"
-          }
-        ],
-        "Period": "0001-01-01T00:00:00",
-        "Type": "Today",
         "Index": 8.6
       },
       {
@@ -78,8 +53,33 @@
           }
         ],
         "Period": "0001-01-01T00:00:00",
-        "Type": "Tomorrow",
+        "Type": "Today",
         "Index": 11.5
+      },
+      {
+        "Triggers": [
+          {
+            "LGID": 4,
+            "Name": "Maple",
+            "Genus": "Acer",
+            "PlantType": "Tree"
+          },
+          {
+            "LGID": 272,
+            "Name": "Juniper",
+            "Genus": "Juniperus",
+            "PlantType": "Tree"
+          },
+          {
+            "LGID": 184,
+            "Name": "Poplar",
+            "Genus": "Populus",
+            "PlantType": "Tree"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Tomorrow",
+        "Index": 11.6
       }
     ],
     "DisplayLocation": "King Of Prussia, PA"
