@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    86,
+    58,
+    85,
     75,
-    86,
-    76
+    86
   ],
   "calendarDayTemperatureMin": [
+    53,
     54,
     63,
-    65,
-    58
+    65
   ],
   "dayOfWeek": [
     "Sunday",
@@ -18,10 +18,10 @@
     "Wednesday"
   ],
   "expirationTimeUtc": [
-    1620015134,
-    1620015134,
-    1620015134,
-    1620015134
+    1620018740,
+    1620018740,
+    1620018740,
+    1620018740
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -42,40 +42,40 @@
     24
   ],
   "moonriseTimeLocal": [
-    "2021-05-02T01:29:46-0400",
-    "2021-05-03T02:17:04-0400",
+    "2021-05-02T01:29:47-0400",
+    "2021-05-03T02:17:06-0400",
     "2021-05-04T02:55:52-0400",
     "2021-05-05T03:27:57-0400"
   ],
   "moonriseTimeUtc": [
-    1619933386,
-    1620022624,
+    1619933387,
+    1620022626,
     1620111352,
     1620199677
   ],
   "moonsetTimeLocal": [
-    "2021-05-02T10:48:48-0400",
-    "2021-05-03T11:56:26-0400",
-    "2021-05-04T13:03:14-0400",
-    "2021-05-05T14:07:47-0400"
+    "2021-05-02T10:48:42-0400",
+    "2021-05-03T11:56:20-0400",
+    "2021-05-04T13:03:09-0400",
+    "2021-05-05T14:07:42-0400"
   ],
   "moonsetTimeUtc": [
-    1619966928,
-    1620057386,
-    1620147794,
-    1620238067
+    1619966922,
+    1620057380,
+    1620147789,
+    1620238062
   ],
   "narrative": [
-    "Considerable cloudiness. Lows overnight in the low 60s.",
-    "Afternoon showers. Highs in the mid 70s and lows in the mid 60s.",
+    "Mostly cloudy. Lows overnight in the low 60s.",
+    "Showers possible in the afternoon. Highs in the mid 70s and lows in the mid 60s.",
     "Mix of sun and clouds. Highs in the mid 80s and lows in the low 60s.",
-    "Thundershowers. Highs in the mid 70s and lows in the upper 40s."
+    "Scattered thunderstorms. Highs in the upper 70s and lows in the upper 40s."
   ],
   "qpf": [
     0,
-    0.46,
+    0.41,
     0.12,
-    0.37
+    0.29
   ],
   "qpfSnow": [
     0,
@@ -84,16 +84,16 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2021-05-02T05:59:45-0400",
-    "2021-05-03T05:58:34-0400",
-    "2021-05-04T05:57:25-0400",
-    "2021-05-05T05:56:16-0400"
+    "2021-05-02T05:59:40-0400",
+    "2021-05-03T05:58:29-0400",
+    "2021-05-04T05:57:20-0400",
+    "2021-05-05T05:56:11-0400"
   ],
   "sunriseTimeUtc": [
-    1619949585,
-    1620035914,
-    1620122245,
-    1620208576
+    1619949580,
+    1620035909,
+    1620122240,
+    1620208571
   ],
   "sunsetTimeLocal": [
     "2021-05-02T19:56:49-0400",
@@ -111,7 +111,7 @@
     null,
     75,
     86,
-    76
+    78
   ],
   "temperatureMin": [
     63,
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        79,
-        95,
-        84,
-        52,
-        66,
-        78,
-        28
+        86,
+        94,
+        85,
+        53,
+        64,
+        75,
+        29
       ],
       "dayOrNight": [
         null,
@@ -165,42 +165,42 @@
       ],
       "iconCode": [
         null,
-        27,
+        26,
         39,
         47,
         30,
         4,
-        11,
+        38,
         29
       ],
       "iconCodeExtend": [
         null,
-        2700,
+        2600,
         7103,
         6200,
         3000,
         400,
-        1140,
+        3800,
         2900
       ],
       "narrative": [
         null,
-        "Partly cloudy skies this evening will become overcast overnight. Low 63F. Winds SW at 5 to 10 mph.",
-        "Considerable cloudiness. Occasional rain showers in the afternoon. Thunder possible. High near 75F. Winds SW at 10 to 15 mph. Chance of rain 60%.",
-        "Thunderstorms during the evening, then cloudy skies overnight. Low near 65F. Winds SSW at 5 to 10 mph. Chance of rain 80%.",
-        "Partly cloudy skies. A stray shower or thunderstorm is possible. High 86F. Winds W at 10 to 20 mph.",
+        "Cloudy. Low 63F. Winds SW at 5 to 10 mph.",
+        "Cloudy in the morning, then off and on rain showers during the afternoon hours. Thunder possible. High around 75F. Winds SW at 10 to 15 mph. Chance of rain 50%.",
+        "Thunderstorms during the evening, then cloudy skies overnight. Low around 65F. Winds SSW at 5 to 10 mph. Chance of rain 80%.",
+        "Intervals of clouds and sunshine. A stray shower or thunderstorm is possible. High 86F. Winds W at 10 to 15 mph.",
         "Scattered thunderstorms during the evening becoming more widespread overnight. Low 63F. Winds SSE at 5 to 10 mph. Chance of rain 60%.",
-        "Showers and a few thunderstorms likely. High 76F. Winds WSW at 10 to 20 mph. Chance of rain 60%.",
-        "Clear to partly cloudy. Low 49F. Winds NW at 10 to 20 mph."
+        "Variable clouds with scattered thunderstorms. High 78F. Winds WSW at 10 to 20 mph. Chance of rain 50%.",
+        "A few clouds. Low 49F. Winds NW at 10 to 20 mph."
       ],
       "precipChance": [
         null,
         2,
-        61,
+        53,
         81,
         21,
         63,
-        61,
+        54,
         24
       ],
       "precipType": [
@@ -216,11 +216,11 @@
       "qpf": [
         null,
         0,
-        0.16,
+        0.12,
         0.3,
         0,
         0.12,
-        0.37,
+        0.29,
         0
       ],
       "qpfSnow": [
@@ -255,12 +255,12 @@
       ],
       "relativeHumidity": [
         null,
-        56,
-        61,
+        58,
+        59,
         84,
         57,
-        69,
-        70,
+        71,
+        66,
         61
       ],
       "snowRange": [
@@ -280,22 +280,22 @@
         65,
         86,
         63,
-        76,
+        78,
         49
       ],
       "temperatureHeatIndex": [
         null,
         68,
-        75,
-        71,
+        74,
+        72,
         85,
         83,
-        75,
-        71
+        80,
+        70
       ],
       "temperatureWindChill": [
         null,
-        65,
+        64,
         64,
         66,
         67,
@@ -345,12 +345,12 @@
       ],
       "windDirection": [
         null,
-        230,
-        227,
+        232,
+        235,
         206,
-        268,
-        162,
-        239,
+        269,
+        157,
+        242,
         307
       ],
       "windDirectionCardinal": [
@@ -368,39 +368,39 @@
         "Winds SW at 5 to 10 mph.",
         "Winds SW at 10 to 15 mph.",
         "Winds SSW at 5 to 10 mph.",
-        "Winds W at 10 to 20 mph.",
+        "Winds W at 10 to 15 mph.",
         "Winds SSE at 5 to 10 mph.",
         "Winds WSW at 10 to 20 mph.",
         "Winds NW at 10 to 20 mph."
       ],
       "windSpeed": [
         null,
-        8,
+        7,
         10,
         10,
         13,
-        10,
-        15,
-        14
+        9,
+        16,
+        15
       ],
       "wxPhraseLong": [
         null,
-        "Mostly Cloudy",
+        "Cloudy",
         "PM Showers",
         "Thunderstorms Early",
         "Partly Cloudy",
         "Thunderstorms",
-        "Thundershowers",
+        "Scattered Thunderstorms",
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
         null,
-        "M Cloudy",
+        "Cloudy",
         "PM Showers",
         "T-Storms",
         "P Cloudy",
         "T-Storms",
-        "T-Showers",
+        "Sct T-Storms",
         "P Cloudy"
       ]
     }
