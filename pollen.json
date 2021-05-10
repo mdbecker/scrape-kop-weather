@@ -1,6 +1,6 @@
 {
   "Type": "pollen",
-  "ForecastDate": "2021-05-09T00:00:00-04:00",
+  "ForecastDate": "2021-05-10T00:00:00-04:00",
   "Location": {
     "ZIP": "19406",
     "City": "KING OF PRUSSIA",
@@ -29,31 +29,6 @@
         ],
         "Period": "0001-01-01T00:00:00",
         "Type": "Yesterday",
-        "Index": 9.9
-      },
-      {
-        "Triggers": [
-          {
-            "LGID": 186,
-            "Name": "Oak",
-            "Genus": "Quercus",
-            "PlantType": "Tree"
-          },
-          {
-            "LGID": 33,
-            "Name": "Birch",
-            "Genus": "Betula",
-            "PlantType": "Tree"
-          },
-          {
-            "LGID": 4,
-            "Name": "Maple",
-            "Genus": "Acer",
-            "PlantType": "Tree"
-          }
-        ],
-        "Period": "0001-01-01T00:00:00",
-        "Type": "Today",
         "Index": 10.5
       },
       {
@@ -78,8 +53,33 @@
           }
         ],
         "Period": "0001-01-01T00:00:00",
-        "Type": "Tomorrow",
+        "Type": "Today",
         "Index": 10.7
+      },
+      {
+        "Triggers": [
+          {
+            "LGID": 186,
+            "Name": "Oak",
+            "Genus": "Quercus",
+            "PlantType": "Tree"
+          },
+          {
+            "LGID": 33,
+            "Name": "Birch",
+            "Genus": "Betula",
+            "PlantType": "Tree"
+          },
+          {
+            "LGID": 4,
+            "Name": "Maple",
+            "Genus": "Acer",
+            "PlantType": "Tree"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Tomorrow",
+        "Index": 9.5
       }
     ],
     "DisplayLocation": "King Of Prussia, PA"
