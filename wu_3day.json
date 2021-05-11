@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    55,
-    63,
-    67,
-    68
+    65,
+    65,
+    68,
+    71
   ],
   "calendarDayTemperatureMin": [
-    52,
     49,
     47,
-    44
+    44,
+    47
   ],
   "dayOfWeek": [
     "Monday",
@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1620707483,
-    1620707483,
-    1620707483,
-    1620707483
+    1620711090,
+    1620711090,
+    1620711090,
+    1620711090
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -66,8 +66,8 @@
     1620958007
   ],
   "narrative": [
-    "Partly cloudy. Lows overnight in the upper 40s.",
-    "Mostly cloudy. Highs in the upper 60s and lows in the mid 40s.",
+    "Cloudy. Lows overnight in the upper 40s.",
+    "Mix of sun and clouds. Highs in the upper 60s and lows in the mid 40s.",
     "Mostly sunny. Highs in the upper 60s and lows in the upper 40s.",
     "More sun than clouds. Highs in the low 70s and lows in the low 50s."
   ],
@@ -135,12 +135,12 @@
     {
       "cloudCover": [
         null,
-        72,
-        46,
-        44,
+        74,
+        43,
+        45,
         23,
         7,
-        22,
+        23,
         44
       ],
       "dayOrNight": [
@@ -165,38 +165,38 @@
       ],
       "iconCode": [
         null,
-        29,
-        28,
+        26,
+        30,
         29,
         34,
-        31,
+        33,
         34,
         29
       ],
       "iconCodeExtend": [
         null,
+        2600,
+        3000,
         2900,
-        2800,
-        9000,
         3400,
-        3100,
+        3300,
         3400,
         2900
       ],
       "narrative": [
         null,
-        "A few clouds. Low 47F. Winds NW at 5 to 10 mph.",
-        "Partly cloudy skies in the morning will give way to cloudy skies during the afternoon. High 67F. Winds WNW at 10 to 20 mph.",
-        "Evening clouds will give way to clearing. Low 44F. Winds WNW at 10 to 15 mph.",
-        "Sunny, along with a few afternoon clouds. High 68F. Winds NW at 10 to 20 mph.",
+        "Cloudy. Low 47F. Winds NW at 5 to 10 mph.",
+        "Sunshine in the morning followed by cloudy skies during the afternoon. High 67F. Winds WNW at 10 to 20 mph.",
+        "Partly cloudy skies. Low 44F. Winds WNW at 10 to 20 mph.",
+        "Generally sunny despite a few afternoon clouds. High 68F. Winds NW at 10 to 20 mph.",
         "A mostly clear sky. Low 47F. Winds NNW at 10 to 15 mph.",
         "Except for a few afternoon clouds, mainly sunny. High 71F. Winds NNW at 5 to 10 mph.",
-        "A few clouds from time to time. Low around 50F. Winds NW at 5 to 10 mph."
+        "A few clouds from time to time. Low near 50F. Winds NW at 5 to 10 mph."
       ],
       "precipChance": [
         null,
-        1,
-        24,
+        2,
+        15,
         14,
         0,
         1,
@@ -255,9 +255,9 @@
       ],
       "relativeHumidity": [
         null,
-        58,
+        59,
         40,
-        46,
+        45,
         39,
         45,
         34,
@@ -285,9 +285,9 @@
       ],
       "temperatureHeatIndex": [
         null,
-        50,
+        51,
         65,
-        60,
+        61,
         66,
         64,
         69,
@@ -345,13 +345,13 @@
       ],
       "windDirection": [
         null,
-        324,
-        288,
-        297,
         323,
-        335,
+        288,
+        300,
+        323,
         336,
-        307
+        337,
+        308
       ],
       "windDirectionCardinal": [
         null,
@@ -367,7 +367,7 @@
         null,
         "Winds NW at 5 to 10 mph.",
         "Winds WNW at 10 to 20 mph.",
-        "Winds WNW at 10 to 15 mph.",
+        "Winds WNW at 10 to 20 mph.",
         "Winds NW at 10 to 20 mph.",
         "Winds NNW at 10 to 15 mph.",
         "Winds NNW at 5 to 10 mph.",
@@ -378,28 +378,28 @@
         8,
         15,
         13,
-        14,
         13,
-        9,
-        8
+        13,
+        10,
+        9
       ],
       "wxPhraseLong": [
         null,
+        "Cloudy",
         "Partly Cloudy",
-        "Mostly Cloudy",
-        "Clouds Early/Clearing Late",
+        "Partly Cloudy",
         "Mostly Sunny",
-        "Clear",
+        "Mostly Clear",
         "Mostly Sunny",
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
         null,
+        "Cloudy",
         "P Cloudy",
-        "M Cloudy",
-        "Clear Late",
+        "P Cloudy",
         "M Sunny",
-        "Clear",
+        "M Clear",
         "M Sunny",
         "P Cloudy"
       ]
