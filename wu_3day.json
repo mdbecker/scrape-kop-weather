@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    69,
+    60,
+    68,
     71,
-    75,
     75
   ],
   "calendarDayTemperatureMin": [
+    50,
     45,
     47,
-    49,
-    52
+    49
   ],
   "dayOfWeek": [
     "Wednesday",
@@ -18,10 +18,10 @@
     "Saturday"
   ],
   "expirationTimeUtc": [
-    1620876987,
-    1620876987,
-    1620876987,
-    1620876987
+    1620880601,
+    1620880601,
+    1620880601,
+    1620880601
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -42,34 +42,34 @@
     3
   ],
   "moonriseTimeLocal": [
-    "2021-05-12T06:21:08-0400",
-    "2021-05-13T06:54:05-0400",
-    "2021-05-14T07:32:51-0400",
-    "2021-05-15T08:17:33-0400"
+    "2021-05-12T06:21:02-0400",
+    "2021-05-13T06:53:57-0400",
+    "2021-05-14T07:32:43-0400",
+    "2021-05-15T08:17:24-0400"
   ],
   "moonriseTimeUtc": [
-    1620814868,
-    1620903245,
-    1620991971,
-    1621081053
+    1620814862,
+    1620903237,
+    1620991963,
+    1621081044
   ],
   "moonsetTimeLocal": [
-    "2021-05-12T21:07:42-0400",
-    "2021-05-13T22:06:47-0400",
-    "2021-05-14T23:03:56-0400",
-    "2021-05-15T23:56:51-0400"
+    "2021-05-12T21:07:45-0400",
+    "2021-05-13T22:06:51-0400",
+    "2021-05-14T23:04:00-0400",
+    "2021-05-15T23:56:55-0400"
   ],
   "moonsetTimeUtc": [
-    1620868062,
-    1620958007,
-    1621047836,
-    1621137411
+    1620868065,
+    1620958011,
+    1621047840,
+    1621137415
   ],
   "narrative": [
-    "Partly cloudy. Lows overnight in the upper 40s.",
-    "A few clouds. Highs in the low 70s and lows in the upper 40s.",
-    "Plenty of sun. Highs in the mid 70s and lows in the low 50s.",
-    "Plenty of sun. Highs in the mid 70s and lows in the mid 50s."
+    "A few clouds. Lows overnight in the upper 40s.",
+    "More sun than clouds. Highs in the low 70s and lows in the upper 40s.",
+    "More sun than clouds. Highs in the mid 70s and lows in the low 50s.",
+    "More sun than clouds. Highs in the mid 70s and lows in the mid 50s."
   ],
   "qpf": [
     0,
@@ -84,28 +84,28 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2021-05-12T05:48:56-0400",
-    "2021-05-13T05:47:58-0400",
-    "2021-05-14T05:47:02-0400",
-    "2021-05-15T05:46:07-0400"
+    "2021-05-12T05:48:49-0400",
+    "2021-05-13T05:47:52-0400",
+    "2021-05-14T05:46:55-0400",
+    "2021-05-15T05:46:00-0400"
   ],
   "sunriseTimeUtc": [
-    1620812936,
-    1620899278,
-    1620985622,
-    1621071967
+    1620812929,
+    1620899272,
+    1620985615,
+    1621071960
   ],
   "sunsetTimeLocal": [
-    "2021-05-12T20:06:28-0400",
-    "2021-05-13T20:07:24-0400",
-    "2021-05-14T20:08:20-0400",
-    "2021-05-15T20:09:15-0400"
+    "2021-05-12T20:06:30-0400",
+    "2021-05-13T20:07:26-0400",
+    "2021-05-14T20:08:22-0400",
+    "2021-05-15T20:09:18-0400"
   ],
   "sunsetTimeUtc": [
-    1620864388,
-    1620950844,
-    1621037300,
-    1621123755
+    1620864390,
+    1620950846,
+    1621037302,
+    1621123758
   ],
   "temperatureMax": [
     null,
@@ -135,7 +135,7 @@
     {
       "cloudCover": [
         null,
-        12,
+        11,
         24,
         22,
         28,
@@ -165,7 +165,7 @@
       ],
       "iconCode": [
         null,
-        29,
+        33,
         34,
         29,
         34,
@@ -175,7 +175,7 @@
       ],
       "iconCodeExtend": [
         null,
-        2900,
+        3300,
         3400,
         2900,
         3400,
@@ -185,13 +185,13 @@
       ],
       "narrative": [
         null,
-        "Partly cloudy skies. Low 47F. Winds NNW at 5 to 10 mph.",
-        "Except for a few afternoon clouds, mainly sunny. High 71F. Winds NNW at 10 to 15 mph.",
-        "Partly cloudy skies. Low 49F. Winds NNW at 5 to 10 mph.",
+        "Generally clear skies. Low 47F. Winds NNW at 5 to 10 mph.",
+        "Sunny, along with a few afternoon clouds. High 71F. Winds NNW at 10 to 15 mph.",
+        "Some clouds early will give way to generally clear conditions overnight. Low 49F. Winds NNW at 5 to 10 mph.",
         "Except for a few afternoon clouds, mainly sunny. High near 75F. Winds N at 5 to 10 mph.",
         "Partly cloudy. Low 52F. Winds W at 5 to 10 mph.",
-        "Sunny along with a few clouds. High around 75F. Winds NW at 5 to 10 mph.",
-        "A few clouds. Low 54F. Winds WSW at 5 to 10 mph."
+        "Sunny along with a few clouds. High near 75F. Winds NW at 5 to 10 mph.",
+        "Partly cloudy. Low 54F. Winds WSW at 5 to 10 mph."
       ],
       "precipChance": [
         null,
@@ -255,13 +255,13 @@
       ],
       "relativeHumidity": [
         null,
-        49,
+        47,
         31,
-        53,
+        52,
         35,
         55,
-        40,
-        61
+        39,
+        60
       ],
       "snowRange": [
         null,
@@ -285,21 +285,21 @@
       ],
       "temperatureHeatIndex": [
         null,
-        52,
-        69,
+        53,
+        70,
         67,
         73,
         71,
-        73,
-        69
+        74,
+        70
       ],
       "temperatureWindChill": [
         null,
         46,
         47,
-        48,
+        49,
         51,
-        52,
+        53,
         55,
         55
       ],
@@ -345,7 +345,7 @@
       ],
       "windDirection": [
         null,
-        343,
+        341,
         342,
         331,
         351,
@@ -375,9 +375,9 @@
       ],
       "windSpeed": [
         null,
-        8,
+        6,
         10,
-        9,
+        8,
         7,
         7,
         8,
@@ -385,7 +385,7 @@
       ],
       "wxPhraseLong": [
         null,
-        "Partly Cloudy",
+        "Mostly Clear",
         "Mostly Sunny",
         "Partly Cloudy",
         "Mostly Sunny",
@@ -395,7 +395,7 @@
       ],
       "wxPhraseShort": [
         null,
-        "P Cloudy",
+        "M Clear",
         "M Sunny",
         "P Cloudy",
         "M Sunny",
