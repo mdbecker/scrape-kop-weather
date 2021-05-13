@@ -8,6 +8,9 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
+      1620817200,
+      1620860400,
+      1620903600,
       1620946800,
       1620990000,
       1621033200,
@@ -20,11 +23,12 @@
       1621335600,
       1621378800,
       1621422000,
-      1621465200,
-      1621508400,
-      1621551600
+      1621465200
     ],
     "fcstValidLocal": [
+      "2021-05-12T07:00:00-0400",
+      "2021-05-12T19:00:00-0400",
+      "2021-05-13T07:00:00-0400",
       "2021-05-13T19:00:00-0400",
       "2021-05-14T07:00:00-0400",
       "2021-05-14T19:00:00-0400",
@@ -37,11 +41,10 @@
       "2021-05-18T07:00:00-0400",
       "2021-05-18T19:00:00-0400",
       "2021-05-19T07:00:00-0400",
-      "2021-05-19T19:00:00-0400",
-      "2021-05-20T07:00:00-0400",
-      "2021-05-20T19:00:00-0400"
+      "2021-05-19T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,12 +76,16 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
+      "Friday",
+      "Friday night",
       "Saturday",
       "Saturday night",
       "Sunday",
@@ -88,42 +95,42 @@
       "Tuesday",
       "Tuesday night",
       "Wednesday",
-      "Wednesday night",
-      "Thursday",
-      "Thursday night"
+      "Wednesday night"
     ],
     "grassPollenIndex": [
+      2,
+      2,
+      2,
+      2,
       3,
       3,
       3,
       3,
       3,
+      3,
+      2,
       2,
       2,
       1,
       2,
-      3,
-      3,
-      3,
-      3,
-      3,
       3
     ],
     "grassPollenCategory": [
+      "Moderate",
+      "Moderate",
+      "Moderate",
+      "Moderate",
       "High",
       "High",
       "High",
       "High",
       "High",
+      "High",
+      "Moderate",
       "Moderate",
       "Moderate",
       "Low",
       "Moderate",
-      "High",
-      "High",
-      "High",
-      "High",
-      "High",
       "High"
     ],
     "treePollenIndex": [
@@ -132,16 +139,17 @@
       4,
       4,
       4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      3,
       3,
       3,
       2,
       3,
-      3,
-      3,
-      4,
-      4,
-      4,
-      4
+      3
     ],
     "treePollenCategory": [
       "Very High",
@@ -149,18 +157,20 @@
       "Very High",
       "Very High",
       "Very High",
+      "Very High",
+      "Very High",
+      "Very High",
+      "Very High",
+      "Very High",
+      "High",
       "High",
       "High",
       "Moderate",
       "High",
-      "High",
-      "High",
-      "Very High",
-      "Very High",
-      "Very High",
-      "Very High"
+      "High"
     ],
     "ragweedPollenIndex": [
+      0,
       0,
       0,
       0,
@@ -178,6 +188,7 @@
       0
     ],
     "ragweedPollenCategory": [
+      "None",
       "None",
       "None",
       "None",
