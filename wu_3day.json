@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    63,
     77,
     75,
-    75
+    75,
+    81
   ],
   "calendarDayTemperatureMin": [
-    53,
     46,
     50,
-    52
+    52,
+    54
   ],
   "dayOfWeek": [
     "Saturday",
@@ -18,10 +18,10 @@
     "Tuesday"
   ],
   "expirationTimeUtc": [
-    1621142022,
-    1621142022,
-    1621142022,
-    1621142022
+    1621146284,
+    1621146284,
+    1621146284,
+    1621146284
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -42,34 +42,34 @@
     6
   ],
   "moonriseTimeLocal": [
-    "2021-05-15T08:17:36-0400",
-    "2021-05-16T09:10:03-0400",
-    "2021-05-17T10:08:08-0400",
-    "2021-05-18T11:11:25-0400"
+    "2021-05-15T08:17:26-0400",
+    "2021-05-16T09:09:53-0400",
+    "2021-05-17T10:07:59-0400",
+    "2021-05-18T11:11:17-0400"
   ],
   "moonriseTimeUtc": [
-    1621081056,
-    1621170603,
-    1621260488,
-    1621350685
+    1621081046,
+    1621170593,
+    1621260479,
+    1621350677
   ],
   "moonsetTimeLocal": [
-    "2021-05-15T23:56:49-0400",
+    "2021-05-15T23:56:48-0400",
     "",
-    "2021-05-17T00:44:01-0400",
-    "2021-05-18T01:25:55-0400"
+    "2021-05-17T00:44:00-0400",
+    "2021-05-18T01:25:53-0400"
   ],
   "moonsetTimeUtc": [
-    1621137409,
+    1621137408,
     null,
-    1621226641,
-    1621315555
+    1621226640,
+    1621315553
   ],
   "narrative": [
     "Partly cloudy. Lows overnight in the low 50s.",
-    "Mostly cloudy. Highs in the mid 70s and lows in the low 50s.",
-    "Times of sun and clouds. Highs in the mid 70s and lows in the mid 50s.",
-    "More sun than clouds. Highs in the low 80s and lows in the low 60s."
+    "Cloudy. Highs in the mid 70s and lows in the low 50s.",
+    "Mix of sun and clouds. Highs in the mid 70s and lows in the mid 50s.",
+    "Plenty of sun. Highs in the low 80s and lows in the low 60s."
   ],
   "qpf": [
     0,
@@ -84,34 +84,34 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2021-05-15T05:46:09-0400",
-    "2021-05-16T05:45:15-0400",
-    "2021-05-17T05:44:24-0400",
-    "2021-05-18T05:43:34-0400"
+    "2021-05-15T05:46:01-0400",
+    "2021-05-16T05:45:08-0400",
+    "2021-05-17T05:44:16-0400",
+    "2021-05-18T05:43:26-0400"
   ],
   "sunriseTimeUtc": [
-    1621071969,
-    1621158315,
-    1621244664,
-    1621331014
+    1621071961,
+    1621158308,
+    1621244656,
+    1621331006
   ],
   "sunsetTimeLocal": [
-    "2021-05-15T20:09:14-0400",
-    "2021-05-16T20:10:09-0400",
-    "2021-05-17T20:11:04-0400",
-    "2021-05-18T20:11:58-0400"
+    "2021-05-15T20:09:12-0400",
+    "2021-05-16T20:10:07-0400",
+    "2021-05-17T20:11:02-0400",
+    "2021-05-18T20:11:56-0400"
   ],
   "sunsetTimeUtc": [
-    1621123754,
-    1621210209,
-    1621296664,
-    1621383118
+    1621123752,
+    1621210207,
+    1621296662,
+    1621383116
   ],
   "temperatureMax": [
     null,
     75,
     75,
-    82
+    81
   ],
   "temperatureMin": [
     50,
@@ -135,11 +135,11 @@
     {
       "cloudCover": [
         null,
-        39,
-        84,
-        45,
-        53,
-        23,
+        54,
+        85,
+        47,
+        47,
+        21,
         28,
         10
       ],
@@ -185,17 +185,17 @@
       ],
       "narrative": [
         null,
-        "A few clouds. Low near 50F. Winds light and variable.",
+        "Some clouds. Low near 50F. Winds light and variable.",
         "Cloudy skies. Slight chance of an afternoon shower. High near 75F. Winds SW at 5 to 10 mph.",
-        "Partly cloudy skies. Low 52F. Winds SSW at 5 to 10 mph.",
-        "Intervals of clouds and sunshine in the morning with more clouds for later in the day. High around 75F. Winds SW at 5 to 10 mph.",
+        "A few clouds from time to time. Low 52F. Winds SW at 5 to 10 mph.",
+        "Intervals of clouds and sunshine. High around 75F. Winds SW at 5 to 10 mph.",
         "A few clouds. Low 54F. Winds SW at 5 to 10 mph.",
-        "Except for a few afternoon clouds, mainly sunny. High 82F. Winds W at 10 to 15 mph.",
-        "Clear skies. Low near 60F. Winds WSW at 10 to 15 mph."
+        "Mostly sunny skies. High 81F. Winds W at 10 to 15 mph.",
+        "Clear skies. Low around 60F. Winds WSW at 10 to 15 mph."
       ],
       "precipChance": [
         null,
-        1,
+        10,
         15,
         5,
         8,
@@ -255,13 +255,13 @@
       ],
       "relativeHumidity": [
         null,
-        64,
+        65,
         38,
-        56,
-        43,
-        63,
+        57,
+        42,
+        62,
         45,
-        55
+        54
       ],
       "snowRange": [
         null,
@@ -280,25 +280,25 @@
         52,
         75,
         54,
-        82,
+        81,
         60
       ],
       "temperatureHeatIndex": [
         null,
-        53,
-        74,
+        52,
+        73,
         69,
         74,
-        71,
+        72,
         80,
-        77
+        78
       ],
       "temperatureWindChill": [
         null,
         51,
-        54,
         53,
-        56,
+        53,
+        55,
         55,
         57,
         61
@@ -345,19 +345,19 @@
       ],
       "windDirection": [
         null,
-        228,
-        224,
-        213,
+        229,
+        221,
+        225,
         233,
         225,
         262,
-        250
+        249
       ],
       "windDirectionCardinal": [
         null,
         "SW",
         "SW",
-        "SSW",
+        "SW",
         "SW",
         "SW",
         "W",
@@ -367,7 +367,7 @@
         null,
         "Winds light and variable.",
         "Winds SW at 5 to 10 mph.",
-        "Winds SSW at 5 to 10 mph.",
+        "Winds SW at 5 to 10 mph.",
         "Winds SW at 5 to 10 mph.",
         "Winds SW at 5 to 10 mph.",
         "Winds W at 10 to 15 mph.",
@@ -375,7 +375,7 @@
       ],
       "windSpeed": [
         null,
-        3,
+        4,
         9,
         9,
         9,
