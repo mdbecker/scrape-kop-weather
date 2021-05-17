@@ -2,7 +2,7 @@
   "calendarDayTemperatureMax": [
     77,
     81,
-    88,
+    87,
     89
   ],
   "calendarDayTemperatureMin": [
@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1621252015,
-    1621252015,
-    1621252015,
-    1621252015
+    1621258218,
+    1621258218,
+    1621258218,
+    1621258218
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -66,10 +66,10 @@
     1621492410
   ],
   "narrative": [
-    "Times of sun and clouds. Highs in the upper 70s and lows in the low 50s.",
-    "More sun than clouds. Highs in the low 80s and lows in the upper 50s.",
-    "Sunshine. Highs in the upper 80s and lows in the low 60s.",
-    "More clouds than sun. Highs in the upper 80s and lows in the mid 60s."
+    "Partly cloudy. Highs in the upper 70s and lows in the low 50s.",
+    "A few clouds. Highs in the low 80s and lows in the upper 50s.",
+    "A few clouds. Highs in the upper 80s and lows in the low 60s.",
+    "Partly cloudy. Highs in the upper 80s and lows in the low 60s."
   ],
   "qpf": [
     0,
@@ -110,14 +110,14 @@
   "temperatureMax": [
     77,
     81,
-    88,
+    87,
     89
   ],
   "temperatureMin": [
     53,
     58,
     63,
-    64
+    63
   ],
   "validTimeLocal": [
     "2021-05-17T07:00:00-0400",
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        46,
-        18,
-        13,
-        8,
+        61,
+        16,
+        16,
         7,
-        26,
+        13,
+        30,
         64,
-        47
+        49
       ],
       "dayOrNight": [
         "D",
@@ -168,9 +168,9 @@
         33,
         34,
         31,
-        32,
+        34,
         33,
-        28,
+        30,
         29
       ],
       "iconCodeExtend": [
@@ -178,30 +178,30 @@
         3300,
         3400,
         3100,
-        3200,
+        3400,
         3300,
-        2800,
+        3000,
         2900
       ],
       "narrative": [
-        "Partly cloudy. High 77F. NNE winds shifting to SSW at 10 to 15 mph.",
-        "Mostly clear. Low 53F. Winds SW at 5 to 10 mph.",
-        "Generally sunny. High 81F. Winds WSW at 10 to 15 mph.",
+        "Mostly cloudy skies early, then partly cloudy this afternoon. High 77F. Winds SSW at 10 to 15 mph.",
+        "Mainly clear skies. Low 53F. Winds SW at 5 to 10 mph.",
+        "Sunshine and some clouds. High 81F. Winds WSW at 10 to 15 mph.",
         "Clear skies. Low 58F. Winds WSW at 10 to 15 mph.",
-        "Sunny. High 88F. Winds WNW at 5 to 10 mph.",
-        "Mainly clear early, then a few clouds later on. Low 63F. Winds W at 5 to 10 mph.",
-        "Considerable cloudiness. High 89F. Winds W at 5 to 10 mph.",
-        "Partly cloudy. Low 64F. Winds SW at 5 to 10 mph."
+        "Sunshine. High 87F. Winds WNW at 5 to 10 mph.",
+        "Clear to partly cloudy. Low 63F. Winds W at 5 to 10 mph.",
+        "Mostly cloudy skies early will become partly cloudy later in the day. High 89F. Winds W at 5 to 10 mph.",
+        "Partly cloudy. Low 63F. Winds SSW at 5 to 10 mph."
       ],
       "precipChance": [
         2,
         6,
         4,
         4,
-        2,
         3,
         3,
-        11
+        3,
+        8
       ],
       "precipType": [
         "rain",
@@ -254,14 +254,14 @@
         null
       ],
       "relativeHumidity": [
+        35,
+        57,
         41,
-        56,
-        40,
-        53,
+        54,
         36,
         50,
         36,
-        52
+        53
       ],
       "snowRange": [
         "",
@@ -278,30 +278,30 @@
         53,
         81,
         58,
-        88,
+        87,
         63,
         89,
-        64
+        63
       ],
       "temperatureHeatIndex": [
         75,
         72,
         79,
-        76,
+        77,
         86,
         83,
         87,
         83
       ],
       "temperatureWindChill": [
-        57,
+        68,
         54,
         57,
         59,
         61,
         64,
         65,
-        65
+        64
       ],
       "thunderCategory": [
         "No thunder",
@@ -344,41 +344,41 @@
         0
       ],
       "windDirection": [
-        217,
-        218,
-        245,
+        198,
+        220,
+        244,
         246,
-        290,
-        264,
-        268,
-        233
+        296,
+        266,
+        270,
+        212
       ],
       "windDirectionCardinal": [
-        "SW",
+        "SSW",
         "SW",
         "WSW",
         "WSW",
         "WNW",
         "W",
         "W",
-        "SW"
+        "SSW"
       ],
       "windPhrase": [
-        "NNE winds shifting to SSW at 10 to 15 mph.",
+        "Winds SSW at 10 to 15 mph.",
         "Winds SW at 5 to 10 mph.",
         "Winds WSW at 10 to 15 mph.",
         "Winds WSW at 10 to 15 mph.",
         "Winds WNW at 5 to 10 mph.",
         "Winds W at 5 to 10 mph.",
         "Winds W at 5 to 10 mph.",
-        "Winds SW at 5 to 10 mph."
+        "Winds SSW at 5 to 10 mph."
       ],
       "windSpeed": [
-        11,
+        10,
         10,
         11,
         11,
-        8,
+        9,
         9,
         9,
         9
@@ -388,9 +388,9 @@
         "Mostly Clear",
         "Mostly Sunny",
         "Clear",
-        "Sunny",
+        "Mostly Sunny",
         "Mostly Clear",
-        "Mostly Cloudy",
+        "Partly Cloudy",
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
@@ -398,9 +398,9 @@
         "M Clear",
         "M Sunny",
         "Clear",
-        "Sunny",
+        "M Sunny",
         "M Clear",
-        "M Cloudy",
+        "P Cloudy",
         "P Cloudy"
       ]
     }
