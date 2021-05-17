@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    63,
-    74,
-    77,
-    81
+    75,
+    76,
+    81,
+    86
   ],
   "calendarDayTemperatureMin": [
-    53,
     48,
     51,
-    53
+    53,
+    58
   ],
   "dayOfWeek": [
     "Sunday",
@@ -18,10 +18,10 @@
     "Wednesday"
   ],
   "expirationTimeUtc": [
-    1621228561,
-    1621228561,
-    1621228561,
-    1621228561
+    1621230362,
+    1621230362,
+    1621230362,
+    1621230362
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -66,10 +66,10 @@
     1621404109
   ],
   "narrative": [
-    "Mainly clear. Lows overnight in the low 50s.",
-    "Mix of sun and clouds. Highs in the upper 70s and lows in the low 50s.",
+    "Clear. Lows overnight in the low 50s.",
+    "Times of sun and clouds. Highs in the upper 70s and lows in the low 50s.",
     "More sun than clouds. Highs in the low 80s and lows in the upper 50s.",
-    "Abundant sunshine. Highs in the mid 80s and lows in the low 60s."
+    "Sunny. Highs in the mid 80s and lows in the low 60s."
   ],
   "qpf": [
     0,
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        15,
-        50,
-        28,
-        16,
+        7,
+        46,
+        26,
         17,
-        14,
-        33
+        16,
+        12,
+        35
       ],
       "dayOrNight": [
         null,
@@ -165,7 +165,7 @@
       ],
       "iconCode": [
         null,
-        33,
+        31,
         30,
         29,
         34,
@@ -175,7 +175,7 @@
       ],
       "iconCodeExtend": [
         null,
-        3300,
+        3100,
         3000,
         2900,
         3400,
@@ -185,17 +185,17 @@
       ],
       "narrative": [
         null,
-        "Mostly clear. Slight chance of a rain shower. Low 51F. Winds light and variable.",
-        "Partly to mostly cloudy. High 77F. Winds WSW at 5 to 10 mph.",
+        "Clear skies. Low 51F. Winds light and variable.",
+        "Partly cloudy. High 77F. Winds WSW at 5 to 10 mph.",
         "A few clouds. Low 53F. Winds SW at 10 to 15 mph.",
-        "Generally sunny. High 81F. Winds WSW at 10 to 15 mph.",
-        "Mostly clear skies. Low 57F. Winds WSW at 10 to 15 mph.",
+        "Plentiful sunshine. High 81F. Winds WSW at 10 to 15 mph.",
+        "Mainly clear. Low 57F. Winds WSW at 10 to 15 mph.",
         "Mainly sunny. High 86F. Winds W at 5 to 10 mph.",
         "A few clouds. Low 62F. Winds WSW at 5 to 10 mph."
       ],
       "precipChance": [
         null,
-        15,
+        2,
         2,
         6,
         5,
@@ -235,7 +235,7 @@
       ],
       "qualifierCode": [
         null,
-        "Q5015",
+        null,
         null,
         null,
         null,
@@ -245,7 +245,7 @@
       ],
       "qualifierPhrase": [
         null,
-        "Slight chance of a rain shower.",
+        null,
         null,
         null,
         null,
@@ -255,13 +255,13 @@
       ],
       "relativeHumidity": [
         null,
-        76,
-        40,
+        77,
+        41,
         57,
         42,
         56,
         40,
-        54
+        53
       ],
       "snowRange": [
         null,
@@ -285,7 +285,7 @@
       ],
       "temperatureHeatIndex": [
         null,
-        56,
+        55,
         75,
         72,
         79,
@@ -345,17 +345,17 @@
       ],
       "windDirection": [
         null,
-        319,
-        246,
-        216,
+        327,
         244,
+        216,
+        245,
         246,
-        274,
+        273,
         251
       ],
       "windDirectionCardinal": [
         null,
-        "NW",
+        "NNW",
         "WSW",
         "SW",
         "WSW",
@@ -375,8 +375,8 @@
       ],
       "windSpeed": [
         null,
-        4,
-        10,
+        5,
+        9,
         10,
         11,
         10,
@@ -385,7 +385,7 @@
       ],
       "wxPhraseLong": [
         null,
-        "Mostly Clear",
+        "Clear",
         "Partly Cloudy",
         "Partly Cloudy",
         "Mostly Sunny",
@@ -395,7 +395,7 @@
       ],
       "wxPhraseShort": [
         null,
-        "M Clear",
+        "Clear",
         "P Cloudy",
         "P Cloudy",
         "M Sunny",
