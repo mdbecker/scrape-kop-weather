@@ -2,14 +2,14 @@
   "calendarDayTemperatureMax": [
     84,
     93,
-    94,
-    76
+    93,
+    75
   ],
   "calendarDayTemperatureMin": [
     53,
-    63,
+    64,
     69,
-    58
+    59
   ],
   "dayOfWeek": [
     "Friday",
@@ -18,10 +18,10 @@
     "Monday"
   ],
   "expirationTimeUtc": [
-    1621637836,
-    1621637836,
-    1621637836,
-    1621637836
+    1621642995,
+    1621642995,
+    1621642995,
+    1621642995
   ],
   "moonPhase": [
     "Waxing Gibbous",
@@ -66,10 +66,10 @@
     1621844876
   ],
   "narrative": [
-    "Partly cloudy. Lows overnight in the low 60s.",
-    "Mostly cloudy. Highs in the low 90s and lows in the upper 60s.",
-    "Times of sun and clouds. Highs in the mid 90s and lows in the low 60s.",
-    "Cloudy. Highs in the low 70s and lows in the upper 50s."
+    "Partly cloudy. Lows overnight in the mid 60s.",
+    "More clouds than sun. Highs in the low 90s and lows in the upper 60s.",
+    "Mix of sun and clouds. Highs in the low 90s and lows in the mid 60s.",
+    "Mostly cloudy. Highs in the low 70s and lows in the upper 50s."
   ],
   "qpf": [
     0,
@@ -110,13 +110,13 @@
   "temperatureMax": [
     null,
     93,
-    94,
-    70
+    93,
+    71
   ],
   "temperatureMin": [
-    63,
+    64,
     69,
-    63,
+    64,
     57
   ],
   "validTimeLocal": [
@@ -135,12 +135,12 @@
     {
       "cloudCover": [
         null,
-        51,
-        84,
+        54,
+        83,
         63,
-        35,
-        73,
-        85,
+        38,
+        71,
+        86,
         85
       ],
       "dayOrNight": [
@@ -166,7 +166,7 @@
       "iconCode": [
         null,
         29,
-        26,
+        28,
         29,
         30,
         27,
@@ -176,7 +176,7 @@
       "iconCodeExtend": [
         null,
         2900,
-        2600,
+        2800,
         9000,
         3000,
         2700,
@@ -185,20 +185,20 @@
       ],
       "narrative": [
         null,
-        "Partly cloudy. Low 63F. Winds SW at 10 to 15 mph.",
-        "Cloudy. Hot. High 93F. Winds WNW at 10 to 20 mph.",
-        "Cloudy early with partial clearing expected late. Low 69F. Winds NW at 10 to 15 mph.",
-        "Partly cloudy. Hot. High 94F. Winds NW at 10 to 20 mph.",
-        "Mostly cloudy skies. Low 63F. Winds N at 10 to 15 mph.",
-        "Cloudy. High around 70F. Winds ESE at 10 to 15 mph.",
+        "A few clouds. Low 64F. Winds SW at 10 to 15 mph.",
+        "Mainly cloudy. Hot. High 93F. Winds WNW at 10 to 20 mph.",
+        "Cloudy skies early, then partly cloudy after midnight. Low 69F. Winds NW at 10 to 15 mph.",
+        "Intervals of clouds and sunshine. Hot. High 93F. Winds NW at 10 to 20 mph.",
+        "Mostly cloudy. Low 64F. Winds N at 10 to 20 mph.",
+        "Cloudy. High 71F. Winds ESE at 10 to 15 mph.",
         "Cloudy. Low 57F. Winds SE at 10 to 15 mph."
       ],
       "precipChance": [
         null,
+        2,
         3,
         2,
-        2,
-        2,
+        4,
         6,
         4,
         6
@@ -255,12 +255,12 @@
       ],
       "relativeHumidity": [
         null,
-        54,
+        56,
         37,
-        51,
+        52,
         43,
-        53,
-        42,
+        55,
+        39,
         53
       ],
       "snowRange": [
@@ -275,33 +275,33 @@
       ],
       "temperature": [
         null,
-        63,
+        64,
         93,
         69,
-        94,
-        63,
-        70,
+        93,
+        64,
+        71,
         57
       ],
       "temperatureHeatIndex": [
         null,
-        82,
+        78,
         92,
-        88,
+        87,
         92,
-        90,
-        69,
+        89,
+        71,
         67
       ],
       "temperatureWindChill": [
         null,
-        64,
+        65,
         67,
         70,
-        71,
-        65,
-        63,
-        57
+        72,
+        64,
+        64,
+        58
       ],
       "thunderCategory": [
         null,
@@ -346,11 +346,11 @@
       "windDirection": [
         null,
         230,
-        293,
-        307,
-        309,
-        6,
-        108,
+        296,
+        305,
+        308,
+        8,
+        107,
         145
       ],
       "windDirectionCardinal": [
@@ -369,24 +369,24 @@
         "Winds WNW at 10 to 20 mph.",
         "Winds NW at 10 to 15 mph.",
         "Winds NW at 10 to 20 mph.",
-        "Winds N at 10 to 15 mph.",
+        "Winds N at 10 to 20 mph.",
         "Winds ESE at 10 to 15 mph.",
         "Winds SE at 10 to 15 mph."
       ],
       "windSpeed": [
         null,
         12,
-        14,
-        12,
-        14,
         13,
-        12,
+        11,
+        15,
+        13,
+        11,
         11
       ],
       "wxPhraseLong": [
         null,
         "Partly Cloudy",
-        "Cloudy",
+        "Mostly Cloudy",
         "Clouds Early/Clearing Late",
         "Partly Cloudy",
         "Mostly Cloudy",
@@ -396,7 +396,7 @@
       "wxPhraseShort": [
         null,
         "P Cloudy",
-        "Cloudy",
+        "M Cloudy",
         "Clear Late",
         "P Cloudy",
         "M Cloudy",
