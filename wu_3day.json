@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    69,
-    90,
-    85,
-    72
+    91,
+    84,
+    71,
+    57
   ],
   "calendarDayTemperatureMin": [
-    63,
     62,
     66,
-    55
+    55,
+    52
   ],
   "dayOfWeek": [
     "Wednesday",
@@ -18,10 +18,10 @@
     "Saturday"
   ],
   "expirationTimeUtc": [
-    1622090401,
-    1622090401,
-    1622090401,
-    1622090401
+    1622094005,
+    1622094005,
+    1622094005,
+    1622094005
   ],
   "moonPhase": [
     "Full Moon",
@@ -66,16 +66,16 @@
     1622291421
   ],
   "narrative": [
-    "Partly cloudy with a stray thunderstorm. Lows overnight in the upper 60s.",
-    "A few clouds. Highs in the mid 80s and lows in the low 60s.",
-    "Rain developing during the afternoon. Highs in the low 70s and lows in the low 50s.",
-    "Showers ending by midday. Highs in the upper 50s and lows in the low 50s."
+    "Cloudy. Lows overnight in the upper 60s.",
+    "Mainly sunny. Highs in the mid 80s and lows in the low 60s.",
+    "Cloudy with late day rain. Highs in the low 70s and lows in the low 50s.",
+    "Rain in the morning. Highs in the mid 50s and lows in the low 50s."
   ],
   "qpf": [
     0,
     0,
-    1.28,
-    0.18
+    1.26,
+    0.21
   ],
   "qpfSnow": [
     0,
@@ -110,8 +110,8 @@
   "temperatureMax": [
     null,
     85,
-    72,
-    57
+    71,
+    56
   ],
   "temperatureMin": [
     68,
@@ -136,8 +136,8 @@
       "cloudCover": [
         null,
         72,
-        13,
-        28,
+        12,
+        31,
         81,
         100,
         97,
@@ -165,42 +165,42 @@
       ],
       "iconCode": [
         null,
-        47,
-        34,
+        26,
+        32,
         29,
         12,
         12,
-        39,
+        12,
         11
       ],
       "iconCodeExtend": [
         null,
-        3709,
-        3400,
+        2600,
+        3200,
         2900,
         7303,
         1200,
-        6103,
+        6303,
         1100
       ],
       "narrative": [
         null,
-        "Partly cloudy with a slight chance of thunderstorms. Low 68F. Winds WNW at 5 to 10 mph. Chance of rain 30%.",
-        "Generally sunny. High around 85F. Winds NW at 10 to 15 mph.",
-        "A few clouds from time to time. Low around 60F. Winds N at 10 to 15 mph.",
-        "Partly cloudy in the morning then becoming cloudy with periods of rain later in the day. High 72F. Winds E at 10 to 15 mph. Chance of rain 90%. Rainfall around a quarter of an inch.",
-        "Rain likely. Low 53F. Winds NE at 10 to 20 mph. Chance of rain 100%. Rainfall may reach one inch.",
-        "Rain showers early with overcast skies later in the day. High 57F. Winds NE at 10 to 20 mph. Chance of rain 60%.",
+        "Overcast. Low 67F. Winds WNW at 5 to 10 mph.",
+        "Sunny. High around 85F. Winds NW at 10 to 15 mph.",
+        "Partly cloudy skies. Low near 60F. Winds N at 5 to 10 mph.",
+        "Partly cloudy in the morning then becoming cloudy with periods of rain later in the day. High 71F. Winds E at 10 to 15 mph. Chance of rain 90%. Rainfall around a quarter of an inch.",
+        "Periods of rain. Low 53F. Winds NE at 10 to 20 mph. Chance of rain 100%. Rainfall possibly over one inch.",
+        "Cloudy. Periods of rain early. High 56F. Winds NE at 10 to 20 mph. Chance of rain 70%.",
         "Cloudy with a few showers. Low around 50F. Winds NE at 10 to 20 mph. Chance of rain 30%."
       ],
       "precipChance": [
         null,
-        30,
-        3,
+        5,
+        2,
         4,
         94,
-        98,
-        63,
+        97,
+        68,
         33
       ],
       "precipType": [
@@ -218,9 +218,9 @@
         0,
         0,
         0,
-        0.2,
-        1.07,
-        0.14,
+        0.24,
+        1.02,
+        0.17,
         0.04
       ],
       "qpfSnow": [
@@ -255,12 +255,12 @@
       ],
       "relativeHumidity": [
         null,
-        88,
-        48,
+        87,
+        47,
         44,
-        50,
-        84,
-        77,
+        51,
+        85,
+        78,
         69
       ],
       "snowRange": [
@@ -278,34 +278,34 @@
         68,
         85,
         60,
-        72,
+        71,
         53,
-        57,
+        56,
         50
       ],
       "temperatureHeatIndex": [
         null,
-        72,
-        84,
-        82,
         71,
-        63,
+        84,
+        81,
+        70,
+        62,
         56,
-        56
+        55
       ],
       "temperatureWindChill": [
         null,
-        69,
+        68,
         70,
         60,
         61,
         50,
-        48,
+        49,
         47
       ],
       "thunderCategory": [
         null,
-        "Thunder expected",
+        "No thunder",
         "No thunder",
         "No thunder",
         "No thunder",
@@ -315,7 +315,7 @@
       ],
       "thunderIndex": [
         null,
-        2,
+        0,
         0,
         0,
         0,
@@ -345,12 +345,12 @@
       ],
       "windDirection": [
         null,
-        291,
+        298,
         311,
-        10,
-        88,
-        52,
-        44,
+        11,
+        89,
+        51,
+        43,
         43
       ],
       "windDirectionCardinal": [
@@ -367,7 +367,7 @@
         null,
         "Winds WNW at 5 to 10 mph.",
         "Winds NW at 10 to 15 mph.",
-        "Winds N at 10 to 15 mph.",
+        "Winds N at 5 to 10 mph.",
         "Winds E at 10 to 15 mph.",
         "Winds NE at 10 to 20 mph.",
         "Winds NE at 10 to 20 mph.",
@@ -375,7 +375,7 @@
       ],
       "windSpeed": [
         null,
-        7,
+        8,
         11,
         10,
         13,
@@ -385,22 +385,22 @@
       ],
       "wxPhraseLong": [
         null,
-        "Isolated Thunderstorms",
-        "Mostly Sunny",
+        "Cloudy",
+        "Sunny",
         "Partly Cloudy",
         "PM Rain",
         "Rain",
-        "AM Showers",
+        "AM Rain",
         "Showers"
       ],
       "wxPhraseShort": [
         null,
-        "Iso T-Storms",
-        "M Sunny",
+        "Cloudy",
+        "Sunny",
         "P Cloudy",
         "PM Rain",
         "Rain",
-        "AM Showers",
+        "AM Rain",
         "Showers"
       ]
     }
