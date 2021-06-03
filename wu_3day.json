@@ -1,14 +1,14 @@
 {
   "calendarDayTemperatureMax": [
     81,
-    81,
+    79,
     91,
     93
   ],
   "calendarDayTemperatureMin": [
     61,
     67,
-    64,
+    65,
     69
   ],
   "dayOfWeek": [
@@ -18,10 +18,10 @@
     "Sunday"
   ],
   "expirationTimeUtc": [
-    1622761059,
-    1622761059,
-    1622761059,
-    1622761059
+    1622764672,
+    1622764672,
+    1622764672,
+    1622764672
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -66,14 +66,14 @@
     1623013266
   ],
   "narrative": [
-    "A few thunderstorms possible. Lows overnight in the upper 60s.",
-    "Scattered thunderstorms. Highs in the low 80s and lows in the mid 60s.",
+    "Thunderstorms. Lows overnight in the upper 60s.",
+    "A few thunderstorms possible. Highs in the upper 70s and lows in the mid 60s.",
     "Plenty of sun. Highs in the low 90s and lows in the upper 60s.",
-    "Sunshine. Highs in the low 90s and lows in the low 70s."
+    "Mainly sunny. Highs in the low 90s and lows in the low 70s."
   ],
   "qpf": [
-    0.07,
-    0.15,
+    0.17,
+    0.24,
     0,
     0
   ],
@@ -109,13 +109,13 @@
   ],
   "temperatureMax": [
     null,
-    81,
+    79,
     91,
     93
   ],
   "temperatureMin": [
     68,
-    64,
+    65,
     69,
     71
   ],
@@ -135,12 +135,12 @@
     {
       "cloudCover": [
         null,
-        93,
-        87,
-        20,
+        94,
+        88,
+        17,
         12,
         14,
-        11,
+        12,
         12
       ],
       "dayOrNight": [
@@ -165,7 +165,7 @@
       ],
       "iconCode": [
         null,
-        47,
+        4,
         38,
         33,
         34,
@@ -175,7 +175,7 @@
       ],
       "iconCodeExtend": [
         null,
-        3809,
+        400,
         3800,
         3300,
         3400,
@@ -185,18 +185,18 @@
       ],
       "narrative": [
         null,
-        "Mostly cloudy with showers and a few thunderstorms. Storms may contain strong gusty winds. Low 68F. Winds SSW at 10 to 15 mph. Chance of rain 60%.",
-        "Scattered showers and thunderstorms. Storms may contain strong gusty winds. High 81F. Winds WSW at 10 to 15 mph. Chance of rain 50%.",
-        "Mostly clear skies. Low 64F. Winds WSW at 5 to 10 mph.",
-        "Generally sunny. High 91F. Winds WSW at 10 to 20 mph.",
+        "Thunderstorms early, then variable clouds overnight with still a chance of showers. Storms may contain strong gusty winds. Low 68F. Winds SSW at 10 to 15 mph. Chance of rain 80%.",
+        "Scattered showers and thunderstorms. Storms may contain strong gusty winds. High 79F. Winds SW at 10 to 15 mph. Chance of rain 50%.",
+        "Mainly clear. Low near 65F. Winds WSW at 5 to 10 mph.",
+        "Plentiful sunshine. High 91F. Winds WSW at 10 to 20 mph.",
         "Clear skies. Low 69F. Winds SW at 10 to 15 mph.",
         "Sunny skies. Hot. High 93F. Winds WSW at 10 to 15 mph.",
-        "Clear skies. Low 71F. Winds SW at 5 to 10 mph."
+        "A mostly clear sky. Low 71F. Winds SW at 5 to 10 mph."
       ],
       "precipChance": [
         null,
-        60,
-        54,
+        83,
+        52,
         24,
         6,
         5,
@@ -215,8 +215,8 @@
       ],
       "qpf": [
         null,
-        0.07,
-        0.15,
+        0.17,
+        0.24,
         0,
         0,
         0,
@@ -256,11 +256,11 @@
       "relativeHumidity": [
         null,
         86,
-        75,
-        85,
-        53,
+        76,
+        84,
+        52,
         63,
-        48,
+        47,
         65
       ],
       "snowRange": [
@@ -276,8 +276,8 @@
       "temperature": [
         null,
         68,
-        81,
-        64,
+        79,
+        65,
         91,
         69,
         93,
@@ -286,7 +286,7 @@
       "temperatureHeatIndex": [
         null,
         77,
-        82,
+        81,
         75,
         90,
         89,
@@ -297,8 +297,8 @@
         null,
         70,
         69,
-        65,
-        67,
+        66,
+        68,
         70,
         72,
         72
@@ -345,18 +345,18 @@
       ],
       "windDirection": [
         null,
-        211,
-        238,
-        247,
-        254,
+        212,
         236,
-        255,
+        245,
+        253,
+        235,
+        251,
         217
       ],
       "windDirectionCardinal": [
         null,
         "SSW",
-        "WSW",
+        "SW",
         "WSW",
         "WSW",
         "SW",
@@ -366,7 +366,7 @@
       "windPhrase": [
         null,
         "Winds SSW at 10 to 15 mph.",
-        "Winds WSW at 10 to 15 mph.",
+        "Winds SW at 10 to 15 mph.",
         "Winds WSW at 5 to 10 mph.",
         "Winds WSW at 10 to 20 mph.",
         "Winds SW at 10 to 15 mph.",
@@ -376,7 +376,7 @@
       "windSpeed": [
         null,
         11,
-        11,
+        10,
         8,
         13,
         12,
@@ -385,7 +385,7 @@
       ],
       "wxPhraseLong": [
         null,
-        "Scattered Thunderstorms",
+        "Thunderstorms",
         "Scattered Thunderstorms",
         "Mostly Clear",
         "Mostly Sunny",
@@ -395,7 +395,7 @@
       ],
       "wxPhraseShort": [
         null,
-        "Sct T-Storms",
+        "T-Storms",
         "Sct T-Storms",
         "M Clear",
         "M Sunny",
