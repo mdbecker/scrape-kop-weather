@@ -2,8 +2,8 @@
   "calendarDayTemperatureMax": [
     94,
     88,
-    90,
-    80
+    87,
+    82
   ],
   "calendarDayTemperatureMin": [
     70,
@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1623106197,
-    1623106197,
-    1623106197,
-    1623106197
+    1623109065,
+    1623109065,
+    1623109065,
+    1623109065
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -66,16 +66,16 @@
     1623373114
   ],
   "narrative": [
-    "Considerable cloudiness. Lows overnight in the low 70s.",
-    "A few thunderstorms possible. Highs in the upper 80s and lows in the low 70s.",
-    "Showers and thunderstorms late. Highs in the low 90s and lows in the low 70s.",
-    "Scattered thunderstorms possible. Highs in the low 80s and lows in the low 60s."
+    "Mainly cloudy. Lows overnight in the low 70s.",
+    "Cloudy with showers and thunderstorms. Highs in the upper 80s and lows in the low 70s.",
+    "Thunderstorms developing in the afternoon. Highs in the upper 80s and lows in the low 70s.",
+    "A few thunderstorms possible. Highs in the low 80s and lows in the low 60s."
   ],
   "qpf": [
     0,
-    0.26,
-    0.17,
-    0.51
+    0.19,
+    0.23,
+    0.49
   ],
   "qpfSnow": [
     0,
@@ -110,8 +110,8 @@
   "temperatureMax": [
     null,
     88,
-    90,
-    80
+    87,
+    82
   ],
   "temperatureMin": [
     73,
@@ -135,12 +135,12 @@
     {
       "cloudCover": [
         null,
-        70,
+        72,
+        81,
         79,
-        78,
         76,
-        76,
-        76,
+        75,
+        74,
         92
       ],
       "dayOrNight": [
@@ -166,7 +166,7 @@
       "iconCode": [
         null,
         27,
-        38,
+        11,
         47,
         38,
         47,
@@ -176,8 +176,8 @@
       "iconCodeExtend": [
         null,
         2700,
-        3800,
-        6200,
+        1140,
+        3709,
         7203,
         3709,
         3800,
@@ -185,20 +185,20 @@
       ],
       "narrative": [
         null,
-        "Mainly cloudy. Low 73F. Winds S at 5 to 10 mph.",
-        "Showers early then scattered thunderstorms developing later in the day. High 88F. Winds SW at 5 to 10 mph. Chance of rain 70%.",
-        "Scattered thunderstorms in the evening, with mostly cloudy skies overnight. Low 72F. Winds WSW at 5 to 10 mph. Chance of rain 40%.",
-        "Cloudy in the morning, then thunderstorms developing later in the day. High near 90F. Winds WNW at 5 to 10 mph. Chance of rain 70%.",
-        "Mostly cloudy...isolated thunderstorms developing overnight. Low 72F. Winds NW at 5 to 10 mph. Chance of rain 30%.",
-        "Scattered showers and thunderstorms. High around 80F. Winds ENE at 5 to 10 mph. Chance of rain 50%.",
-        "Cloudy with occasional rain showers. Low 63F. Winds E at 10 to 15 mph. Chance of rain 50%."
+        "Mostly cloudy. Low 73F. Winds S at 10 to 15 mph.",
+        "Rain showers in the morning then thundershowers in the afternoon. High 88F. Winds SW at 5 to 10 mph. Chance of rain 70%.",
+        "Isolated thunderstorms during the evening, then mainly cloudy overnight. Low 72F. Winds W at 5 to 10 mph. Chance of rain 30%.",
+        "Cloudy skies during the morning hours followed by thunderstorms in the afternoon. High 87F. Winds WNW at 5 to 10 mph. Chance of rain 60%.",
+        "A few isolated thunderstorms developing late. Low 72F. Winds light and variable. Chance of rain 30%.",
+        "Scattered showers and thunderstorms. High 82F. Winds ENE at 5 to 10 mph. Chance of rain 50%.",
+        "Considerable cloudiness with occasional rain showers. Low 63F. Winds E at 10 to 15 mph. Chance of rain 50%."
       ],
       "precipChance": [
         null,
         11,
         66,
-        37,
-        65,
+        33,
+        62,
         31,
         52,
         48
@@ -216,11 +216,11 @@
       "qpf": [
         null,
         0,
-        0.23,
+        0.17,
+        0.02,
+        0.2,
         0.03,
-        0.13,
-        0.04,
-        0.24,
+        0.22,
         0.27
       ],
       "qpfSnow": [
@@ -256,11 +256,11 @@
       "relativeHumidity": [
         null,
         75,
-        68,
-        85,
         67,
-        85,
-        75,
+        84,
+        68,
+        84,
+        73,
         80
       ],
       "snowRange": [
@@ -278,19 +278,19 @@
         73,
         88,
         72,
-        90,
+        87,
         72,
-        80,
+        82,
         63
       ],
       "temperatureHeatIndex": [
         null,
-        94,
+        90,
         95,
-        89,
-        95,
+        90,
+        93,
         88,
-        84,
+        86,
         76
       ],
       "temperatureWindChill": [
@@ -346,18 +346,18 @@
       "windDirection": [
         null,
         190,
-        228,
-        256,
-        287,
-        304,
-        74,
+        229,
+        260,
+        283,
+        312,
+        75,
         79
       ],
       "windDirectionCardinal": [
         null,
         "S",
         "SW",
-        "WSW",
+        "W",
         "WNW",
         "NW",
         "ENE",
@@ -365,29 +365,29 @@
       ],
       "windPhrase": [
         null,
-        "Winds S at 5 to 10 mph.",
+        "Winds S at 10 to 15 mph.",
         "Winds SW at 5 to 10 mph.",
-        "Winds WSW at 5 to 10 mph.",
+        "Winds W at 5 to 10 mph.",
         "Winds WNW at 5 to 10 mph.",
-        "Winds NW at 5 to 10 mph.",
+        "Winds light and variable.",
         "Winds ENE at 5 to 10 mph.",
         "Winds E at 10 to 15 mph."
       ],
       "windSpeed": [
         null,
+        11,
+        9,
         8,
         9,
-        7,
-        9,
-        7,
+        5,
         10,
         10
       ],
       "wxPhraseLong": [
         null,
         "Mostly Cloudy",
-        "Scattered Thunderstorms",
-        "Thunderstorms Early",
+        "Thundershowers",
+        "Isolated Thunderstorms",
         "PM Thunderstorms",
         "Isolated Thunderstorms",
         "Scattered Thunderstorms",
@@ -396,8 +396,8 @@
       "wxPhraseShort": [
         null,
         "M Cloudy",
-        "Sct T-Storms",
-        "T-Storms",
+        "T-Showers",
+        "Iso T-Storms",
         "PM T-Storms",
         "Iso T-Storms",
         "Sct T-Storms",
