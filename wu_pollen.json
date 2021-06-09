@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1623193200,
       1623236400,
       1623279600,
       1623322800,
@@ -22,10 +21,11 @@
       1623668400,
       1623711600,
       1623754800,
-      1623798000
+      1623798000,
+      1623841200,
+      1623884400
     ],
     "fcstValidLocal": [
-      "2021-06-08T19:00:00-0400",
       "2021-06-09T07:00:00-0400",
       "2021-06-09T19:00:00-0400",
       "2021-06-10T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2021-06-14T07:00:00-0400",
       "2021-06-14T19:00:00-0400",
       "2021-06-15T07:00:00-0400",
-      "2021-06-15T19:00:00-0400"
+      "2021-06-15T19:00:00-0400",
+      "2021-06-16T07:00:00-0400",
+      "2021-06-16T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Thursday",
-      "Thursday night",
       "Friday",
       "Friday night",
       "Saturday",
@@ -90,10 +93,11 @@
       "Monday",
       "Monday night",
       "Tuesday",
-      "Tuesday night"
+      "Tuesday night",
+      "Wednesday",
+      "Wednesday night"
     ],
     "grassPollenIndex": [
-      4,
       3,
       3,
       3,
@@ -106,11 +110,12 @@
       3,
       3,
       3,
-      3,
+      4,
+      4,
+      4,
       4
     ],
     "grassPollenCategory": [
-      "Very High",
       "High",
       "High",
       "High",
@@ -123,13 +128,16 @@
       "High",
       "High",
       "High",
-      "High",
+      "Very High",
+      "Very High",
+      "Very High",
       "Very High"
     ],
     "treePollenIndex": [
       1,
       1,
       1,
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -175,9 +184,11 @@
       0,
       0,
       0,
+      0,
       0
     ],
     "ragweedPollenCategory": [
+      "None",
       "None",
       "None",
       "None",
