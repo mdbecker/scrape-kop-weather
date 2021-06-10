@@ -1,0 +1,69 @@
+{
+  "Type": "pollen",
+  "ForecastDate": "2021-06-10T00:00:00-04:00",
+  "Location": {
+    "ZIP": "19406",
+    "City": "KING OF PRUSSIA",
+    "State": "PA",
+    "periods": [
+      {
+        "Triggers": [
+          {
+            "LGID": 346,
+            "Name": "Grasses",
+            "Genus": "Grasses",
+            "PlantType": "Grass"
+          },
+          {
+            "LGID": 186,
+            "Name": "Oak",
+            "Genus": "Quercus",
+            "PlantType": "Tree"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Yesterday",
+        "Index": 6.6
+      },
+      {
+        "Triggers": [
+          {
+            "LGID": 346,
+            "Name": "Grasses",
+            "Genus": "Grasses",
+            "PlantType": "Grass"
+          },
+          {
+            "LGID": 186,
+            "Name": "Oak",
+            "Genus": "Quercus",
+            "PlantType": "Tree"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Today",
+        "Index": 6.4
+      },
+      {
+        "Triggers": [
+          {
+            "LGID": 346,
+            "Name": "Grasses",
+            "Genus": "Grasses",
+            "PlantType": "Grass"
+          },
+          {
+            "LGID": 186,
+            "Name": "Oak",
+            "Genus": "Quercus",
+            "PlantType": "Tree"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Tomorrow",
+        "Index": 5.1
+      }
+    ],
+    "DisplayLocation": "King Of Prussia, PA"
+  }
+}
