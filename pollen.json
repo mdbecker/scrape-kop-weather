@@ -18,6 +18,32 @@
         "Period": "0001-01-01T00:00:00",
         "Type": "Yesterday",
         "Index": 7.3
+      },
+      {
+        "Triggers": [
+          {
+            "LGID": 346,
+            "Name": "Grasses",
+            "Genus": "Grasses",
+            "PlantType": "Grass"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Today",
+        "Index": 7.5
+      },
+      {
+        "Triggers": [
+          {
+            "LGID": 346,
+            "Name": "Grasses",
+            "Genus": "Grasses",
+            "PlantType": "Grass"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Tomorrow",
+        "Index": 1.7
       }
     ],
     "DisplayLocation": "King Of Prussia, PA"
