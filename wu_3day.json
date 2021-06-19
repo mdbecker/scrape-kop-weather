@@ -18,10 +18,10 @@
     "Tuesday"
   ],
   "expirationTimeUtc": [
-    1624108761,
-    1624108761,
-    1624108761,
-    1624108761
+    1624111377,
+    1624111377,
+    1624111377,
+    1624111377
   ],
   "moonPhase": [
     "Waxing Gibbous",
@@ -66,13 +66,13 @@
     1624347161
   ],
   "narrative": [
-    "Afternoon showers and thunderstorms. Highs in the low 90s and lows in the low 70s.",
-    "Mix of sun and clouds. Highs in the upper 80s and lows in the mid 70s.",
-    "Mix of sun and clouds. Highs in the low 90s and lows in the low 70s.",
-    "Scattered thunderstorms possible. Highs in the low 80s and lows in the upper 50s."
+    "Showers and thunderstorms late. Highs in the low 90s and lows in the low 70s.",
+    "Partly cloudy. Highs in the upper 80s and lows in the mid 70s.",
+    "Considerable cloudiness. Highs in the low 90s and lows in the low 70s.",
+    "A few thunderstorms possible. Highs in the low 80s and lows in the upper 50s."
   ],
   "qpf": [
-    0.18,
+    0.24,
     0,
     0,
     0.35
@@ -134,12 +134,12 @@
   "daypart": [
     {
       "cloudCover": [
-        75,
-        82,
-        46,
-        51,
-        63,
+        73,
+        83,
+        48,
         52,
+        66,
+        51,
         73,
         69
       ],
@@ -168,7 +168,7 @@
         4,
         30,
         29,
-        30,
+        28,
         29,
         38,
         29
@@ -178,25 +178,25 @@
         400,
         3000,
         2900,
-        3000,
+        2800,
         2900,
         3800,
         9000
       ],
       "narrative": [
-        "Partly to mostly cloudy with scattered showers and thunderstorms this afternoon. Gusty winds and small hail are possible. High around 90F. Winds WSW at 10 to 20 mph. Chance of rain 70%.",
-        "Thunderstorms likely this evening. Then a chance of scattered thunderstorms overnight. Low near 70F. Winds WSW at 10 to 15 mph. Chance of rain 60%.",
-        "Partly cloudy skies. High 89F. Winds WSW at 10 to 15 mph.",
-        "Partly cloudy skies. Low 74F. Winds SSW at 5 to 10 mph.",
-        "Mostly cloudy skies early, then partly cloudy in the afternoon. A stray shower or thunderstorm is possible. High 91F. Winds SSW at 10 to 20 mph.",
-        "Partly cloudy. Low 73F. Winds SSW at 10 to 20 mph.",
-        "Mixed clouds and sun with scattered thunderstorms. High 82F. Winds W at 10 to 20 mph. Chance of rain 50%.",
+        "Mostly cloudy skies this morning followed by thunderstorms during the afternoon. Gusty winds and small hail are possible. High around 90F. Winds WSW at 10 to 20 mph. Chance of rain 90%.",
+        "Thunderstorms likely this evening. Then a chance of scattered thunderstorms overnight. Low around 70F. Winds WSW at 10 to 15 mph. Chance of rain 70%.",
+        "Intervals of clouds and sunshine. High 89F. Winds WSW at 10 to 15 mph.",
+        "Partly cloudy. Low 74F. Winds SSW at 5 to 10 mph.",
+        "Considerable cloudiness. A stray shower or thunderstorm is possible. High 91F. Winds SSW at 10 to 20 mph.",
+        "Partly cloudy skies. Low 73F. Winds SSW at 10 to 20 mph.",
+        "Scattered showers and thunderstorms. High 82F. Winds W at 10 to 20 mph. Chance of rain 50%.",
         "Cloudy early with partial clearing expected late. Low 59F. Winds NW at 5 to 10 mph."
       ],
       "precipChance": [
-        65,
-        62,
-        24,
+        91,
+        72,
+        20,
         13,
         15,
         24,
@@ -215,7 +215,7 @@
       ],
       "qpf": [
         0,
-        0.18,
+        0.24,
         0,
         0,
         0,
@@ -254,12 +254,12 @@
         null
       ],
       "relativeHumidity": [
-        55,
+        56,
         80,
-        62,
+        63,
         73,
         62,
-        77,
+        78,
         69,
         67
       ],
@@ -294,7 +294,7 @@
         71
       ],
       "temperatureWindChill": [
-        75,
+        79,
         71,
         72,
         75,
@@ -324,7 +324,7 @@
         0
       ],
       "uvDescription": [
-        "High",
+        "Very High",
         "Low",
         "Very High",
         "Low",
@@ -334,7 +334,7 @@
         "Low"
       ],
       "uvIndex": [
-        7,
+        8,
         0,
         9,
         0,
@@ -344,9 +344,9 @@
         0
       ],
       "windDirection": [
-        256,
-        245,
-        255,
+        258,
+        242,
+        257,
         206,
         205,
         208,
@@ -388,7 +388,7 @@
         "Thunderstorms",
         "Partly Cloudy",
         "Partly Cloudy",
-        "Partly Cloudy",
+        "Mostly Cloudy",
         "Partly Cloudy",
         "Scattered Thunderstorms",
         "Clouds Early/Clearing Late"
@@ -398,7 +398,7 @@
         "T-Storms",
         "P Cloudy",
         "P Cloudy",
-        "P Cloudy",
+        "M Cloudy",
         "P Cloudy",
         "Sct T-Storms",
         "Clear Late"
