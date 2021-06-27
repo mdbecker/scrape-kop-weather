@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    85,
+    73,
+    84,
     90,
-    94,
-    95
+    94
   ],
   "calendarDayTemperatureMin": [
     68,
-    72,
-    72,
-    74
+    68,
+    73,
+    72
   ],
   "dayOfWeek": [
     "Saturday",
@@ -18,10 +18,10 @@
     "Tuesday"
   ],
   "expirationTimeUtc": [
-    1624766315,
-    1624766315,
-    1624766315,
-    1624766315
+    1624771729,
+    1624771729,
+    1624771729,
+    1624771729
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -42,34 +42,34 @@
     20
   ],
   "moonriseTimeLocal": [
-    "2021-06-26T22:45:49-0400",
-    "2021-06-27T23:26:09-0400",
-    "2021-06-28T23:58:33-0400",
+    "2021-06-26T22:45:48-0400",
+    "2021-06-27T23:26:08-0400",
+    "2021-06-28T23:58:31-0400",
     ""
   ],
   "moonriseTimeUtc": [
-    1624761949,
-    1624850769,
-    1624939113,
+    1624761948,
+    1624850768,
+    1624939111,
     null
   ],
   "moonsetTimeLocal": [
-    "2021-06-26T07:17:31-0400",
-    "2021-06-27T08:28:51-0400",
-    "2021-06-28T09:40:05-0400",
-    "2021-06-29T10:47:25-0400"
+    "2021-06-26T07:17:26-0400",
+    "2021-06-27T08:28:47-0400",
+    "2021-06-28T09:40:01-0400",
+    "2021-06-29T10:47:22-0400"
   ],
   "moonsetTimeUtc": [
-    1624706251,
-    1624796931,
-    1624887605,
-    1624978045
+    1624706246,
+    1624796927,
+    1624887601,
+    1624978042
   ],
   "narrative": [
-    "Partly cloudy. Lows overnight in the low 70s.",
-    "Partly cloudy. Highs in the low 90s and lows in the low 70s.",
-    "More sun than clouds. Highs in the mid 90s and lows in the mid 70s.",
-    "A few clouds. Highs in the mid 90s and lows in the mid 70s."
+    "Considerable cloudiness. Lows overnight in the low 70s.",
+    "Mix of sun and clouds. Highs in the low 90s and lows in the low 70s.",
+    "Plenty of sun. Highs in the mid 90s and lows in the mid 70s.",
+    "Plenty of sun. Highs in the mid 90s and lows in the mid 70s."
   ],
   "qpf": [
     0,
@@ -84,16 +84,16 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2021-06-26T05:34:36-0400",
-    "2021-06-27T05:34:59-0400",
-    "2021-06-28T05:35:23-0400",
-    "2021-06-29T05:35:49-0400"
+    "2021-06-26T05:34:32-0400",
+    "2021-06-27T05:34:54-0400",
+    "2021-06-28T05:35:19-0400",
+    "2021-06-29T05:35:45-0400"
   ],
   "sunriseTimeUtc": [
-    1624700076,
-    1624786499,
-    1624872923,
-    1624959349
+    1624700072,
+    1624786494,
+    1624872919,
+    1624959345
   ],
   "sunsetTimeLocal": [
     "2021-06-26T20:33:14-0400",
@@ -114,7 +114,7 @@
     95
   ],
   "temperatureMin": [
-    72,
+    73,
     72,
     74,
     75
@@ -135,12 +135,12 @@
     {
       "cloudCover": [
         null,
-        61,
-        55,
-        28,
-        27,
-        14,
-        31,
+        67,
+        56,
+        26,
+        26,
+        12,
+        32,
         17
       ],
       "dayOrNight": [
@@ -165,9 +165,9 @@
       ],
       "iconCode": [
         null,
-        29,
+        27,
         30,
-        29,
+        33,
         34,
         31,
         34,
@@ -175,9 +175,9 @@
       ],
       "iconCodeExtend": [
         null,
-        2900,
+        2700,
         3000,
-        2900,
+        3300,
         3400,
         3100,
         3400,
@@ -185,17 +185,17 @@
       ],
       "narrative": [
         null,
-        "Partly cloudy this evening with more clouds for overnight. Low 72F. Winds SSW at 5 to 10 mph.",
-        "Intervals of clouds and sunshine. High near 90F. Winds SSW at 10 to 20 mph.",
-        "Partly cloudy. Low 72F. Winds SSW at 10 to 15 mph.",
+        "Considerable cloudiness. Low 73F. Winds SSW at 5 to 10 mph.",
+        "Partly cloudy skies. High near 90F. Winds SSW at 10 to 20 mph.",
+        "Generally fair. Low 72F. Winds SSW at 10 to 15 mph.",
         "Sun and a few passing clouds. Hot. High 94F. Winds SW at 10 to 15 mph.",
         "Clear skies. Low 74F. Winds SSW at 10 to 15 mph.",
-        "Except for a few afternoon clouds, mainly sunny. A stray shower or thunderstorm is possible. High near 95F. Winds SW at 10 to 15 mph.",
+        "Except for a few afternoon clouds, mainly sunny. A stray shower or thunderstorm is possible. High around 95F. Winds SW at 10 to 15 mph.",
         "A mostly clear sky. Low around 75F. Winds SW at 10 to 15 mph."
       ],
       "precipChance": [
         null,
-        5,
+        3,
         20,
         7,
         6,
@@ -255,13 +255,13 @@
       ],
       "relativeHumidity": [
         null,
-        86,
+        87,
         66,
         74,
         62,
-        68,
+        69,
         56,
-        67
+        68
       ],
       "snowRange": [
         null,
@@ -275,7 +275,7 @@
       ],
       "temperature": [
         null,
-        72,
+        73,
         90,
         72,
         94,
@@ -285,17 +285,17 @@
       ],
       "temperatureHeatIndex": [
         null,
-        80,
+        79,
         95,
         92,
-        99,
+        100,
         95,
         100,
-        96
+        97
       ],
       "temperatureWindChill": [
         null,
-        73,
+        74,
         74,
         73,
         74,
@@ -345,7 +345,7 @@
       ],
       "windDirection": [
         null,
-        193,
+        194,
         209,
         195,
         216,
@@ -385,9 +385,9 @@
       ],
       "wxPhraseLong": [
         null,
+        "Mostly Cloudy",
         "Partly Cloudy",
-        "Partly Cloudy",
-        "Partly Cloudy",
+        "Mostly Clear",
         "Mostly Sunny",
         "Clear",
         "Mostly Sunny",
@@ -395,9 +395,9 @@
       ],
       "wxPhraseShort": [
         null,
+        "M Cloudy",
         "P Cloudy",
-        "P Cloudy",
-        "P Cloudy",
+        "M Clear",
         "M Sunny",
         "Clear",
         "M Sunny",
