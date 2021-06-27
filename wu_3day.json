@@ -1,6 +1,6 @@
 {
   "calendarDayTemperatureMax": [
-    90,
+    89,
     94,
     95,
     96
@@ -18,10 +18,10 @@
     "Wednesday"
   ],
   "expirationTimeUtc": [
-    1624782085,
-    1624782085,
-    1624782085,
-    1624782085
+    1624784404,
+    1624784404,
+    1624784404,
+    1624784404
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -66,16 +66,16 @@
     1625068321
   ],
   "narrative": [
-    "Mix of sun and clouds. Highs in the low 90s and lows in the low 70s.",
+    "Morning clouds followed by afternoon sun. Highs in the low 90s and lows in the low 70s.",
+    "Partly cloudy. Highs in the mid 90s and lows in the mid 70s.",
     "A few clouds. Highs in the mid 90s and lows in the mid 70s.",
-    "Mostly sunny. Highs in the mid 90s and lows in the mid 70s.",
     "More sun than clouds. Highs in the mid 90s and lows in the mid 70s."
   ],
   "qpf": [
     0,
     0,
     0,
-    0.07
+    0.13
   ],
   "qpfSnow": [
     0,
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        61,
-        31,
-        25,
-        11,
-        22,
-        22,
+        65,
+        34,
+        24,
+        10,
+        19,
+        21,
         27,
-        48
+        53
       ],
       "dayOrNight": [
         "D",
@@ -166,7 +166,7 @@
       "iconCode": [
         30,
         29,
-        34,
+        30,
         31,
         34,
         33,
@@ -174,34 +174,34 @@
         47
       ],
       "iconCodeExtend": [
-        3000,
+        9003,
         2900,
-        3400,
+        3000,
         3100,
         3400,
         3300,
         3400,
-        3709
+        3809
       ],
       "narrative": [
-        "Partly to mostly cloudy. High near 90F. Winds SSW at 10 to 20 mph.",
+        "Cloudy skies this morning will become partly cloudy this afternoon. Hot. High around 90F. Winds SSW at 10 to 20 mph.",
         "Partly cloudy. Low 72F. Winds SSW at 10 to 15 mph.",
-        "A few passing clouds, otherwise generally sunny. Hot. High 94F. Winds SW at 10 to 15 mph.",
-        "Clear skies. Low 74F. Winds SSW at 10 to 15 mph.",
+        "Some clouds in the morning will give way to mainly sunny skies for the afternoon. Hot. High 94F. Winds SW at 10 to 15 mph.",
+        "A mostly clear sky. Low 74F. Winds SSW at 10 to 15 mph.",
         "Mostly sunny skies. Hot. High around 95F. Winds SW at 10 to 15 mph.",
-        "Mostly clear skies. Low near 75F. Winds SW at 10 to 15 mph.",
-        "Sunshine and some clouds. A stray shower or thunderstorm is possible. High 96F. Winds SW at 10 to 15 mph.",
-        "Isolated thunderstorms during the evening, then partly cloudy overnight. Low near 75F. Winds SW at 10 to 15 mph. Chance of rain 30%."
+        "Mostly clear skies. Low around 75F. Winds SW at 10 to 15 mph.",
+        "Generally sunny despite a few afternoon clouds. A stray shower or thunderstorm is possible. High 96F. Winds SW at 10 to 15 mph.",
+        "Scattered thunderstorms. Low around 75F. Winds SW at 10 to 15 mph. Chance of rain 40%."
       ],
       "precipChance": [
-        14,
+        16,
         7,
         6,
         7,
         16,
         21,
         24,
-        32
+        38
       ],
       "precipType": [
         "rain",
@@ -221,7 +221,7 @@
         0,
         0,
         0,
-        0.04
+        0.09
       ],
       "qpfSnow": [
         0,
@@ -234,7 +234,7 @@
         0
       ],
       "qualifierCode": [
-        null,
+        "Q604",
         null,
         "Q604",
         null,
@@ -244,7 +244,7 @@
         null
       ],
       "qualifierPhrase": [
-        null,
+        "Hot.",
         null,
         "Hot.",
         null,
@@ -255,13 +255,13 @@
       ],
       "relativeHumidity": [
         71,
-        74,
-        61,
-        68,
-        56,
+        75,
+        62,
+        69,
+        57,
         67,
         53,
-        68
+        69
       ],
       "snowRange": [
         "",
@@ -291,7 +291,7 @@
         100,
         97,
         100,
-        93
+        94
       ],
       "temperatureWindChill": [
         73,
@@ -300,7 +300,7 @@
         75,
         76,
         76,
-        78,
+        77,
         76
       ],
       "thunderCategory": [
@@ -344,14 +344,14 @@
         0
       ],
       "windDirection": [
-        208,
+        209,
         196,
-        217,
+        216,
         210,
-        226,
+        227,
         215,
         231,
-        226
+        233
       ],
       "windDirectionCardinal": [
         "SSW",
@@ -384,24 +384,24 @@
         12
       ],
       "wxPhraseLong": [
+        "AM Clouds/PM Sun",
         "Partly Cloudy",
         "Partly Cloudy",
-        "Mostly Sunny",
         "Clear",
         "Mostly Sunny",
         "Mostly Clear",
         "Mostly Sunny",
-        "Isolated Thunderstorms"
+        "Scattered Thunderstorms"
       ],
       "wxPhraseShort": [
+        "AM Clouds",
         "P Cloudy",
         "P Cloudy",
-        "M Sunny",
         "Clear",
         "M Sunny",
         "M Clear",
         "M Sunny",
-        "Iso T-Storms"
+        "Sct T-Storms"
       ]
     }
   ]
