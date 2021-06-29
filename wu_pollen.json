@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1624921200,
       1624964400,
       1625007600,
       1625050800,
@@ -22,10 +21,11 @@
       1625396400,
       1625439600,
       1625482800,
-      1625526000
+      1625526000,
+      1625569200,
+      1625612400
     ],
     "fcstValidLocal": [
-      "2021-06-28T19:00:00-0400",
       "2021-06-29T07:00:00-0400",
       "2021-06-29T19:00:00-0400",
       "2021-06-30T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2021-07-04T07:00:00-0400",
       "2021-07-04T19:00:00-0400",
       "2021-07-05T07:00:00-0400",
-      "2021-07-05T19:00:00-0400"
+      "2021-07-05T19:00:00-0400",
+      "2021-07-06T07:00:00-0400",
+      "2021-07-06T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Wednesday",
-      "Wednesday night",
       "Thursday",
       "Thursday night",
       "Friday",
@@ -90,13 +93,14 @@
       "Sunday",
       "Sunday night",
       "Monday",
-      "Monday night"
+      "Monday night",
+      "Tuesday",
+      "Tuesday night"
     ],
     "grassPollenIndex": [
       4,
       4,
       4,
-      4,
       3,
       3,
       3,
@@ -106,6 +110,8 @@
       2,
       2,
       2,
+      3,
+      3,
       3,
       3
     ],
@@ -113,7 +119,6 @@
       "Very High",
       "Very High",
       "Very High",
-      "Very High",
       "High",
       "High",
       "High",
@@ -123,10 +128,13 @@
       "Moderate",
       "Moderate",
       "Moderate",
+      "High",
+      "High",
       "High",
       "High"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -175,9 +184,11 @@
       0,
       0,
       0,
+      0,
       0
     ],
     "ragweedPollenCategory": [
+      "None",
       "None",
       "None",
       "None",
