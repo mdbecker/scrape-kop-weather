@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    85,
     86,
+    87,
     92,
-    90
+    89
   ],
   "calendarDayTemperatureMin": [
     69,
     69,
     75,
-    76
+    75
   ],
   "dayOfWeek": [
     "Saturday",
@@ -18,10 +18,10 @@
     "Tuesday"
   ],
   "expirationTimeUtc": [
-    1625946825,
-    1625946825,
-    1625946825,
-    1625946825
+    1625952228,
+    1625952228,
+    1625952228,
+    1625952228
   ],
   "moonPhase": [
     "New Moon",
@@ -66,16 +66,16 @@
     1626232146
   ],
   "narrative": [
-    "Mostly cloudy. Lows overnight in the upper 60s.",
-    "Morning clouds followed by afternoon sun. Highs in the mid 80s and lows in the mid 70s.",
+    "Considerable cloudiness. Lows overnight in the upper 60s.",
+    "Clouds giving way to sun . Highs in the upper 80s and lows in the mid 70s.",
     "Mix of sun and clouds. Highs in the low 90s and lows in the upper 70s.",
-    "Mix of sun and clouds. Highs in the low 90s and lows in the mid 70s."
+    "Times of sun and clouds. Highs in the upper 80s and lows in the mid 70s."
   ],
   "qpf": [
     0,
     0,
-    0.15,
-    0
+    0,
+    0.03
   ],
   "qpfSnow": [
     0,
@@ -109,9 +109,9 @@
   ],
   "temperatureMax": [
     null,
-    86,
+    87,
     92,
-    90
+    89
   ],
   "temperatureMin": [
     69,
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        64,
-        73,
-        60,
+        65,
+        71,
+        58,
         56,
-        54,
-        48,
-        44
+        45,
+        52,
+        59
       ],
       "dayOrNight": [
         null,
@@ -169,9 +169,9 @@
         30,
         29,
         30,
-        47,
+        29,
         30,
-        29
+        47
       ],
       "iconCodeExtend": [
         null,
@@ -179,29 +179,29 @@
         9003,
         2900,
         3000,
-        3709,
+        2900,
         3000,
-        2900
+        3709
       ],
       "narrative": [
         null,
-        "Partly cloudy skies this evening will become overcast overnight. Low 69F. Winds ENE at 5 to 10 mph.",
-        "Cloudy skies early, followed by partial clearing. A stray shower or thunderstorm is possible. High 86F. Winds SE at 10 to 15 mph.",
-        "Partly cloudy skies. A stray shower or thunderstorm is possible. Low around 75F. Winds SSE at 10 to 15 mph.",
-        "Intervals of clouds and sunshine. A stray shower or thunderstorm is possible. High 91F. Winds SW at 5 to 10 mph.",
-        "Isolated thunderstorms during the evening, then partly cloudy overnight. Low 77F. Winds S at 5 to 10 mph. Chance of rain 30%.",
-        "Partly cloudy skies. A stray shower or thunderstorm is possible. High around 90F. Winds SSW at 5 to 10 mph.",
-        "A few clouds. Low 74F. Winds SSE at 5 to 10 mph."
+        "Partly cloudy skies early will give way to cloudy skies late. Low 69F. Winds E at 10 to 15 mph.",
+        "Cloudy skies early, then partly cloudy in the afternoon. A stray shower or thunderstorm is possible. High 87F. Winds SE at 10 to 15 mph.",
+        "Partly to mostly cloudy. A stray shower or thunderstorm is possible. Low around 75F. Winds SSE at 10 to 15 mph.",
+        "Partly cloudy skies. A stray shower or thunderstorm is possible. High 92F. Winds SW at 10 to 15 mph.",
+        "Partly cloudy. Low 77F. Winds S at 5 to 10 mph.",
+        "Intervals of clouds and sunshine. A stray shower or thunderstorm is possible. High 89F. Winds S at 5 to 10 mph.",
+        "Isolated thunderstorms during the evening, then skies turning partly cloudy overnight. Low 74F. Winds SE at 5 to 10 mph. Chance of rain 30%."
       ],
       "precipChance": [
         null,
-        19,
+        22,
         24,
         24,
         24,
-        34,
         24,
-        24
+        24,
+        31
       ],
       "precipType": [
         null,
@@ -219,9 +219,9 @@
         0,
         0,
         0,
-        0.15,
         0,
-        0
+        0,
+        0.02
       ],
       "qpfSnow": [
         null,
@@ -255,13 +255,13 @@
       ],
       "relativeHumidity": [
         null,
-        74,
+        76,
         71,
-        86,
-        73,
+        85,
+        71,
         80,
-        70,
-        79
+        72,
+        80
       ],
       "snowRange": [
         null,
@@ -276,29 +276,29 @@
       "temperature": [
         null,
         69,
-        86,
+        87,
         75,
         92,
         77,
-        90,
+        89,
         74
       ],
       "temperatureHeatIndex": [
         null,
-        87,
-        89,
-        87,
+        86,
+        91,
+        88,
         101,
         98,
-        98,
-        96
+        97,
+        93
       ],
       "temperatureWindChill": [
         null,
         70,
         71,
         76,
-        76,
+        77,
         78,
         78,
         75
@@ -309,9 +309,9 @@
         "Thunder possible",
         "Thunder possible",
         "Thunder possible",
-        "Thunder expected",
+        "No thunder",
         "Thunder possible",
-        "No thunder"
+        "Thunder expected"
       ],
       "thunderIndex": [
         null,
@@ -319,9 +319,9 @@
         1,
         1,
         1,
-        2,
+        0,
         1,
-        0
+        2
       ],
       "uvDescription": [
         null,
@@ -345,37 +345,37 @@
       ],
       "windDirection": [
         null,
-        76,
-        141,
-        162,
-        218,
-        184,
-        197,
-        162
+        88,
+        144,
+        166,
+        221,
+        190,
+        173,
+        140
       ],
       "windDirectionCardinal": [
         null,
-        "ENE",
+        "E",
         "SE",
         "SSE",
         "SW",
         "S",
-        "SSW",
-        "SSE"
+        "S",
+        "SE"
       ],
       "windPhrase": [
         null,
-        "Winds ENE at 5 to 10 mph.",
+        "Winds E at 10 to 15 mph.",
         "Winds SE at 10 to 15 mph.",
         "Winds SSE at 10 to 15 mph.",
-        "Winds SW at 5 to 10 mph.",
+        "Winds SW at 10 to 15 mph.",
         "Winds S at 5 to 10 mph.",
-        "Winds SSW at 5 to 10 mph.",
-        "Winds SSE at 5 to 10 mph."
+        "Winds S at 5 to 10 mph.",
+        "Winds SE at 5 to 10 mph."
       ],
       "windSpeed": [
         null,
-        9,
+        10,
         11,
         11,
         10,
@@ -389,9 +389,9 @@
         "AM Clouds/PM Sun",
         "Partly Cloudy",
         "Partly Cloudy",
-        "Isolated Thunderstorms",
         "Partly Cloudy",
-        "Partly Cloudy"
+        "Partly Cloudy",
+        "Isolated Thunderstorms"
       ],
       "wxPhraseShort": [
         null,
@@ -399,9 +399,9 @@
         "AM Clouds",
         "P Cloudy",
         "P Cloudy",
-        "Iso T-Storms",
         "P Cloudy",
-        "P Cloudy"
+        "P Cloudy",
+        "Iso T-Storms"
       ]
     }
   ]
