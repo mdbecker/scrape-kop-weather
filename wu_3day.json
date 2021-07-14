@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    77,
-    88,
-    92,
+    89,
+    91,
+    94,
     94
   ],
   "calendarDayTemperatureMin": [
-    74,
     73,
     75,
-    74
+    74,
+    76
   ],
   "dayOfWeek": [
     "Tuesday",
@@ -18,10 +18,10 @@
     "Friday"
   ],
   "expirationTimeUtc": [
-    1626240081,
-    1626240081,
-    1626240081,
-    1626240081
+    1626242513,
+    1626242513,
+    1626242513,
+    1626242513
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -66,10 +66,10 @@
     1626408153
   ],
   "narrative": [
-    "Partly cloudy. Lows overnight in the mid 70s.",
-    "Partly cloudy. Highs in the low 90s and lows in the low 70s.",
-    "Mostly sunny. Highs in the mid 90s and lows in the mid 70s.",
-    "Partly cloudy. Highs in the mid 90s and lows in the mid 70s."
+    "Cloudy. Lows overnight in the mid 70s.",
+    "Mix of sun and clouds. Highs in the low 90s and lows in the low 70s.",
+    "Plenty of sun. Highs in the mid 90s and lows in the mid 70s.",
+    "Times of sun and clouds. Highs in the mid 90s and lows in the mid 70s."
   ],
   "qpf": [
     0,
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        54,
-        52,
+        74,
+        49,
+        35,
+        29,
+        40,
         36,
-        30,
-        36,
-        37,
-        48
+        50
       ],
       "dayOrNight": [
         null,
@@ -165,7 +165,7 @@
       ],
       "iconCode": [
         null,
-        29,
+        26,
         30,
         29,
         34,
@@ -175,7 +175,7 @@
       ],
       "iconCodeExtend": [
         null,
-        2900,
+        2600,
         3000,
         2900,
         3400,
@@ -185,21 +185,21 @@
       ],
       "narrative": [
         null,
-        "A few clouds. Low near 75F. Winds light and variable.",
+        "Cloudy. Low near 75F. Winds light and variable.",
         "Partly cloudy skies. A stray shower or thunderstorm is possible. High 92F. Winds WSW at 10 to 15 mph.",
-        "Clear to partly cloudy. Low 73F. Winds WSW at 5 to 10 mph.",
-        "Sunny along with a few clouds. High 94F. Winds WSW at 5 to 10 mph.",
+        "A few clouds. Low 73F. Winds WSW at 5 to 10 mph.",
+        "Generally sunny despite a few afternoon clouds. High 94F. Winds WSW at 5 to 10 mph.",
         "A few clouds from time to time. Low 76F. Winds SSW at 5 to 10 mph.",
-        "Partly cloudy skies. High 94F. Winds SW at 10 to 15 mph.",
-        "Partly cloudy skies. Low 76F. Winds SSW at 5 to 10 mph."
+        "Partly cloudy. High 94F. Winds SW at 10 to 15 mph.",
+        "A few clouds from time to time. Low 76F. Winds SSW at 5 to 10 mph."
       ],
       "precipChance": [
         null,
-        2,
-        15,
-        19,
+        4,
+        16,
+        16,
         10,
-        14,
+        18,
         24,
         24
       ],
@@ -255,12 +255,12 @@
       ],
       "relativeHumidity": [
         null,
-        88,
+        91,
         60,
-        76,
-        58,
         75,
-        62,
+        59,
+        75,
+        61,
         75
       ],
       "snowRange": [
@@ -345,13 +345,13 @@
       ],
       "windDirection": [
         null,
-        203,
-        247,
-        254,
+        208,
+        248,
+        252,
         257,
-        200,
-        216,
-        206
+        198,
+        218,
+        205
       ],
       "windDirectionCardinal": [
         null,
@@ -375,17 +375,17 @@
       ],
       "windSpeed": [
         null,
-        5,
-        11,
+        6,
+        12,
         9,
         9,
         9,
         11,
-        10
+        9
       ],
       "wxPhraseLong": [
         null,
-        "Partly Cloudy",
+        "Cloudy",
         "Partly Cloudy",
         "Partly Cloudy",
         "Mostly Sunny",
@@ -395,7 +395,7 @@
       ],
       "wxPhraseShort": [
         null,
-        "P Cloudy",
+        "Cloudy",
         "P Cloudy",
         "P Cloudy",
         "M Sunny",
