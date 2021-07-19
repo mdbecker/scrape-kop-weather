@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1626649200,
       1626692400,
       1626735600,
       1626778800,
@@ -22,10 +21,11 @@
       1627124400,
       1627167600,
       1627210800,
-      1627254000
+      1627254000,
+      1627297200,
+      1627340400
     ],
     "fcstValidLocal": [
-      "2021-07-18T19:00:00-0400",
       "2021-07-19T07:00:00-0400",
       "2021-07-19T19:00:00-0400",
       "2021-07-20T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2021-07-24T07:00:00-0400",
       "2021-07-24T19:00:00-0400",
       "2021-07-25T07:00:00-0400",
-      "2021-07-25T19:00:00-0400"
+      "2021-07-25T19:00:00-0400",
+      "2021-07-26T07:00:00-0400",
+      "2021-07-26T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Tuesday",
-      "Tuesday night",
       "Wednesday",
       "Wednesday night",
       "Thursday",
@@ -90,7 +93,9 @@
       "Saturday",
       "Saturday night",
       "Sunday",
-      "Sunday night"
+      "Sunday night",
+      "Monday",
+      "Monday night"
     ],
     "grassPollenIndex": [
       3,
@@ -104,10 +109,11 @@
       3,
       3,
       3,
-      3,
       2,
       2,
-      2
+      2,
+      2,
+      3
     ],
     "grassPollenCategory": [
       "High",
@@ -121,12 +127,14 @@
       "High",
       "High",
       "High",
-      "High",
       "Moderate",
       "Moderate",
-      "Moderate"
+      "Moderate",
+      "Moderate",
+      "High"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -175,9 +184,11 @@
       0,
       0,
       0,
+      0,
       0
     ],
     "ragweedPollenCategory": [
+      "None",
       "None",
       "None",
       "None",
