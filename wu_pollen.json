@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1626735600,
       1626778800,
       1626822000,
       1626865200,
@@ -22,10 +21,11 @@
       1627210800,
       1627254000,
       1627297200,
-      1627340400
+      1627340400,
+      1627383600,
+      1627426800
     ],
     "fcstValidLocal": [
-      "2021-07-19T19:00:00-0400",
       "2021-07-20T07:00:00-0400",
       "2021-07-20T19:00:00-0400",
       "2021-07-21T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2021-07-25T07:00:00-0400",
       "2021-07-25T19:00:00-0400",
       "2021-07-26T07:00:00-0400",
-      "2021-07-26T19:00:00-0400"
+      "2021-07-26T19:00:00-0400",
+      "2021-07-27T07:00:00-0400",
+      "2021-07-27T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Wednesday",
-      "Wednesday night",
       "Thursday",
       "Thursday night",
       "Friday",
@@ -90,7 +93,9 @@
       "Sunday",
       "Sunday night",
       "Monday",
-      "Monday night"
+      "Monday night",
+      "Tuesday",
+      "Tuesday night"
     ],
     "grassPollenIndex": [
       3,
@@ -102,12 +107,13 @@
       3,
       3,
       3,
-      3,
       2,
       2,
       2,
       2,
-      2
+      2,
+      2,
+      3
     ],
     "grassPollenCategory": [
       "High",
@@ -119,14 +125,16 @@
       "High",
       "High",
       "High",
-      "High",
       "Moderate",
       "Moderate",
       "Moderate",
       "Moderate",
-      "Moderate"
+      "Moderate",
+      "Moderate",
+      "High"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -175,9 +184,11 @@
       0,
       0,
       0,
+      0,
       0
     ],
     "ragweedPollenCategory": [
+      "None",
       "None",
       "None",
       "None",
