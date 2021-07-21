@@ -4,7 +4,7 @@
     "longitude": -75.39,
     "source": "Contains Copernicus Atmosphere Monitoring Service information 2021 and/or modified Copernicus Atmosphere Monitoring Service information 2021",
     "disclaimer": "Neither the European Commission nor ECMWF is responsible for any use of this information",
-    "airQualityIndex": 154,
+    "airQualityIndex": 153,
     "airQualityCategory": "Unhealthy",
     "airQualityCategoryIndex": 4,
     "airQualityCategoryIndexColor": "FF0000",
@@ -13,25 +13,25 @@
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 7.89,
+        "amount": 5.5,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 4
+        "index": 3
       },
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 83.28,
+        "amount": 99.23,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 28
+        "index": 34
       },
       "SO2": {
         "name": "SO2",
         "phrase": "Sulfur Dioxide",
-        "amount": 3.47,
+        "amount": 2.76,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -40,25 +40,25 @@
       "PM2.5": {
         "name": "PM2.5",
         "phrase": "Particulate matter less than 2.5 microns",
-        "amount": 46.41,
+        "amount": 45.6,
         "unit": "μg/m3",
         "category": "Unhealthy",
         "categoryIndex": 4,
-        "index": 154
+        "index": 153
       },
       "PM10": {
         "name": "PM10",
         "phrase": "Particulate matter less than 10 microns",
-        "amount": 73.73,
+        "amount": 65.41,
         "unit": "μg/m3",
         "category": "Moderate",
         "categoryIndex": 2,
-        "index": 64
+        "index": 63
       },
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 396.75,
+        "amount": 380.56,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -75,6 +75,6 @@
         "text": "Everyone may begin to experience health effects; members of sensitive groups may experience more serious health effects."
       }
     },
-    "expireTimeGmt": 1626883200
+    "expireTimeGmt": 1626890400
   }
 }
