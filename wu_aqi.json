@@ -4,7 +4,7 @@
     "longitude": -75.39,
     "source": "Contains Copernicus Atmosphere Monitoring Service information 2021 and/or modified Copernicus Atmosphere Monitoring Service information 2021",
     "disclaimer": "Neither the European Commission nor ECMWF is responsible for any use of this information",
-    "airQualityIndex": 136,
+    "airQualityIndex": 132,
     "airQualityCategory": "Unhealthy for Sensitive Groups",
     "airQualityCategoryIndex": 3,
     "airQualityCategoryIndexColor": "FF7200",
@@ -13,52 +13,52 @@
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 9.6,
+        "amount": 14.27,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 5
+        "index": 7
       },
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 106.31,
+        "amount": 98.16,
         "unit": "μg/m3",
         "category": "Moderate",
         "categoryIndex": 2,
-        "index": 53
+        "index": 56
       },
       "SO2": {
         "name": "SO2",
         "phrase": "Sulfur Dioxide",
-        "amount": 2.72,
+        "amount": 2.67,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 2
+        "index": 1
       },
       "PM2.5": {
         "name": "PM2.5",
         "phrase": "Particulate matter less than 2.5 microns",
-        "amount": 25.26,
+        "amount": 26.74,
         "unit": "μg/m3",
         "category": "Unhealthy for Sensitive Groups",
         "categoryIndex": 3,
-        "index": 136
+        "index": 132
       },
       "PM10": {
         "name": "PM10",
         "phrase": "Particulate matter less than 10 microns",
-        "amount": 18.34,
+        "amount": 14.94,
         "unit": "μg/m3",
         "category": "Moderate",
         "categoryIndex": 2,
-        "index": 59
+        "index": 57
       },
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 355,
+        "amount": 350.12,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -75,6 +75,6 @@
         "text": "Members of sensitive groups may experience health effects. The general public is not likely to be affected."
       }
     },
-    "expireTimeGmt": 1626908400
+    "expireTimeGmt": 1626912000
   }
 }
