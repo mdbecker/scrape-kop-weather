@@ -13,7 +13,7 @@
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 5.5,
+        "amount": 5.11,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -22,25 +22,25 @@
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 105.07,
+        "amount": 116.63,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 34
+        "index": 38
       },
       "SO2": {
         "name": "SO2",
         "phrase": "Sulfur Dioxide",
-        "amount": 2.76,
+        "amount": 2.45,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 2
+        "index": 1
       },
       "PM2.5": {
         "name": "PM2.5",
         "phrase": "Particulate matter less than 2.5 microns",
-        "amount": 45.1,
+        "amount": 42.1,
         "unit": "μg/m3",
         "category": "Unhealthy",
         "categoryIndex": 4,
@@ -49,7 +49,7 @@
       "PM10": {
         "name": "PM10",
         "phrase": "Particulate matter less than 10 microns",
-        "amount": 65.41,
+        "amount": 57.58,
         "unit": "μg/m3",
         "category": "Moderate",
         "categoryIndex": 2,
@@ -58,7 +58,7 @@
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 380.56,
+        "amount": 371.75,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -75,6 +75,6 @@
         "text": "Everyone may begin to experience health effects; members of sensitive groups may experience more serious health effects."
       }
     },
-    "expireTimeGmt": 1626890400
+    "expireTimeGmt": 1626894000
   }
 }
