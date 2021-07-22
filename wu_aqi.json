@@ -4,7 +4,7 @@
     "longitude": -75.39,
     "source": "Contains Copernicus Atmosphere Monitoring Service information 2021 and/or modified Copernicus Atmosphere Monitoring Service information 2021",
     "disclaimer": "Neither the European Commission nor ECMWF is responsible for any use of this information",
-    "airQualityIndex": 110,
+    "airQualityIndex": 106,
     "airQualityCategory": "Unhealthy for Sensitive Groups",
     "airQualityCategoryIndex": 3,
     "airQualityCategoryIndexColor": "FF7200",
@@ -13,25 +13,25 @@
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 10.63,
+        "amount": 7.86,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 5
+        "index": 4
       },
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 73.28,
+        "amount": 69.57,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 42
+        "index": 39
       },
       "SO2": {
         "name": "SO2",
         "phrase": "Sulfur Dioxide",
-        "amount": 1.87,
+        "amount": 1.69,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -40,25 +40,25 @@
       "PM2.5": {
         "name": "PM2.5",
         "phrase": "Particulate matter less than 2.5 microns",
-        "amount": 11.92,
+        "amount": 11.54,
         "unit": "μg/m3",
         "category": "Unhealthy for Sensitive Groups",
         "categoryIndex": 3,
-        "index": 110
+        "index": 106
       },
       "PM10": {
         "name": "PM10",
         "phrase": "Particulate matter less than 10 microns",
-        "amount": 7.95,
+        "amount": 8.13,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 49
+        "index": 47
       },
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 282.76,
+        "amount": 269.01,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -75,6 +75,6 @@
         "text": "Members of sensitive groups may experience health effects. The general public is not likely to be affected."
       }
     },
-    "expireTimeGmt": 1626930000
+    "expireTimeGmt": 1626933600
   }
 }
