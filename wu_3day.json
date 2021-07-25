@@ -9,7 +9,7 @@
     67,
     73,
     71,
-    71
+    72
   ],
   "dayOfWeek": [
     "Sunday",
@@ -18,10 +18,10 @@
     "Wednesday"
   ],
   "expirationTimeUtc": [
-    1627218193,
-    1627218193,
-    1627218193,
-    1627218193
+    1627221799,
+    1627221799,
+    1627221799,
+    1627221799
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -66,13 +66,13 @@
     1627483175
   ],
   "narrative": [
-    "Thunderstorms developing in the afternoon. Highs in the upper 80s and lows in the low 70s.",
-    "Mix of sun and clouds. Highs in the low 90s and lows in the low 70s.",
-    "Mainly sunny. Highs in the low 90s and lows in the low 70s.",
+    "Afternoon showers and thunderstorms. Highs in the upper 80s and lows in the low 70s.",
+    "Partly cloudy. Highs in the low 90s and lows in the low 70s.",
+    "Plenty of sun. Highs in the low 90s and lows in the low 70s.",
     "Mix of sun and clouds. Highs in the low 90s and lows in the upper 60s."
   ],
   "qpf": [
-    0.01,
+    0.16,
     0,
     0,
     0
@@ -134,13 +134,13 @@
   "daypart": [
     {
       "cloudCover": [
-        55,
+        52,
         58,
-        53,
-        11,
+        54,
         12,
-        29,
-        41,
+        13,
+        31,
+        40,
         39
       ],
       "dayOrNight": [
@@ -168,7 +168,7 @@
         29,
         30,
         31,
-        32,
+        34,
         29,
         30,
         29
@@ -178,27 +178,27 @@
         2900,
         3000,
         3100,
-        3200,
+        3400,
         2900,
         3000,
         2900
       ],
       "narrative": [
-        "Partial cloudiness early, with scattered showers and thunderstorms during the afternoon. Storms may contain strong gusty winds. High 88F. Winds SW at 10 to 15 mph. Chance of rain 40%.",
-        "Partly cloudy skies. A stray shower or thunderstorm is possible. Low 73F. Winds SW at 5 to 10 mph.",
-        "Partly to mostly cloudy. High 92F. Winds WNW at 5 to 10 mph.",
-        "Clear skies. Low 71F. Winds NW at 5 to 10 mph.",
-        "Mainly sunny. High 93F. Winds WNW at 5 to 10 mph.",
-        "A few clouds from time to time. Low 73F. Winds WSW at 5 to 10 mph.",
+        "Mixed clouds and sun this morning. Scattered thunderstorms developing this afternoon. High 88F. Winds SW at 10 to 15 mph. Chance of rain 40%.",
+        "Partly cloudy. A stray shower or thunderstorm is possible. Low 73F. Winds SW at 5 to 10 mph.",
+        "Mostly cloudy skies early will become partly cloudy later in the day. High 92F. Winds WNW at 5 to 10 mph.",
+        "A mostly clear sky. Low 71F. Winds NW at 5 to 10 mph.",
+        "Mostly sunny skies. High 93F. Winds WNW at 5 to 10 mph.",
+        "Partly cloudy. Low 73F. Winds W at 5 to 10 mph.",
         "Intervals of clouds and sunshine. A stray shower or thunderstorm is possible. High near 90F. Winds NW at 5 to 10 mph.",
-        "Partly cloudy. Low 69F. Winds S at 5 to 10 mph."
+        "A few clouds. Low 69F. Winds S at 5 to 10 mph."
       ],
       "precipChance": [
         37,
         24,
-        8,
+        9,
+        4,
         3,
-        2,
         16,
         24,
         24
@@ -214,7 +214,7 @@
         "rain"
       ],
       "qpf": [
-        0.01,
+        0.16,
         0,
         0,
         0,
@@ -234,7 +234,7 @@
         0
       ],
       "qualifierCode": [
-        "Q8029",
+        null,
         "Q8001",
         null,
         null,
@@ -244,7 +244,7 @@
         null
       ],
       "qualifierPhrase": [
-        "Storms may contain strong gusty winds.",
+        null,
         "A stray shower or thunderstorm is possible.",
         null,
         null,
@@ -256,10 +256,10 @@
       "relativeHumidity": [
         65,
         81,
-        53,
+        54,
         62,
         44,
-        64,
+        63,
         53,
         76
       ],
@@ -285,20 +285,20 @@
       ],
       "temperatureHeatIndex": [
         93,
-        91,
+        90,
         92,
-        89,
+        90,
         92,
         90,
         90,
         85
       ],
       "temperatureWindChill": [
-        74,
+        77,
         74,
         75,
         72,
-        74,
+        73,
         74,
         74,
         70
@@ -344,14 +344,14 @@
         0
       ],
       "windDirection": [
-        227,
+        228,
         236,
-        301,
-        314,
-        291,
-        255,
-        325,
-        172
+        299,
+        315,
+        299,
+        264,
+        322,
+        179
       ],
       "windDirectionCardinal": [
         "SW",
@@ -359,7 +359,7 @@
         "WNW",
         "NW",
         "WNW",
-        "WSW",
+        "W",
         "NW",
         "S"
       ],
@@ -369,7 +369,7 @@
         "Winds WNW at 5 to 10 mph.",
         "Winds NW at 5 to 10 mph.",
         "Winds WNW at 5 to 10 mph.",
-        "Winds WSW at 5 to 10 mph.",
+        "Winds W at 5 to 10 mph.",
         "Winds NW at 5 to 10 mph.",
         "Winds S at 5 to 10 mph."
       ],
@@ -388,7 +388,7 @@
         "Partly Cloudy",
         "Partly Cloudy",
         "Clear",
-        "Sunny",
+        "Mostly Sunny",
         "Partly Cloudy",
         "Partly Cloudy",
         "Partly Cloudy"
@@ -398,7 +398,7 @@
         "P Cloudy",
         "P Cloudy",
         "Clear",
-        "Sunny",
+        "M Sunny",
         "P Cloudy",
         "P Cloudy",
         "P Cloudy"
