@@ -1,6 +1,6 @@
 {
   "Type": "pollen",
-  "ForecastDate": "2021-07-30T00:00:00-04:00",
+  "ForecastDate": "2021-07-31T00:00:00-04:00",
   "Location": {
     "ZIP": "19406",
     "City": "KING OF PRUSSIA",
@@ -15,45 +15,20 @@
             "PlantType": "Grass"
           },
           {
-            "LGID": 206,
-            "Name": "Plantain",
-            "Genus": "Plantago",
-            "PlantType": "Ragweed"
-          },
-          {
             "LGID": 107,
             "Name": "Nettle",
             "Genus": "Urtica",
+            "PlantType": "Ragweed"
+          },
+          {
+            "LGID": 206,
+            "Name": "Plantain",
+            "Genus": "Plantago",
             "PlantType": "Ragweed"
           }
         ],
         "Period": "0001-01-01T00:00:00",
         "Type": "Yesterday",
-        "Index": 6
-      },
-      {
-        "Triggers": [
-          {
-            "LGID": 346,
-            "Name": "Grasses",
-            "Genus": "Grasses",
-            "PlantType": "Grass"
-          },
-          {
-            "LGID": 107,
-            "Name": "Nettle",
-            "Genus": "Urtica",
-            "PlantType": "Ragweed"
-          },
-          {
-            "LGID": 206,
-            "Name": "Plantain",
-            "Genus": "Plantago",
-            "PlantType": "Ragweed"
-          }
-        ],
-        "Period": "0001-01-01T00:00:00",
-        "Type": "Today",
         "Index": 7.6
       },
       {
@@ -78,8 +53,33 @@
           }
         ],
         "Period": "0001-01-01T00:00:00",
-        "Type": "Tomorrow",
+        "Type": "Today",
         "Index": 8
+      },
+      {
+        "Triggers": [
+          {
+            "LGID": 346,
+            "Name": "Grasses",
+            "Genus": "Grasses",
+            "PlantType": "Grass"
+          },
+          {
+            "LGID": 107,
+            "Name": "Nettle",
+            "Genus": "Urtica",
+            "PlantType": "Ragweed"
+          },
+          {
+            "LGID": 206,
+            "Name": "Plantain",
+            "Genus": "Plantago",
+            "PlantType": "Ragweed"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Tomorrow",
+        "Index": 7.5
       }
     ],
     "DisplayLocation": "King Of Prussia, PA"
