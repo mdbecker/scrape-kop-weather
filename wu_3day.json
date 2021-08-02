@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
+    81,
     82,
-    82,
-    78,
-    80
+    77,
+    82
   ],
   "calendarDayTemperatureMin": [
     59,
     63,
     66,
-    64
+    65
   ],
   "dayOfWeek": [
     "Monday",
@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1627923308,
-    1627923308,
-    1627923308,
-    1627923308
+    1627928163,
+    1627928163,
+    1627928163,
+    1627928163
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -56,25 +56,25 @@
   "moonsetTimeLocal": [
     "2021-08-02T15:42:13-0400",
     "2021-08-03T16:41:22-0400",
-    "2021-08-04T17:39:20-0400",
+    "2021-08-04T17:39:19-0400",
     "2021-08-05T18:32:30-0400"
   ],
   "moonsetTimeUtc": [
     1627933333,
     1628023282,
-    1628113160,
+    1628113159,
     1628202750
   ],
   "narrative": [
     "Mix of sun and clouds. Highs in the low 80s and lows in the low 60s.",
-    "Mostly cloudy. Highs in the low 80s and lows in the mid 60s.",
-    "Cloudy. Highs in the upper 70s and lows in the mid 60s.",
-    "Morning showers. Highs in the low 80s and lows in the mid 60s."
+    "Cloudy. Highs in the low 80s and lows in the mid 60s.",
+    "Mostly cloudy. Highs in the upper 70s and lows in the mid 60s.",
+    "Showers ending by midday. Highs in the low 80s and lows in the mid 60s."
   ],
   "qpf": [
     0,
     0,
-    0.07,
+    0.01,
     0.04
   ],
   "qpfSnow": [
@@ -85,13 +85,13 @@
   ],
   "sunriseTimeLocal": [
     "2021-08-02T06:00:57-0400",
-    "2021-08-03T06:01:52-0400",
+    "2021-08-03T06:01:51-0400",
     "2021-08-04T06:02:46-0400",
     "2021-08-05T06:03:41-0400"
   ],
   "sunriseTimeUtc": [
     1627898457,
-    1627984912,
+    1627984911,
     1628071366,
     1628157821
   ],
@@ -108,16 +108,16 @@
     1628208563
   ],
   "temperatureMax": [
+    81,
     82,
-    82,
-    78,
-    80
+    77,
+    82
   ],
   "temperatureMin": [
     63,
     66,
-    64,
-    67
+    65,
+    66
   ],
   "validTimeLocal": [
     "2021-08-02T07:00:00-0400",
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        33,
-        40,
-        88,
+        48,
+        42,
+        89,
         94,
         92,
-        69,
-        71,
-        39
+        67,
+        65,
+        33
       ],
       "dayOrNight": [
         "D",
@@ -184,14 +184,14 @@
         2900
       ],
       "narrative": [
-        "Partly cloudy. High 82F. Winds NW at 10 to 15 mph.",
+        "Partly cloudy. High 81F. Winds NNW at 10 to 15 mph.",
         "Clear to partly cloudy. Low 63F. Winds N at 5 to 10 mph.",
-        "Cloudy. High 82F. Winds light and variable.",
-        "Cloudy. Low 66F. Winds ESE at 5 to 10 mph.",
-        "Cloudy. High 78F. Winds ENE at 10 to 15 mph.",
-        "Mostly cloudy skies early with showers developing late. Low 64F. Winds NE at 10 to 15 mph. Chance of rain 40%.",
-        "A few showers early with mostly cloudy conditions later in the day. High near 80F. Winds ENE at 5 to 10 mph. Chance of rain 40%.",
-        "A few clouds from time to time. Low 66F. Winds SW at 5 to 10 mph."
+        "Cloudy skies. High 82F. Winds E at 5 to 10 mph.",
+        "Overcast. Low 66F. Winds ESE at 5 to 10 mph.",
+        "Cloudy skies. High 77F. Winds ENE at 5 to 10 mph.",
+        "Mostly cloudy skies with a few showers late. Low near 65F. Winds NE at 10 to 15 mph. Chance of rain 30%.",
+        "A few showers in the morning, then clouds lingering in the afternoon. High 82F. Winds NNE at 5 to 10 mph. Chance of rain 30%.",
+        "Partly cloudy skies. Low 66F. Winds SW at 5 to 10 mph."
       ],
       "precipChance": [
         0,
@@ -199,8 +199,8 @@
         3,
         24,
         24,
-        36,
-        37,
+        32,
+        33,
         24
       ],
       "precipType": [
@@ -219,7 +219,7 @@
         0,
         0,
         0,
-        0.07,
+        0.01,
         0.04,
         0
       ],
@@ -254,14 +254,14 @@
         null
       ],
       "relativeHumidity": [
-        44,
-        59,
+        41,
+        58,
         49,
-        70,
+        69,
         65,
         76,
-        68,
-        79
+        64,
+        77
       ],
       "snowRange": [
         "",
@@ -274,32 +274,32 @@
         ""
       ],
       "temperature": [
-        82,
+        81,
         63,
         82,
         66,
-        78,
-        64,
-        80,
-        67
+        77,
+        65,
+        82,
+        66
       ],
       "temperatureHeatIndex": [
         81,
         80,
-        81,
+        80,
         79,
-        79,
-        74,
-        81,
-        80
+        77,
+        75,
+        82,
+        81
       ],
       "temperatureWindChill": [
-        77,
+        78,
         64,
-        66,
-        67,
-        67,
         65,
+        67,
+        67,
+        66,
         66,
         67
       ],
@@ -324,9 +324,9 @@
         0
       ],
       "uvDescription": [
-        "Very High",
+        "High",
         "Low",
-        "Moderate",
+        "High",
         "Low",
         "Moderate",
         "Low",
@@ -334,9 +334,9 @@
         "Low"
       ],
       "uvIndex": [
-        9,
+        7,
         0,
-        5,
+        6,
         0,
         4,
         0,
@@ -344,43 +344,43 @@
         0
       ],
       "windDirection": [
-        323,
-        355,
-        92,
-        122,
-        66,
-        38,
-        75,
-        219
+        327,
+        358,
+        95,
+        120,
+        65,
+        42,
+        16,
+        215
       ],
       "windDirectionCardinal": [
-        "NW",
+        "NNW",
         "N",
         "E",
         "ESE",
         "ENE",
         "NE",
-        "ENE",
+        "NNE",
         "SW"
       ],
       "windPhrase": [
-        "Winds NW at 10 to 15 mph.",
+        "Winds NNW at 10 to 15 mph.",
         "Winds N at 5 to 10 mph.",
-        "Winds light and variable.",
+        "Winds E at 5 to 10 mph.",
         "Winds ESE at 5 to 10 mph.",
-        "Winds ENE at 10 to 15 mph.",
-        "Winds NE at 10 to 15 mph.",
         "Winds ENE at 5 to 10 mph.",
+        "Winds NE at 10 to 15 mph.",
+        "Winds NNE at 5 to 10 mph.",
         "Winds SW at 5 to 10 mph."
       ],
       "windSpeed": [
-        11,
-        9,
-        6,
-        7,
-        11,
         10,
-        8,
+        9,
+        7,
+        7,
+        10,
+        10,
+        7,
         8
       ],
       "wxPhraseLong": [
