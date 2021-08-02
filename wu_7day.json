@@ -1,23 +1,23 @@
 {
   "calendarDayTemperatureMax": [
+    67,
     72,
     80,
     81,
     81,
     80,
     87,
-    87,
-    90
+    87
   ],
   "calendarDayTemperatureMin": [
+    62,
     59,
     60,
     57,
     61,
     60,
     63,
-    67,
-    69
+    67
   ],
   "dayOfWeek": [
     "Sunday",
@@ -30,14 +30,14 @@
     "Sunday"
   ],
   "expirationTimeUtc": [
-    1627878528,
-    1627878528,
-    1627878528,
-    1627878528,
-    1627878528,
-    1627878528,
-    1627878528,
-    1627878528
+    1627882142,
+    1627882142,
+    1627882142,
+    1627882142,
+    1627882142,
+    1627882142,
+    1627882142,
+    1627882142
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -110,14 +110,14 @@
     1628469631
   ],
   "narrative": [
-    "Partly cloudy. Lows overnight in the low 60s.",
-    "A few clouds. Highs in the low 80s and lows in the upper 50s.",
-    "Cloudy. Highs in the low 80s and lows in the low 60s.",
-    "Cloudy. Highs in the low 80s and lows in the low 60s.",
-    "Chance of showers. Highs in the low 80s and lows in the low 60s.",
-    "Times of sun and clouds. Highs in the upper 80s and lows in the upper 60s.",
-    "Mostly cloudy. Highs in the mid 80s and lows in the upper 60s.",
-    "Partly cloudy. Highs in the low 90s and lows in the low 70s."
+    "Clear. Lows overnight in the upper 50s.",
+    "More sun than clouds. Highs in the low 80s and lows in the upper 50s.",
+    "Mostly cloudy. Highs in the low 80s and lows in the low 60s.",
+    "Mostly cloudy. Highs in the low 80s and lows in the low 60s.",
+    "Showers possible. Highs in the low 80s and lows in the low 60s.",
+    "Mix of sun and clouds. Highs in the upper 80s and lows in the upper 60s.",
+    "More clouds than sun. Highs in the mid 80s and lows in the upper 60s.",
+    "Mix of sun and clouds. Highs in the low 90s and lows in the low 70s."
   ],
   "qpf": [
     0,
@@ -223,7 +223,7 @@
     {
       "cloudCover": [
         null,
-        34,
+        19,
         16,
         32,
         87,
@@ -277,7 +277,7 @@
       ],
       "iconCode": [
         null,
-        29,
+        31,
         34,
         33,
         26,
@@ -295,7 +295,7 @@
       ],
       "iconCodeExtend": [
         null,
-        2900,
+        3100,
         3400,
         3300,
         2600,
@@ -313,26 +313,26 @@
       ],
       "narrative": [
         null,
-        "Partly to mostly cloudy. A stray shower or thunderstorm is possible. Low around 60F. Winds light and variable.",
-        "Mostly sunny skies. High near 80F. Winds NNW at 5 to 10 mph.",
+        "Clear skies. Low 59F. Winds light and variable.",
+        "Mostly sunny skies. High around 80F. Winds NNW at 5 to 10 mph.",
         "A few clouds overnight. Low 57F. Winds light and variable.",
-        "Overcast. High 81F. Winds light and variable.",
-        "Cloudy. A stray shower or thunderstorm is possible. Low 61F. Winds light and variable.",
-        "Overcast. A stray shower or thunderstorm is possible. High 81F. Winds NE at 5 to 10 mph.",
-        "Partly cloudy skies early followed by increasing clouds with showers developing later at night. Low near 60F. Winds ENE at 5 to 10 mph. Chance of rain 50%.",
-        "Overcast with rain showers at times. High around 80F. Winds light and variable. Chance of rain 50%.",
+        "Cloudy skies. High 81F. Winds light and variable.",
+        "Overcast. A stray shower or thunderstorm is possible. Low 61F. Winds light and variable.",
+        "Cloudy. A stray shower or thunderstorm is possible. High 81F. Winds NE at 5 to 10 mph.",
+        "Partly cloudy skies early will give way to occasional showers later during the night. Low around 60F. Winds ENE at 5 to 10 mph. Chance of rain 50%.",
+        "Cloudy with showers. High around 80F. Winds light and variable. Chance of rain 50%.",
         "A shower or two possible early with partly cloudy skies later at night. Low 63F. Winds light and variable. Chance of rain 30%.",
         "Intervals of clouds and sunshine. High 87F. Winds SSW at 5 to 10 mph.",
-        "Partly to mostly cloudy. Low 67F. Winds S at 5 to 10 mph.",
-        "Mostly cloudy. A stray shower or thunderstorm is possible. High 86F. Winds light and variable.",
-        "Partly cloudy. Low 69F. Winds light and variable.",
-        "Sunshine and clouds mixed. High near 90F. Winds SW at 5 to 10 mph.",
+        "Partly cloudy skies during the evening will give way to cloudy skies overnight. Low 67F. Winds S at 5 to 10 mph.",
+        "Mainly cloudy. A stray shower or thunderstorm is possible. High 86F. Winds light and variable.",
+        "Partly cloudy skies. Low 69F. Winds light and variable.",
+        "Partly cloudy skies. High near 90F. Winds SW at 5 to 10 mph.",
         "Partly cloudy skies. Low around 70F. Winds light and variable."
       ],
       "precipChance": [
         null,
         15,
-        8,
+        6,
         5,
         6,
         22,
@@ -403,7 +403,7 @@
       ],
       "qualifierCode": [
         null,
-        "Q8001",
+        null,
         null,
         null,
         null,
@@ -421,7 +421,7 @@
       ],
       "qualifierPhrase": [
         null,
-        "A stray shower or thunderstorm is possible.",
+        null,
         null,
         null,
         null,
@@ -439,7 +439,7 @@
       ],
       "relativeHumidity": [
         null,
-        98,
+        97,
         61,
         75,
         53,
@@ -493,7 +493,7 @@
       ],
       "temperatureHeatIndex": [
         null,
-        63,
+        62,
         80,
         78,
         80,
@@ -511,7 +511,7 @@
       ],
       "temperatureWindChill": [
         null,
-        61,
+        60,
         61,
         58,
         60,
@@ -529,7 +529,7 @@
       ],
       "thunderCategory": [
         null,
-        "Thunder possible",
+        "No thunder",
         "No thunder",
         "No thunder",
         "No thunder",
@@ -547,7 +547,7 @@
       ],
       "thunderIndex": [
         null,
-        1,
+        0,
         0,
         0,
         0,
@@ -601,7 +601,7 @@
       ],
       "windDirection": [
         null,
-        312,
+        314,
         329,
         358,
         67,
@@ -655,7 +655,7 @@
       ],
       "windSpeed": [
         null,
-        4,
+        5,
         9,
         6,
         3,
@@ -673,7 +673,7 @@
       ],
       "wxPhraseLong": [
         null,
-        "Partly Cloudy",
+        "Clear",
         "Mostly Sunny",
         "Mostly Clear",
         "Cloudy",
@@ -691,7 +691,7 @@
       ],
       "wxPhraseShort": [
         null,
-        "P Cloudy",
+        "Clear",
         "M Sunny",
         "M Clear",
         "Cloudy",
