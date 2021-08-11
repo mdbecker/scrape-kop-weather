@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1628636400,
       1628679600,
       1628722800,
       1628766000,
@@ -22,10 +21,11 @@
       1629111600,
       1629154800,
       1629198000,
-      1629241200
+      1629241200,
+      1629284400,
+      1629327600
     ],
     "fcstValidLocal": [
-      "2021-08-10T19:00:00-0400",
       "2021-08-11T07:00:00-0400",
       "2021-08-11T19:00:00-0400",
       "2021-08-12T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2021-08-16T07:00:00-0400",
       "2021-08-16T19:00:00-0400",
       "2021-08-17T07:00:00-0400",
-      "2021-08-17T19:00:00-0400"
+      "2021-08-17T19:00:00-0400",
+      "2021-08-18T07:00:00-0400",
+      "2021-08-18T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Thursday",
-      "Thursday night",
       "Friday",
       "Friday night",
       "Saturday",
@@ -90,7 +93,9 @@
       "Monday",
       "Monday night",
       "Tuesday",
-      "Tuesday night"
+      "Tuesday night",
+      "Wednesday",
+      "Wednesday night"
     ],
     "grassPollenIndex": [
       2,
@@ -98,13 +103,14 @@
       2,
       2,
       2,
-      2,
       1,
       1,
       1,
       2,
       2,
       2,
+      1,
+      1,
       1,
       1,
       1
@@ -115,18 +121,20 @@
       "Moderate",
       "Moderate",
       "Moderate",
-      "Moderate",
       "Low",
       "Low",
       "Low",
       "Moderate",
       "Moderate",
       "Moderate",
+      "Low",
+      "Low",
       "Low",
       "Low",
       "Low"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -175,9 +184,11 @@
       0,
       0,
       0,
+      0,
       0
     ],
     "ragweedPollenCategory": [
+      "None",
       "None",
       "None",
       "None",
