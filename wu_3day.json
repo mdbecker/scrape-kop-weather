@@ -18,10 +18,10 @@
     "Saturday"
   ],
   "expirationTimeUtc": [
-    1628696932,
-    1628696932,
-    1628696932,
-    1628696932
+    1628702343,
+    1628702343,
+    1628702343,
+    1628702343
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -66,10 +66,10 @@
     1628998248
   ],
   "narrative": [
-    "Partly cloudy. Highs in the mid 90s and lows in the upper 70s.",
-    "Mostly sunny. Highs in the upper 90s and lows in the upper 70s.",
-    "A few clouds. Highs in the upper 90s and lows in the upper 70s.",
-    "Afternoon thunderstorms. Highs in the upper 80s and lows in the upper 60s."
+    "Times of sun and clouds. Highs in the mid 90s and lows in the upper 70s.",
+    "Times of sun and clouds. Highs in the upper 90s and lows in the upper 70s.",
+    "Plenty of sun. Highs in the upper 90s and lows in the upper 70s.",
+    "Thunderstorms developing in the afternoon. Highs in the upper 80s and lows in the upper 60s."
   ],
   "qpf": [
     0,
@@ -116,7 +116,7 @@
   "temperatureMin": [
     78,
     79,
-    78,
+    77,
     68
   ],
   "validTimeLocal": [
@@ -134,12 +134,12 @@
   "daypart": [
     {
       "cloudCover": [
-        35,
-        29,
-        28,
-        28,
         37,
-        51,
+        30,
+        33,
+        27,
+        37,
+        52,
         60,
         60
       ],
@@ -166,7 +166,7 @@
       "iconCode": [
         30,
         29,
-        34,
+        30,
         33,
         34,
         29,
@@ -176,7 +176,7 @@
       "iconCodeExtend": [
         3000,
         2900,
-        3400,
+        3000,
         3300,
         3400,
         2900,
@@ -184,20 +184,20 @@
         6200
       ],
       "narrative": [
-        "Sunshine and clouds mixed. A stray shower or thunderstorm is possible. High around 95F. Winds SW at 10 to 15 mph.",
-        "Partly cloudy skies. Low 78F. Winds SW at 5 to 10 mph.",
-        "Sunny along with a few clouds. Hot and humid. High 97F. Winds SW at 10 to 15 mph.",
-        "Mainly clear skies. Low 79F. Winds SW at 10 to 15 mph.",
-        "Sunny along with a few clouds. A stray shower or thunderstorm is possible. High 98F. Winds WSW at 10 to 15 mph.",
-        "Partly cloudy. Low 78F. Winds WSW at 5 to 10 mph.",
-        "Partly cloudy with afternoon showers or thunderstorms. High 88F. Winds NW at 5 to 10 mph. Chance of rain 40%.",
+        "A mix of clouds and sun. A stray shower or thunderstorm is possible. High near 95F. Winds SW at 10 to 15 mph.",
+        "Some clouds. Low 78F. Winds SW at 5 to 10 mph.",
+        "Sunshine and clouds mixed. Hot and humid. High 97F. Winds SW at 10 to 15 mph.",
+        "Clear skies with a few passing clouds. Low 79F. Winds SW at 10 to 15 mph.",
+        "Except for a few afternoon clouds, mainly sunny. A stray shower or thunderstorm is possible. High 98F. Winds WSW at 10 to 15 mph.",
+        "Partly cloudy skies. Low 77F. Winds WSW at 5 to 10 mph.",
+        "Partial cloudiness early, with scattered showers and thunderstorms in the afternoon. High 88F. Winds NW at 5 to 10 mph. Chance of rain 40%.",
         "Scattered thunderstorms during the evening, then partly cloudy overnight. Low 68F. Winds N at 5 to 10 mph. Chance of rain 40%."
       ],
       "precipChance": [
         15,
         15,
         11,
-        16,
+        10,
         18,
         24,
         39,
@@ -254,12 +254,12 @@
         null
       ],
       "relativeHumidity": [
-        58,
-        72,
+        55,
+        71,
         59,
         71,
         57,
-        73,
+        72,
         62,
         64
       ],
@@ -279,28 +279,28 @@
         97,
         79,
         99,
-        78,
+        77,
         88,
         68
       ],
       "temperatureHeatIndex": [
         104,
         102,
-        106,
-        104,
+        105,
+        102,
         107,
         103,
         92,
         85
       ],
       "temperatureWindChill": [
-        86,
+        89,
         79,
         79,
         80,
         80,
         79,
-        79,
+        78,
         69
       ],
       "thunderCategory": [
@@ -344,13 +344,13 @@
         0
       ],
       "windDirection": [
-        217,
-        220,
-        229,
-        218,
-        238,
-        247,
-        316,
+        216,
+        221,
+        230,
+        226,
+        245,
+        254,
+        314,
         0
       ],
       "windDirectionCardinal": [
@@ -386,7 +386,7 @@
       "wxPhraseLong": [
         "Partly Cloudy",
         "Partly Cloudy",
-        "Mostly Sunny",
+        "Partly Cloudy",
         "Mostly Clear",
         "Mostly Sunny",
         "Partly Cloudy",
@@ -396,7 +396,7 @@
       "wxPhraseShort": [
         "P Cloudy",
         "P Cloudy",
-        "M Sunny",
+        "P Cloudy",
         "M Clear",
         "M Sunny",
         "P Cloudy",
