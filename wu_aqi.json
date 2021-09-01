@@ -4,11 +4,11 @@
     "longitude": -75.39,
     "source": "Contains Copernicus Atmosphere Monitoring Service information 2021 and/or modified Copernicus Atmosphere Monitoring Service information 2021",
     "disclaimer": "Neither the European Commission nor ECMWF is responsible for any use of this information",
-    "airQualityIndex": 44,
+    "airQualityIndex": 42,
     "airQualityCategory": "Good",
     "airQualityCategoryIndex": 1,
     "airQualityCategoryIndexColor": "00E838",
-    "primaryPollutant": "O3",
+    "primaryPollutant": "PM2.5",
     "pollutants": {
       "NO2": {
         "name": "NO2",
@@ -22,11 +22,11 @@
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 76.22,
+        "amount": 54.16,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 44
+        "index": 42
       },
       "SO2": {
         "name": "SO2",
@@ -75,6 +75,6 @@
         "text": "Air quality is considered satisfactory, and air pollution poses little or no risk."
       }
     },
-    "expireTimeGmt": 1630465329
+    "expireTimeGmt": 1630465257
   }
 }
