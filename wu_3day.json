@@ -1,6 +1,6 @@
 {
   "calendarDayTemperatureMax": [
-    75,
+    76,
     76,
     79,
     77
@@ -8,7 +8,7 @@
   "calendarDayTemperatureMin": [
     62,
     58,
-    58,
+    57,
     65
   ],
   "dayOfWeek": [
@@ -18,10 +18,10 @@
     "Sunday"
   ],
   "expirationTimeUtc": [
-    1630568714,
-    1630568714,
-    1630568714,
-    1630568714
+    1630573533,
+    1630573533,
+    1630573533,
+    1630573533
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -66,16 +66,16 @@
     1630883454
   ],
   "narrative": [
-    "Partly cloudy. Highs in the upper 70s and lows in the upper 50s.",
-    "Plenty of sun. Highs in the mid 70s and lows in the upper 50s.",
-    "Times of sun and clouds. Highs in the upper 70s and lows in the mid 60s.",
-    "Cloudy. Highs in the upper 70s and lows in the upper 60s."
+    "Mix of sun and clouds. Highs in the upper 70s and lows in the upper 50s.",
+    "Mostly sunny. Highs in the mid 70s and lows in the upper 50s.",
+    "Sunny. Highs in the upper 70s and lows in the mid 60s.",
+    "Showers ending by midday. Highs in the upper 70s and lows in the upper 60s."
   ],
   "qpf": [
     0,
     0,
     0,
-    0
+    0.01
   ],
   "qpfSnow": [
     0,
@@ -115,7 +115,7 @@
   ],
   "temperatureMin": [
     58,
-    58,
+    57,
     65,
     67
   ],
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        18,
+        16,
         2,
-        24,
-        26,
-        19,
-        56,
-        82,
-        67
+        23,
+        25,
+        18,
+        55,
+        85,
+        62
       ],
       "dayOrNight": [
         "D",
@@ -168,9 +168,9 @@
         31,
         34,
         33,
-        30,
+        32,
         29,
-        26,
+        39,
         29
       ],
       "iconCodeExtend": [
@@ -178,29 +178,29 @@
         3100,
         3400,
         3300,
-        3000,
+        3200,
         2900,
-        2600,
-        2900
+        6103,
+        9000
       ],
       "narrative": [
         "A shower is possible early. Some clouds this morning will give way to generally sunny skies for the afternoon. High 77F. Winds NNW at 10 to 20 mph.",
-        "Clear skies. Low 58F. Winds NNW at 10 to 15 mph.",
-        "Except for a few afternoon clouds, mainly sunny. High 76F. Winds NNW at 10 to 15 mph.",
-        "Mainly clear skies. Low 58F. Winds NNW at 5 to 10 mph.",
-        "Some clouds in the morning will give way to mainly sunny skies for the afternoon. High 79F. Winds WNW at 5 to 10 mph.",
-        "Partly to mostly cloudy. Low around 65F. Winds SSW at 5 to 10 mph.",
-        "Cloudy. Slight chance of a rain shower. High 77F. Winds SW at 10 to 15 mph.",
-        "Mostly cloudy skies early, then partly cloudy after midnight. Low 67F. Winds WSW at 5 to 10 mph."
+        "Clear skies. Low 57F. Winds NNW at 10 to 15 mph.",
+        "Sunny, along with a few afternoon clouds. High 76F. Winds NNW at 10 to 15 mph.",
+        "Mostly clear skies. Low 57F. Winds NNW at 5 to 10 mph.",
+        "Sunny skies. High 79F. Winds WNW at 5 to 10 mph.",
+        "Partly cloudy skies. Low near 65F. Winds SSW at 5 to 10 mph.",
+        "Showers in the morning, then cloudy in the afternoon. High 77F. Winds SSW at 10 to 15 mph. Chance of rain 30%.",
+        "Cloudy skies early, followed by partial clearing. Low 67F. Winds SW at 5 to 10 mph."
       ],
       "precipChance": [
         15,
         5,
         5,
-        10,
-        10,
-        16,
-        21,
+        11,
+        11,
+        14,
+        33,
         24
       ],
       "precipType": [
@@ -220,7 +220,7 @@
         0,
         0,
         0,
-        0,
+        0.01,
         0
       ],
       "qpfSnow": [
@@ -240,7 +240,7 @@
         null,
         null,
         null,
-        "Q5015",
+        null,
         null
       ],
       "qualifierPhrase": [
@@ -250,18 +250,18 @@
         null,
         null,
         null,
-        "Slight chance of a rain shower.",
+        null,
         null
       ],
       "relativeHumidity": [
-        59,
-        68,
-        59,
+        58,
+        69,
+        60,
         73,
-        59,
-        75,
-        75,
-        81
+        58,
+        73,
+        76,
+        82
       ],
       "snowRange": [
         "",
@@ -277,7 +277,7 @@
         77,
         58,
         76,
-        58,
+        57,
         79,
         65,
         77,
@@ -285,22 +285,22 @@
       ],
       "temperatureHeatIndex": [
         75,
-        71,
+        72,
         74,
         71,
-        77,
-        74,
         79,
+        74,
+        77,
         76
       ],
       "temperatureWindChill": [
         62,
         58,
+        57,
+        59,
         58,
-        59,
-        59,
         66,
-        66,
+        67,
         68
       ],
       "thunderCategory": [
@@ -344,14 +344,14 @@
         0
       ],
       "windDirection": [
-        338,
-        336,
-        333,
-        328,
+        337,
+        337,
+        334,
+        330,
         296,
-        202,
-        216,
-        238
+        201,
+        211,
+        235
       ],
       "windDirectionCardinal": [
         "NNW",
@@ -360,8 +360,8 @@
         "NNW",
         "WNW",
         "SSW",
-        "SW",
-        "WSW"
+        "SSW",
+        "SW"
       ],
       "windPhrase": [
         "Winds NNW at 10 to 20 mph.",
@@ -370,15 +370,15 @@
         "Winds NNW at 5 to 10 mph.",
         "Winds WNW at 5 to 10 mph.",
         "Winds SSW at 5 to 10 mph.",
-        "Winds SW at 10 to 15 mph.",
-        "Winds WSW at 5 to 10 mph."
+        "Winds SSW at 10 to 15 mph.",
+        "Winds SW at 5 to 10 mph."
       ],
       "windSpeed": [
         15,
         10,
         12,
         9,
-        9,
+        8,
         7,
         12,
         9
@@ -388,20 +388,20 @@
         "Clear",
         "Mostly Sunny",
         "Mostly Clear",
+        "Sunny",
         "Partly Cloudy",
-        "Partly Cloudy",
-        "Cloudy",
-        "Partly Cloudy"
+        "AM Showers",
+        "Clouds Early/Clearing Late"
       ],
       "wxPhraseShort": [
         "P Cloudy",
         "Clear",
         "M Sunny",
         "M Clear",
+        "Sunny",
         "P Cloudy",
-        "P Cloudy",
-        "Cloudy",
-        "P Cloudy"
+        "AM Showers",
+        "Clear Late"
       ]
     }
   ]
