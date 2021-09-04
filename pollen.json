@@ -1,36 +1,11 @@
 {
   "Type": "pollen",
-  "ForecastDate": "2021-09-03T00:00:00-04:00",
+  "ForecastDate": "2021-09-04T00:00:00-04:00",
   "Location": {
     "ZIP": "19406",
     "City": "KING OF PRUSSIA",
     "State": "PA",
     "periods": [
-      {
-        "Triggers": [
-          {
-            "LGID": 15,
-            "Name": "Ragweed",
-            "Genus": "Ambrosia",
-            "PlantType": "Ragweed"
-          },
-          {
-            "LGID": 344,
-            "Name": "Chenopods",
-            "Genus": "Chenopods",
-            "PlantType": "Ragweed"
-          },
-          {
-            "LGID": 107,
-            "Name": "Nettle",
-            "Genus": "Urtica",
-            "PlantType": "Ragweed"
-          }
-        ],
-        "Period": "0001-01-01T00:00:00",
-        "Type": "Yesterday",
-        "Index": 10.6
-      },
       {
         "Triggers": [
           {
@@ -53,7 +28,7 @@
           }
         ],
         "Period": "0001-01-01T00:00:00",
-        "Type": "Today",
+        "Type": "Yesterday",
         "Index": 8.2
       },
       {
@@ -78,8 +53,33 @@
           }
         ],
         "Period": "0001-01-01T00:00:00",
-        "Type": "Tomorrow",
+        "Type": "Today",
         "Index": 8.5
+      },
+      {
+        "Triggers": [
+          {
+            "LGID": 15,
+            "Name": "Ragweed",
+            "Genus": "Ambrosia",
+            "PlantType": "Ragweed"
+          },
+          {
+            "LGID": 344,
+            "Name": "Chenopods",
+            "Genus": "Chenopods",
+            "PlantType": "Ragweed"
+          },
+          {
+            "LGID": 346,
+            "Name": "Grasses",
+            "Genus": "Grasses",
+            "PlantType": "Grass"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Tomorrow",
+        "Index": 7.7
       }
     ],
     "DisplayLocation": "King Of Prussia, PA"
