@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1630796400,
       1630839600,
       1630882800,
       1630926000,
@@ -22,10 +21,11 @@
       1631271600,
       1631314800,
       1631358000,
-      1631401200
+      1631401200,
+      1631444400,
+      1631487600
     ],
     "fcstValidLocal": [
-      "2021-09-04T19:00:00-0400",
       "2021-09-05T07:00:00-0400",
       "2021-09-05T19:00:00-0400",
       "2021-09-06T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2021-09-10T07:00:00-0400",
       "2021-09-10T19:00:00-0400",
       "2021-09-11T07:00:00-0400",
-      "2021-09-11T19:00:00-0400"
+      "2021-09-11T19:00:00-0400",
+      "2021-09-12T07:00:00-0400",
+      "2021-09-12T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Monday",
-      "Monday night",
       "Tuesday",
       "Tuesday night",
       "Wednesday",
@@ -90,7 +93,9 @@
       "Friday",
       "Friday night",
       "Saturday",
-      "Saturday night"
+      "Saturday night",
+      "Sunday",
+      "Sunday night"
     ],
     "grassPollenIndex": [
       1,
@@ -98,8 +103,9 @@
       0,
       0,
       0,
-      1,
-      1,
+      0,
+      0,
+      0,
       0,
       0,
       0,
@@ -115,8 +121,9 @@
       "None",
       "None",
       "None",
-      "Low",
-      "Low",
+      "None",
+      "None",
+      "None",
       "None",
       "None",
       "None",
@@ -127,6 +134,7 @@
       "None"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -171,11 +180,12 @@
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
     ],
     "ragweedPollenCategory": [
       "None",
@@ -188,11 +198,12 @@
       "None",
       "None",
       "None",
-      "None",
-      "None",
-      "None",
-      "None",
-      "None"
+      "Low",
+      "Low",
+      "Low",
+      "Low",
+      "Low",
+      "Low"
     ]
   }
 }
