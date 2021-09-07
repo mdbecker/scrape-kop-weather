@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    71,
-    84,
-    83,
-    85
+    85,
+    82,
+    85,
+    79
   ],
   "calendarDayTemperatureMin": [
-    69,
-    65,
+    66,
     63,
-    68
+    67,
+    65
   ],
   "dayOfWeek": [
     "Monday",
@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1630990756,
-    1630990756,
-    1630990756,
-    1630990756
+    1630994322,
+    1630994322,
+    1630994322,
+    1630994322
   ],
   "moonPhase": [
     "New Moon",
@@ -42,40 +42,40 @@
     3
   ],
   "moonriseTimeLocal": [
-    "2021-09-06T05:50:00-0400",
+    "2021-09-06T05:49:59-0400",
     "2021-09-07T06:59:34-0400",
     "2021-09-08T08:09:44-0400",
-    "2021-09-09T09:21:16-0400"
+    "2021-09-09T09:21:17-0400"
   ],
   "moonriseTimeUtc": [
-    1630921800,
+    1630921799,
     1631012374,
     1631102984,
-    1631193676
+    1631193677
   ],
   "moonsetTimeLocal": [
     "2021-09-06T19:40:51-0400",
-    "2021-09-07T20:08:07-0400",
+    "2021-09-07T20:08:08-0400",
     "2021-09-08T20:34:51-0400",
     "2021-09-09T21:02:34-0400"
   ],
   "moonsetTimeUtc": [
     1630971651,
-    1631059687,
+    1631059688,
     1631147691,
     1631235754
   ],
   "narrative": [
-    "Mainly clear. Lows overnight in the low 60s.",
+    "Clear. Lows overnight in the low 60s.",
     "Plenty of sun. Highs in the low 80s and lows in the upper 60s.",
-    "Afternoon thunderstorms. Highs in the mid 80s and lows in the mid 60s.",
-    "A few morning showers. Highs in the upper 70s and lows in the low 60s."
+    "Afternoon showers and thunderstorms. Highs in the mid 80s and lows in the upper 60s.",
+    "More clouds than sun. Highs in the upper 70s and lows in the low 60s."
   ],
   "qpf": [
     0,
     0,
     0.5,
-    0.06
+    0
   ],
   "qpfSnow": [
     0,
@@ -85,38 +85,38 @@
   ],
   "sunriseTimeLocal": [
     "2021-09-06T06:33:37-0400",
-    "2021-09-07T06:34:34-0400",
-    "2021-09-08T06:35:30-0400",
+    "2021-09-07T06:34:33-0400",
+    "2021-09-08T06:35:29-0400",
     "2021-09-09T06:36:26-0400"
   ],
   "sunriseTimeUtc": [
     1630924417,
-    1631010874,
-    1631097330,
+    1631010873,
+    1631097329,
     1631183786
   ],
   "sunsetTimeLocal": [
     "2021-09-06T19:24:04-0400",
-    "2021-09-07T19:22:26-0400",
-    "2021-09-08T19:20:48-0400",
+    "2021-09-07T19:22:27-0400",
+    "2021-09-08T19:20:49-0400",
     "2021-09-09T19:19:10-0400"
   ],
   "sunsetTimeUtc": [
     1630970644,
-    1631056946,
-    1631143248,
+    1631056947,
+    1631143249,
     1631229550
   ],
   "temperatureMax": [
     null,
     83,
     85,
-    78
+    79
   ],
   "temperatureMin": [
     63,
-    68,
-    66,
+    67,
+    67,
     61
   ],
   "validTimeLocal": [
@@ -135,11 +135,11 @@
     {
       "cloudCover": [
         null,
-        1,
+        2,
         9,
-        5,
-        44,
-        72,
+        4,
+        47,
+        71,
         77,
         20
       ],
@@ -170,7 +170,7 @@
         31,
         38,
         4,
-        39,
+        28,
         29
       ],
       "iconCodeExtend": [
@@ -180,27 +180,27 @@
         3100,
         7203,
         400,
-        6103,
+        2800,
         2900
       ],
       "narrative": [
         null,
         "Clear skies. Low 63F. Winds light and variable.",
-        "Sunshine. High 83F. Winds W at 5 to 10 mph.",
-        "Clear. Low 68F. Winds S at 5 to 10 mph.",
+        "Generally sunny. High 83F. Winds W at 5 to 10 mph.",
+        "Clear. Low 67F. Winds S at 5 to 10 mph.",
         "Partly cloudy skies during the morning hours. Thunderstorms likely in the afternoon. High around 85F. Winds SSW at 10 to 20 mph. Chance of rain 60%.",
-        "Thunderstorms likely. Low 66F. SSW winds shifting to WNW at 10 to 15 mph. Chance of rain 90%.",
-        "Showers in the morning with some clearing in the afternoon. High 78F. Winds NW at 5 to 10 mph. Chance of rain 40%.",
-        "Some clouds early will give way to generally clear conditions overnight. Low 61F. Winds NW at 5 to 10 mph."
+        "Thunderstorms likely. Low 67F. Winds WSW at 10 to 15 mph. Chance of rain 90%.",
+        "Considerable cloudiness. Slight chance of a rain shower. High 79F. Winds NW at 5 to 10 mph.",
+        "Partly cloudy skies. Low 61F. Winds NW at 5 to 10 mph."
       ],
       "precipChance": [
         null,
         2,
-        3,
+        2,
         6,
         62,
-        88,
-        37,
+        86,
+        24,
         5
       ],
       "precipType": [
@@ -219,8 +219,8 @@
         0,
         0,
         0.09,
-        0.4,
-        0.06,
+        0.42,
+        0,
         0
       ],
       "qpfSnow": [
@@ -240,7 +240,7 @@
         null,
         null,
         null,
-        null,
+        "Q5015",
         null
       ],
       "qualifierPhrase": [
@@ -250,18 +250,18 @@
         null,
         null,
         null,
-        null,
+        "Slight chance of a rain shower.",
         null
       ],
       "relativeHumidity": [
         null,
-        76,
+        72,
         52,
         72,
         70,
-        88,
-        67,
-        73
+        87,
+        65,
+        72
       ],
       "snowRange": [
         null,
@@ -277,30 +277,30 @@
         null,
         63,
         83,
-        68,
+        67,
         85,
-        66,
-        78,
+        67,
+        79,
         61
       ],
       "temperatureHeatIndex": [
         null,
         66,
-        83,
+        82,
         81,
-        88,
+        87,
         83,
-        77,
-        74
+        80,
+        75
       ],
       "temperatureWindChill": [
         null,
         64,
         64,
         69,
+        68,
         69,
         68,
-        67,
         62
       ],
       "thunderCategory": [
@@ -345,13 +345,13 @@
       ],
       "windDirection": [
         null,
-        311,
-        269,
+        312,
+        268,
         191,
-        193,
-        250,
+        194,
+        244,
         313,
-        306
+        307
       ],
       "windDirectionCardinal": [
         null,
@@ -369,7 +369,7 @@
         "Winds W at 5 to 10 mph.",
         "Winds S at 5 to 10 mph.",
         "Winds SSW at 10 to 20 mph.",
-        "SSW winds shifting to WNW at 10 to 15 mph.",
+        "Winds WSW at 10 to 15 mph.",
         "Winds NW at 5 to 10 mph.",
         "Winds NW at 5 to 10 mph."
       ],
@@ -377,7 +377,7 @@
         null,
         5,
         9,
-        8,
+        9,
         15,
         12,
         9,
@@ -390,7 +390,7 @@
         "Clear",
         "PM Thunderstorms",
         "Thunderstorms",
-        "AM Showers",
+        "Mostly Cloudy",
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
@@ -400,7 +400,7 @@
         "Clear",
         "PM T-Storms",
         "T-Storms",
-        "AM Showers",
+        "M Cloudy",
         "P Cloudy"
       ]
     }
