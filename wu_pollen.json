@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1631228400,
       1631271600,
       1631314800,
       1631358000,
@@ -22,10 +21,11 @@
       1631703600,
       1631746800,
       1631790000,
-      1631833200
+      1631833200,
+      1631876400,
+      1631919600
     ],
     "fcstValidLocal": [
-      "2021-09-09T19:00:00-0400",
       "2021-09-10T07:00:00-0400",
       "2021-09-10T19:00:00-0400",
       "2021-09-11T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2021-09-15T07:00:00-0400",
       "2021-09-15T19:00:00-0400",
       "2021-09-16T07:00:00-0400",
-      "2021-09-16T19:00:00-0400"
+      "2021-09-16T19:00:00-0400",
+      "2021-09-17T07:00:00-0400",
+      "2021-09-17T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Saturday",
-      "Saturday night",
       "Sunday",
       "Sunday night",
       "Monday",
@@ -90,9 +93,12 @@
       "Wednesday",
       "Wednesday night",
       "Thursday",
-      "Thursday night"
+      "Thursday night",
+      "Friday",
+      "Friday night"
     ],
     "grassPollenIndex": [
+      0,
       0,
       0,
       0,
@@ -124,9 +130,11 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,41 +166,44 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
       1,
       1,
       1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      2,
-      1,
-      1,
-      1,
-      1,
-      1
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "ragweedPollenCategory": [
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
       "None",
       "Low",
       "Low",
       "Low",
-      "Low",
-      "Low",
-      "Low",
-      "Low",
-      "Low",
-      "Moderate",
-      "Low",
-      "Low",
-      "Low",
-      "Low",
-      "Low"
+      "None",
+      "None",
+      "None",
+      "None",
+      "None"
     ]
   }
 }
