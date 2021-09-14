@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1631574000,
       1631617200,
       1631660400,
       1631703600,
@@ -22,10 +21,11 @@
       1632049200,
       1632092400,
       1632135600,
-      1632178800
+      1632178800,
+      1632222000,
+      1632265200
     ],
     "fcstValidLocal": [
-      "2021-09-13T19:00:00-0400",
       "2021-09-14T07:00:00-0400",
       "2021-09-14T19:00:00-0400",
       "2021-09-15T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2021-09-19T07:00:00-0400",
       "2021-09-19T19:00:00-0400",
       "2021-09-20T07:00:00-0400",
-      "2021-09-20T19:00:00-0400"
+      "2021-09-20T19:00:00-0400",
+      "2021-09-21T07:00:00-0400",
+      "2021-09-21T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Wednesday",
-      "Wednesday night",
       "Thursday",
       "Thursday night",
       "Friday",
@@ -90,9 +93,12 @@
       "Sunday",
       "Sunday night",
       "Monday",
-      "Monday night"
+      "Monday night",
+      "Tuesday",
+      "Tuesday night"
     ],
     "grassPollenIndex": [
+      0,
       0,
       0,
       0,
@@ -124,9 +130,11 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,18 +166,20 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
       2,
       2,
       2,
-      2,
-      1,
       1,
       1,
       0,
+      0,
       1,
+      2,
+      2,
       2,
       2,
       2,
@@ -181,12 +191,13 @@
       "Moderate",
       "Moderate",
       "Moderate",
-      "Moderate",
-      "Low",
       "Low",
       "Low",
       "None",
+      "None",
       "Low",
+      "Moderate",
+      "Moderate",
       "Moderate",
       "Moderate",
       "Moderate",
