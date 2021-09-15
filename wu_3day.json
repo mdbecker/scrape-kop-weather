@@ -18,10 +18,10 @@
     "Friday"
   ],
   "expirationTimeUtc": [
-    1631664527,
-    1631664527,
-    1631664527,
-    1631664527
+    1631670606,
+    1631670606,
+    1631670606,
+    1631670606
   ],
   "moonPhase": [
     "Waxing Gibbous",
@@ -67,15 +67,15 @@
   ],
   "narrative": [
     "Partly cloudy. Lows overnight in the low 70s.",
-    "Partly cloudy. Highs in the low 90s and lows in the low 70s.",
-    "A few thunderstorms possible. Highs in the low 80s and lows in the low 70s.",
-    "Showers. Highs in the upper 70s and lows in the upper 60s."
+    "Partly cloudy. Highs in the upper 80s and lows in the low 70s.",
+    "Scattered thunderstorms. Highs in the low 80s and lows in the low 70s.",
+    "Chance of showers. Highs in the upper 70s and lows in the upper 60s."
   ],
   "qpf": [
     0,
     0.11,
-    0.11,
-    0.1
+    0.1,
+    0.11
   ],
   "qpfSnow": [
     0,
@@ -111,7 +111,7 @@
     null,
     90,
     81,
-    79
+    78
   ],
   "temperatureMin": [
     72,
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
+        41,
         45,
-        44,
-        84,
-        82,
-        81,
-        77,
-        67
+        85,
+        83,
+        83,
+        78,
+        69
       ],
       "dayOrNight": [
         null,
@@ -171,7 +171,7 @@
         38,
         47,
         11,
-        27
+        45
       ],
       "iconCodeExtend": [
         null,
@@ -181,27 +181,27 @@
         3800,
         3709,
         1100,
-        2700
+        6100
       ],
       "narrative": [
         null,
         "Partly cloudy. Low 72F. Winds S at 5 to 10 mph.",
-        "Partly cloudy. Record high temperatures expected. High around 90F. Winds SSW at 10 to 20 mph.",
-        "Variably cloudy with scattered thunderstorms. Low 71F. SSW winds shifting to E at 10 to 15 mph. Chance of rain 50%.",
-        "Mixed clouds and sun with scattered thunderstorms. High 81F. Winds ENE at 5 to 10 mph. Chance of rain 50%.",
-        "Partly to mostly cloudy with a slight chance of showers and thunderstorms late at night. Low around 70F. Winds ENE at 5 to 10 mph. Chance of rain 30%.",
-        "Cloudy with occasional rain showers. High 79F. Winds NE at 10 to 15 mph. Chance of rain 50%.",
-        "Mostly cloudy. Low 69F. Winds NNE at 5 to 10 mph."
+        "Intervals of clouds and sunshine. High 89F. Winds SSW at 10 to 20 mph.",
+        "Variable clouds with showers and scattered thunderstorms. Storms more numerous during the evening. Low 71F. Winds SSW at 10 to 15 mph. Chance of rain 50%.",
+        "Partly to mostly cloudy with a chance of thunderstorms. High 81F. Winds ENE at 5 to 10 mph. Chance of rain 50%.",
+        "Partly to mostly cloudy with isolated thunderstorms developing overnight. Low around 70F. Winds ENE at 5 to 10 mph. Chance of rain 30%.",
+        "Cloudy with showers. High 78F. Winds NE at 10 to 15 mph. Chance of rain 50%.",
+        "A few showers in the evening, then clouds lingering overnight. Low 69F. Winds NNE at 5 to 10 mph. Chance of rain 30%."
       ],
       "precipChance": [
         null,
-        9,
+        7,
         7,
         53,
-        53,
-        34,
         52,
-        24
+        31,
+        50,
+        31
       ],
       "precipType": [
         null,
@@ -219,9 +219,9 @@
         0,
         0.11,
         0.09,
-        0.02,
-        0.1,
-        0
+        0.01,
+        0.11,
+        0.01
       ],
       "qpfSnow": [
         null,
@@ -236,7 +236,7 @@
       "qualifierCode": [
         null,
         null,
-        "Q616",
+        null,
         null,
         null,
         null,
@@ -246,7 +246,7 @@
       "qualifierPhrase": [
         null,
         null,
-        "Record high temperatures expected.",
+        null,
         null,
         null,
         null,
@@ -255,10 +255,10 @@
       ],
       "relativeHumidity": [
         null,
-        82,
+        85,
         61,
         81,
-        80,
+        81,
         88,
         82,
         88
@@ -280,12 +280,12 @@
         71,
         81,
         70,
-        79,
+        78,
         69
       ],
       "temperatureHeatIndex": [
         null,
-        84,
+        80,
         91,
         87,
         84,
@@ -345,13 +345,13 @@
       ],
       "windDirection": [
         null,
-        184,
+        187,
         208,
-        193,
-        75,
-        65,
-        55,
-        32
+        194,
+        77,
+        64,
+        56,
+        33
       ],
       "windDirectionCardinal": [
         null,
@@ -367,7 +367,7 @@
         null,
         "Winds S at 5 to 10 mph.",
         "Winds SSW at 10 to 20 mph.",
-        "SSW winds shifting to E at 10 to 15 mph.",
+        "Winds SSW at 10 to 15 mph.",
         "Winds ENE at 5 to 10 mph.",
         "Winds ENE at 5 to 10 mph.",
         "Winds NE at 10 to 15 mph.",
@@ -375,12 +375,12 @@
       ],
       "windSpeed": [
         null,
-        7,
+        8,
         15,
         11,
         9,
-        7,
-        11,
+        8,
+        12,
         9
       ],
       "wxPhraseLong": [
@@ -391,7 +391,7 @@
         "Scattered Thunderstorms",
         "Isolated Thunderstorms",
         "Showers",
-        "Mostly Cloudy"
+        "Showers Early"
       ],
       "wxPhraseShort": [
         null,
@@ -401,7 +401,7 @@
         "Sct T-Storms",
         "Iso T-Storms",
         "Showers",
-        "M Cloudy"
+        "Shwrs Early"
       ]
     }
   ]
