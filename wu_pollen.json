@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1631660400,
       1631703600,
       1631746800,
       1631790000,
@@ -22,10 +21,11 @@
       1632135600,
       1632178800,
       1632222000,
-      1632265200
+      1632265200,
+      1632308400,
+      1632351600
     ],
     "fcstValidLocal": [
-      "2021-09-14T19:00:00-0400",
       "2021-09-15T07:00:00-0400",
       "2021-09-15T19:00:00-0400",
       "2021-09-16T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2021-09-20T07:00:00-0400",
       "2021-09-20T19:00:00-0400",
       "2021-09-21T07:00:00-0400",
-      "2021-09-21T19:00:00-0400"
+      "2021-09-21T19:00:00-0400",
+      "2021-09-22T07:00:00-0400",
+      "2021-09-22T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Thursday",
-      "Thursday night",
       "Friday",
       "Friday night",
       "Saturday",
@@ -90,9 +93,12 @@
       "Monday",
       "Monday night",
       "Tuesday",
-      "Tuesday night"
+      "Tuesday night",
+      "Wednesday",
+      "Wednesday night"
     ],
     "grassPollenIndex": [
+      0,
       0,
       0,
       0,
@@ -124,9 +130,11 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,18 +166,20 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
-      2,
-      2,
       1,
       0,
       0,
       0,
+      0,
+      0,
       1,
       1,
-      2,
+      1,
+      1,
       2,
       2,
       2,
@@ -178,15 +188,16 @@
       2
     ],
     "ragweedPollenCategory": [
-      "Moderate",
-      "Moderate",
       "Low",
       "None",
       "None",
       "None",
+      "None",
+      "None",
       "Low",
       "Low",
-      "Moderate",
+      "Low",
+      "Low",
       "Moderate",
       "Moderate",
       "Moderate",
