@@ -4,25 +4,25 @@
     "longitude": -75.39,
     "source": "Contains Copernicus Atmosphere Monitoring Service information 2021 and/or modified Copernicus Atmosphere Monitoring Service information 2021",
     "disclaimer": "Neither the European Commission nor ECMWF is responsible for any use of this information",
-    "airQualityIndex": 52,
-    "airQualityCategory": "Moderate",
-    "airQualityCategoryIndex": 2,
-    "airQualityCategoryIndexColor": "FFFF24",
+    "airQualityIndex": 49,
+    "airQualityCategory": "Good",
+    "airQualityCategoryIndex": 1,
+    "airQualityCategoryIndexColor": "00E838",
     "primaryPollutant": "PM2.5",
     "pollutants": {
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 8.62,
+        "amount": 11.39,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 4
+        "index": 6
       },
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 39.52,
+        "amount": 41.41,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -31,34 +31,34 @@
       "SO2": {
         "name": "SO2",
         "phrase": "Sulfur Dioxide",
-        "amount": 2.23,
+        "amount": 3.3,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 1
+        "index": 2
       },
       "PM2.5": {
         "name": "PM2.5",
         "phrase": "Particulate matter less than 2.5 microns",
-        "amount": 6.6,
+        "amount": 6.42,
         "unit": "μg/m3",
-        "category": "Moderate",
-        "categoryIndex": 2,
-        "index": 52
+        "category": "Good",
+        "categoryIndex": 1,
+        "index": 49
       },
       "PM10": {
         "name": "PM10",
         "phrase": "Particulate matter less than 10 microns",
-        "amount": 13.06,
+        "amount": 11.14,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 18
+        "index": 16
       },
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 189.88,
+        "amount": 200.88,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -68,13 +68,13 @@
     "messages": {
       "Sensitive Group": {
         "title": "Sensitive Groups",
-        "text": "Consider reducing prolonged or heavy exertion. Watch for symptoms such as coughing or shortness of breath. These are signs to take it easier."
+        "text": "Air quality is considered satisfactory, and air pollution poses little or no risk."
       },
       "General": {
         "title": "General",
-        "text": "Air quality is acceptable; however, for some pollutants there may be a moderate health concern for a very small number of people who are unusually sensitive to air pollution."
+        "text": "Air quality is considered satisfactory, and air pollution poses little or no risk."
       }
     },
-    "expireTimeGmt": 1631793690
+    "expireTimeGmt": 1631800900
   }
 }
