@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    87,
+    73,
+    86,
     81,
-    79,
-    80
+    79
   ],
   "calendarDayTemperatureMin": [
+    69,
     68,
     64,
-    60,
-    62
+    60
   ],
   "dayOfWeek": [
     "Saturday",
@@ -18,10 +18,10 @@
     "Tuesday"
   ],
   "expirationTimeUtc": [
-    1632024101,
-    1632024101,
-    1632024101,
-    1632024101
+    1632027661,
+    1632027661,
+    1632027661,
+    1632027661
   ],
   "moonPhase": [
     "Waxing Gibbous",
@@ -42,31 +42,31 @@
     15
   ],
   "moonriseTimeLocal": [
-    "2021-09-18T18:23:51-0400",
-    "2021-09-19T18:52:35-0400",
-    "2021-09-20T19:18:14-0400",
-    "2021-09-21T19:41:59-0400"
+    "2021-09-18T18:23:47-0400",
+    "2021-09-19T18:52:32-0400",
+    "2021-09-20T19:18:12-0400",
+    "2021-09-21T19:41:57-0400"
   ],
   "moonriseTimeUtc": [
-    1632003831,
-    1632091955,
-    1632179894,
-    1632267719
+    1632003827,
+    1632091952,
+    1632179892,
+    1632267717
   ],
   "moonsetTimeLocal": [
-    "2021-09-18T03:53:46-0400",
-    "2021-09-19T05:02:24-0400",
-    "2021-09-20T06:08:41-0400",
-    "2021-09-21T07:13:10-0400"
+    "2021-09-18T03:53:45-0400",
+    "2021-09-19T05:02:23-0400",
+    "2021-09-20T06:08:39-0400",
+    "2021-09-21T07:13:08-0400"
   ],
   "moonsetTimeUtc": [
-    1631951626,
-    1632042144,
-    1632132521,
-    1632222790
+    1631951625,
+    1632042143,
+    1632132519,
+    1632222788
   ],
   "narrative": [
-    "Mostly clear. Lows overnight in the mid 60s.",
+    "Partly cloudy. Lows overnight in the mid 60s.",
     "Sunny. Highs in the low 80s and lows in the low 60s.",
     "Mostly sunny. Highs in the upper 70s and lows in the low 60s.",
     "Considerable cloudiness. Highs in the low 80s and lows in the upper 60s."
@@ -84,28 +84,28 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2021-09-18T06:44:57-0400",
-    "2021-09-19T06:45:54-0400",
-    "2021-09-20T06:46:51-0400",
-    "2021-09-21T06:47:48-0400"
+    "2021-09-18T06:44:55-0400",
+    "2021-09-19T06:45:51-0400",
+    "2021-09-20T06:46:49-0400",
+    "2021-09-21T06:47:46-0400"
   ],
   "sunriseTimeUtc": [
-    1631961897,
-    1632048354,
-    1632134811,
-    1632221268
+    1631961895,
+    1632048351,
+    1632134809,
+    1632221266
   ],
   "sunsetTimeLocal": [
-    "2021-09-18T19:04:16-0400",
-    "2021-09-19T19:02:36-0400",
-    "2021-09-20T19:00:56-0400",
-    "2021-09-21T18:59:16-0400"
+    "2021-09-18T19:04:14-0400",
+    "2021-09-19T19:02:33-0400",
+    "2021-09-20T19:00:53-0400",
+    "2021-09-21T18:59:13-0400"
   ],
   "sunsetTimeUtc": [
-    1632006256,
-    1632092556,
-    1632178856,
-    1632265156
+    1632006254,
+    1632092553,
+    1632178853,
+    1632265153
   ],
   "temperatureMax": [
     null,
@@ -135,7 +135,7 @@
     {
       "cloudCover": [
         null,
-        15,
+        19,
         1,
         5,
         22,
@@ -165,7 +165,7 @@
       ],
       "iconCode": [
         null,
-        33,
+        29,
         32,
         31,
         34,
@@ -175,7 +175,7 @@
       ],
       "iconCodeExtend": [
         null,
-        3300,
+        2900,
         3200,
         3100,
         3400,
@@ -185,18 +185,18 @@
       ],
       "narrative": [
         null,
-        "Mostly clear. Low around 65F. Winds N at 5 to 10 mph.",
+        "Partly cloudy. Low around 65F. Winds N at 5 to 10 mph.",
         "Sunny skies. High 81F. Winds N at 5 to 10 mph.",
-        "Clear. Low around 60F. Winds E at 5 to 10 mph.",
-        "Sunny, along with a few afternoon clouds. High 79F. Winds E at 10 to 15 mph.",
-        "Mainly clear skies. Low 62F. Winds ENE at 5 to 10 mph.",
-        "More clouds than sun. High around 80F. Winds ESE at 10 to 15 mph.",
-        "Cloudy. Low 67F. Winds ESE at 10 to 15 mph."
+        "Clear skies. Low around 60F. Winds E at 5 to 10 mph.",
+        "Except for a few afternoon clouds, mainly sunny. High 79F. Winds E at 10 to 15 mph.",
+        "Mostly clear skies. Low 62F. Winds ENE at 5 to 10 mph.",
+        "Mainly cloudy. High around 80F. Winds ESE at 10 to 15 mph.",
+        "Cloudy skies. Low 67F. Winds ESE at 10 to 15 mph."
       ],
       "precipChance": [
         null,
         2,
-        5,
+        3,
         7,
         7,
         10,
@@ -255,7 +255,7 @@
       ],
       "relativeHumidity": [
         null,
-        76,
+        77,
         46,
         68,
         59,
@@ -285,7 +285,7 @@
       ],
       "temperatureHeatIndex": [
         null,
-        74,
+        73,
         80,
         75,
         79,
@@ -345,7 +345,7 @@
       ],
       "windDirection": [
         null,
-        355,
+        356,
         9,
         79,
         95,
@@ -385,7 +385,7 @@
       ],
       "wxPhraseLong": [
         null,
-        "Mostly Clear",
+        "Partly Cloudy",
         "Sunny",
         "Clear",
         "Mostly Sunny",
@@ -395,7 +395,7 @@
       ],
       "wxPhraseShort": [
         null,
-        "M Clear",
+        "P Cloudy",
         "Sunny",
         "Clear",
         "M Sunny",
