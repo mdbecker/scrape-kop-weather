@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    73,
-    86,
-    81,
-    79
+    88,
+    80,
+    79,
+    81
   ],
   "calendarDayTemperatureMin": [
-    69,
     68,
     64,
-    60
+    60,
+    62
   ],
   "dayOfWeek": [
     "Saturday",
@@ -18,10 +18,10 @@
     "Tuesday"
   ],
   "expirationTimeUtc": [
-    1632027661,
-    1632027661,
-    1632027661,
-    1632027661
+    1632031265,
+    1632031265,
+    1632031265,
+    1632031265
   ],
   "moonPhase": [
     "Waxing Gibbous",
@@ -67,7 +67,7 @@
   ],
   "narrative": [
     "Partly cloudy. Lows overnight in the mid 60s.",
-    "Sunny. Highs in the low 80s and lows in the low 60s.",
+    "Abundant sunshine. Highs in the low 80s and lows in the low 60s.",
     "Mostly sunny. Highs in the upper 70s and lows in the low 60s.",
     "Considerable cloudiness. Highs in the low 80s and lows in the upper 60s."
   ],
@@ -111,13 +111,13 @@
     null,
     81,
     79,
-    80
+    81
   ],
   "temperatureMin": [
     65,
     60,
     62,
-    67
+    68
   ],
   "validTimeLocal": [
     "2021-09-18T07:00:00-0400",
@@ -135,12 +135,12 @@
     {
       "cloudCover": [
         null,
-        19,
+        25,
         1,
         5,
-        22,
-        36,
-        76,
+        24,
+        40,
+        75,
         81
       ],
       "dayOrNight": [
@@ -185,18 +185,18 @@
       ],
       "narrative": [
         null,
-        "Partly cloudy. Low around 65F. Winds N at 5 to 10 mph.",
-        "Sunny skies. High 81F. Winds N at 5 to 10 mph.",
-        "Clear skies. Low around 60F. Winds E at 5 to 10 mph.",
-        "Except for a few afternoon clouds, mainly sunny. High 79F. Winds E at 10 to 15 mph.",
-        "Mostly clear skies. Low 62F. Winds ENE at 5 to 10 mph.",
-        "Mainly cloudy. High around 80F. Winds ESE at 10 to 15 mph.",
-        "Cloudy skies. Low 67F. Winds ESE at 10 to 15 mph."
+        "A few clouds. Low around 65F. Winds N at 5 to 10 mph.",
+        "Mainly sunny. High 81F. Winds N at 5 to 10 mph.",
+        "Clear skies. Low near 60F. Winds ENE at 5 to 10 mph.",
+        "Generally sunny despite a few afternoon clouds. High 79F. Winds E at 10 to 15 mph.",
+        "Mainly clear skies. Low 62F. Winds ENE at 5 to 10 mph.",
+        "Mostly cloudy skies. High around 80F. Winds ESE at 10 to 15 mph.",
+        "Overcast. Low 68F. Winds ESE at 5 to 10 mph."
       ],
       "precipChance": [
         null,
         2,
-        3,
+        2,
         7,
         7,
         10,
@@ -255,12 +255,12 @@
       ],
       "relativeHumidity": [
         null,
-        77,
-        46,
-        68,
-        59,
+        76,
+        47,
+        67,
+        58,
         75,
-        66,
+        67,
         83
       ],
       "snowRange": [
@@ -280,18 +280,18 @@
         60,
         79,
         62,
-        80,
-        67
+        81,
+        68
       ],
       "temperatureHeatIndex": [
         null,
-        73,
+        72,
         80,
         75,
         79,
         72,
         81,
-        74
+        75
       ],
       "temperatureWindChill": [
         null,
@@ -299,7 +299,7 @@
         66,
         62,
         61,
-        63,
+        64,
         63,
         69
       ],
@@ -340,24 +340,24 @@
         0,
         6,
         0,
-        5,
+        4,
         0
       ],
       "windDirection": [
         null,
         356,
         9,
-        79,
-        95,
         78,
-        110,
+        94,
+        77,
+        112,
         110
       ],
       "windDirectionCardinal": [
         null,
         "N",
         "N",
-        "E",
+        "ENE",
         "E",
         "ENE",
         "ESE",
@@ -367,11 +367,11 @@
         null,
         "Winds N at 5 to 10 mph.",
         "Winds N at 5 to 10 mph.",
-        "Winds E at 5 to 10 mph.",
+        "Winds ENE at 5 to 10 mph.",
         "Winds E at 10 to 15 mph.",
         "Winds ENE at 5 to 10 mph.",
         "Winds ESE at 10 to 15 mph.",
-        "Winds ESE at 10 to 15 mph."
+        "Winds ESE at 5 to 10 mph."
       ],
       "windSpeed": [
         null,
