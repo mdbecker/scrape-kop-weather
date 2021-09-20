@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1632092400,
       1632135600,
       1632178800,
       1632222000,
@@ -22,10 +21,11 @@
       1632567600,
       1632610800,
       1632654000,
-      1632697200
+      1632697200,
+      1632740400,
+      1632783600
     ],
     "fcstValidLocal": [
-      "2021-09-19T19:00:00-0400",
       "2021-09-20T07:00:00-0400",
       "2021-09-20T19:00:00-0400",
       "2021-09-21T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2021-09-25T07:00:00-0400",
       "2021-09-25T19:00:00-0400",
       "2021-09-26T07:00:00-0400",
-      "2021-09-26T19:00:00-0400"
+      "2021-09-26T19:00:00-0400",
+      "2021-09-27T07:00:00-0400",
+      "2021-09-27T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Tuesday",
-      "Tuesday night",
       "Wednesday",
       "Wednesday night",
       "Thursday",
@@ -90,9 +93,12 @@
       "Saturday",
       "Saturday night",
       "Sunday",
-      "Sunday night"
+      "Sunday night",
+      "Monday",
+      "Monday night"
     ],
     "grassPollenIndex": [
+      0,
       0,
       0,
       0,
@@ -124,9 +130,11 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -166,7 +175,6 @@
       2,
       2,
       2,
-      2,
       1,
       1,
       1,
@@ -174,6 +182,8 @@
       2,
       2,
       2,
+      2,
+      3,
       3,
       3
     ],
@@ -183,7 +193,6 @@
       "Moderate",
       "Moderate",
       "Moderate",
-      "Moderate",
       "Low",
       "Low",
       "Low",
@@ -191,6 +200,8 @@
       "Moderate",
       "Moderate",
       "Moderate",
+      "Moderate",
+      "High",
       "High",
       "High"
     ]
