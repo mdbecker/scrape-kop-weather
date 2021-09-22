@@ -2,14 +2,14 @@
   "calendarDayTemperatureMax": [
     83,
     79,
-    73,
-    75
+    74,
+    76
   ],
   "calendarDayTemperatureMin": [
     69,
     65,
-    59,
-    55
+    58,
+    54
   ],
   "dayOfWeek": [
     "Wednesday",
@@ -18,10 +18,10 @@
     "Saturday"
   ],
   "expirationTimeUtc": [
-    1632298693,
-    1632298693,
-    1632298693,
-    1632298693
+    1632302333,
+    1632302333,
+    1632302333,
+    1632302333
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -66,15 +66,15 @@
     1632583166
   ],
   "narrative": [
-    "Mostly cloudy. Highs in the low 80s and lows in the low 70s.",
+    "Cloudy. Highs in the low 80s and lows in the low 70s.",
     "Thunderstorms. Potential for heavy rainfall. Highs in the upper 70s and lows in the low 60s.",
-    "Morning showers. Highs in the low 70s and lows in the mid 50s.",
-    "Plenty of sun. Highs in the mid 70s and lows in the upper 50s."
+    "Times of sun and clouds. Highs in the low 70s and lows in the mid 50s.",
+    "Mostly sunny. Highs in the mid 70s and lows in the upper 50s."
   ],
   "qpf": [
-    0.06,
-    1.27,
-    0.02,
+    0.07,
+    1.29,
+    0,
     0
   ],
   "qpfSnow": [
@@ -111,12 +111,12 @@
     83,
     79,
     73,
-    75
+    76
   ],
   "temperatureMin": [
     72,
     60,
-    55,
+    54,
     57
   ],
   "validTimeLocal": [
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        88,
-        85,
-        92,
+        87,
+        87,
+        93,
         95,
-        30,
+        28,
         7,
-        26,
-        30
+        20,
+        29
       ],
       "dayOrNight": [
         "D",
@@ -168,7 +168,7 @@
         45,
         4,
         12,
-        39,
+        30,
         31,
         34,
         29
@@ -178,30 +178,30 @@
         7100,
         400,
         1240,
-        6103,
+        3000,
         3100,
         3400,
         2900
       ],
       "narrative": [
-        "Overcast. Slight chance of a rain shower. High 83F. Winds SSE at 10 to 20 mph.",
-        "Cloudy skies early, then off and on rain showers overnight. Low 72F. Winds SE at 10 to 15 mph. Chance of rain 40%.",
+        "Generally cloudy. Slight chance of a rain shower. High 83F. Winds SSE at 10 to 20 mph.",
+        "Cloudy this evening with showers after midnight. Low 72F. Winds SE at 10 to 20 mph. Chance of rain 50%.",
         "Scattered thunderstorms in the morning becoming more widespread in the afternoon. Potential for heavy rainfall. High 79F. Winds SSE at 15 to 25 mph. Chance of rain 80%.",
-        "Showers and thundershowers in the evening, then overcast overnight with occasional rain. Low around 60F. SSW winds shifting to WNW at 10 to 15 mph. Chance of rain 90%.",
-        "Rain showers in the morning, then sunny in the afternoon. High 73F. Winds WNW at 5 to 10 mph. Chance of rain 40%.",
-        "Clear skies. Low near 55F. Winds NW at 5 to 10 mph.",
-        "Sunshine and some clouds. High around 75F. Winds WNW at 5 to 10 mph.",
+        "Showers and thundershowers during the evening will give way to steady rain overnight. Low near 60F. Winds W at 10 to 15 mph. Chance of rain 90%.",
+        "Some clouds in the morning will give way to mainly sunny skies for the afternoon. Slight chance of a rain shower. High 73F. Winds WNW at 5 to 10 mph.",
+        "A mostly clear sky. Low 54F. Winds NW at 5 to 10 mph.",
+        "Generally sunny despite a few afternoon clouds. High 76F. Winds WNW at 5 to 10 mph.",
         "A few clouds. Low 57F. Winds W at 5 to 10 mph."
       ],
       "precipChance": [
         24,
-        41,
-        77,
+        51,
+        82,
         88,
-        40,
+        24,
+        9,
         7,
-        7,
-        15
+        11
       ],
       "precipType": [
         "rain",
@@ -215,10 +215,10 @@
       ],
       "qpf": [
         0,
-        0.06,
-        0.53,
-        0.74,
-        0.02,
+        0.07,
+        0.54,
+        0.75,
+        0,
         0,
         0,
         0
@@ -238,7 +238,7 @@
         null,
         "Q9405",
         null,
-        null,
+        "Q5015",
         null,
         null,
         null
@@ -248,18 +248,18 @@
         null,
         "Potential for heavy rainfall.",
         null,
-        null,
+        "Slight chance of a rain shower.",
         null,
         null,
         null
       ],
       "relativeHumidity": [
-        78,
+        76,
         82,
-        80,
-        89,
-        62,
-        78,
+        81,
+        88,
+        61,
+        77,
         59,
         73
       ],
@@ -279,12 +279,12 @@
         79,
         60,
         73,
-        55,
-        75,
+        54,
+        76,
         57
       ],
       "temperatureHeatIndex": [
-        85,
+        86,
         81,
         83,
         74,
@@ -300,8 +300,8 @@
         62,
         61,
         56,
-        56,
-        58
+        55,
+        57
       ],
       "thunderCategory": [
         "No thunder",
@@ -344,20 +344,20 @@
         0
       ],
       "windDirection": [
-        147,
-        144,
+        150,
+        145,
         156,
-        257,
+        261,
         291,
-        304,
-        293,
+        307,
+        297,
         266
       ],
       "windDirectionCardinal": [
         "SSE",
         "SE",
         "SSE",
-        "WSW",
+        "W",
         "WNW",
         "NW",
         "WNW",
@@ -365,9 +365,9 @@
       ],
       "windPhrase": [
         "Winds SSE at 10 to 20 mph.",
-        "Winds SE at 10 to 15 mph.",
+        "Winds SE at 10 to 20 mph.",
         "Winds SSE at 15 to 25 mph.",
-        "SSW winds shifting to WNW at 10 to 15 mph.",
+        "Winds W at 10 to 15 mph.",
         "Winds WNW at 5 to 10 mph.",
         "Winds NW at 5 to 10 mph.",
         "Winds WNW at 5 to 10 mph.",
@@ -388,7 +388,7 @@
         "Showers Late",
         "Thunderstorms",
         "Rain/Thunder",
-        "AM Showers",
+        "Partly Cloudy",
         "Clear",
         "Mostly Sunny",
         "Partly Cloudy"
@@ -398,7 +398,7 @@
         "Shwrs Late",
         "T-Storms",
         "Rain/Thunder",
-        "AM Showers",
+        "P Cloudy",
         "Clear",
         "M Sunny",
         "P Cloudy"
