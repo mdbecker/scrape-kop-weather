@@ -18,10 +18,10 @@
     "Friday"
   ],
   "expirationTimeUtc": [
-    1632862759,
-    1632862759,
-    1632862759,
-    1632862759
+    1632866369,
+    1632866369,
+    1632866369,
+    1632866369
   ],
   "moonPhase": [
     "Last Quarter",
@@ -67,12 +67,12 @@
   ],
   "narrative": [
     "Thunderstorms early. Lows overnight in the mid 50s.",
-    "Sunny. Highs in the low 70s and lows in the low 50s.",
-    "Plenty of sun. Highs in the upper 60s and lows in the upper 40s.",
-    "Sunny. Highs in the low 70s and lows in the low 50s."
+    "More sun than clouds. Highs in the low 70s and lows in the low 50s.",
+    "More sun than clouds. Highs in the upper 60s and lows in the upper 40s.",
+    "Plenty of sun. Highs in the low 70s and lows in the low 50s."
   ],
   "qpf": [
-    0.2,
+    0.01,
     0,
     0,
     0
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        54,
+        49,
+        15,
+        16,
+        26,
         14,
-        17,
-        25,
-        14,
-        8,
-        15
+        9,
+        17
       ],
       "dayOrNight": [
         null,
@@ -166,40 +166,40 @@
       "iconCode": [
         null,
         47,
-        32,
+        34,
         33,
         34,
         33,
-        32,
-        31
+        34,
+        33
       ],
       "iconCodeExtend": [
         null,
         6200,
-        3200,
+        3400,
         3300,
         3400,
         3300,
-        3200,
-        3100
+        3400,
+        3300
       ],
       "narrative": [
         null,
-        "Partly to mostly cloudy skies with scattered thunderstorms during the evening. Low 54F. Winds NNW at 5 to 10 mph. Chance of rain 60%.",
-        "Mainly sunny. High 71F. Winds NNW at 10 to 15 mph.",
+        "Scattered thunderstorms during the evening. Partly cloudy skies after midnight. Low 54F. Winds NNW at 10 to 15 mph. Chance of rain 40%.",
+        "A few clouds early, otherwise mostly sunny. High 71F. Winds NNW at 10 to 15 mph.",
         "Mostly clear skies. Low 53F. Winds NW at 5 to 10 mph.",
-        "Generally sunny despite a few afternoon clouds. High 68F. Winds NNW at 10 to 15 mph.",
-        "Mainly clear. Low 49F. Winds NNW at 5 to 10 mph.",
-        "Sunny. High around 70F. Winds NW at 5 to 10 mph.",
+        "Sunshine and some clouds. High 68F. Winds NNW at 10 to 15 mph.",
+        "A mostly clear sky. Low 49F. Winds NNW at 5 to 10 mph.",
+        "Generally sunny. High near 70F. Winds NW at 5 to 10 mph.",
         "A mostly clear sky. Low 51F. Winds light and variable."
       ],
       "precipChance": [
         null,
-        58,
+        39,
         4,
         4,
         4,
-        4,
+        5,
         4,
         6
       ],
@@ -215,7 +215,7 @@
       ],
       "qpf": [
         null,
-        0.2,
+        0.01,
         0,
         0,
         0,
@@ -257,9 +257,9 @@
         null,
         71,
         48,
+        65,
+        51,
         64,
-        50,
-        63,
         51,
         70
       ],
@@ -291,15 +291,15 @@
         66,
         63,
         68,
-        63
+        64
       ],
       "temperatureWindChill": [
         null,
-        53,
+        52,
         52,
         53,
         52,
-        48,
+        49,
         48,
         51
       ],
@@ -345,13 +345,13 @@
       ],
       "windDirection": [
         null,
-        332,
-        340,
-        321,
-        336,
-        338,
-        320,
-        301
+        337,
+        341,
+        317,
+        334,
+        337,
+        317,
+        296
       ],
       "windDirectionCardinal": [
         null,
@@ -365,7 +365,7 @@
       ],
       "windPhrase": [
         null,
-        "Winds NNW at 5 to 10 mph.",
+        "Winds NNW at 10 to 15 mph.",
         "Winds NNW at 10 to 15 mph.",
         "Winds NW at 5 to 10 mph.",
         "Winds NNW at 10 to 15 mph.",
@@ -377,7 +377,7 @@
         null,
         10,
         11,
-        6,
+        7,
         12,
         8,
         9,
@@ -386,22 +386,22 @@
       "wxPhraseLong": [
         null,
         "Thunderstorms Early",
-        "Sunny",
+        "Mostly Sunny",
         "Mostly Clear",
         "Mostly Sunny",
         "Mostly Clear",
-        "Sunny",
-        "Clear"
+        "Mostly Sunny",
+        "Mostly Clear"
       ],
       "wxPhraseShort": [
         null,
         "T-Storms",
-        "Sunny",
+        "M Sunny",
         "M Clear",
         "M Sunny",
         "M Clear",
-        "Sunny",
-        "Clear"
+        "M Sunny",
+        "M Clear"
       ]
     }
   ]
