@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1633042800,
       1633086000,
       1633129200,
       1633172400,
@@ -22,10 +21,11 @@
       1633518000,
       1633561200,
       1633604400,
-      1633647600
+      1633647600,
+      1633690800,
+      1633734000
     ],
     "fcstValidLocal": [
-      "2021-09-30T19:00:00-0400",
       "2021-10-01T07:00:00-0400",
       "2021-10-01T19:00:00-0400",
       "2021-10-02T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2021-10-06T07:00:00-0400",
       "2021-10-06T19:00:00-0400",
       "2021-10-07T07:00:00-0400",
-      "2021-10-07T19:00:00-0400"
+      "2021-10-07T19:00:00-0400",
+      "2021-10-08T07:00:00-0400",
+      "2021-10-08T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Saturday",
-      "Saturday night",
       "Sunday",
       "Sunday night",
       "Monday",
@@ -90,9 +93,12 @@
       "Wednesday",
       "Wednesday night",
       "Thursday",
-      "Thursday night"
+      "Thursday night",
+      "Friday",
+      "Friday night"
     ],
     "grassPollenIndex": [
+      0,
       0,
       0,
       0,
@@ -124,9 +130,11 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -166,8 +175,6 @@
       3,
       3,
       3,
-      3,
-      2,
       2,
       1,
       1,
@@ -175,7 +182,10 @@
       1,
       2,
       1,
-      2
+      1,
+      2,
+      1,
+      1
     ],
     "ragweedPollenCategory": [
       "High",
@@ -183,8 +193,6 @@
       "High",
       "High",
       "High",
-      "High",
-      "Moderate",
       "Moderate",
       "Low",
       "Low",
@@ -192,7 +200,10 @@
       "Low",
       "Moderate",
       "Low",
-      "Moderate"
+      "Low",
+      "Moderate",
+      "Low",
+      "Low"
     ]
   }
 }
