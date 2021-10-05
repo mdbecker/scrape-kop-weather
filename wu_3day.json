@@ -1,12 +1,12 @@
 {
   "calendarDayTemperatureMax": [
-    70,
+    71,
     75,
     78,
-    78
+    79
   ],
   "calendarDayTemperatureMin": [
-    64,
+    63,
     63,
     61,
     62
@@ -18,10 +18,10 @@
     "Friday"
   ],
   "expirationTimeUtc": [
-    1633423631,
-    1633423631,
-    1633423631,
-    1633423631
+    1633429479,
+    1633429479,
+    1633429479,
+    1633429479
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -66,13 +66,13 @@
     1633737838
   ],
   "narrative": [
-    "Cloudy with morning rain. Highs in the low 70s and lows in the mid 60s.",
+    "Morning light rain. Highs in the low 70s and lows in the low 60s.",
     "Cloudy. Highs in the mid 70s and lows in the low 60s.",
-    "Mix of sun and clouds. Highs in the upper 70s and lows in the low 60s.",
+    "Times of sun and clouds. Highs in the upper 70s and lows in the low 60s.",
     "Partly cloudy. Highs in the upper 70s and lows in the low 60s."
   ],
   "qpf": [
-    0.14,
+    0.01,
     0,
     0,
     0
@@ -111,10 +111,10 @@
     70,
     75,
     78,
-    78
+    79
   ],
   "temperatureMin": [
-    64,
+    63,
     61,
     62,
     63
@@ -134,13 +134,13 @@
   "daypart": [
     {
       "cloudCover": [
-        95,
+        96,
         89,
-        79,
-        44,
-        65,
-        64,
-        64,
+        76,
+        43,
+        62,
+        63,
+        63,
         57
       ],
       "dayOrNight": [
@@ -164,7 +164,7 @@
         "Friday night"
       ],
       "iconCode": [
-        12,
+        11,
         26,
         26,
         29,
@@ -174,7 +174,7 @@
         29
       ],
       "iconCodeExtend": [
-        6303,
+        6304,
         2600,
         2600,
         2900,
@@ -184,24 +184,24 @@
         2900
       ],
       "narrative": [
-        "Rain ending this morning. Remaining cloudy. High near 70F. Winds NE at 5 to 10 mph. Chance of rain 100%.",
-        "Cloudy. Slight chance of a rain shower. Low 64F. Winds ENE at 5 to 10 mph.",
-        "Cloudy skies. Slight chance of a rain shower. High near 75F. Winds ENE at 5 to 10 mph.",
-        "A few clouds from time to time. Low 61F. Winds light and variable.",
+        "Cloudy with light rain this morning. High near 70F. Winds NE at 5 to 10 mph. Chance of rain 100%.",
+        "Cloudy. Slight chance of a rain shower. Low 63F. Winds ENE at 5 to 10 mph.",
+        "Cloudy skies. Slight chance of a rain shower. High around 75F. Winds ENE at 5 to 10 mph.",
+        "Partly cloudy skies. Low 61F. Winds light and variable.",
         "Some sun in the morning with increasing clouds during the afternoon. High 78F. Winds light and variable.",
-        "Partly cloudy in the evening with more clouds for later at night. Low 62F. Winds light and variable.",
-        "Intervals of clouds and sunshine in the morning with more clouds for later in the day. High 78F. Winds W at 5 to 10 mph.",
-        "A few clouds from time to time. Low 63F. Winds ESE at 5 to 10 mph."
+        "Partly to mostly cloudy. Low 62F. Winds SW at 5 to 10 mph.",
+        "Partly to mostly cloudy. High 79F. Winds W at 5 to 10 mph.",
+        "Partly cloudy skies. Low 63F. Winds ESE at 5 to 10 mph."
       ],
       "precipChance": [
-        100,
-        16,
+        96,
         15,
-        8,
-        8,
+        15,
+        9,
+        9,
         13,
         13,
-        23
+        24
       ],
       "precipType": [
         "rain",
@@ -214,7 +214,7 @@
         "rain"
       ],
       "qpf": [
-        0.14,
+        0.01,
         0,
         0,
         0,
@@ -257,9 +257,9 @@
         87,
         87,
         72,
-        85,
+        86,
         68,
-        83,
+        82,
         68,
         80
       ],
@@ -275,28 +275,28 @@
       ],
       "temperature": [
         70,
-        64,
+        63,
         75,
         61,
         78,
         62,
-        78,
+        79,
         63
       ],
       "temperatureHeatIndex": [
-        71,
-        69,
+        70,
+        68,
         74,
         71,
         76,
-        72,
-        77,
-        73
+        73,
+        79,
+        74
       ],
       "temperatureWindChill": [
+        64,
         65,
-        65,
-        65,
+        64,
         62,
         62,
         63,
@@ -340,18 +340,18 @@
         0,
         5,
         0,
-        4,
+        5,
         0
       ],
       "windDirection": [
         56,
-        65,
-        69,
-        111,
-        41,
-        223,
-        263,
-        116
+        66,
+        67,
+        103,
+        54,
+        220,
+        264,
+        118
       ],
       "windDirectionCardinal": [
         "NE",
@@ -369,13 +369,13 @@
         "Winds ENE at 5 to 10 mph.",
         "Winds light and variable.",
         "Winds light and variable.",
-        "Winds light and variable.",
+        "Winds SW at 5 to 10 mph.",
         "Winds W at 5 to 10 mph.",
         "Winds ESE at 5 to 10 mph."
       ],
       "windSpeed": [
         9,
-        8,
+        7,
         7,
         5,
         6,
@@ -384,7 +384,7 @@
         7
       ],
       "wxPhraseLong": [
-        "AM Rain",
+        "AM Light Rain",
         "Cloudy",
         "Cloudy",
         "Partly Cloudy",
@@ -394,7 +394,7 @@
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
-        "AM Rain",
+        "AM Lgt Rain",
         "Cloudy",
         "Cloudy",
         "P Cloudy",
