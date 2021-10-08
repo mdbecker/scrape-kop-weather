@@ -1,27 +1,27 @@
 {
   "calendarDayTemperatureMax": [
-    78,
-    78,
+    77,
     73,
-    71
+    71,
+    73
   ],
   "calendarDayTemperatureMin": [
     60,
-    59,
     63,
+    65,
     65
   ],
   "dayOfWeek": [
-    "Thursday",
     "Friday",
     "Saturday",
-    "Sunday"
+    "Sunday",
+    "Monday"
   ],
   "expirationTimeUtc": [
-    1633677931,
-    1633677931,
-    1633677931,
-    1633677931
+    1633679738,
+    1633679738,
+    1633679738,
+    1633679738
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -36,46 +36,46 @@
     "WXC"
   ],
   "moonPhaseDay": [
-    1,
     2,
     3,
-    5
+    5,
+    6
   ],
   "moonriseTimeLocal": [
-    "2021-10-07T08:14:39-0400",
-    "2021-10-08T09:30:59-0400",
-    "2021-10-09T10:47:45-0400",
-    "2021-10-10T12:03:53-0400"
+    "2021-10-08T09:31:03-0400",
+    "2021-10-09T10:47:52-0400",
+    "2021-10-10T12:04:01-0400",
+    "2021-10-11T13:15:30-0400"
   ],
   "moonriseTimeUtc": [
-    1633608879,
-    1633699859,
-    1633790865,
-    1633881833
+    1633699863,
+    1633790872,
+    1633881841,
+    1633972530
   ],
   "moonsetTimeLocal": [
-    "2021-10-07T19:31:29-0400",
-    "2021-10-08T20:04:03-0400",
-    "2021-10-09T20:42:35-0400",
-    "2021-10-10T21:29:18-0400"
+    "2021-10-08T20:03:58-0400",
+    "2021-10-09T20:42:28-0400",
+    "2021-10-10T21:29:09-0400",
+    "2021-10-11T22:23:44-0400"
   ],
   "moonsetTimeUtc": [
-    1633649489,
-    1633737843,
-    1633826555,
-    1633915758
+    1633737838,
+    1633826548,
+    1633915749,
+    1634005424
   ],
   "narrative": [
-    "Partly cloudy. Lows overnight in the upper 50s.",
-    "Times of sun and clouds. Highs in the upper 70s and lows in the low 60s.",
+    "Mix of sun and clouds. Highs in the upper 70s and lows in the low 60s.",
     "Cloudy. Highs in the low 70s and lows in the mid 60s.",
-    "Showers possible. Highs in the low 70s and lows in the mid 60s."
+    "Showers. Highs in the low 70s and lows in the mid 60s.",
+    "Morning showers. Highs in the low 70s and lows in the mid 60s."
   ],
   "qpf": [
     0,
-    0,
     0.07,
-    0.23
+    0.22,
+    0.01
   ],
   "qpfSnow": [
     0,
@@ -84,67 +84,67 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2021-10-07T07:03:27-0400",
-    "2021-10-08T07:04:28-0400",
-    "2021-10-09T07:05:29-0400",
-    "2021-10-10T07:06:31-0400"
+    "2021-10-08T07:04:29-0400",
+    "2021-10-09T07:05:31-0400",
+    "2021-10-10T07:06:32-0400",
+    "2021-10-11T07:07:34-0400"
   ],
   "sunriseTimeUtc": [
-    1633604607,
-    1633691068,
-    1633777529,
-    1633863991
+    1633691069,
+    1633777531,
+    1633863992,
+    1633950454
   ],
   "sunsetTimeLocal": [
-    "2021-10-07T18:33:05-0400",
-    "2021-10-08T18:31:31-0400",
-    "2021-10-09T18:29:57-0400",
-    "2021-10-10T18:28:25-0400"
+    "2021-10-08T18:31:29-0400",
+    "2021-10-09T18:29:56-0400",
+    "2021-10-10T18:28:23-0400",
+    "2021-10-11T18:26:51-0400"
   ],
   "sunsetTimeUtc": [
-    1633645985,
-    1633732291,
-    1633818597,
-    1633904905
+    1633732289,
+    1633818596,
+    1633904903,
+    1633991211
   ],
   "temperatureMax": [
-    null,
-    79,
+    77,
     73,
-    71
+    71,
+    73
   ],
   "temperatureMin": [
-    59,
     63,
     65,
-    66
+    66,
+    64
   ],
   "validTimeLocal": [
-    "2021-10-07T07:00:00-0400",
     "2021-10-08T07:00:00-0400",
     "2021-10-09T07:00:00-0400",
-    "2021-10-10T07:00:00-0400"
+    "2021-10-10T07:00:00-0400",
+    "2021-10-11T07:00:00-0400"
   ],
   "validTimeUtc": [
-    1633604400,
     1633690800,
     1633777200,
-    1633863600
+    1633863600,
+    1633950000
   ],
   "daypart": [
     {
       "cloudCover": [
-        null,
-        43,
-        53,
-        70,
-        90,
+        56,
+        68,
+        89,
         93,
         94,
-        90
+        90,
+        85,
+        73
       ],
       "dayOrNight": [
-        null,
+        "D",
         "N",
         "D",
         "N",
@@ -154,57 +154,57 @@
         "N"
       ],
       "daypartName": [
-        null,
+        "Today",
         "Tonight",
         "Tomorrow",
         "Tomorrow night",
-        "Saturday",
-        "Saturday night",
         "Sunday",
-        "Sunday night"
+        "Sunday night",
+        "Monday",
+        "Monday night"
       ],
       "iconCode": [
-        null,
-        29,
         30,
-        27,
+        29,
         26,
         11,
         11,
-        11
+        11,
+        39,
+        27
       ],
       "iconCodeExtend": [
-        null,
-        2900,
         3000,
-        2700,
+        2900,
         2600,
         1100,
         1100,
-        1100
+        1100,
+        6103,
+        2700
       ],
       "narrative": [
-        null,
-        "A few clouds. Low 59F. Winds light and variable.",
-        "Intervals of clouds and sunshine. High 79F. Winds light and variable.",
-        "Mostly cloudy skies. Low 63F. Winds E at 5 to 10 mph.",
-        "Overcast. Slight chance of a rain shower. High 73F. Winds ENE at 10 to 15 mph.",
-        "Cloudy with occasional showers. Low near 65F. Winds ENE at 10 to 15 mph. Chance of rain 40%.",
-        "Cloudy with showers. High 71F. Winds ENE at 10 to 15 mph. Chance of rain 60%.",
-        "Cloudy with showers. Low 66F. Winds NE at 10 to 15 mph. Chance of rain 40%."
+        "Partly cloudy. High 77F. Winds light and variable.",
+        "Partly to mostly cloudy. Low 63F. Winds E at 5 to 10 mph.",
+        "Cloudy skies. Slight chance of a rain shower. High 73F. Winds ENE at 10 to 20 mph.",
+        "Overcast with showers at times. Low near 65F. Winds ENE at 10 to 15 mph. Chance of rain 40%.",
+        "Cloudy with showers. High 71F. Winds ENE at 10 to 15 mph. Chance of rain 50%.",
+        "Overcast with rain showers at times. Low 66F. Winds NE at 10 to 15 mph. Chance of rain 40%.",
+        "A few showers early with overcast skies later in the day. High 73F. Winds NE at 10 to 15 mph. Chance of rain 30%.",
+        "Mainly cloudy. Low 64F. Winds NE at 5 to 10 mph."
       ],
       "precipChance": [
-        null,
-        4,
         7,
         18,
         24,
         42,
-        55,
-        42
+        52,
+        42,
+        31,
+        24
       ],
       "precipType": [
-        null,
+        "rain",
         "rain",
         "rain",
         "rain",
@@ -214,17 +214,17 @@
         "rain"
       ],
       "qpf": [
-        null,
-        0,
         0,
         0,
         0,
         0.07,
         0.17,
-        0.06
+        0.06,
+        0.01,
+        0
       ],
       "qpfSnow": [
-        null,
+        0,
         0,
         0,
         0,
@@ -236,9 +236,9 @@
       "qualifierCode": [
         null,
         null,
-        null,
-        null,
         "Q5015",
+        null,
+        null,
         null,
         null,
         null
@@ -246,25 +246,25 @@
       "qualifierPhrase": [
         null,
         null,
-        null,
-        null,
         "Slight chance of a rain shower.",
+        null,
+        null,
         null,
         null,
         null
       ],
       "relativeHumidity": [
-        null,
-        94,
-        70,
+        76,
         81,
         73,
+        84,
         85,
-        85,
-        90
+        90,
+        80,
+        86
       ],
       "snowRange": [
-        null,
+        "",
         "",
         "",
         "",
@@ -274,37 +274,37 @@
         ""
       ],
       "temperature": [
-        null,
-        59,
-        79,
+        77,
         63,
         73,
         65,
         71,
-        66
+        66,
+        73,
+        64
       ],
       "temperatureHeatIndex": [
-        null,
-        62,
-        79,
+        77,
         73,
         72,
         68,
-        71,
-        70
+        72,
+        70,
+        74,
+        72
       ],
       "temperatureWindChill": [
-        null,
-        60,
-        62,
+        61,
         65,
         64,
         66,
         67,
-        67
+        67,
+        67,
+        65
       ],
       "thunderCategory": [
-        null,
+        "No thunder",
         "No thunder",
         "No thunder",
         "No thunder",
@@ -314,7 +314,7 @@
         "No thunder"
       ],
       "thunderIndex": [
-        null,
+        0,
         0,
         0,
         0,
@@ -324,84 +324,84 @@
         0
       ],
       "uvDescription": [
-        null,
-        "Low",
         "Moderate",
         "Low",
         "Low",
         "Low",
         "Low",
+        "Low",
+        "Moderate",
         "Low"
       ],
       "uvIndex": [
-        null,
-        0,
         5,
         0,
         2,
         0,
         2,
+        0,
+        3,
         0
       ],
       "windDirection": [
-        null,
-        271,
-        240,
+        256,
         93,
         76,
         64,
-        73,
-        47
+        74,
+        47,
+        55,
+        51
       ],
       "windDirectionCardinal": [
-        null,
-        "W",
         "WSW",
         "E",
         "ENE",
         "ENE",
         "ENE",
+        "NE",
+        "NE",
         "NE"
       ],
       "windPhrase": [
-        null,
-        "Winds light and variable.",
         "Winds light and variable.",
         "Winds E at 5 to 10 mph.",
+        "Winds ENE at 10 to 20 mph.",
         "Winds ENE at 10 to 15 mph.",
         "Winds ENE at 10 to 15 mph.",
-        "Winds ENE at 10 to 15 mph.",
-        "Winds NE at 10 to 15 mph."
+        "Winds NE at 10 to 15 mph.",
+        "Winds NE at 10 to 15 mph.",
+        "Winds NE at 5 to 10 mph."
       ],
       "windSpeed": [
-        null,
-        3,
         6,
         8,
         13,
-        12,
+        11,
         13,
-        12
+        11,
+        12,
+        9
       ],
       "wxPhraseLong": [
-        null,
         "Partly Cloudy",
         "Partly Cloudy",
-        "Mostly Cloudy",
         "Cloudy",
         "Showers",
         "Showers",
-        "Showers"
+        "Showers",
+        "AM Showers",
+        "Mostly Cloudy"
       ],
       "wxPhraseShort": [
-        null,
         "P Cloudy",
         "P Cloudy",
-        "M Cloudy",
         "Cloudy",
         "Showers",
         "Showers",
-        "Showers"
+        "Showers",
+        "AM Showers",
+        "M Cloudy"
       ]
     }
   ]
