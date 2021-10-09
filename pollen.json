@@ -1,6 +1,6 @@
 {
   "Type": "pollen",
-  "ForecastDate": "2021-10-08T00:00:00-04:00",
+  "ForecastDate": "2021-10-09T00:00:00-04:00",
   "Location": {
     "ZIP": "19406",
     "City": "KING OF PRUSSIA",
@@ -13,29 +13,10 @@
             "Name": "Ragweed",
             "Genus": "Ambrosia",
             "PlantType": "Ragweed"
-          },
-          {
-            "LGID": 344,
-            "Name": "Chenopods",
-            "Genus": "Chenopods",
-            "PlantType": "Ragweed"
           }
         ],
         "Period": "0001-01-01T00:00:00",
         "Type": "Yesterday",
-        "Index": 1.2
-      },
-      {
-        "Triggers": [
-          {
-            "LGID": 15,
-            "Name": "Ragweed",
-            "Genus": "Ambrosia",
-            "PlantType": "Ragweed"
-          }
-        ],
-        "Period": "0001-01-01T00:00:00",
-        "Type": "Today",
         "Index": 1
       },
       {
@@ -48,8 +29,21 @@
           }
         ],
         "Period": "0001-01-01T00:00:00",
-        "Type": "Tomorrow",
+        "Type": "Today",
         "Index": 0.9
+      },
+      {
+        "Triggers": [
+          {
+            "LGID": 15,
+            "Name": "Ragweed",
+            "Genus": "Ambrosia",
+            "PlantType": "Ragweed"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Tomorrow",
+        "Index": 0.6
       }
     ],
     "DisplayLocation": "King Of Prussia, PA"
