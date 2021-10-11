@@ -3,7 +3,7 @@
     72,
     74,
     76,
-    78
+    79
   ],
   "calendarDayTemperatureMin": [
     62,
@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1633940677,
-    1633940677,
-    1633940677,
-    1633940677
+    1633943122,
+    1633943122,
+    1633943122,
+    1633943122
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -68,8 +68,8 @@
   "narrative": [
     "Mostly cloudy. Highs in the low 70s and lows in the low 60s.",
     "Cloudy. Highs in the mid 70s and lows in the low 60s.",
-    "Mix of sun and clouds. Highs in the mid 70s and lows in the low 60s.",
-    "Mostly cloudy. Highs in the upper 70s and lows in the low 60s."
+    "Partly cloudy. Highs in the mid 70s and lows in the low 60s.",
+    "Mix of sun and clouds. Highs in the upper 70s and lows in the low 60s."
   ],
   "qpf": [
     0,
@@ -110,14 +110,14 @@
   "temperatureMax": [
     72,
     74,
-    75,
-    78
+    76,
+    79
   ],
   "temperatureMin": [
     61,
     61,
     61,
-    62
+    63
   ],
   "validTimeLocal": [
     "2021-10-11T07:00:00-0400",
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        75,
-        55,
-        83,
-        54,
-        57,
+        81,
+        60,
+        84,
+        53,
+        58,
         35,
-        68,
-        56
+        62,
+        50
       ],
       "dayOrNight": [
         "D",
@@ -164,44 +164,44 @@
         "Thursday night"
       ],
       "iconCode": [
-        26,
+        28,
         27,
         26,
         29,
         30,
         29,
-        28,
+        30,
         29
       ],
       "iconCodeExtend": [
-        2600,
+        2800,
         2700,
         2600,
         2900,
         3000,
         2900,
-        2800,
+        3000,
         2900
       ],
       "narrative": [
-        "Cloudy. High 72F. Winds NE at 10 to 20 mph.",
-        "Partly cloudy skies early will give way to cloudy skies late. Low 61F. Winds NE at 5 to 10 mph.",
+        "Mostly cloudy. High 72F. Winds NE at 10 to 15 mph.",
+        "Partly cloudy this evening, then becoming cloudy after midnight. Low 61F. Winds NE at 5 to 10 mph.",
         "Cloudy. Slight chance of a rain shower. High 74F. Winds NE at 5 to 10 mph.",
-        "Partly cloudy. Low 61F. Winds ENE at 5 to 10 mph.",
-        "Partly cloudy. High around 75F. Winds light and variable.",
-        "Partly cloudy. Low 61F. Winds light and variable.",
-        "Considerable cloudiness. High 78F. Winds NW at 5 to 10 mph.",
-        "Partly to mostly cloudy. Low 62F. Winds light and variable."
+        "A few clouds from time to time. Low 61F. Winds ENE at 5 to 10 mph.",
+        "Partly cloudy. High 76F. Winds light and variable.",
+        "A few clouds from time to time. Low 61F. Winds light and variable.",
+        "Considerable clouds early. Some decrease in clouds later in the day. High 79F. Winds NW at 5 to 10 mph.",
+        "Partly cloudy skies. Low 63F. Winds light and variable."
       ],
       "precipChance": [
-        4,
-        13,
+        3,
+        14,
         15,
-        21,
-        21,
+        24,
+        24,
         8,
         8,
-        7
+        11
       ],
       "precipType": [
         "rain",
@@ -254,14 +254,14 @@
         null
       ],
       "relativeHumidity": [
-        76,
+        75,
         81,
         75,
-        87,
+        88,
         76,
-        83,
-        65,
-        77
+        85,
+        64,
+        76
       ],
       "snowRange": [
         "",
@@ -278,30 +278,30 @@
         61,
         74,
         61,
-        75,
+        76,
         61,
-        78,
-        62
+        79,
+        63
       ],
       "temperatureHeatIndex": [
-        71,
+        72,
         69,
         73,
         70,
-        75,
+        74,
         72,
-        76,
-        72
+        77,
+        73
       ],
       "temperatureWindChill": [
+        61,
         62,
         62,
         62,
         62,
         62,
         62,
-        62,
-        63
+        64
       ],
       "thunderCategory": [
         "No thunder",
@@ -344,14 +344,14 @@
         0
       ],
       "windDirection": [
-        36,
-        40,
+        39,
+        39,
         56,
         59,
-        311,
-        269,
-        310,
-        292
+        312,
+        261,
+        309,
+        297
       ],
       "windDirectionCardinal": [
         "NE",
@@ -364,7 +364,7 @@
         "WNW"
       ],
       "windPhrase": [
-        "Winds NE at 10 to 20 mph.",
+        "Winds NE at 10 to 15 mph.",
         "Winds NE at 5 to 10 mph.",
         "Winds NE at 5 to 10 mph.",
         "Winds ENE at 5 to 10 mph.",
@@ -375,32 +375,32 @@
       ],
       "windSpeed": [
         13,
+        7,
         8,
-        9,
+        6,
         6,
         5,
-        4,
         8,
         5
       ],
       "wxPhraseLong": [
-        "Cloudy",
+        "Mostly Cloudy",
         "Mostly Cloudy",
         "Cloudy",
         "Partly Cloudy",
         "Partly Cloudy",
         "Partly Cloudy",
-        "Mostly Cloudy",
+        "Partly Cloudy",
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
-        "Cloudy",
+        "M Cloudy",
         "M Cloudy",
         "Cloudy",
         "P Cloudy",
         "P Cloudy",
         "P Cloudy",
-        "M Cloudy",
+        "P Cloudy",
         "P Cloudy"
       ]
     }
