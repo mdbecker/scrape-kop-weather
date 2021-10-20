@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1634684400,
       1634727600,
       1634770800,
       1634814000,
@@ -22,10 +21,11 @@
       1635159600,
       1635202800,
       1635246000,
-      1635289200
+      1635289200,
+      1635332400,
+      1635375600
     ],
     "fcstValidLocal": [
-      "2021-10-19T19:00:00-0400",
       "2021-10-20T07:00:00-0400",
       "2021-10-20T19:00:00-0400",
       "2021-10-21T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2021-10-25T07:00:00-0400",
       "2021-10-25T19:00:00-0400",
       "2021-10-26T07:00:00-0400",
-      "2021-10-26T19:00:00-0400"
+      "2021-10-26T19:00:00-0400",
+      "2021-10-27T07:00:00-0400",
+      "2021-10-27T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Thursday",
-      "Thursday night",
       "Friday",
       "Friday night",
       "Saturday",
@@ -90,9 +93,12 @@
       "Monday",
       "Monday night",
       "Tuesday",
-      "Tuesday night"
+      "Tuesday night",
+      "Wednesday",
+      "Wednesday night"
     ],
     "grassPollenIndex": [
+      0,
       0,
       0,
       0,
@@ -124,9 +130,11 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -171,10 +180,11 @@
       2,
       2,
       2,
+      1,
+      1,
+      1,
       2,
-      1,
-      1,
-      1,
+      2,
       2
     ],
     "ragweedPollenCategory": [
@@ -188,10 +198,11 @@
       "Moderate",
       "Moderate",
       "Moderate",
+      "Low",
+      "Low",
+      "Low",
       "Moderate",
-      "Low",
-      "Low",
-      "Low",
+      "Moderate",
       "Moderate"
     ]
   }
