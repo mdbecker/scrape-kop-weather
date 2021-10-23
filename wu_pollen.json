@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1634943600,
       1634986800,
       1635030000,
       1635073200,
@@ -22,10 +21,11 @@
       1635418800,
       1635462000,
       1635505200,
-      1635548400
+      1635548400,
+      1635591600,
+      1635634800
     ],
     "fcstValidLocal": [
-      "2021-10-22T19:00:00-0400",
       "2021-10-23T07:00:00-0400",
       "2021-10-23T19:00:00-0400",
       "2021-10-24T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2021-10-28T07:00:00-0400",
       "2021-10-28T19:00:00-0400",
       "2021-10-29T07:00:00-0400",
-      "2021-10-29T19:00:00-0400"
+      "2021-10-29T19:00:00-0400",
+      "2021-10-30T07:00:00-0400",
+      "2021-10-30T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Sunday",
-      "Sunday night",
       "Monday",
       "Monday night",
       "Tuesday",
@@ -90,9 +93,12 @@
       "Thursday",
       "Thursday night",
       "Friday",
-      "Friday night"
+      "Friday night",
+      "Saturday",
+      "Saturday night"
     ],
     "grassPollenIndex": [
+      0,
       0,
       0,
       0,
@@ -124,9 +130,11 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -166,13 +175,14 @@
       2,
       2,
       2,
+      1,
+      1,
+      1,
+      2,
       2,
       2,
       1,
       1,
-      2,
-      2,
-      2,
       1,
       1,
       1
@@ -183,13 +193,14 @@
       "Moderate",
       "Moderate",
       "Moderate",
+      "Low",
+      "Low",
+      "Low",
+      "Moderate",
       "Moderate",
       "Moderate",
       "Low",
       "Low",
-      "Moderate",
-      "Moderate",
-      "Moderate",
       "Low",
       "Low",
       "Low"
