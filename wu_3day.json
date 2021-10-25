@@ -8,8 +8,8 @@
   "calendarDayTemperatureMin": [
     45,
     59,
-    54,
-    52
+    55,
+    53
   ],
   "dayOfWeek": [
     "Sunday",
@@ -18,10 +18,10 @@
     "Wednesday"
   ],
   "expirationTimeUtc": [
-    1635129884,
-    1635129884,
-    1635129884,
-    1635129884
+    1635135303,
+    1635135303,
+    1635135303,
+    1635135303
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -66,15 +66,15 @@
     1635356900
   ],
   "narrative": [
-    "Mostly cloudy. Lows overnight in the mid 50s.",
-    "Showers and thunderstorms late. Highs in the upper 70s and lows in the upper 50s.",
-    "Mainly cloudy and rainy. Highs in the low 60s and lows in the low 50s.",
-    "Partly cloudy. Highs in the mid 60s and lows in the low 50s."
+    "Mostly cloudy. Lows overnight in the upper 50s.",
+    "Thunderstorms developing in the afternoon. Highs in the upper 70s and lows in the upper 50s.",
+    "Mainly cloudy and rainy. Highs in the low 60s and lows in the mid 50s.",
+    "Times of sun and clouds. Highs in the mid 60s and lows in the low 50s."
   ],
   "qpf": [
     0,
     1.28,
-    0.7,
+    0.75,
     0
   ],
   "qpfSnow": [
@@ -114,9 +114,9 @@
     66
   ],
   "temperatureMin": [
-    56,
+    58,
     59,
-    53,
+    54,
     50
   ],
   "validTimeLocal": [
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        73,
+        82,
         77,
         99,
         96,
-        95,
-        55,
-        27
+        94,
+        60,
+        30
       ],
       "dayOrNight": [
         null,
@@ -165,7 +165,7 @@
       ],
       "iconCode": [
         null,
-        27,
+        26,
         38,
         12,
         12,
@@ -175,7 +175,7 @@
       ],
       "iconCodeExtend": [
         null,
-        2700,
+        2600,
         7203,
         1200,
         1200,
@@ -185,22 +185,22 @@
       ],
       "narrative": [
         null,
-        "Considerable cloudiness. Low 56F. Winds S at 10 to 15 mph.",
-        "Partly to mostly cloudy with scattered showers and thunderstorms in the afternoon. Storms may contain strong gusty winds. High 78F. Winds SSW at 10 to 15 mph. Chance of rain 40%.",
-        "Cloudy with periods of rain. Potential for heavy rainfall. Low 59F. Winds E at 5 to 10 mph. Chance of rain 100%. 1 to 2 inches of rain expected.",
-        "Periods of rain. High 63F. Winds NNW at 10 to 20 mph. Chance of rain 80%. Rainfall near a half an inch.",
-        "A steady rain in the evening. Showers continuing late. Low 53F. Winds NNW at 15 to 25 mph. Chance of rain 80%. Rainfall around a quarter of an inch.",
-        "Intervals of clouds and sunshine. High 66F. Winds N at 10 to 20 mph.",
-        "Partly cloudy. Low around 50F. Winds N at 5 to 10 mph."
+        "Overcast. Low 58F. Winds SSW at 5 to 10 mph.",
+        "Mostly cloudy in the morning with scattered thunderstorms developing later in the day. Storms may contain strong gusty winds. High 78F. Winds SSW at 10 to 15 mph. Chance of rain 40%.",
+        "Rain. Potential for heavy rainfall. Low 59F. Winds ESE at 5 to 10 mph. Chance of rain 100%. 1 to 2 inches of rain expected.",
+        "Rain likely. High 63F. Winds NNW at 15 to 25 mph. Chance of rain 80%. Rainfall near a half an inch.",
+        "Rain early...then remaining cloudy with showers late. Low 54F. Winds NNW at 15 to 25 mph. Chance of rain 80%. Rainfall near a quarter of an inch.",
+        "Considerable clouds early. Some decrease in clouds later in the day. High 66F. Winds N at 10 to 20 mph.",
+        "Partly cloudy skies. Low around 50F. Winds N at 5 to 10 mph."
       ],
       "precipChance": [
         null,
-        8,
+        3,
         43,
         100,
         75,
-        81,
-        13,
+        80,
+        18,
         5
       ],
       "precipType": [
@@ -218,8 +218,8 @@
         0,
         0.02,
         1.26,
-        0.46,
-        0.24,
+        0.53,
+        0.22,
         0,
         0
       ],
@@ -256,12 +256,12 @@
       "relativeHumidity": [
         null,
         87,
-        73,
+        72,
         88,
-        89,
-        85,
-        65,
-        72
+        88,
+        84,
+        68,
+        73
       ],
       "snowRange": [
         null,
@@ -275,32 +275,32 @@
       ],
       "temperature": [
         null,
-        56,
+        58,
         78,
         59,
         63,
-        53,
+        54,
         66,
         50
       ],
       "temperatureHeatIndex": [
         null,
         62,
-        77,
+        79,
         71,
         62,
-        57,
+        58,
         65,
-        61
+        62
       ],
       "temperatureWindChill": [
         null,
-        57,
+        59,
         62,
-        61,
-        54,
-        49,
-        50,
+        62,
+        55,
+        51,
+        51,
         49
       ],
       "thunderCategory": [
@@ -345,19 +345,19 @@
       ],
       "windDirection": [
         null,
-        189,
+        193,
         200,
-        97,
-        340,
+        107,
         341,
-        349,
-        8
+        342,
+        353,
+        11
       ],
       "windDirectionCardinal": [
         null,
-        "S",
         "SSW",
-        "E",
+        "SSW",
+        "ESE",
         "NNW",
         "NNW",
         "N",
@@ -365,27 +365,27 @@
       ],
       "windPhrase": [
         null,
-        "Winds S at 10 to 15 mph.",
+        "Winds SSW at 5 to 10 mph.",
         "Winds SSW at 10 to 15 mph.",
-        "Winds E at 5 to 10 mph.",
-        "Winds NNW at 10 to 20 mph.",
+        "Winds ESE at 5 to 10 mph.",
+        "Winds NNW at 15 to 25 mph.",
         "Winds NNW at 15 to 25 mph.",
         "Winds N at 10 to 20 mph.",
         "Winds N at 5 to 10 mph."
       ],
       "windSpeed": [
         null,
-        10,
-        12,
         9,
-        16,
+        12,
+        10,
         17,
-        16,
-        8
+        18,
+        17,
+        9
       ],
       "wxPhraseLong": [
         null,
-        "Mostly Cloudy",
+        "Cloudy",
         "PM Thunderstorms",
         "Rain",
         "Rain",
@@ -395,7 +395,7 @@
       ],
       "wxPhraseShort": [
         null,
-        "M Cloudy",
+        "Cloudy",
         "PM T-Storms",
         "Rain",
         "Rain",
