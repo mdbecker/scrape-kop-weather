@@ -18,6 +18,32 @@
         "Period": "0001-01-01T00:00:00",
         "Type": "Yesterday",
         "Index": 0.3
+      },
+      {
+        "Triggers": [
+          {
+            "LGID": 15,
+            "Name": "Ragweed",
+            "Genus": "Ambrosia",
+            "PlantType": "Ragweed"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Today",
+        "Index": 2.8
+      },
+      {
+        "Triggers": [
+          {
+            "LGID": 15,
+            "Name": "Ragweed",
+            "Genus": "Ambrosia",
+            "PlantType": "Ragweed"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Tomorrow",
+        "Index": 1.8
       }
     ],
     "DisplayLocation": "King Of Prussia, PA"
