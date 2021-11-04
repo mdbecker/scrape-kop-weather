@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    44,
-    53,
-    53,
-    54
+    54,
+    52,
+    54,
+    57
   ],
   "calendarDayTemperatureMin": [
-    39,
     35,
     36,
-    36
+    36,
+    35
   ],
   "dayOfWeek": [
     "Wednesday",
@@ -18,10 +18,10 @@
     "Saturday"
   ],
   "expirationTimeUtc": [
-    1636002813,
-    1636002813,
-    1636002813,
-    1636002813
+    1636006364,
+    1636006364,
+    1636006364,
+    1636006364
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -67,9 +67,9 @@
   ],
   "narrative": [
     "Partly cloudy. Lows overnight in the mid 30s.",
-    "Mix of sun and clouds. Highs in the low 50s and lows in the mid 30s.",
+    "Partly cloudy. Highs in the low 50s and lows in the mid 30s.",
     "Sunshine. Highs in the mid 50s and lows in the mid 30s.",
-    "A few clouds. Highs in the mid 50s and lows in the upper 30s."
+    "Times of sun and clouds. Highs in the upper 50s and lows in the upper 30s."
   ],
   "qpf": [
     0,
@@ -111,13 +111,13 @@
     null,
     53,
     54,
-    56
+    57
   ],
   "temperatureMin": [
     36,
     36,
     35,
-    37
+    39
   ],
   "validTimeLocal": [
     "2021-11-03T07:00:00-0400",
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        57,
+        52,
         56,
         22,
         1,
-        7,
-        17,
-        27
+        8,
+        26,
+        50
       ],
       "dayOrNight": [
         null,
@@ -170,8 +170,8 @@
         29,
         32,
         31,
-        34,
-        33
+        30,
+        29
       ],
       "iconCodeExtend": [
         null,
@@ -180,28 +180,28 @@
         2900,
         3200,
         3100,
-        3400,
-        3300
+        3000,
+        2900
       ],
       "narrative": [
         null,
-        "Partly cloudy. Low 36F. Winds light and variable.",
-        "Partly cloudy skies in the morning will give way to cloudy skies during the afternoon. High 53F. Winds N at 5 to 10 mph.",
-        "Partly cloudy skies. Low 36F. Winds NNW at 5 to 10 mph.",
-        "Mainly sunny. High 54F. Winds N at 10 to 15 mph.",
-        "Clear skies. Low around 35F. Winds light and variable.",
-        "Mostly sunny skies. High 56F. Winds light and variable.",
-        "Mainly clear skies. Low 37F. Winds light and variable."
+        "Some clouds. Low 36F. Winds light and variable.",
+        "Partly to mostly cloudy. High 53F. Winds N at 5 to 10 mph.",
+        "Some clouds early will give way to generally clear conditions overnight. Low 36F. Winds NNW at 5 to 10 mph.",
+        "A mainly sunny sky. High 54F. Winds N at 10 to 15 mph.",
+        "Clear skies. Low near 35F. Winds light and variable.",
+        "Intervals of clouds and sunshine. High 57F. Winds NNE at 5 to 10 mph.",
+        "Partly cloudy skies. Low 39F. Winds light and variable."
       ],
       "precipChance": [
         null,
         2,
-        5,
+        4,
         3,
         3,
         4,
-        5,
-        10
+        4,
+        9
       ],
       "precipType": [
         null,
@@ -255,10 +255,10 @@
       ],
       "relativeHumidity": [
         null,
-        72,
-        53,
+        71,
+        52,
         63,
-        48,
+        49,
         65,
         54,
         73
@@ -280,8 +280,8 @@
         36,
         54,
         35,
-        56,
-        37
+        57,
+        39
       ],
       "temperatureHeatIndex": [
         null,
@@ -301,7 +301,7 @@
         32,
         33,
         32,
-        35
+        37
       ],
       "thunderCategory": [
         null,
@@ -345,12 +345,12 @@
       ],
       "windDirection": [
         null,
+        354,
+        3,
+        347,
+        355,
         352,
-        1,
-        346,
-        352,
-        345,
-        19,
+        26,
         19
       ],
       "windDirectionCardinal": [
@@ -359,7 +359,7 @@
         "N",
         "NNW",
         "N",
-        "NNW",
+        "N",
         "NNE",
         "NNE"
       ],
@@ -370,7 +370,7 @@
         "Winds NNW at 5 to 10 mph.",
         "Winds N at 10 to 15 mph.",
         "Winds light and variable.",
-        "Winds light and variable.",
+        "Winds NNE at 5 to 10 mph.",
         "Winds light and variable."
       ],
       "windSpeed": [
@@ -380,8 +380,8 @@
         7,
         10,
         5,
-        6,
-        5
+        7,
+        6
       ],
       "wxPhraseLong": [
         null,
@@ -390,8 +390,8 @@
         "Partly Cloudy",
         "Sunny",
         "Clear",
-        "Mostly Sunny",
-        "Mostly Clear"
+        "Partly Cloudy",
+        "Partly Cloudy"
       ],
       "wxPhraseShort": [
         null,
@@ -400,8 +400,8 @@
         "P Cloudy",
         "Sunny",
         "Clear",
-        "M Sunny",
-        "M Clear"
+        "P Cloudy",
+        "P Cloudy"
       ]
     }
   ]
