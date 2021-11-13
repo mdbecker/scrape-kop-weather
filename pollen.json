@@ -1,6 +1,6 @@
 {
   "Type": "pollen",
-  "ForecastDate": "2021-11-12T00:00:00-05:00",
+  "ForecastDate": "2021-11-13T00:00:00-05:00",
   "Location": {
     "ZIP": "19406",
     "City": "KING OF PRUSSIA",
@@ -9,15 +9,15 @@
       {
         "Triggers": [
           {
-            "LGID": 15,
-            "Name": "Ragweed",
-            "Genus": "Ambrosia",
-            "PlantType": "Ragweed"
+            "LGID": 345,
+            "Name": "Mixed Trace",
+            "Genus": "Mixed Trace",
+            "PlantType": "Other"
           }
         ],
         "Period": "0001-01-01T00:00:00",
         "Type": "Yesterday",
-        "Index": 1.9
+        "Index": 0.9
       },
       {
         "Triggers": [
@@ -30,7 +30,7 @@
         ],
         "Period": "0001-01-01T00:00:00",
         "Type": "Today",
-        "Index": 0.9
+        "Index": 0.1
       },
       {
         "Triggers": [
