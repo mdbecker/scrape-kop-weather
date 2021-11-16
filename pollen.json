@@ -1,6 +1,6 @@
 {
   "Type": "pollen",
-  "ForecastDate": "2021-11-15T00:00:00-05:00",
+  "ForecastDate": "2021-11-16T00:00:00-05:00",
   "Location": {
     "ZIP": "19406",
     "City": "KING OF PRUSSIA",
@@ -17,19 +17,6 @@
         ],
         "Period": "0001-01-01T00:00:00",
         "Type": "Yesterday",
-        "Index": 0.6
-      },
-      {
-        "Triggers": [
-          {
-            "LGID": 345,
-            "Name": "Mixed Trace",
-            "Genus": "Mixed Trace",
-            "PlantType": "Other"
-          }
-        ],
-        "Period": "0001-01-01T00:00:00",
-        "Type": "Today",
         "Index": 0.1
       },
       {
@@ -42,8 +29,21 @@
           }
         ],
         "Period": "0001-01-01T00:00:00",
-        "Type": "Tomorrow",
+        "Type": "Today",
         "Index": 0.2
+      },
+      {
+        "Triggers": [
+          {
+            "LGID": 345,
+            "Name": "Mixed Trace",
+            "Genus": "Mixed Trace",
+            "PlantType": "Other"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Tomorrow",
+        "Index": 1.3
       }
     ],
     "DisplayLocation": "King Of Prussia, PA"
