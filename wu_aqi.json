@@ -4,25 +4,25 @@
     "longitude": -75.39,
     "source": "Contains Copernicus Atmosphere Monitoring Service information 2021 and/or modified Copernicus Atmosphere Monitoring Service information 2021",
     "disclaimer": "Neither the European Commission nor ECMWF is responsible for any use of this information",
-    "airQualityIndex": 30,
+    "airQualityIndex": 31,
     "airQualityCategory": "Good",
     "airQualityCategoryIndex": 1,
     "airQualityCategoryIndexColor": "00E838",
-    "primaryPollutant": "O3",
+    "primaryPollutant": "PM2.5",
     "pollutants": {
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 8.36,
+        "amount": 7.42,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 4
+        "index": 3
       },
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 63.8,
+        "amount": 63.99,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -31,7 +31,7 @@
       "SO2": {
         "name": "SO2",
         "phrase": "Sulfur Dioxide",
-        "amount": 5.05,
+        "amount": 5.52,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -40,25 +40,25 @@
       "PM2.5": {
         "name": "PM2.5",
         "phrase": "Particulate matter less than 2.5 microns",
-        "amount": 12.96,
+        "amount": 13.75,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 29
+        "index": 31
       },
       "PM10": {
         "name": "PM10",
         "phrase": "Particulate matter less than 10 microns",
-        "amount": 21,
+        "amount": 25.45,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 9
+        "index": 10
       },
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 193.5,
+        "amount": 194.63,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -75,6 +75,6 @@
         "text": "Air quality is considered satisfactory, and air pollution poses little or no risk."
       }
     },
-    "expireTimeGmt": 1637118075
+    "expireTimeGmt": 1637121611
   }
 }
