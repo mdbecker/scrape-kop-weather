@@ -6,7 +6,7 @@
     46
   ],
   "calendarDayTemperatureMin": [
-    32,
+    33,
     34,
     32,
     33
@@ -18,10 +18,10 @@
     "Sunday"
   ],
   "expirationTimeUtc": [
-    1637849634,
-    1637849634,
-    1637849634,
-    1637849634
+    1637852665,
+    1637852665,
+    1637852665,
+    1637852665
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -42,34 +42,34 @@
     23
   ],
   "moonriseTimeLocal": [
-    "2021-11-25T21:56:06-0500",
-    "2021-11-26T23:00:34-0500",
+    "2021-11-25T21:55:55-0500",
+    "2021-11-26T23:00:26-0500",
     "",
-    "2021-11-28T00:06:23-0500"
+    "2021-11-28T00:06:16-0500"
   ],
   "moonriseTimeUtc": [
-    1637895366,
-    1637985634,
+    1637895355,
+    1637985626,
     null,
-    1638075983
+    1638075976
   ],
   "moonsetTimeLocal": [
-    "2021-11-25T12:05:38-0500",
-    "2021-11-26T12:38:13-0500",
-    "2021-11-27T13:06:33-0500",
-    "2021-11-28T13:32:51-0500"
+    "2021-11-25T12:05:39-0500",
+    "2021-11-26T12:38:12-0500",
+    "2021-11-27T13:06:31-0500",
+    "2021-11-28T13:32:47-0500"
   ],
   "moonsetTimeUtc": [
-    1637859938,
-    1637948293,
-    1638036393,
-    1638124371
+    1637859939,
+    1637948292,
+    1638036391,
+    1638124367
   ],
   "narrative": [
-    "Times of sun and clouds. Highs in the mid 50s and lows in the low 40s.",
-    "Partly cloudy and windy. Highs in the mid 40s and lows in the low 30s.",
+    "Morning clouds followed by afternoon sun. Highs in the mid 50s and lows in the low 40s.",
+    "Windy with a mix of sun and clouds. Highs in the mid 40s and lows in the low 30s.",
     "Mostly sunny. Highs in the low 40s and lows in the low 30s.",
-    "More clouds than sun. Highs in the mid 40s and lows in the low 30s."
+    "Considerable cloudiness. Highs in the mid 40s and lows in the low 30s."
   ],
   "qpf": [
     0.17,
@@ -96,16 +96,16 @@
     1638100826
   ],
   "sunsetTimeLocal": [
-    "2021-11-25T16:38:55-0500",
-    "2021-11-26T16:38:30-0500",
-    "2021-11-27T16:38:07-0500",
-    "2021-11-28T16:37:46-0500"
+    "2021-11-25T16:38:46-0500",
+    "2021-11-26T16:38:20-0500",
+    "2021-11-27T16:37:57-0500",
+    "2021-11-28T16:37:36-0500"
   ],
   "sunsetTimeUtc": [
-    1637876335,
-    1637962710,
-    1638049087,
-    1638135466
+    1637876326,
+    1637962700,
+    1638049077,
+    1638135456
   ],
   "temperatureMax": [
     56,
@@ -134,7 +134,7 @@
   "daypart": [
     {
       "cloudCover": [
-        44,
+        64,
         93,
         49,
         23,
@@ -174,7 +174,7 @@
         29
       ],
       "iconCodeExtend": [
-        3000,
+        9003,
         1200,
         3010,
         3300,
@@ -184,12 +184,12 @@
         2900
       ],
       "narrative": [
-        "Partly cloudy. High 56F. Winds WSW at 5 to 10 mph.",
+        "Cloudy skies early, then partly cloudy this afternoon. High 56F. Winds WSW at 5 to 10 mph.",
         "Cloudy with periods of rain. Low 43F. Winds SW at 5 to 10 mph. Chance of rain 90%.",
-        "Chance of a morning shower. Wind increasing. A few clouds from time to time. High 46F. Winds WNW at 20 to 30 mph.",
+        "Chance of a morning shower. Partly cloudy. Gusty winds in the afternoon. High 46F. Winds WNW at 20 to 30 mph.",
         "Mostly clear skies. Low 32F. Winds WNW at 15 to 25 mph.",
-        "Sunshine. High 43F. Winds WNW at 10 to 20 mph.",
-        "Partly cloudy skies in the evening, then becoming cloudy overnight. Low 33F. Winds SW at 5 to 10 mph.",
+        "Plentiful sunshine. High 43F. Winds WNW at 10 to 20 mph.",
+        "Partly cloudy skies early will become overcast later during the night. Low 33F. Winds SW at 5 to 10 mph.",
         "Considerable cloudiness. High 46F. Winds SW at 5 to 10 mph.",
         "Considerable clouds early. Some decrease in clouds late. Low 33F. Winds W at 5 to 10 mph."
       ],
@@ -254,7 +254,7 @@
         null
       ],
       "relativeHumidity": [
-        48,
+        47,
         73,
         56,
         54,
@@ -294,14 +294,14 @@
         42
       ],
       "temperatureWindChill": [
-        36,
+        40,
         40,
         32,
         23,
         24,
         30,
         32,
-        28
+        27
       ],
       "thunderCategory": [
         "No thunder",
@@ -344,7 +344,7 @@
         0
       ],
       "windDirection": [
-        238,
+        237,
         230,
         285,
         286,
@@ -384,7 +384,7 @@
         9
       ],
       "wxPhraseLong": [
-        "Partly Cloudy",
+        "AM Clouds/PM Sun",
         "Rain",
         "Partly Cloudy/Wind",
         "Mostly Clear",
@@ -394,7 +394,7 @@
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
-        "P Cloudy",
+        "AM Clouds",
         "Rain",
         "P Cldy/Wind",
         "M Clear",
