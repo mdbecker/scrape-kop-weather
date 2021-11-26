@@ -2,7 +2,7 @@
   "calendarDayTemperatureMax": [
     48,
     44,
-    49,
+    50,
     45
   ],
   "calendarDayTemperatureMin": [
@@ -18,10 +18,10 @@
     "Monday"
   ],
   "expirationTimeUtc": [
-    1637932791,
-    1637932791,
-    1637932791,
-    1637932791
+    1637935597,
+    1637935597,
+    1637935597,
+    1637935597
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -66,10 +66,10 @@
     1638212314
   ],
   "narrative": [
-    "Windy with showers ending. Highs in the upper 40s and lows in the low 30s.",
-    "Mostly sunny. Highs in the mid 40s and lows in the low 30s.",
-    "Partly cloudy. Highs in the upper 40s and lows in the low 30s.",
-    "A few clouds. Highs in the mid 40s and lows in the low 30s."
+    "Windy with a mix of sun and clouds. Highs in the upper 40s and lows in the low 30s.",
+    "More sun than clouds. Highs in the mid 40s and lows in the low 30s.",
+    "Times of sun and clouds. Highs in the low 50s and lows in the low 30s.",
+    "Mostly sunny. Highs in the mid 40s and lows in the low 30s."
   ],
   "qpf": [
     0,
@@ -110,7 +110,7 @@
   "temperatureMax": [
     47,
     44,
-    49,
+    50,
     45
   ],
   "temperatureMin": [
@@ -134,12 +134,12 @@
   "daypart": [
     {
       "cloudCover": [
-        59,
-        24,
+        56,
+        23,
         13,
         81,
-        60,
-        56,
+        55,
+        54,
         31,
         54
       ],
@@ -164,8 +164,8 @@
         "Monday night"
       ],
       "iconCode": [
-        39,
-        29,
+        24,
+        33,
         34,
         26,
         30,
@@ -174,8 +174,8 @@
         29
       ],
       "iconCodeExtend": [
-        6113,
-        2900,
+        3010,
+        3300,
         3400,
         2600,
         3000,
@@ -184,22 +184,22 @@
         2900
       ],
       "narrative": [
-        "Windy. A few showers this morning with partly cloudy skies during the afternoon hours. High 47F. Winds WNW at 20 to 30 mph. Chance of rain 30%.  Higher wind gusts possible.",
-        "Clear to partly cloudy. Low 32F. Winds WNW at 15 to 25 mph.  Higher wind gusts possible.",
-        "Sunny, along with a few afternoon clouds. High 44F. Winds WNW at 10 to 20 mph.",
+        "Chance of a morning shower. Mostly cloudy early then partly cloudy and windy this afternoon. High 47F. Winds WNW at 20 to 30 mph.",
+        "Generally clear skies. Low 32F. Winds WNW at 15 to 25 mph.  Higher wind gusts possible.",
+        "Sunshine and some clouds. High 44F. Winds WNW at 10 to 20 mph.",
         "Overcast. Low 33F. Winds WSW at 5 to 10 mph.",
-        "Partly cloudy. High 49F. Winds SW at 5 to 10 mph.",
-        "Considerable clouds early. Some decrease in clouds late. Low 33F. Winds W at 5 to 10 mph.",
-        "Sunny along with a few clouds. High around 45F. Winds NW at 10 to 20 mph.",
-        "Partly to mostly cloudy. Low 32F. Winds W at 5 to 10 mph."
+        "Intervals of clouds and sunshine. High around 50F. Winds SSW at 5 to 10 mph.",
+        "Mostly cloudy skies early will become partly cloudy late. Low 33F. Winds W at 5 to 10 mph.",
+        "Generally sunny despite a few afternoon clouds. High near 45F. Winds NW at 10 to 20 mph.",
+        "Partly cloudy in the evening with more clouds for later at night. Low 32F. Winds W at 5 to 10 mph."
       ],
       "precipChance": [
-        32,
+        15,
         1,
         1,
         9,
         10,
-        15,
+        14,
         4,
         13
       ],
@@ -234,7 +234,7 @@
         0
       ],
       "qualifierCode": [
-        "Q1016",
+        "Q5003",
         "Q1016",
         null,
         null,
@@ -244,7 +244,7 @@
         null
       ],
       "qualifierPhrase": [
-        "Higher wind gusts possible.",
+        "Chance of a morning shower.",
         "Higher wind gusts possible.",
         null,
         null,
@@ -278,7 +278,7 @@
         32,
         44,
         33,
-        49,
+        50,
         33,
         45,
         32
@@ -344,11 +344,11 @@
         0
       ],
       "windDirection": [
-        288,
+        290,
         287,
         290,
         238,
-        221,
+        209,
         275,
         307,
         276
@@ -358,7 +358,7 @@
         "WNW",
         "WNW",
         "WSW",
-        "SW",
+        "SSW",
         "W",
         "NW",
         "W"
@@ -368,7 +368,7 @@
         "Winds WNW at 15 to 25 mph.",
         "Winds WNW at 10 to 20 mph.",
         "Winds WSW at 5 to 10 mph.",
-        "Winds SW at 5 to 10 mph.",
+        "Winds SSW at 5 to 10 mph.",
         "Winds W at 5 to 10 mph.",
         "Winds NW at 10 to 20 mph.",
         "Winds W at 5 to 10 mph."
@@ -384,8 +384,8 @@
         8
       ],
       "wxPhraseLong": [
-        "AM Showers/Wind",
-        "Partly Cloudy",
+        "Partly Cloudy/Wind",
+        "Mostly Clear",
         "Mostly Sunny",
         "Cloudy",
         "Partly Cloudy",
@@ -394,8 +394,8 @@
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
-        "Showers/Wind",
-        "P Cloudy",
+        "P Cldy/Wind",
+        "M Clear",
         "M Sunny",
         "Cloudy",
         "P Cloudy",
