@@ -6,7 +6,7 @@
     65
   ],
   "calendarDayTemperatureMin": [
-    40,
+    41,
     40,
     34,
     41
@@ -18,10 +18,10 @@
     "Monday"
   ],
   "expirationTimeUtc": [
-    1638562991,
-    1638562991,
-    1638562991,
-    1638562991
+    1638564792,
+    1638564792,
+    1638564792,
+    1638564792
   ],
   "moonPhase": [
     "New Moon",
@@ -66,15 +66,15 @@
     1638835407
   ],
   "narrative": [
-    "Partly cloudy. Highs in the low 50s and lows in the low 40s.",
+    "Mostly cloudy. Lows overnight in the low 40s.",
     "Cloudy. Highs in the low 50s and lows in the mid 30s.",
-    "Times of sun and clouds. Highs in the upper 40s and lows in the low 40s.",
-    "Cloudy. Highs in the mid 60s and lows in the mid 30s."
+    "Partly cloudy. Highs in the upper 40s and lows in the low 40s.",
+    "Mostly cloudy. Highs in the mid 60s and lows in the mid 30s."
   ],
   "qpf": [
     0,
     0,
-    0.08,
+    0.09,
     0
   ],
   "qpfSnow": [
@@ -108,7 +108,7 @@
     1638826576
   ],
   "temperatureMax": [
-    51,
+    null,
     52,
     49,
     65
@@ -134,17 +134,17 @@
   "daypart": [
     {
       "cloudCover": [
-        33,
-        81,
+        null,
+        72,
         82,
         34,
-        37,
-        82,
-        84,
-        53
+        38,
+        83,
+        85,
+        57
       ],
       "dayOrNight": [
-        "D",
+        null,
         "N",
         "D",
         "N",
@@ -154,7 +154,7 @@
         "N"
       ],
       "daypartName": [
-        "Today",
+        null,
         "Tonight",
         "Tomorrow",
         "Tomorrow night",
@@ -164,7 +164,7 @@
         "Monday night"
       ],
       "iconCode": [
-        30,
+        null,
         26,
         26,
         29,
@@ -174,7 +174,7 @@
         29
       ],
       "iconCodeExtend": [
-        3000,
+        null,
         2600,
         2600,
         2900,
@@ -184,27 +184,27 @@
         2900
       ],
       "narrative": [
-        "Sun and clouds mixed. High 51F. Winds WNW at 10 to 15 mph.",
-        "Cloudy. Low near 40F. Winds light and variable.",
-        "Cloudy. High 52F. Winds NW at 5 to 10 mph.",
+        null,
+        "Cloudy. Low near 40F. Winds WNW at 10 to 20 mph, becoming NE and decreasing to less than 5 mph.",
+        "Overcast. High 52F. Winds NW at 5 to 10 mph.",
         "Partly cloudy. Low 34F. Winds WNW at 5 to 10 mph.",
-        "Partly cloudy. High 49F. Winds ENE at 5 to 10 mph.",
-        "Cloudy in the evening, then off and on rain showers after midnight. Low 42F. Winds SE at 5 to 10 mph. Chance of rain 60%.",
+        "Sunshine and clouds mixed. High 49F. Winds ENE at 5 to 10 mph.",
+        "Cloudy with occasional showers late at night. Low 42F. Winds SE at 5 to 10 mph. Chance of rain 60%.",
         "Cloudy. Slight chance of a rain shower. High near 65F. Winds SW at 15 to 25 mph.",
-        "A few clouds. Low 34F. Winds WNW at 10 to 20 mph."
+        "A few clouds from time to time. Low 34F. Winds WNW at 10 to 20 mph."
       ],
       "precipChance": [
-        1,
+        null,
         10,
         9,
         3,
         3,
-        56,
+        55,
         24,
         24
       ],
       "precipType": [
-        "rain",
+        null,
         "precip",
         "rain",
         "precip",
@@ -214,17 +214,17 @@
         "precip"
       ],
       "qpf": [
+        null,
         0,
         0,
         0,
         0,
-        0,
-        0.08,
+        0.09,
         0,
         0
       ],
       "qpfSnow": [
-        0,
+        null,
         0,
         0,
         0,
@@ -254,17 +254,17 @@
         null
       ],
       "relativeHumidity": [
-        44,
-        65,
+        null,
+        61,
         58,
-        63,
+        62,
         46,
-        79,
+        78,
         71,
-        48
+        46
       ],
       "snowRange": [
-        "",
+        null,
         "",
         "",
         "",
@@ -274,7 +274,7 @@
         ""
       ],
       "temperature": [
-        51,
+        null,
         40,
         52,
         34,
@@ -284,17 +284,17 @@
         34
       ],
       "temperatureHeatIndex": [
-        50,
-        45,
+        null,
+        49,
         51,
         48,
-        48,
+        47,
         51,
         64,
-        57
+        56
       ],
       "temperatureWindChill": [
-        42,
+        null,
         40,
         39,
         32,
@@ -304,7 +304,7 @@
         29
       ],
       "thunderCategory": [
-        "No thunder",
+        null,
         "No thunder",
         "No thunder",
         "No thunder",
@@ -314,7 +314,7 @@
         "No thunder"
       ],
       "thunderIndex": [
-        0,
+        null,
         0,
         0,
         0,
@@ -324,7 +324,7 @@
         0
       ],
       "uvDescription": [
-        "Low",
+        null,
         "Low",
         "Low",
         "Low",
@@ -334,7 +334,7 @@
         "Low"
       ],
       "uvIndex": [
-        0,
+        null,
         0,
         1,
         0,
@@ -344,18 +344,18 @@
         0
       ],
       "windDirection": [
-        295,
-        329,
-        312,
-        303,
-        69,
-        128,
-        216,
-        285
+        null,
+        324,
+        319,
+        301,
+        68,
+        125,
+        217,
+        284
       ],
       "windDirectionCardinal": [
-        "WNW",
-        "NNW",
+        null,
+        "NW",
         "NW",
         "WNW",
         "ENE",
@@ -364,8 +364,8 @@
         "WNW"
       ],
       "windPhrase": [
-        "Winds WNW at 10 to 15 mph.",
-        "Winds light and variable.",
+        null,
+        "Winds WNW at 10 to 20 mph, becoming NE and decreasing to less than 5 mph.",
         "Winds NW at 5 to 10 mph.",
         "Winds WNW at 5 to 10 mph.",
         "Winds ENE at 5 to 10 mph.",
@@ -374,8 +374,8 @@
         "Winds WNW at 10 to 20 mph."
       ],
       "windSpeed": [
+        null,
         13,
-        6,
         6,
         7,
         8,
@@ -384,7 +384,7 @@
         15
       ],
       "wxPhraseLong": [
-        "Partly Cloudy",
+        null,
         "Cloudy",
         "Cloudy",
         "Partly Cloudy",
@@ -394,7 +394,7 @@
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
-        "P Cloudy",
+        null,
         "Cloudy",
         "Cloudy",
         "P Cloudy",
