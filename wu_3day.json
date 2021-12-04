@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
     56,
+    51,
     50,
-    49,
     63
   ],
   "calendarDayTemperatureMin": [
     42,
     39,
     34,
-    42
+    43
   ],
   "dayOfWeek": [
     "Friday",
@@ -18,10 +18,10 @@
     "Monday"
   ],
   "expirationTimeUtc": [
-    1638597246,
-    1638597246,
-    1638597246,
-    1638597246
+    1638600857,
+    1638600857,
+    1638600857,
+    1638600857
   ],
   "moonPhase": [
     "New Moon",
@@ -42,16 +42,16 @@
     3
   ],
   "moonriseTimeLocal": [
-    "2021-12-03T06:10:25-0500",
-    "2021-12-04T07:30:04-0500",
-    "2021-12-05T08:46:12-0500",
-    "2021-12-06T09:52:02-0500"
+    "2021-12-03T06:10:29-0500",
+    "2021-12-04T07:30:09-0500",
+    "2021-12-05T08:46:17-0500",
+    "2021-12-06T09:52:07-0500"
   ],
   "moonriseTimeUtc": [
-    1638529825,
-    1638621004,
-    1638711972,
-    1638802322
+    1638529829,
+    1638621009,
+    1638711977,
+    1638802327
   ],
   "moonsetTimeLocal": [
     "2021-12-03T16:05:56-0500",
@@ -68,11 +68,11 @@
   "narrative": [
     "Light rain. Lows overnight in the upper 30s.",
     "Mostly cloudy. Highs in the low 50s and lows in the mid 30s.",
-    "Mix of sun and clouds. Highs in the upper 40s and lows in the low 40s.",
+    "Mix of sun and clouds. Highs in the low 50s and lows in the low 40s.",
     "Mostly cloudy. Highs in the low 60s and lows in the mid 30s."
   ],
   "qpf": [
-    0.01,
+    0,
     0,
     0.06,
     0
@@ -84,40 +84,40 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2021-12-03T07:05:20-0500",
-    "2021-12-04T07:06:16-0500",
-    "2021-12-05T07:07:11-0500",
-    "2021-12-06T07:08:05-0500"
+    "2021-12-03T07:05:24-0500",
+    "2021-12-04T07:06:20-0500",
+    "2021-12-05T07:07:15-0500",
+    "2021-12-06T07:08:09-0500"
   ],
   "sunriseTimeUtc": [
-    1638533120,
-    1638619576,
-    1638706031,
-    1638792485
+    1638533124,
+    1638619580,
+    1638706035,
+    1638792489
   ],
   "sunsetTimeLocal": [
-    "2021-12-03T16:36:29-0500",
-    "2021-12-04T16:36:21-0500",
-    "2021-12-05T16:36:16-0500",
+    "2021-12-03T16:36:30-0500",
+    "2021-12-04T16:36:22-0500",
+    "2021-12-05T16:36:17-0500",
     "2021-12-06T16:36:13-0500"
   ],
   "sunsetTimeUtc": [
-    1638567389,
-    1638653781,
-    1638740176,
+    1638567390,
+    1638653782,
+    1638740177,
     1638826573
   ],
   "temperatureMax": [
     null,
     51,
-    49,
+    50,
     63
   ],
   "temperatureMin": [
     39,
     34,
     42,
-    35
+    34
   ],
   "validTimeLocal": [
     "2021-12-03T07:00:00-0500",
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        97,
-        84,
-        30,
+        99,
+        85,
+        31,
         38,
         78,
         78,
-        59
+        60
       ],
       "dayOrNight": [
         null,
@@ -185,23 +185,23 @@
       ],
       "narrative": [
         null,
-        "Cloudy with periods of light rain. Low 39F. Winds light and variable. Chance of rain 70%.",
+        "Cloudy with periods of light rain. Low 39F. Winds light and variable. Chance of rain 80%.",
         "Cloudy skies. High 51F. Winds NNW at 5 to 10 mph.",
-        "A few clouds. Low 34F. Winds WNW at 5 to 10 mph.",
-        "Sunshine and clouds mixed. High 49F. Winds ENE at 5 to 10 mph.",
+        "A few clouds from time to time. Low 34F. Winds WNW at 5 to 10 mph.",
+        "Partly cloudy. High around 50F. Winds ENE at 5 to 10 mph.",
         "Partly cloudy in the evening. Increasing clouds with periods of showers after midnight. Low 42F. Winds ESE at 5 to 10 mph. Chance of rain 50%.",
-        "Cloudy. High 63F. Winds SW at 15 to 25 mph.  Higher wind gusts possible.",
-        "Partly cloudy. Low near 35F. Winds WNW at 10 to 20 mph."
+        "Overcast. High 63F. Winds SW at 15 to 25 mph.  Higher wind gusts possible.",
+        "Partly cloudy. Low 34F. Winds WNW at 10 to 20 mph."
       ],
       "precipChance": [
         null,
-        71,
+        78,
         2,
         3,
         3,
-        50,
+        49,
         24,
-        23
+        19
       ],
       "precipType": [
         null,
@@ -215,7 +215,7 @@
       ],
       "qpf": [
         null,
-        0.01,
+        0,
         0,
         0,
         0,
@@ -258,8 +258,8 @@
         61,
         55,
         61,
-        46,
-        75,
+        45,
+        76,
         74,
         46
       ],
@@ -278,29 +278,29 @@
         39,
         51,
         34,
-        49,
+        50,
         42,
         63,
-        35
+        34
       ],
       "temperatureHeatIndex": [
         null,
-        45,
-        50,
-        48,
-        48,
+        44,
         51,
+        48,
+        48,
+        50,
         62,
         55
       ],
       "temperatureWindChill": [
         null,
-        40,
+        39,
         39,
         32,
         32,
         40,
-        50,
+        49,
         29
       ],
       "thunderCategory": [
@@ -345,11 +345,11 @@
       ],
       "windDirection": [
         null,
-        59,
-        329,
-        297,
+        63,
+        327,
+        296,
         67,
-        114,
+        111,
         216,
         289
       ],
@@ -375,7 +375,7 @@
       ],
       "windSpeed": [
         null,
-        3,
+        6,
         6,
         7,
         7,
