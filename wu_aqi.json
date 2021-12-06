@@ -4,7 +4,7 @@
     "longitude": -75.39,
     "source": "Contains Copernicus Atmosphere Monitoring Service information 2021 and/or modified Copernicus Atmosphere Monitoring Service information 2021",
     "disclaimer": "Neither the European Commission nor ECMWF is responsible for any use of this information",
-    "airQualityIndex": 40,
+    "airQualityIndex": 42,
     "airQualityCategory": "Good",
     "airQualityCategoryIndex": 1,
     "airQualityCategoryIndexColor": "00E838",
@@ -13,7 +13,7 @@
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 7.39,
+        "amount": 8.38,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -22,16 +22,16 @@
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 72.87,
+        "amount": 75.08,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 27
+        "index": 28
       },
       "SO2": {
         "name": "SO2",
         "phrase": "Sulfur Dioxide",
-        "amount": 4.09,
+        "amount": 4.01,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -40,16 +40,16 @@
       "PM2.5": {
         "name": "PM2.5",
         "phrase": "Particulate matter less than 2.5 microns",
-        "amount": 17.71,
+        "amount": 19.5,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 40
+        "index": 42
       },
       "PM10": {
         "name": "PM10",
         "phrase": "Particulate matter less than 10 microns",
-        "amount": 21.89,
+        "amount": 23.27,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -58,7 +58,7 @@
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 200,
+        "amount": 197.56,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -75,6 +75,6 @@
         "text": "Air quality is considered satisfactory, and air pollution poses little or no risk."
       }
     },
-    "expireTimeGmt": 1638817287
+    "expireTimeGmt": 1638820935
   }
 }
