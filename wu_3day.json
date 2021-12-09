@@ -2,8 +2,8 @@
   "calendarDayTemperatureMax": [
     42,
     53,
-    69,
-    60
+    70,
+    58
   ],
   "calendarDayTemperatureMin": [
     28,
@@ -18,10 +18,10 @@
     "Sunday"
   ],
   "expirationTimeUtc": [
-    1639064220,
-    1639064220,
-    1639064220,
-    1639064220
+    1639071009,
+    1639071009,
+    1639071009,
+    1639071009
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -66,15 +66,15 @@
     1639288231
   ],
   "narrative": [
-    "Cloudy. Highs in the low 40s and lows in the mid 30s.",
+    "Mostly cloudy. Highs in the low 40s and lows in the mid 30s.",
     "Clouds giving way to sun . Highs in the low 50s and lows in the mid 40s.",
-    "Chance of showers. Highs in the upper 60s and lows in the low 40s.",
+    "Showers possible. Highs in the upper 60s and lows in the low 40s.",
     "Mix of sun and clouds. Highs in the upper 40s and lows in the mid 30s."
   ],
   "qpf": [
     0,
     0.02,
-    0.14,
+    0.17,
     0
   ],
   "qpfSnow": [
@@ -110,14 +110,14 @@
   "temperatureMax": [
     42,
     53,
-    68,
+    69,
     49
   ],
   "temperatureMin": [
     34,
     45,
     43,
-    35
+    34
   ],
   "validTimeLocal": [
     "2021-12-09T07:00:00-0500",
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        85,
-        77,
-        64,
+        89,
+        78,
+        66,
         87,
         98,
-        92,
+        93,
         25,
-        4
+        5
       ],
       "dayOrNight": [
         "D",
@@ -165,7 +165,7 @@
       ],
       "iconCode": [
         26,
-        27,
+        26,
         30,
         45,
         11,
@@ -175,7 +175,7 @@
       ],
       "iconCodeExtend": [
         2600,
-        2700,
+        2600,
         9003,
         7100,
         1100,
@@ -184,21 +184,21 @@
         3100
       ],
       "narrative": [
-        "Generally cloudy. High 42F. Winds light and variable.",
-        "Mostly cloudy. Low 34F. Winds light and variable.",
-        "Cloudy skies early will become partly cloudy later in the day. High 53F. Winds SSW at 5 to 10 mph.",
-        "Cloudy skies early with showers later at night. Low near 45F. Winds SE at 5 to 10 mph. Chance of rain 40%.",
-        "Considerable cloudiness with occasional rain showers. High 68F. Winds SSW at 15 to 25 mph. Chance of rain 50%.  Higher wind gusts possible.",
+        "Generally cloudy. High 42F. Winds WSW at 5 to 10 mph.",
+        "Cloudy. Low 34F. Winds light and variable.",
+        "Cloudy skies early, then partly cloudy in the afternoon. High 53F. Winds SSW at 5 to 10 mph.",
+        "Cloudy during the evening. A few showers developing late. Low around 45F. Winds SE at 5 to 10 mph. Chance of rain 30%.",
+        "Cloudy with showers. High 69F. Winds SSW at 15 to 25 mph. Chance of rain 50%.  Higher wind gusts possible.",
         "Rain showers early with overcast skies late. Low 43F. Winds W at 15 to 25 mph. Chance of rain 60%.  Higher wind gusts possible.",
         "Partly cloudy skies. High 49F. Winds WNW at 10 to 20 mph.",
-        "Clear skies. Low around 35F. Winds WSW at 5 to 10 mph."
+        "A mostly clear sky. Low 34F. Winds WSW at 5 to 10 mph."
       ],
       "precipChance": [
         1,
         4,
         13,
-        35,
-        45,
+        33,
+        49,
         64,
         0,
         2
@@ -219,7 +219,7 @@
         0,
         0.02,
         0.05,
-        0.09,
+        0.12,
         0,
         0
       ],
@@ -278,30 +278,30 @@
         34,
         53,
         45,
-        68,
+        69,
         43,
         49,
-        35
+        34
       ],
       "temperatureHeatIndex": [
         42,
         38,
         51,
         50,
-        67,
-        67,
+        68,
+        68,
         49,
         44
       ],
       "temperatureWindChill": [
-        33,
+        35,
         31,
-        33,
+        34,
         44,
         49,
         38,
-        38,
-        31
+        37,
+        30
       ],
       "thunderCategory": [
         "No thunder",
@@ -344,14 +344,14 @@
         0
       ],
       "windDirection": [
-        253,
+        237,
         169,
         207,
-        137,
+        134,
         204,
-        270,
-        298,
-        257
+        271,
+        297,
+        256
       ],
       "windDirectionCardinal": [
         "WSW",
@@ -364,7 +364,7 @@
         "WSW"
       ],
       "windPhrase": [
-        "Winds light and variable.",
+        "Winds WSW at 5 to 10 mph.",
         "Winds light and variable.",
         "Winds SSW at 5 to 10 mph.",
         "Winds SE at 5 to 10 mph.",
@@ -374,18 +374,18 @@
         "Winds WSW at 5 to 10 mph."
       ],
       "windSpeed": [
+        9,
         6,
-        5,
         7,
         8,
-        19,
+        20,
         19,
         13,
         7
       ],
       "wxPhraseLong": [
         "Cloudy",
-        "Mostly Cloudy",
+        "Cloudy",
         "AM Clouds/PM Sun",
         "Showers Late",
         "Showers",
@@ -395,7 +395,7 @@
       ],
       "wxPhraseShort": [
         "Cloudy",
-        "M Cloudy",
+        "Cloudy",
         "AM Clouds",
         "Shwrs Late",
         "Showers",
