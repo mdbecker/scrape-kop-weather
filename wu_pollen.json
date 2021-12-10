@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1639094400,
       1639137600,
       1639180800,
       1639224000,
@@ -22,10 +21,11 @@
       1639569600,
       1639612800,
       1639656000,
-      1639699200
+      1639699200,
+      1639742400,
+      1639785600
     ],
     "fcstValidLocal": [
-      "2021-12-09T19:00:00-0500",
       "2021-12-10T07:00:00-0500",
       "2021-12-10T19:00:00-0500",
       "2021-12-11T07:00:00-0500",
@@ -39,9 +39,12 @@
       "2021-12-15T07:00:00-0500",
       "2021-12-15T19:00:00-0500",
       "2021-12-16T07:00:00-0500",
-      "2021-12-16T19:00:00-0500"
+      "2021-12-16T19:00:00-0500",
+      "2021-12-17T07:00:00-0500",
+      "2021-12-17T19:00:00-0500"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Saturday",
-      "Saturday night",
       "Sunday",
       "Sunday night",
       "Monday",
@@ -90,9 +93,12 @@
       "Wednesday",
       "Wednesday night",
       "Thursday",
-      "Thursday night"
+      "Thursday night",
+      "Friday",
+      "Friday night"
     ],
     "grassPollenIndex": [
+      0,
       0,
       0,
       0,
@@ -124,9 +130,11 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -175,9 +184,11 @@
       0,
       0,
       0,
+      0,
       0
     ],
     "ragweedPollenCategory": [
+      "None",
       "None",
       "None",
       "None",
