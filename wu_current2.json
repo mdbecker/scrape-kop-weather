@@ -2,18 +2,18 @@
   "observations": [
     {
       "stationID": "KPACREST5",
-      "obsTimeUtc": "2021-12-19T06:57:12Z",
-      "obsTimeLocal": "2021-12-19 01:57:12",
+      "obsTimeUtc": "2021-12-19T07:57:12Z",
+      "obsTimeLocal": "2021-12-19 02:57:12",
       "neighborhood": "Cannon Run West",
       "softwareType": "AMBWeatherV3.0.3",
       "country": "US",
       "solarRadiation": 0,
       "lon": -75.390785,
       "realtimeFrequency": null,
-      "epoch": 1639897032,
+      "epoch": 1639900632,
       "lat": 40.109383,
       "uv": 0,
-      "winddir": 97,
+      "winddir": 74,
       "humidity": 99,
       "qcStatus": 1,
       "imperial": {
@@ -21,11 +21,11 @@
         "heatIndex": 43,
         "dewpt": 43,
         "windChill": 43,
-        "windSpeed": 0,
-        "windGust": 0,
-        "pressure": 29.64,
+        "windSpeed": 2,
+        "windGust": 2,
+        "pressure": 29.67,
         "precipRate": 0,
-        "precipTotal": 0,
+        "precipTotal": 0.01,
         "elev": 170
       }
     }
