@@ -10,9 +10,9 @@
     45
   ],
   "calendarDayTemperatureMin": [
-    27,
+    26,
     22,
-    24,
+    25,
     28,
     25,
     26,
@@ -30,14 +30,14 @@
     "Sunday"
   ],
   "expirationTimeUtc": [
-    1639926249,
-    1639926249,
-    1639926249,
-    1639926249,
-    1639926249,
-    1639926249,
-    1639926249,
-    1639926249
+    1639931119,
+    1639931119,
+    1639931119,
+    1639931119,
+    1639931119,
+    1639931119,
+    1639931119,
+    1639931119
   ],
   "moonPhase": [
     "Full Moon",
@@ -110,12 +110,12 @@
     1640538076
   ],
   "narrative": [
-    "Clouds giving way to sun . Highs in the low 40s and lows in the low 20s.",
-    "Abundant sunshine. Highs in the low 40s and lows in the mid 20s.",
+    "Times of sun and clouds. Highs in the low 40s and lows in the low 20s.",
+    "Mainly sunny. Highs in the low 40s and lows in the mid 20s.",
     "Partly cloudy. Highs in the mid 40s and lows in the upper 20s.",
-    "Clouds giving way to sun . Highs in the upper 40s and lows in the mid 20s.",
-    "Mostly sunny. Highs in the low 40s and lows in the mid 20s.",
-    "Considerable cloudiness. Highs in the upper 40s and lows in the upper 30s.",
+    "Morning clouds followed by afternoon sun. Highs in the upper 40s and lows in the mid 20s.",
+    "More sun than clouds. Highs in the low 40s and lows in the mid 20s.",
+    "Mostly cloudy. Highs in the upper 40s and lows in the upper 30s.",
     "Partly cloudy. Highs in the mid 50s and lows in the mid 30s.",
     "Partly cloudy. Highs in the mid 40s and lows in the upper 20s."
   ],
@@ -191,7 +191,7 @@
   ],
   "temperatureMin": [
     22,
-    24,
+    25,
     28,
     25,
     26,
@@ -222,13 +222,13 @@
   "daypart": [
     {
       "cloudCover": [
-        48,
+        34,
         1,
         0,
         14,
-        43,
-        69,
-        60,
+        44,
+        66,
+        61,
         13,
         31,
         64,
@@ -294,7 +294,7 @@
         33
       ],
       "iconCodeExtend": [
-        9003,
+        3000,
         3100,
         3200,
         3300,
@@ -312,28 +312,28 @@
         3300
       ],
       "narrative": [
-        "Cloudy early with peeks of sunshine expected late. Slight chance of a rain shower. High around 40F. Winds NNW at 10 to 20 mph.",
+        "Sunshine and clouds mixed. High around 40F. Winds NNW at 10 to 20 mph.",
         "Clear skies. Low 22F. Winds NNW at 5 to 10 mph.",
-        "Mainly sunny. High 41F. Winds light and variable.",
-        "Mainly clear early, then a few clouds later on. Low 24F. Winds light and variable.",
-        "Partly cloudy. High 46F. Winds light and variable.",
-        "Partly cloudy during the evening followed by cloudy skies overnight. Low 28F. Winds light and variable.",
-        "Cloudy early with partial sunshine expected late. High 48F. Winds NW at 10 to 15 mph.",
-        "Mostly clear skies. Low near 25F. Winds NW at 5 to 10 mph.",
+        "Sunny skies. High 41F. Winds light and variable.",
+        "Mainly clear early, then a few clouds later on. Low near 25F. Winds light and variable.",
+        "Intervals of clouds and sunshine. High 46F. Winds light and variable.",
+        "Partly cloudy skies in the evening, then becoming cloudy overnight. Low 28F. Winds light and variable.",
+        "Cloudy skies early will become partly cloudy later in the day. High 48F. Winds NW at 10 to 15 mph.",
+        "A mostly clear sky. Low around 25F. Winds NW at 5 to 10 mph.",
         "Generally sunny despite a few afternoon clouds. High 42F. Winds light and variable.",
         "Partly cloudy skies during the evening will give way to cloudy skies overnight. Low 26F. Winds light and variable.",
-        "A mix of clouds and sun early, then becoming cloudy later in the day. High 48F. Winds light and variable.",
+        "A mix of clouds and sun in the morning followed by cloudy skies during the afternoon. High 48F. Winds light and variable.",
         "Cloudy with occasional showers. Low 39F. Winds light and variable. Chance of rain 40%.",
         "Partly cloudy. High 54F. Winds WSW at 10 to 15 mph.",
-        "Partly cloudy skies. Low near 35F. Winds W at 5 to 10 mph.",
-        "Sunshine and clouds mixed. High near 45F. Winds WNW at 10 to 15 mph.",
+        "A few clouds. Low near 35F. Winds W at 5 to 10 mph.",
+        "Partly cloudy. High around 45F. Winds WNW at 10 to 15 mph.",
         "Clear skies with a few passing clouds. Low 28F. Winds NW at 5 to 10 mph."
       ],
       "precipChance": [
-        15,
+        0,
         3,
         3,
-        3,
+        4,
         3,
         24,
         23,
@@ -402,7 +402,7 @@
         0
       ],
       "qualifierCode": [
-        "Q5015",
+        null,
         null,
         null,
         null,
@@ -420,7 +420,7 @@
         null
       ],
       "qualifierPhrase": [
-        "Slight chance of a rain shower.",
+        null,
         null,
         null,
         null,
@@ -438,13 +438,13 @@
         null
       ],
       "relativeHumidity": [
-        51,
+        50,
         63,
         47,
-        67,
+        68,
         53,
         80,
-        58,
+        57,
         58,
         46,
         67,
@@ -477,7 +477,7 @@
         40,
         22,
         41,
-        24,
+        25,
         46,
         28,
         48,
@@ -498,7 +498,7 @@
         31,
         45,
         34,
-        47,
+        46,
         37,
         40,
         33,
@@ -511,12 +511,12 @@
       ],
       "temperatureWindChill": [
         27,
-        22,
+        21,
         22,
         23,
         25,
         29,
-        31,
+        30,
         22,
         22,
         28,
@@ -582,7 +582,7 @@
         "Low"
       ],
       "uvIndex": [
-        1,
+        2,
         0,
         2,
         0,
@@ -600,12 +600,12 @@
         0
       ],
       "windDirection": [
-        339,
-        348,
-        249,
-        222,
-        339,
-        64,
+        340,
+        346,
+        244,
+        221,
+        340,
+        67,
         318,
         325,
         304,
@@ -654,10 +654,10 @@
         "Winds NW at 5 to 10 mph."
       ],
       "windSpeed": [
-        14,
+        15,
         8,
         4,
-        3,
+        4,
         5,
         1,
         11,
@@ -672,7 +672,7 @@
         8
       ],
       "wxPhraseLong": [
-        "AM Clouds/PM Sun",
+        "Partly Cloudy",
         "Clear",
         "Sunny",
         "Mostly Clear",
@@ -690,7 +690,7 @@
         "Mostly Clear"
       ],
       "wxPhraseShort": [
-        "AM Clouds",
+        "P Cloudy",
         "Clear",
         "Sunny",
         "M Clear",
