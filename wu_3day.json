@@ -6,7 +6,7 @@
     41
   ],
   "calendarDayTemperatureMin": [
-    24,
+    23,
     30,
     32,
     28
@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1640001780,
-    1640001780,
-    1640001780,
-    1640001780
+    1640007057,
+    1640007057,
+    1640007057,
+    1640007057
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -67,9 +67,9 @@
   ],
   "narrative": [
     "Abundant sunshine. Highs in the low 40s and lows in the low 30s.",
-    "Mostly cloudy. Highs in the upper 40s and lows in the mid 30s.",
-    "Mostly sunny. Highs in the upper 40s and lows in the upper 20s.",
-    "Plenty of sun. Highs in the low 40s and lows in the low 30s."
+    "More clouds than sun. Highs in the upper 40s and lows in the mid 30s.",
+    "More sun than clouds. Highs in the upper 40s and lows in the upper 20s.",
+    "More sun than clouds. Highs in the low 40s and lows in the low 30s."
   ],
   "qpf": [
     0,
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        0,
-        36,
-        75,
+        8,
+        37,
+        76,
         92,
         34,
         12,
-        30,
-        69
+        32,
+        70
       ],
       "dayOrNight": [
         "D",
@@ -165,7 +165,7 @@
       ],
       "iconCode": [
         32,
-        33,
+        29,
         28,
         45,
         34,
@@ -175,7 +175,7 @@
       ],
       "iconCodeExtend": [
         3200,
-        3300,
+        2900,
         2800,
         7100,
         3400,
@@ -184,14 +184,14 @@
         2700
       ],
       "narrative": [
-        "Sunny. High 42F. Winds WNW at 5 to 10 mph.",
-        "Clear to partly cloudy. Low around 30F. Winds light and variable.",
-        "Mainly cloudy. High 47F. Winds light and variable.",
+        "Abundant sunshine. High 42F. Winds W at 5 to 10 mph.",
+        "Clear early followed by mostly cloudy skies overnight. Low near 30F. Winds light and variable.",
+        "Considerable cloudiness. High 47F. Winds light and variable.",
         "Cloudy during the evening. A few showers developing late. Some mixed winter precipitation possible late. Low 36F. Winds light and variable. Chance of rain 30%.",
         "A few clouds early, otherwise mostly sunny. High 47F. Winds NW at 15 to 25 mph.",
-        "Clear. Low 28F. Winds NW at 10 to 20 mph.",
-        "Sunny, along with a few afternoon clouds. High 41F. Winds WNW at 5 to 10 mph.",
-        "Mostly cloudy. Low 32F. Winds light and variable."
+        "A mostly clear sky. Low 28F. Winds WNW at 10 to 20 mph.",
+        "Sunshine and some clouds. High 41F. Winds WNW at 5 to 10 mph.",
+        "Considerable cloudiness. Low 32F. Winds light and variable."
       ],
       "precipChance": [
         1,
@@ -201,7 +201,7 @@
         5,
         2,
         2,
-        9
+        11
       ],
       "precipType": [
         "rain",
@@ -254,10 +254,10 @@
         null
       ],
       "relativeHumidity": [
-        46,
-        61,
+        41,
+        62,
         51,
-        67,
+        66,
         50,
         50,
         42,
@@ -294,7 +294,7 @@
         37
       ],
       "temperatureWindChill": [
-        18,
+        20,
         26,
         27,
         33,
@@ -344,32 +344,32 @@
         0
       ],
       "windDirection": [
-        283,
+        266,
         227,
         0,
-        20,
+        21,
         306,
-        304,
+        303,
         286,
         185
       ],
       "windDirectionCardinal": [
-        "WNW",
+        "W",
         "SW",
         "N",
         "NNE",
         "NW",
-        "NW",
+        "WNW",
         "WNW",
         "S"
       ],
       "windPhrase": [
-        "Winds WNW at 5 to 10 mph.",
+        "Winds W at 5 to 10 mph.",
         "Winds light and variable.",
         "Winds light and variable.",
         "Winds light and variable.",
         "Winds NW at 15 to 25 mph.",
-        "Winds NW at 10 to 20 mph.",
+        "Winds WNW at 10 to 20 mph.",
         "Winds WNW at 5 to 10 mph.",
         "Winds light and variable."
       ],
@@ -385,7 +385,7 @@
       ],
       "wxPhraseLong": [
         "Sunny",
-        "Mostly Clear",
+        "Partly Cloudy",
         "Mostly Cloudy",
         "Showers Late",
         "Mostly Sunny",
@@ -395,7 +395,7 @@
       ],
       "wxPhraseShort": [
         "Sunny",
-        "M Clear",
+        "P Cloudy",
         "M Cloudy",
         "Shwrs Late",
         "M Sunny",
