@@ -9,7 +9,7 @@
     37,
     32,
     39,
-    45
+    44
   ],
   "dayOfWeek": [
     "Sunday",
@@ -18,10 +18,10 @@
     "Wednesday"
   ],
   "expirationTimeUtc": [
-    1640524457,
-    1640524457,
-    1640524457,
-    1640524457
+    1640528060,
+    1640528060,
+    1640528060,
+    1640528060
   ],
   "moonPhase": [
     "Last Quarter",
@@ -66,14 +66,14 @@
     1640802026
   ],
   "narrative": [
-    "Times of sun and clouds. Highs in the low 50s and lows in the low 30s.",
-    "Chance of afternoon showers. Highs in the low 40s and lows in the upper 30s.",
+    "Sunshine. Highs in the low 50s and lows in the low 30s.",
+    "Chance of showers. Highs in the low 40s and lows in the upper 30s.",
     "Mostly cloudy. Highs in the low 50s and lows in the mid 40s.",
     "Showers. Highs in the low 50s and lows in the mid 40s."
   ],
   "qpf": [
     0,
-    0.12,
+    0.09,
     0.15,
     0.11
   ],
@@ -116,7 +116,7 @@
   "temperatureMin": [
     32,
     38,
-    45,
+    44,
     44
   ],
   "validTimeLocal": [
@@ -134,11 +134,11 @@
   "daypart": [
     {
       "cloudCover": [
-        13,
-        40,
-        94,
+        7,
+        39,
+        93,
         95,
-        92,
+        93,
         99,
         95,
         89
@@ -164,9 +164,9 @@
         "Wednesday night"
       ],
       "iconCode": [
-        30,
+        32,
         29,
-        39,
+        11,
         45,
         26,
         11,
@@ -174,9 +174,9 @@
         45
       ],
       "iconCodeExtend": [
-        3000,
+        3200,
         2900,
-        7103,
+        1100,
         6100,
         2600,
         1100,
@@ -184,21 +184,21 @@
         7100
       ],
       "narrative": [
-        "Partly cloudy skies. High 53F. Winds NW at 10 to 15 mph.",
-        "A few clouds. Low 32F. Winds NNW at 5 to 10 mph.",
-        "Cloudy early with showers for the afternoon hours. High around 40F. Winds ENE at 5 to 10 mph. Chance of rain 40%.",
+        "Plentiful sunshine. High 53F. Winds NW at 10 to 15 mph.",
+        "Partly cloudy. Low 32F. Winds NNW at 5 to 10 mph.",
+        "Overcast with rain showers at times. High near 40F. Winds ENE at 5 to 10 mph. Chance of rain 50%.",
         "Showers in the evening, then cloudy overnight. Low 38F. Winds light and variable. Chance of rain 50%.",
         "Cloudy. High near 50F. Winds NW at 5 to 10 mph.",
-        "Showers early becoming a steady light rain late. Low around 45F. Winds ENE at 5 to 10 mph. Chance of rain 60%.",
-        "Steady light rain in the morning. Showers continuing in the afternoon. High 53F. Winds light and variable. Chance of rain 60%.",
-        "Cloudy during the evening. A few showers developing late. Low 44F. Winds light and variable. Chance of rain 30%."
+        "Showers early becoming a steady light rain late. Low 44F. Winds ENE at 5 to 10 mph. Chance of rain 60%.",
+        "Light rain early...then remaining cloudy with showers in the afternoon. High 53F. Winds light and variable. Chance of rain 60%.",
+        "Cloudy skies with a few showers later at night. Low 44F. Winds light and variable. Chance of rain 30%."
       ],
       "precipChance": [
         2,
         5,
-        43,
-        46,
-        24,
+        52,
+        47,
+        23,
         64,
         61,
         30
@@ -216,7 +216,7 @@
       "qpf": [
         0,
         0,
-        0.08,
+        0.06,
         0.04,
         0,
         0.15,
@@ -254,9 +254,9 @@
         null
       ],
       "relativeHumidity": [
-        52,
+        51,
         67,
-        65,
+        64,
         85,
         73,
         79,
@@ -279,7 +279,7 @@
         40,
         38,
         50,
-        45,
+        44,
         53,
         44
       ],
@@ -294,7 +294,7 @@
         51
       ],
       "temperatureWindChill": [
-        42,
+        43,
         29,
         29,
         35,
@@ -344,10 +344,10 @@
         0
       ],
       "windDirection": [
-        311,
+        312,
         329,
         68,
-        34,
+        35,
         323,
         57,
         343,
@@ -384,9 +384,9 @@
         5
       ],
       "wxPhraseLong": [
+        "Sunny",
         "Partly Cloudy",
-        "Partly Cloudy",
-        "PM Showers",
+        "Showers",
         "Showers Early",
         "Cloudy",
         "Showers",
@@ -394,9 +394,9 @@
         "Showers Late"
       ],
       "wxPhraseShort": [
+        "Sunny",
         "P Cloudy",
-        "P Cloudy",
-        "PM Showers",
+        "Showers",
         "Shwrs Early",
         "Cloudy",
         "Showers",
