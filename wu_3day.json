@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1640617821,
-    1640617821,
-    1640617821,
-    1640617821
+    1640620009,
+    1640620009,
+    1640620009,
+    1640620009
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -66,13 +66,13 @@
     1640890531
   ],
   "narrative": [
-    "Mix of rain and snow showers. Highs in the upper 30s with temperatures nearly steady overnight.",
+    "Mix of rain and snow. Highs in the low 40s and lows in the upper 30s.",
     "Mostly cloudy. Highs in the low 50s and lows in the low 40s.",
     "Showers. Highs in the low 50s and lows in the upper 40s.",
-    "A few morning showers. Highs in the mid 50s and lows in the mid 40s."
+    "Morning showers. Highs in the mid 50s and lows in the mid 40s."
   ],
   "qpf": [
-    0.07,
+    0.14,
     0.12,
     0.3,
     0.04
@@ -108,7 +108,7 @@
     1640900737
   ],
   "temperatureMax": [
-    39,
+    40,
     53,
     52,
     56
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        98,
-        100,
-        92,
         99,
-        97,
+        100,
+        91,
         98,
-        89,
-        76
+        97,
+        99,
+        90,
+        77
       ],
       "dayOrNight": [
         "D",
@@ -174,7 +174,7 @@
         26
       ],
       "iconCodeExtend": [
-        4900,
+        500,
         6100,
         2600,
         1100,
@@ -184,23 +184,23 @@
         2600
       ],
       "narrative": [
-        "Mostly cloudy with scattered snow and rain showers. Temps nearly steady in the mid to upper 30s. Winds E at 5 to 10 mph. Chance of precip 60%.",
-        "Showers early, then cloudy overnight. Low 39F. Winds light and variable. Chance of rain 50%.",
-        "Cloudy. Slight chance of a rain shower. High 53F. Winds WNW at 5 to 10 mph.",
-        "Considerable cloudiness with occasional rain showers. Low 43F. Winds NE at 5 to 10 mph. Chance of rain 70%.",
-        "Showers early becoming less numerous later in the day. High 52F. Winds NE at 5 to 10 mph. Chance of rain 40%.",
-        "Rain showers in the evening will evolve into a more steady rain overnight. Low 47F. Winds NNE at 5 to 10 mph. Chance of rain 80%. Rainfall near a quarter of an inch.",
+        "Snow this morning will mix with rain at times this afternoon. Temps nearly steady in the upper 30s. Winds E at 5 to 10 mph. Chance of precip 90%.",
+        "Rain showers this evening with overcast skies overnight. Low 39F. Winds NNE at 5 to 10 mph. Chance of rain 50%.",
+        "Cloudy skies. Slight chance of a rain shower. High 53F. Winds WNW at 5 to 10 mph.",
+        "Cloudy with showers. Low 43F. Winds NE at 5 to 10 mph. Chance of rain 70%.",
+        "Showers early becoming less numerous later in the day. High 52F. Winds NE at 5 to 10 mph. Chance of rain 50%.",
+        "Rain showers in the evening will evolve into a more steady rain overnight. Low 47F. Winds light and variable. Chance of rain 80%. Rainfall near a quarter of an inch.",
         "Rain showers early with overcast skies later in the day. High 56F. Winds N at 5 to 10 mph. Chance of rain 60%.",
-        "Overcast. Low 44F. Winds light and variable."
+        "Cloudy. Low 44F. Winds light and variable."
       ],
       "precipChance": [
-        60,
+        85,
         47,
         15,
         65,
-        42,
-        78,
-        58,
+        45,
+        84,
+        55,
         24
       ],
       "precipType": [
@@ -214,12 +214,12 @@
         "rain"
       ],
       "qpf": [
+        0.11,
         0.04,
-        0.03,
         0,
         0.12,
-        0.04,
-        0.25,
+        0.05,
+        0.24,
         0.04,
         0
       ],
@@ -254,13 +254,13 @@
         null
       ],
       "relativeHumidity": [
-        67,
+        68,
         85,
         64,
-        69,
+        68,
         80,
-        86,
-        80,
+        87,
+        81,
         84
       ],
       "snowRange": [
@@ -274,7 +274,7 @@
         ""
       ],
       "temperature": [
-        39,
+        40,
         39,
         53,
         43,
@@ -288,19 +288,19 @@
         42,
         52,
         48,
-        52,
-        49,
-        56,
+        51,
+        48,
+        55,
         52
       ],
       "temperatureWindChill": [
         32,
-        35,
+        36,
         37,
-        41,
+        40,
         41,
         45,
-        47,
+        46,
         43
       ],
       "thunderCategory": [
@@ -344,14 +344,14 @@
         0
       ],
       "windDirection": [
-        92,
-        15,
-        293,
+        87,
+        13,
+        294,
         44,
-        45,
+        42,
         33,
-        4,
-        318
+        355,
+        317
       ],
       "windDirectionCardinal": [
         "E",
@@ -365,11 +365,11 @@
       ],
       "windPhrase": [
         "Winds E at 5 to 10 mph.",
-        "Winds light and variable.",
+        "Winds NNE at 5 to 10 mph.",
         "Winds WNW at 5 to 10 mph.",
         "Winds NE at 5 to 10 mph.",
         "Winds NE at 5 to 10 mph.",
-        "Winds NNE at 5 to 10 mph.",
+        "Winds light and variable.",
         "Winds N at 5 to 10 mph.",
         "Winds light and variable."
       ],
@@ -377,14 +377,14 @@
         8,
         6,
         8,
-        7,
+        8,
         7,
         6,
         7,
         6
       ],
       "wxPhraseLong": [
-        "Rain/Snow Showers",
+        "Rain/Snow",
         "Showers Early",
         "Cloudy",
         "Showers",
@@ -394,7 +394,7 @@
         "Cloudy"
       ],
       "wxPhraseShort": [
-        "R/S Showers",
+        "Rain/Snow",
         "Shwrs Early",
         "Cloudy",
         "Showers",
