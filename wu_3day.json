@@ -1,14 +1,14 @@
 {
   "calendarDayTemperatureMax": [
     54,
-    54,
+    53,
     58,
     63
   ],
   "calendarDayTemperatureMin": [
     43,
     45,
-    48,
+    47,
     49
   ],
   "dayOfWeek": [
@@ -18,10 +18,10 @@
     "Saturday"
   ],
   "expirationTimeUtc": [
-    1640794795,
-    1640794795,
-    1640794795,
-    1640794795
+    1640798402,
+    1640798402,
+    1640798402,
+    1640798402
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -66,15 +66,15 @@
     1641069105
   ],
   "narrative": [
-    "Cloudy. Highs in the mid 50s and lows in the mid 40s.",
-    "Mostly cloudy. Highs in the mid 50s and lows in the upper 40s.",
+    "Chance of afternoon showers. Highs in the mid 50s and lows in the mid 40s.",
+    "Cloudy. Highs in the low 50s and lows in the upper 40s.",
     "Mostly cloudy. Highs in the upper 50s and lows in the upper 40s.",
-    "Cloudy with rain. Highs in the low 60s and lows in the upper 50s."
+    "Mainly cloudy and rainy. Highs in the low 60s and lows in the upper 50s."
   ],
   "qpf": [
-    0.19,
+    0.22,
     0,
-    0.06,
+    0.08,
     0.77
   ],
   "qpfSnow": [
@@ -109,13 +109,13 @@
   ],
   "temperatureMax": [
     54,
-    54,
+    53,
     58,
     63
   ],
   "temperatureMin": [
     45,
-    48,
+    47,
     49,
     58
   ],
@@ -136,9 +136,9 @@
       "cloudCover": [
         95,
         99,
-        96,
-        92,
-        79,
+        97,
+        90,
+        78,
         94,
         100,
         94
@@ -164,7 +164,7 @@
         "Saturday night"
       ],
       "iconCode": [
-        26,
+        39,
         12,
         26,
         26,
@@ -174,7 +174,7 @@
         12
       ],
       "iconCodeExtend": [
-        2600,
+        7103,
         1200,
         2600,
         2600,
@@ -184,22 +184,22 @@
         1200
       ],
       "narrative": [
-        "Cloudy skies. Slight chance of a rain shower. High 54F. Winds light and variable.",
-        "Rain likely. Areas of patchy fog. Low around 45F. Winds light and variable. Chance of rain 100%.",
-        "Cloudy. Slight chance of a rain shower. High 54F. Winds light and variable.",
-        "Cloudy. Low 48F. Winds light and variable.",
+        "Cloudy with occasional showers this afternoon. High 54F. Winds N at 5 to 10 mph. Chance of rain 40%.",
+        "Cloudy with periods of rain. Areas of patchy fog. Low near 45F. Winds light and variable. Chance of rain 100%. Rainfall around a quarter of an inch.",
+        "Cloudy. Slight chance of a rain shower. High 53F. Winds light and variable.",
+        "Cloudy. Low 47F. Winds light and variable.",
         "Mostly cloudy skies. High 58F. Winds WSW at 5 to 10 mph.",
-        "Cloudy skies with periods of light rain after midnight. Low 49F. Winds light and variable. Chance of rain 70%.",
-        "Periods of rain. Near record high temperatures. High 63F. Winds SSW at 10 to 15 mph. Chance of rain 80%. Rainfall near a half an inch.",
+        "Cloudy with light rain developing after midnight. Low 49F. Winds light and variable. Chance of rain 70%.",
+        "Rain likely. Near record high temperatures. High 63F. Winds SSW at 10 to 15 mph. Chance of rain 80%. Rainfall near a half an inch.",
         "A steady rain in the evening. Showers continuing late. Low 58F. Winds WSW at 5 to 10 mph. Chance of rain 70%. Rainfall near a quarter of an inch."
       ],
       "precipChance": [
-        15,
-        95,
+        44,
+        96,
         24,
         24,
         13,
-        67,
+        70,
         82,
         69
       ],
@@ -214,12 +214,12 @@
         "rain"
       ],
       "qpf": [
+        0.01,
+        0.21,
         0,
-        0.19,
         0,
         0,
-        0,
-        0.06,
+        0.08,
         0.43,
         0.33
       ],
@@ -234,7 +234,7 @@
         0
       ],
       "qualifierCode": [
-        "Q5015",
+        null,
         "Q902",
         "Q5015",
         null,
@@ -244,7 +244,7 @@
         null
       ],
       "qualifierPhrase": [
-        "Slight chance of a rain shower.",
+        null,
         "Areas of patchy fog.",
         "Slight chance of a rain shower.",
         null,
@@ -254,12 +254,12 @@
         null
       ],
       "relativeHumidity": [
-        72,
+        74,
         85,
         81,
-        83,
+        85,
         74,
-        82,
+        83,
         84,
         83
       ],
@@ -276,8 +276,8 @@
       "temperature": [
         54,
         45,
-        54,
-        48,
+        53,
+        47,
         58,
         49,
         63,
@@ -294,11 +294,11 @@
         62
       ],
       "temperatureWindChill": [
-        46,
+        47,
         45,
         45,
-        49,
         48,
+        47,
         49,
         51,
         58
@@ -344,27 +344,27 @@
         0
       ],
       "windDirection": [
-        5,
+        11,
+        50,
         46,
-        51,
-        73,
-        248,
-        167,
-        198,
+        17,
+        253,
+        162,
+        199,
         247
       ],
       "windDirectionCardinal": [
         "N",
         "NE",
         "NE",
-        "ENE",
+        "NNE",
         "WSW",
         "SSE",
         "SSW",
         "WSW"
       ],
       "windPhrase": [
-        "Winds light and variable.",
+        "Winds N at 5 to 10 mph.",
         "Winds light and variable.",
         "Winds light and variable.",
         "Winds light and variable.",
@@ -384,7 +384,7 @@
         9
       ],
       "wxPhraseLong": [
-        "Cloudy",
+        "PM Showers",
         "Rain",
         "Cloudy",
         "Cloudy",
@@ -394,7 +394,7 @@
         "Rain"
       ],
       "wxPhraseShort": [
-        "Cloudy",
+        "PM Showers",
         "Rain",
         "Cloudy",
         "Cloudy",
