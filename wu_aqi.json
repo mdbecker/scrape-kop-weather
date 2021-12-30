@@ -4,7 +4,7 @@
     "longitude": -75.39,
     "source": "Contains Copernicus Atmosphere Monitoring Service information 2021 and/or modified Copernicus Atmosphere Monitoring Service information 2021",
     "disclaimer": "Neither the European Commission nor ECMWF is responsible for any use of this information",
-    "airQualityIndex": 63,
+    "airQualityIndex": 62,
     "airQualityCategory": "Moderate",
     "airQualityCategoryIndex": 2,
     "airQualityCategoryIndexColor": "FFFF24",
@@ -13,7 +13,7 @@
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 51.11,
+        "amount": 51.13,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -22,34 +22,34 @@
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 2.98,
-        "unit": "μg/m3",
-        "category": "Good",
-        "categoryIndex": 1,
-        "index": 1
-      },
-      "SO2": {
-        "name": "SO2",
-        "phrase": "Sulfur Dioxide",
-        "amount": 6.33,
+        "amount": 21.01,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
         "index": 3
       },
+      "SO2": {
+        "name": "SO2",
+        "phrase": "Sulfur Dioxide",
+        "amount": 7.48,
+        "unit": "μg/m3",
+        "category": "Good",
+        "categoryIndex": 1,
+        "index": 4
+      },
       "PM2.5": {
         "name": "PM2.5",
         "phrase": "Particulate matter less than 2.5 microns",
-        "amount": 12.81,
+        "amount": 13.55,
         "unit": "μg/m3",
         "category": "Moderate",
         "categoryIndex": 2,
-        "index": 63
+        "index": 62
       },
       "PM10": {
         "name": "PM10",
         "phrase": "Particulate matter less than 10 microns",
-        "amount": 27.47,
+        "amount": 29.91,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -58,11 +58,11 @@
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 420.19,
+        "amount": 347.07,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 5
+        "index": 4
       }
     },
     "messages": {
@@ -75,6 +75,6 @@
         "text": "Air quality is acceptable; however, for some pollutants there may be a moderate health concern for a very small number of people who are unusually sensitive to air pollution."
       }
     },
-    "expireTimeGmt": 1640898109
+    "expireTimeGmt": 1640901601
   }
 }
