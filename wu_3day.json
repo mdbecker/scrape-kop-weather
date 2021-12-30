@@ -2,13 +2,13 @@
   "calendarDayTemperatureMax": [
     53,
     58,
-    63,
+    64,
     64
   ],
   "calendarDayTemperatureMin": [
     44,
     48,
-    51,
+    50,
     38
   ],
   "dayOfWeek": [
@@ -18,10 +18,10 @@
     "Sunday"
   ],
   "expirationTimeUtc": [
-    1640859816,
-    1640859816,
-    1640859816,
-    1640859816
+    1640863426,
+    1640863426,
+    1640863426,
+    1640863426
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -42,39 +42,39 @@
     0
   ],
   "moonriseTimeLocal": [
-    "2021-12-30T03:41:04-0500",
-    "2021-12-31T04:59:18-0500",
-    "2022-01-01T06:17:03-0500",
-    "2022-01-02T07:28:28-0500"
+    "2021-12-30T03:41:05-0500",
+    "2021-12-31T04:59:19-0500",
+    "2022-01-01T06:17:05-0500",
+    "2022-01-02T07:28:30-0500"
   ],
   "moonriseTimeUtc": [
-    1640853664,
-    1640944758,
-    1641035823,
-    1641126508
+    1640853665,
+    1640944759,
+    1641035825,
+    1641126510
   ],
   "moonsetTimeLocal": [
-    "2021-12-30T13:55:35-0500",
-    "2021-12-31T14:38:50-0500",
-    "2022-01-01T15:31:56-0500",
-    "2022-01-02T16:37:07-0500"
+    "2021-12-30T13:55:29-0500",
+    "2021-12-31T14:38:43-0500",
+    "2022-01-01T15:31:49-0500",
+    "2022-01-02T16:37:00-0500"
   ],
   "moonsetTimeUtc": [
-    1640890535,
-    1640979530,
-    1641069116,
-    1641159427
+    1640890529,
+    1640979523,
+    1641069109,
+    1641159420
   ],
   "narrative": [
-    "Mostly cloudy. Highs in the low 50s and lows in the upper 40s.",
-    "Cloudy. Highs in the upper 50s and lows in the low 50s.",
+    "Rain in the morning. Highs in the low 50s and lows in the upper 40s.",
+    "Mostly cloudy. Highs in the upper 50s and lows in the low 50s.",
     "Showers possible. Highs in the low 60s and lows in the upper 50s.",
-    "Showers possible. Highs in the low 60s and lows in the upper 20s."
+    "Chance of showers. Highs in the low 60s and lows in the upper 20s."
   ],
   "qpf": [
-    0,
+    0.05,
     0.07,
-    0.63,
+    0.6,
     0.17
   ],
   "qpfSnow": [
@@ -84,28 +84,28 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2021-12-30T07:21:52-0500",
-    "2021-12-31T07:22:02-0500",
-    "2022-01-01T07:22:10-0500",
-    "2022-01-02T07:22:17-0500"
+    "2021-12-30T07:21:53-0500",
+    "2021-12-31T07:22:03-0500",
+    "2022-01-01T07:22:12-0500",
+    "2022-01-02T07:22:18-0500"
   ],
   "sunriseTimeUtc": [
-    1640866912,
-    1640953322,
-    1641039730,
-    1641126137
+    1640866913,
+    1640953323,
+    1641039732,
+    1641126138
   ],
   "sunsetTimeLocal": [
-    "2021-12-30T16:45:41-0500",
-    "2021-12-31T16:46:29-0500",
-    "2022-01-01T16:47:17-0500",
-    "2022-01-02T16:48:07-0500"
+    "2021-12-30T16:45:35-0500",
+    "2021-12-31T16:46:23-0500",
+    "2022-01-01T16:47:11-0500",
+    "2022-01-02T16:48:01-0500"
   ],
   "sunsetTimeUtc": [
-    1640900741,
-    1640987189,
-    1641073637,
-    1641160087
+    1640900735,
+    1640987183,
+    1641073631,
+    1641160081
   ],
   "temperatureMax": [
     53,
@@ -115,8 +115,8 @@
   ],
   "temperatureMin": [
     48,
-    51,
-    58,
+    50,
+    59,
     29
   ],
   "validTimeLocal": [
@@ -134,10 +134,10 @@
   "daypart": [
     {
       "cloudCover": [
+        98,
         97,
-        91,
-        80,
-        92,
+        85,
+        94,
         99,
         97,
         87,
@@ -164,7 +164,7 @@
         "Sunday night"
       ],
       "iconCode": [
-        26,
+        12,
         26,
         26,
         11,
@@ -174,7 +174,7 @@
         45
       ],
       "iconCodeExtend": [
-        2600,
+        6303,
         2600,
         2600,
         7301,
@@ -184,22 +184,22 @@
         6100
       ],
       "narrative": [
-        "Generally cloudy. Slight chance of a rain shower. High 53F. Winds light and variable.",
-        "Cloudy. Areas of patchy fog. Low 48F. Winds light and variable.",
+        "Rain ending this morning. Remaining cloudy. Areas of patchy fog. High 53F. Winds light and variable. Chance of rain 80%.",
+        "Overcast. Areas of patchy fog. Low 48F. Winds light and variable.",
         "Overcast. Areas of patchy fog. High 58F. Winds SW at 5 to 10 mph.",
-        "Cloudy skies with periods of light rain after midnight. Low 51F. Winds S at 5 to 10 mph. Chance of rain 60%.",
-        "Showers early becoming a steady light rain later in the day. High near 60F. Winds SSW at 5 to 10 mph. Chance of rain 70%.",
-        "Rain early...then remaining cloudy with showers late. Low 58F. Winds SSW at 10 to 15 mph. Chance of rain 80%. Rainfall near a half an inch.",
+        "Cloudy with light rain developing after midnight. Low around 50F. Winds light and variable. Chance of rain 70%.",
+        "Showers early becoming a steady light rain later in the day. High around 60F. Winds SSW at 5 to 10 mph. Chance of rain 70%.",
+        "Rain early...then remaining cloudy with showers late. Low 59F. Winds SSW at 10 to 15 mph. Chance of rain 80%. Rainfall around a half an inch.",
         "Cloudy with occasional rain showers. High 63F. Winds W at 15 to 25 mph. Chance of rain 50%.  Higher wind gusts possible.",
         "Showers in the evening, then cloudy overnight. Snow may mix in. Low 29F. Winds NNW at 10 to 20 mph. Chance of rain 40%."
       ],
       "precipChance": [
-        18,
+        84,
         24,
         14,
-        63,
-        73,
-        84,
+        65,
+        70,
+        75,
         52,
         39
       ],
@@ -214,12 +214,12 @@
         "rain"
       ],
       "qpf": [
-        0,
+        0.05,
         0,
         0,
         0.07,
         0.2,
-        0.43,
+        0.4,
         0.07,
         0.09
       ],
@@ -234,7 +234,7 @@
         0
       ],
       "qualifierCode": [
-        "Q5015",
+        "Q902",
         "Q902",
         "Q902",
         null,
@@ -244,7 +244,7 @@
         "Q7855"
       ],
       "qualifierPhrase": [
-        "Slight chance of a rain shower.",
+        "Areas of patchy fog.",
         "Areas of patchy fog.",
         "Areas of patchy fog.",
         null,
@@ -256,10 +256,10 @@
       "relativeHumidity": [
         85,
         86,
-        78,
-        84,
+        77,
         85,
         84,
+        83,
         74,
         53
       ],
@@ -277,27 +277,27 @@
         53,
         48,
         58,
-        51,
+        50,
         60,
-        58,
+        59,
         63,
         29
       ],
       "temperatureHeatIndex": [
         53,
-        50,
+        51,
         57,
-        54,
-        59,
+        53,
+        60,
         63,
         62,
         53
       ],
       "temperatureWindChill": [
         43,
-        48,
         49,
-        50,
+        49,
+        49,
         52,
         59,
         52,
@@ -344,17 +344,17 @@
         0
       ],
       "windDirection": [
-        31,
+        35,
         195,
-        234,
-        175,
+        236,
+        177,
         199,
         209,
         265,
         335
       ],
       "windDirectionCardinal": [
-        "NNE",
+        "NE",
         "SSW",
         "SW",
         "S",
@@ -367,7 +367,7 @@
         "Winds light and variable.",
         "Winds light and variable.",
         "Winds SW at 5 to 10 mph.",
-        "Winds S at 5 to 10 mph.",
+        "Winds light and variable.",
         "Winds SSW at 5 to 10 mph.",
         "Winds SSW at 10 to 15 mph.",
         "Winds W at 15 to 25 mph.",
@@ -379,12 +379,12 @@
         7,
         6,
         8,
-        11,
+        13,
         18,
         15
       ],
       "wxPhraseLong": [
-        "Cloudy",
+        "AM Rain",
         "Cloudy",
         "Cloudy",
         "Light Rain Late",
@@ -394,7 +394,7 @@
         "Showers Early"
       ],
       "wxPhraseShort": [
-        "Cloudy",
+        "AM Rain",
         "Cloudy",
         "Cloudy",
         "Rain Late",
