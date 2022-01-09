@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    45,
+    44,
     42,
     25,
-    40
+    41
   ],
   "calendarDayTemperatureMin": [
     26,
     23,
     18,
-    15
+    17
   ],
   "dayOfWeek": [
     "Sunday",
@@ -18,10 +18,10 @@
     "Wednesday"
   ],
   "expirationTimeUtc": [
-    1641748538,
-    1641748538,
-    1641748538,
-    1641748538
+    1641752147,
+    1641752147,
+    1641752147,
+    1641752147
   ],
   "moonPhase": [
     "First Quarter",
@@ -66,13 +66,13 @@
     1641973525
   ],
   "narrative": [
-    "Afternoon rain developing. Highs in the mid 40s and lows in the upper 20s.",
-    "A few clouds. Highs in the low 30s and lows in the upper teens.",
-    "Sunny. Highs in the mid 20s and lows in the mid teens.",
-    "Plenty of sun. Highs in the low 40s and lows in the upper 20s."
+    "Rain. Highs in the low 40s and lows in the upper 20s.",
+    "Mostly sunny. Highs in the low 30s and lows in the upper teens.",
+    "Mainly sunny. Highs in the mid 20s and lows in the upper teens.",
+    "Plenty of sun. Highs in the low 40s and lows in the low 30s."
   ],
   "qpf": [
-    0.22,
+    0.41,
     0,
     0,
     0
@@ -108,16 +108,16 @@
     1642024648
   ],
   "temperatureMax": [
-    44,
+    43,
     31,
     24,
-    40
+    41
   ],
   "temperatureMin": [
     27,
     19,
-    15,
-    29
+    17,
+    30
   ],
   "validTimeLocal": [
     "2022-01-09T07:00:00-0500",
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        99,
+        100,
         83,
-        24,
-        15,
-        3,
-        8,
         23,
-        76
+        15,
+        5,
+        9,
+        28,
+        73
       ],
       "dayOrNight": [
         "D",
@@ -165,37 +165,37 @@
       ],
       "iconCode": [
         12,
-        12,
+        11,
         34,
-        33,
+        31,
         32,
         31,
         34,
         27
       ],
       "iconCodeExtend": [
-        7303,
-        6300,
+        1200,
+        6301,
         3400,
-        3300,
+        3100,
         3200,
         3100,
         3400,
         2700
       ],
       "narrative": [
-        "Cloudy with rain developing this afternoon. High 44F. Winds SW at 10 to 20 mph. Chance of rain 90%.",
-        "Cloudy with occasional rain...mainly this evening. Low 27F. Winds WNW at 10 to 20 mph. Chance of rain 80%.",
-        "Mostly sunny skies. Temps nearly steady around 30. Winds WNW at 10 to 20 mph.",
-        "Mostly clear skies. Low 19F. Winds WNW at 10 to 20 mph.",
+        "Cloudy with periods of rain. High 43F. Winds SW at 10 to 20 mph. Chance of rain 100%. Rainfall near a quarter of an inch.",
+        "Cloudy with occasional light rain...mainly this evening. Low 27F. Winds WNW at 10 to 20 mph. Chance of rain 80%.",
+        "Except for a few afternoon clouds, mainly sunny. High 31F. Winds WNW at 10 to 20 mph.",
+        "Clear skies. Low 19F. Winds WNW at 10 to 20 mph.",
         "Mainly sunny. High 24F. Winds NW at 10 to 20 mph.",
-        "A mostly clear sky. Low around 15F. Winds SSW at 5 to 10 mph.",
-        "Except for a few afternoon clouds, mainly sunny. High near 40F. Winds SSW at 10 to 20 mph.",
-        "Mainly cloudy. Low 29F. Winds WSW at 5 to 10 mph."
+        "Clear skies. Low 17F. Winds light and variable.",
+        "Except for a few afternoon clouds, mainly sunny. High 41F. Winds SSW at 10 to 20 mph.",
+        "Considerable cloudiness. Low near 30F. Winds WSW at 5 to 10 mph."
       ],
       "precipChance": [
-        89,
-        81,
+        100,
+        75,
         2,
         1,
         1,
@@ -214,8 +214,8 @@
         "precip"
       ],
       "qpf": [
-        0.16,
-        0.06,
+        0.36,
+        0.05,
         0,
         0,
         0,
@@ -254,14 +254,14 @@
         null
       ],
       "relativeHumidity": [
-        80,
-        72,
-        47,
-        47,
+        81,
+        73,
+        46,
+        46,
         34,
         44,
         44,
-        67
+        69
       ],
       "snowRange": [
         "",
@@ -274,33 +274,33 @@
         ""
       ],
       "temperature": [
-        44,
+        43,
         27,
         31,
         19,
         24,
-        15,
-        40,
-        29
+        17,
+        41,
+        30
       ],
       "temperatureHeatIndex": [
         43,
-        44,
+        43,
         31,
         29,
+        24,
         23,
-        22,
         39,
-        34
+        35
       ],
       "temperatureWindChill": [
-        30,
+        33,
         19,
-        18,
+        17,
         8,
         8,
-        9,
-        9,
+        11,
+        11,
         26
       ],
       "thunderCategory": [
@@ -334,7 +334,7 @@
         "Low"
       ],
       "uvIndex": [
-        1,
+        0,
         0,
         2,
         0,
@@ -344,14 +344,14 @@
         0
       ],
       "windDirection": [
-        226,
+        227,
         282,
         297,
         299,
         323,
-        203,
-        209,
-        245
+        204,
+        212,
+        244
       ],
       "windDirectionCardinal": [
         "SW",
@@ -369,35 +369,35 @@
         "Winds WNW at 10 to 20 mph.",
         "Winds WNW at 10 to 20 mph.",
         "Winds NW at 10 to 20 mph.",
-        "Winds SSW at 5 to 10 mph.",
+        "Winds light and variable.",
         "Winds SSW at 10 to 20 mph.",
         "Winds WSW at 5 to 10 mph."
       ],
       "windSpeed": [
+        13,
         15,
-        15,
-        15,
+        16,
         14,
         14,
         6,
-        15,
+        14,
         9
       ],
       "wxPhraseLong": [
-        "PM Rain",
-        "Rain Early",
+        "Rain",
+        "Light Rain Early",
         "Mostly Sunny",
-        "Mostly Clear",
+        "Clear",
         "Sunny",
         "Clear",
         "Mostly Sunny",
         "Mostly Cloudy"
       ],
       "wxPhraseShort": [
-        "PM Rain",
+        "Rain",
         "Rain Early",
         "M Sunny",
-        "M Clear",
+        "Clear",
         "Sunny",
         "Clear",
         "M Sunny",
