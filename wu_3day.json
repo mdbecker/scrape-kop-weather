@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
     44,
-    51,
-    38,
+    50,
+    39,
     48
   ],
   "calendarDayTemperatureMin": [
     11,
     32,
     30,
-    28
+    29
   ],
   "dayOfWeek": [
     "Sunday",
@@ -18,10 +18,10 @@
     "Wednesday"
   ],
   "expirationTimeUtc": [
-    1642392064,
-    1642392064,
-    1642392064,
-    1642392064
+    1642397469,
+    1642397469,
+    1642397469,
+    1642397469
   ],
   "moonPhase": [
     "Waxing Gibbous",
@@ -66,13 +66,13 @@
     1642599732
   ],
   "narrative": [
-    "Mainly cloudy with rain, windy. Lows overnight in the mid 30s.",
-    "Windy, chance of snow showers in the morning. Highs in the low 40s and lows in the low 30s.",
-    "Mix of sun and clouds. Highs in the upper 30s and lows in the upper 20s.",
+    "Windy with periods of rain. Lows overnight in the upper 30s.",
+    "Windy with morning snow showers. Highs in the low 40s and lows in the low 30s.",
+    "Times of sun and clouds. Highs in the upper 30s and lows in the upper 20s.",
     "Partly cloudy. Highs in the upper 40s and lows in the mid 30s."
   ],
   "qpf": [
-    0.74,
+    0.57,
     0.02,
     0,
     0.12
@@ -109,14 +109,14 @@
   ],
   "temperatureMax": [
     null,
-    41,
-    38,
+    40,
+    39,
     48
   ],
   "temperatureMin": [
-    36,
+    37,
     30,
-    28,
+    29,
     35
   ],
   "validTimeLocal": [
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        90,
+        91,
         92,
-        54,
+        55,
         42,
-        41,
-        62,
-        87
+        38,
+        63,
+        88
       ],
       "dayOrNight": [
         null,
@@ -185,22 +185,22 @@
       ],
       "narrative": [
         null,
-        "Windy with periods of rain. Low 36F. Winds SE at 25 to 35 mph. Chance of rain 100%. Rainfall around a half an inch.  Winds could occasionally gust over 40 mph.",
-        "Cloudy and windy with snow showers mainly during the morning. High 41F. Winds SW at 20 to 30 mph. Chance of snow 50%.  Winds could occasionally gust over 40 mph.",
-        "Cloudy skies early will become partly cloudy later at night. Low around 30F. Winds WNW at 15 to 25 mph.  Higher wind gusts possible.",
-        "Partly cloudy. High 38F. Winds WNW at 15 to 25 mph.  Higher wind gusts possible.",
-        "Partly cloudy. Low 28F. Winds SW at 5 to 10 mph.",
-        "Partly cloudy skies in the morning will give way to cloudy skies during the afternoon. High 48F. Winds SSW at 10 to 20 mph.",
-        "Rain showers in the evening becoming a steady light rain overnight. Low around 35F. Winds WSW at 10 to 15 mph. Chance of rain 70%."
+        "Rain and wind. Low 37F. Winds SSE at 20 to 30 mph. Chance of rain 100%. Rainfall around a half an inch.  Winds could occasionally gust over 40 mph.",
+        "Cloudy and becoming windy with snow showers in the morning. High around 40F. Winds SW at 20 to 30 mph. Chance of snow 60%.  Winds could occasionally gust over 40 mph.",
+        "Cloudy skies early, then partly cloudy after midnight. Low near 30F. Winds WNW at 15 to 25 mph.  Higher wind gusts possible.",
+        "Sunshine and clouds mixed. High 39F. Winds WNW at 15 to 25 mph.  Higher wind gusts possible.",
+        "A few clouds from time to time. Low 29F. Winds SW at 5 to 10 mph.",
+        "Sunshine and clouds mixed. High 48F. Winds SSW at 10 to 20 mph.",
+        "Showers early becoming a steady light rain late. Low near 35F. Winds WSW at 10 to 15 mph. Chance of rain 70%."
       ],
       "precipChance": [
         null,
         100,
-        53,
+        58,
         3,
         2,
         5,
-        13,
+        12,
         70
       ],
       "precipType": [
@@ -215,7 +215,7 @@
       ],
       "qpf": [
         null,
-        0.74,
+        0.57,
         0.02,
         0,
         0,
@@ -255,11 +255,11 @@
       ],
       "relativeHumidity": [
         null,
-        87,
+        86,
         68,
         59,
         49,
-        64,
+        65,
         60,
         76
       ],
@@ -275,17 +275,17 @@
       ],
       "temperature": [
         null,
-        36,
-        41,
+        37,
+        40,
         30,
-        38,
-        28,
+        39,
+        29,
         48,
         35
       ],
       "temperatureHeatIndex": [
         null,
-        50,
+        49,
         40,
         36,
         38,
@@ -295,7 +295,7 @@
       ],
       "temperatureWindChill": [
         null,
-        29,
+        34,
         26,
         20,
         21,
@@ -345,17 +345,17 @@
       ],
       "windDirection": [
         null,
-        133,
-        235,
-        285,
-        287,
-        225,
-        211,
+        155,
+        236,
+        284,
+        286,
+        223,
+        212,
         247
       ],
       "windDirectionCardinal": [
         null,
-        "SE",
+        "SSE",
         "SW",
         "WNW",
         "WNW",
@@ -365,7 +365,7 @@
       ],
       "windPhrase": [
         null,
-        "Winds SE at 25 to 35 mph.",
+        "Winds SSE at 20 to 30 mph.",
         "Winds SW at 20 to 30 mph.",
         "Winds WNW at 15 to 25 mph.",
         "Winds WNW at 15 to 25 mph.",
@@ -375,8 +375,8 @@
       ],
       "windSpeed": [
         null,
-        27,
-        21,
+        23,
+        22,
         19,
         18,
         8,
