@@ -18,10 +18,10 @@
     "Saturday"
   ],
   "expirationTimeUtc": [
-    1642583103,
-    1642583103,
-    1642583103,
-    1642583103
+    1642586727,
+    1642586727,
+    1642586727,
+    1642586727
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -66,14 +66,14 @@
     1642863889
   ],
   "narrative": [
-    "Partly cloudy. Highs in the low 50s and lows in the mid 30s.",
-    "Periods of snow early. Highs in the upper 30s and lows in the mid teens.",
-    "More clouds than sun. Highs in the upper 20s and lows in the upper teens.",
-    "More sun than clouds. Highs in the low 30s and lows in the low 20s."
+    "Times of sun and clouds. Highs in the low 50s and lows in the mid 30s.",
+    "Snow in the morning. Highs in the upper 30s and lows in the mid teens.",
+    "Mostly cloudy. Highs in the upper 20s and lows in the upper teens.",
+    "Morning clouds followed by afternoon sun. Highs in the low 30s and lows in the low 20s."
   ],
   "qpf": [
-    0.26,
-    0.19,
+    0.27,
+    0.17,
     0,
     0
   ],
@@ -134,13 +134,13 @@
   "daypart": [
     {
       "cloudCover": [
-        45,
+        48,
         90,
-        83,
-        37,
-        67,
+        82,
+        36,
+        70,
         90,
-        43,
+        46,
         65
       ],
       "dayOrNight": [
@@ -170,37 +170,37 @@
         29,
         28,
         26,
-        34,
+        30,
         27
       ],
       "iconCodeExtend": [
         3000,
-        1200,
+        7300,
         6903,
         2900,
         2800,
         2600,
-        3400,
+        9003,
         2700
       ],
       "narrative": [
-        "Sun and clouds mixed. High near 50F. Winds SSW at 10 to 20 mph.",
-        "A few showers early becoming a steady rain overnight. Snow may mix in late. Low 36F. Winds WSW at 5 to 10 mph. Chance of rain 100%. Rainfall around a quarter of an inch.",
-        "Snow will taper off and end during the morning but skies will remain cloudy during the afternoon. Morning high of 39F with temps falling to near 30. Winds NNW at 10 to 20 mph. Chance of snow 100%.",
-        "A few clouds. Low 16F. Winds N at 10 to 20 mph.",
-        "Partly cloudy skies in the morning will give way to cloudy skies during the afternoon. High 27F. Winds N at 10 to 15 mph.",
+        "A mix of clouds and sun. High around 50F. Winds SSW at 10 to 20 mph.",
+        "Cloudy skies with periods of rain late. Snow may mix in late. Low 36F. Winds WSW at 5 to 10 mph. Chance of rain 100%. Rainfall around a quarter of an inch.",
+        "Snow during the morning will taper off and give way to cloudy skies during the afternoon. Morning high of 39F with temps falling to near 30. Winds NNW at 10 to 20 mph. Chance of snow 100%.",
+        "Partly cloudy. Low 16F. Winds N at 10 to 20 mph.",
+        "Partly cloudy skies during the morning hours will become overcast in the afternoon. High 27F. Winds N at 10 to 15 mph.",
         "Cloudy. A few flurries or snow showers possible. Low 18F. Winds NNE at 10 to 15 mph.",
-        "Sunshine along with some cloudy intervals. High 31F. Winds N at 10 to 15 mph.",
-        "Partly cloudy skies early will become overcast later during the night. Low 21F. Winds light and variable."
+        "Flurries or snow showers possible early. Cloudy early, becoming mostly sunny in the afternoon. High 31F. Winds N at 10 to 15 mph.",
+        "Partly cloudy skies during the evening will give way to cloudy skies overnight. Low 21F. Winds light and variable."
       ],
       "precipChance": [
         3,
-        96,
+        97,
         98,
         2,
         3,
         24,
-        24,
+        15,
         8
       ],
       "precipType": [
@@ -215,8 +215,8 @@
       ],
       "qpf": [
         0,
-        0.26,
-        0.19,
+        0.27,
+        0.17,
         0,
         0,
         0,
@@ -240,7 +240,7 @@
         null,
         null,
         "Q7815",
-        null,
+        "Q7818",
         null
       ],
       "qualifierPhrase": [
@@ -250,7 +250,7 @@
         null,
         null,
         "A few flurries or snow showers possible.",
-        null,
+        "Flurries or snow showers possible early.",
         null
       ],
       "relativeHumidity": [
@@ -294,7 +294,7 @@
         26
       ],
       "temperatureWindChill": [
-        22,
+        25,
         34,
         18,
         5,
@@ -344,13 +344,13 @@
         0
       ],
       "windDirection": [
-        211,
-        248,
-        337,
+        213,
+        251,
+        336,
         350,
         8,
-        20,
-        2,
+        18,
+        3,
         316
       ],
       "windDirectionCardinal": [
@@ -380,27 +380,27 @@
         14,
         12,
         11,
-        12,
+        11,
         6
       ],
       "wxPhraseLong": [
         "Partly Cloudy",
-        "Rain",
+        "Rain Late",
         "AM Snow",
         "Partly Cloudy",
         "Mostly Cloudy",
         "Cloudy",
-        "Mostly Sunny",
+        "AM Clouds/PM Sun",
         "Mostly Cloudy"
       ],
       "wxPhraseShort": [
         "P Cloudy",
-        "Rain",
+        "Rain Late",
         "AM Snow",
         "P Cloudy",
         "M Cloudy",
         "Cloudy",
-        "M Sunny",
+        "AM Clouds",
         "M Cloudy"
       ]
     }
