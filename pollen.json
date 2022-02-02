@@ -1,24 +1,11 @@
 {
   "Type": "pollen",
-  "ForecastDate": "2022-02-01T00:00:00-05:00",
+  "ForecastDate": "2022-02-02T00:00:00-05:00",
   "Location": {
     "ZIP": "19406",
     "City": "KING OF PRUSSIA",
     "State": "PA",
     "periods": [
-      {
-        "Triggers": [
-          {
-            "LGID": 345,
-            "Name": "Mixed Trace",
-            "Genus": "Mixed Trace",
-            "PlantType": "Other"
-          }
-        ],
-        "Period": "0001-01-01T00:00:00",
-        "Type": "Yesterday",
-        "Index": 1.4
-      },
       {
         "Triggers": [
           {
@@ -29,7 +16,7 @@
           }
         ],
         "Period": "0001-01-01T00:00:00",
-        "Type": "Today",
+        "Type": "Yesterday",
         "Index": 2.4
       },
       {
@@ -42,8 +29,21 @@
           }
         ],
         "Period": "0001-01-01T00:00:00",
-        "Type": "Tomorrow",
+        "Type": "Today",
         "Index": 2.7
+      },
+      {
+        "Triggers": [
+          {
+            "LGID": 272,
+            "Name": "Juniper",
+            "Genus": "Juniperus",
+            "PlantType": "Tree"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Tomorrow",
+        "Index": 3
       }
     ],
     "DisplayLocation": "King Of Prussia, PA"
