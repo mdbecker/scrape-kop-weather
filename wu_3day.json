@@ -1,81 +1,81 @@
 {
   "calendarDayTemperatureMax": [
-    57,
     32,
     38,
-    44
+    44,
+    48
   ],
   "calendarDayTemperatureMin": [
-    29,
-    21,
-    17,
-    29
+    22,
+    18,
+    28,
+    31
   ],
   "dayOfWeek": [
-    "Friday",
     "Saturday",
     "Sunday",
-    "Monday"
+    "Monday",
+    "Tuesday"
   ],
   "expirationTimeUtc": [
-    1644046531,
-    1644046531,
-    1644046531,
-    1644046531
+    1644051941,
+    1644051941,
+    1644051941,
+    1644051941
   ],
   "moonPhase": [
     "Waxing Crescent",
     "Waxing Crescent",
     "Waxing Crescent",
-    "Waxing Crescent"
+    "First Quarter"
   ],
   "moonPhaseCode": [
     "WXC",
     "WXC",
     "WXC",
-    "WXC"
+    "FQ"
   ],
   "moonPhaseDay": [
     4,
-    4,
     5,
-    6
+    6,
+    7
   ],
   "moonriseTimeLocal": [
-    "2022-02-04T09:21:45-0500",
     "2022-02-05T09:45:55-0500",
     "2022-02-06T10:09:43-0500",
-    "2022-02-07T10:34:15-0500"
+    "2022-02-07T10:34:15-0500",
+    "2022-02-08T11:00:29-0500"
   ],
   "moonriseTimeUtc": [
-    1643984505,
     1644072355,
     1644160183,
-    1644248055
+    1644248055,
+    1644336029
   ],
   "moonsetTimeLocal": [
-    "2022-02-04T21:24:54-0500",
     "2022-02-05T22:29:50-0500",
     "2022-02-06T23:32:10-0500",
-    ""
+    "",
+    "2022-02-08T00:34:38-0500"
   ],
   "moonsetTimeUtc": [
-    1644027894,
     1644118190,
     1644208330,
-    null
+    null,
+    1644298478
   ],
   "narrative": [
-    "Mostly cloudy. Lows overnight in the mid 20s.",
-    "Mainly sunny. Highs in the low 30s and lows in the upper teens.",
-    "Mostly sunny. Highs in the upper 30s and lows in the upper 20s.",
-    "Mostly cloudy. Highs in the mid 40s and lows in the low 30s."
+    "Partly cloudy. Highs in the low 30s and lows in the upper teens.",
+    "Sunny. Highs in the upper 30s and lows in the upper 20s.",
+    "Cloudy. Highs in the mid 40s and lows in the low 30s.",
+    "Partly cloudy. Highs in the upper 40s and lows in the upper 20s."
   ],
   "qpf": [
     0,
     0,
-    0,
-    0.04
+    0.04,
+    0
   ],
   "qpfSnow": [
     0,
@@ -84,67 +84,67 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2022-02-04T07:06:05-0500",
     "2022-02-05T07:05:04-0500",
     "2022-02-06T07:04:01-0500",
-    "2022-02-07T07:02:58-0500"
+    "2022-02-07T07:02:58-0500",
+    "2022-02-08T07:01:53-0500"
   ],
   "sunriseTimeUtc": [
-    1643976365,
     1644062704,
     1644149041,
-    1644235378
+    1644235378,
+    1644321713
   ],
   "sunsetTimeLocal": [
-    "2022-02-04T17:23:49-0500",
     "2022-02-05T17:25:01-0500",
     "2022-02-06T17:26:13-0500",
-    "2022-02-07T17:27:25-0500"
+    "2022-02-07T17:27:25-0500",
+    "2022-02-08T17:28:36-0500"
   ],
   "sunsetTimeUtc": [
-    1644013429,
     1644099901,
     1644186373,
-    1644272845
+    1644272845,
+    1644359316
   ],
   "temperatureMax": [
-    null,
     32,
     38,
-    44
+    44,
+    48
   ],
   "temperatureMin": [
-    26,
-    17,
-    29,
-    30
+    18,
+    28,
+    31,
+    28
   ],
   "validTimeLocal": [
-    "2022-02-04T07:00:00-0500",
     "2022-02-05T07:00:00-0500",
     "2022-02-06T07:00:00-0500",
-    "2022-02-07T07:00:00-0500"
+    "2022-02-07T07:00:00-0500",
+    "2022-02-08T07:00:00-0500"
   ],
   "validTimeUtc": [
-    1643976000,
     1644062400,
     1644148800,
-    1644235200
+    1644235200,
+    1644321600
   ],
   "daypart": [
     {
       "cloudCover": [
-        null,
-        75,
-        7,
+        27,
         0,
-        11,
-        49,
+        10,
+        47,
         87,
-        68
+        67,
+        29,
+        22
       ],
       "dayOrNight": [
-        null,
+        "D",
         "N",
         "D",
         "N",
@@ -154,77 +154,77 @@
         "N"
       ],
       "daypartName": [
-        null,
+        "Today",
         "Tonight",
         "Tomorrow",
         "Tomorrow night",
-        "Sunday",
-        "Sunday night",
         "Monday",
-        "Monday night"
+        "Monday night",
+        "Tuesday",
+        "Tuesday night"
       ],
       "iconCode": [
-        null,
-        26,
-        32,
+        30,
         31,
-        34,
-        27,
+        32,
+        29,
         26,
-        45
+        45,
+        30,
+        33
       ],
       "iconCodeExtend": [
-        null,
-        2600,
-        3200,
+        3000,
         3100,
-        3400,
-        2700,
+        3200,
+        2900,
         2600,
-        6100
+        6100,
+        3000,
+        3300
       ],
       "narrative": [
-        null,
-        "Cloudy skies. Low 26F. Winds NW at 10 to 20 mph.",
-        "Sunny. High 32F. Winds NW at 15 to 25 mph.",
-        "Clear. Low 17F. Winds N at 10 to 15 mph.",
-        "Plentiful sunshine. High 38F. Winds ESE at 5 to 10 mph.",
-        "Partly cloudy during the evening followed by cloudy skies overnight. Low 29F. Winds light and variable.",
-        "Overcast. Slight chance of a rain shower. High 44F. Winds light and variable.",
-        "Rain showers early with clearing later at night. Low near 30F. Winds light and variable. Chance of rain 40%."
+        "Some clouds this morning will give way to generally sunny skies for the afternoon. High 32F. Winds NW at 15 to 25 mph.",
+        "A clear sky. Low 18F. Winds N at 10 to 15 mph.",
+        "Sunny. High 38F. Winds SE at 5 to 10 mph.",
+        "Mostly clear skies early will become overcast later during the night. Low 28F. Winds light and variable.",
+        "Cloudy. Slight chance of a rain shower. High 44F. Winds light and variable.",
+        "Showers in the evening, then partly cloudy overnight. Low 31F. Winds light and variable. Chance of rain 40%.",
+        "Sunshine and clouds mixed. High 48F. Winds NW at 10 to 15 mph.",
+        "Clear skies. Low 28F. Winds WNW at 5 to 10 mph."
       ],
       "precipChance": [
-        null,
-        1,
-        1,
-        1,
-        1,
-        15,
         19,
-        37
+        1,
+        1,
+        12,
+        19,
+        37,
+        11,
+        3
       ],
       "precipType": [
-        null,
-        "precip",
         "precip",
         "snow",
         "precip",
         "precip",
         "rain",
-        "rain"
+        "rain",
+        "rain",
+        "precip"
       ],
       "qpf": [
-        null,
         0,
         0,
         0,
         0,
         0,
+        0.04,
         0,
-        0.04
+        0
       ],
       "qpfSnow": [
-        null,
+        0,
         0,
         0,
         0,
@@ -238,9 +238,9 @@
         null,
         null,
         null,
-        null,
-        null,
         "Q5015",
+        null,
+        null,
         null
       ],
       "qualifierPhrase": [
@@ -248,23 +248,23 @@
         null,
         null,
         null,
-        null,
-        null,
         "Slight chance of a rain shower.",
+        null,
+        null,
         null
       ],
       "relativeHumidity": [
-        null,
-        63,
-        42,
-        44,
+        47,
+        43,
         41,
         65,
-        65,
-        75
+        67,
+        77,
+        57,
+        60
       ],
       "snowRange": [
-        null,
+        "",
         "",
         "",
         "",
@@ -274,37 +274,37 @@
         ""
       ],
       "temperature": [
-        null,
-        26,
         32,
-        17,
+        18,
         38,
-        29,
+        28,
         44,
-        30
+        31,
+        48,
+        28
       ],
       "temperatureHeatIndex": [
-        null,
-        29,
-        31,
+        32,
         27,
         37,
         32,
         43,
+        39,
+        46,
         39
       ],
       "temperatureWindChill": [
-        null,
-        16,
         15,
         11,
-        11,
-        26,
+        12,
+        25,
         28,
-        26
+        27,
+        25,
+        23
       ],
       "thunderCategory": [
-        null,
+        "No thunder",
         "No thunder",
         "No thunder",
         "No thunder",
@@ -314,7 +314,7 @@
         "No thunder"
       ],
       "thunderIndex": [
-        null,
+        0,
         0,
         0,
         0,
@@ -324,84 +324,84 @@
         0
       ],
       "uvDescription": [
-        null,
-        "Low",
         "Moderate",
         "Low",
         "Moderate",
         "Low",
         "Low",
+        "Low",
+        "Moderate",
         "Low"
       ],
       "uvIndex": [
-        null,
-        0,
         3,
         0,
         3,
         0,
         1,
+        0,
+        3,
         0
       ],
       "windDirection": [
-        null,
-        320,
-        320,
-        358,
-        121,
-        39,
-        10,
-        350
+        321,
+        357,
+        124,
+        42,
+        13,
+        350,
+        306,
+        292
       ],
       "windDirectionCardinal": [
-        null,
-        "NW",
         "NW",
         "N",
-        "ESE",
+        "SE",
         "NE",
+        "NNE",
         "N",
-        "N"
+        "NW",
+        "WNW"
       ],
       "windPhrase": [
-        null,
-        "Winds NW at 10 to 20 mph.",
         "Winds NW at 15 to 25 mph.",
         "Winds N at 10 to 15 mph.",
-        "Winds ESE at 5 to 10 mph.",
+        "Winds SE at 5 to 10 mph.",
         "Winds light and variable.",
         "Winds light and variable.",
-        "Winds light and variable."
+        "Winds light and variable.",
+        "Winds NW at 10 to 15 mph.",
+        "Winds WNW at 5 to 10 mph."
       ],
       "windSpeed": [
-        null,
-        15,
         18,
         12,
         6,
         5,
         5,
-        6
+        6,
+        11,
+        10
       ],
       "wxPhraseLong": [
-        null,
-        "Cloudy",
-        "Sunny",
+        "Partly Cloudy",
         "Clear",
-        "Mostly Sunny",
-        "Mostly Cloudy",
+        "Sunny",
+        "Partly Cloudy",
         "Cloudy",
-        "Showers Early"
+        "Showers Early",
+        "Partly Cloudy",
+        "Mostly Clear"
       ],
       "wxPhraseShort": [
-        null,
-        "Cloudy",
-        "Sunny",
+        "P Cloudy",
         "Clear",
-        "M Sunny",
-        "M Cloudy",
+        "Sunny",
+        "P Cloudy",
         "Cloudy",
-        "Shwrs Early"
+        "Shwrs Early",
+        "P Cloudy",
+        "M Clear"
       ]
     }
   ]
