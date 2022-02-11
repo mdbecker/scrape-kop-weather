@@ -13,34 +13,34 @@
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 13.56,
-        "unit": "μg/m3",
-        "category": "Good",
-        "categoryIndex": 1,
-        "index": 7
-      },
-      "O3": {
-        "name": "O3",
-        "phrase": "Ozone",
-        "amount": 67.87,
-        "unit": "μg/m3",
-        "category": "Good",
-        "categoryIndex": 1,
-        "index": 15
-      },
-      "SO2": {
-        "name": "SO2",
-        "phrase": "Sulfur Dioxide",
-        "amount": 4.86,
+        "amount": 6.02,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
         "index": 3
       },
+      "O3": {
+        "name": "O3",
+        "phrase": "Ozone",
+        "amount": 79.06,
+        "unit": "μg/m3",
+        "category": "Good",
+        "categoryIndex": 1,
+        "index": 19
+      },
+      "SO2": {
+        "name": "SO2",
+        "phrase": "Sulfur Dioxide",
+        "amount": 4.21,
+        "unit": "μg/m3",
+        "category": "Good",
+        "categoryIndex": 1,
+        "index": 2
+      },
       "PM2.5": {
         "name": "PM2.5",
         "phrase": "Particulate matter less than 2.5 microns",
-        "amount": 5.42,
+        "amount": 4.5,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -49,16 +49,16 @@
       "PM10": {
         "name": "PM10",
         "phrase": "Particulate matter less than 10 microns",
-        "amount": 14.26,
+        "amount": 12.08,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 22
+        "index": 23
       },
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 226.09,
+        "amount": 181.19,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -75,6 +75,6 @@
         "text": "Air quality is considered satisfactory, and air pollution poses little or no risk."
       }
     },
-    "expireTimeGmt": 1644602426
+    "expireTimeGmt": 1644606012
   }
 }
