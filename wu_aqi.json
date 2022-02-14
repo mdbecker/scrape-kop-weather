@@ -8,21 +8,21 @@
     "airQualityCategory": "Good",
     "airQualityCategoryIndex": 1,
     "airQualityCategoryIndexColor": "00E838",
-    "primaryPollutant": "O3",
+    "primaryPollutant": "PM2.5",
     "pollutants": {
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 19.84,
+        "amount": 16.99,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 9
+        "index": 8
       },
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 54.38,
+        "amount": 59.64,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -31,7 +31,7 @@
       "SO2": {
         "name": "SO2",
         "phrase": "Sulfur Dioxide",
-        "amount": 4.28,
+        "amount": 4.07,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -40,16 +40,16 @@
       "PM2.5": {
         "name": "PM2.5",
         "phrase": "Particulate matter less than 2.5 microns",
-        "amount": 10.33,
+        "amount": 10.23,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 25
+        "index": 26
       },
       "PM10": {
         "name": "PM10",
         "phrase": "Particulate matter less than 10 microns",
-        "amount": 11.29,
+        "amount": 9.99,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -58,7 +58,7 @@
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 227.23,
+        "amount": 225.59,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -75,6 +75,6 @@
         "text": "Air quality is considered satisfactory, and air pollution poses little or no risk."
       }
     },
-    "expireTimeGmt": 1644804121
+    "expireTimeGmt": 1644807626
   }
 }
