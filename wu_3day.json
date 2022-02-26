@@ -1,6 +1,6 @@
 {
   "calendarDayTemperatureMax": [
-    41,
+    40,
     52,
     39,
     54
@@ -9,7 +9,7 @@
     28,
     30,
     27,
-    26
+    27
   ],
   "dayOfWeek": [
     "Saturday",
@@ -18,10 +18,10 @@
     "Tuesday"
   ],
   "expirationTimeUtc": [
-    1645906195,
-    1645906195,
-    1645906195,
-    1645906195
+    1645909807,
+    1645909807,
+    1645909807,
+    1645909807
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -66,10 +66,10 @@
     1646171037
   ],
   "narrative": [
-    "Times of sun and clouds. Highs in the low 40s and lows in the low 30s.",
+    "Partly cloudy. Lows overnight in the low 30s.",
     "Abundant sunshine. Highs in the low 50s and lows in the upper 20s.",
-    "Abundant sunshine. Highs in the upper 30s and lows in the mid 20s.",
-    "Times of sun and clouds. Highs in the mid 50s and lows in the upper 30s."
+    "Sunshine. Highs in the upper 30s and lows in the upper 20s.",
+    "Times of sun and clouds. Highs in the mid 50s and lows in the mid 30s."
   ],
   "qpf": [
     0,
@@ -108,7 +108,7 @@
     1646175178
   ],
   "temperatureMax": [
-    41,
+    null,
     52,
     39,
     54
@@ -116,8 +116,8 @@
   "temperatureMin": [
     30,
     27,
-    26,
-    37
+    27,
+    36
   ],
   "validTimeLocal": [
     "2022-02-26T07:00:00-0500",
@@ -134,17 +134,17 @@
   "daypart": [
     {
       "cloudCover": [
-        37,
-        44,
+        null,
+        56,
         6,
-        13,
-        3,
-        45,
-        65,
-        46
+        12,
+        2,
+        48,
+        66,
+        42
       ],
       "dayOrNight": [
-        "D",
+        null,
         "N",
         "D",
         "N",
@@ -154,7 +154,7 @@
         "N"
       ],
       "daypartName": [
-        "Today",
+        null,
         "Tonight",
         "Tomorrow",
         "Tomorrow night",
@@ -164,7 +164,7 @@
         "Tuesday night"
       ],
       "iconCode": [
-        30,
+        null,
         29,
         32,
         31,
@@ -174,7 +174,7 @@
         29
       ],
       "iconCodeExtend": [
-        3000,
+        null,
         2900,
         3200,
         3100,
@@ -184,18 +184,18 @@
         2900
       ],
       "narrative": [
-        "Sunshine and clouds mixed. High 41F. Winds W at 10 to 15 mph.",
-        "Partly cloudy. Low around 30F. Winds W at 5 to 10 mph.",
+        null,
+        "Partly cloudy skies. Low around 30F. Winds W at 5 to 10 mph.",
         "Abundant sunshine. High 52F. Winds W at 15 to 25 mph.",
         "Clear skies. Low 27F. Winds NW at 10 to 15 mph.",
         "A mainly sunny sky. High 39F. Winds NNW at 10 to 15 mph.",
-        "Partly cloudy skies. Low 26F. Winds light and variable.",
+        "Partly cloudy. Low 27F. Winds light and variable.",
         "Mostly cloudy skies early will become partly cloudy later in the day. High 54F. Winds S at 10 to 15 mph.",
-        "Partly cloudy. Low 37F. Winds W at 5 to 10 mph."
+        "Partly cloudy. Low 36F. Winds W at 5 to 10 mph."
       ],
       "precipChance": [
-        4,
-        3,
+        null,
+        10,
         3,
         1,
         0,
@@ -204,7 +204,7 @@
         9
       ],
       "precipType": [
-        "rain",
+        null,
         "precip",
         "rain",
         "precip",
@@ -214,7 +214,7 @@
         "precip"
       ],
       "qpf": [
-        0,
+        null,
         0,
         0,
         0,
@@ -224,7 +224,7 @@
         0
       ],
       "qpfSnow": [
-        0,
+        null,
         0,
         0,
         0,
@@ -254,17 +254,17 @@
         null
       ],
       "relativeHumidity": [
-        38,
-        59,
+        null,
+        54,
         39,
         46,
-        35,
-        55,
+        36,
+        56,
         46,
-        66
+        65
       ],
       "snowRange": [
-        "",
+        null,
         "",
         "",
         "",
@@ -274,37 +274,37 @@
         ""
       ],
       "temperature": [
-        41,
+        null,
         30,
         52,
         27,
         39,
-        26,
+        27,
         54,
-        37
+        36
       ],
       "temperatureHeatIndex": [
+        null,
         40,
-        37,
         51,
         46,
         38,
         33,
-        52,
-        45
+        53,
+        46
       ],
       "temperatureWindChill": [
-        32,
+        null,
         24,
         24,
         20,
         19,
+        24,
         23,
-        23,
-        33
+        32
       ],
       "thunderCategory": [
-        "No thunder",
+        null,
         "No thunder",
         "No thunder",
         "No thunder",
@@ -314,7 +314,7 @@
         "No thunder"
       ],
       "thunderIndex": [
-        0,
+        null,
         0,
         0,
         0,
@@ -324,7 +324,7 @@
         0
       ],
       "uvDescription": [
-        "Moderate",
+        null,
         "Low",
         "Moderate",
         "Low",
@@ -334,7 +334,7 @@
         "Low"
       ],
       "uvIndex": [
-        3,
+        null,
         0,
         4,
         0,
@@ -344,17 +344,17 @@
         0
       ],
       "windDirection": [
-        281,
-        264,
+        null,
+        269,
         262,
-        320,
-        341,
-        81,
-        184,
-        262
+        321,
+        342,
+        84,
+        185,
+        264
       ],
       "windDirectionCardinal": [
-        "W",
+        null,
         "W",
         "W",
         "NW",
@@ -364,7 +364,7 @@
         "W"
       ],
       "windPhrase": [
-        "Winds W at 10 to 15 mph.",
+        null,
         "Winds W at 5 to 10 mph.",
         "Winds W at 15 to 25 mph.",
         "Winds NW at 10 to 15 mph.",
@@ -374,8 +374,8 @@
         "Winds W at 5 to 10 mph."
       ],
       "windSpeed": [
-        10,
-        8,
+        null,
+        9,
         18,
         12,
         13,
@@ -384,7 +384,7 @@
         9
       ],
       "wxPhraseLong": [
-        "Partly Cloudy",
+        null,
         "Partly Cloudy",
         "Sunny",
         "Clear",
@@ -394,7 +394,7 @@
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
-        "P Cloudy",
+        null,
         "P Cloudy",
         "Sunny",
         "Clear",
