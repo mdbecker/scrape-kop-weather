@@ -18,10 +18,10 @@
     "Monday"
   ],
   "expirationTimeUtc": [
-    1646429879,
-    1646429879,
-    1646429879,
-    1646429879
+    1646433485,
+    1646433485,
+    1646433485,
+    1646433485
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -67,9 +67,9 @@
   ],
   "narrative": [
     "Partly cloudy. Lows overnight in the upper 20s.",
-    "Cloudy. Highs in the mid 50s and lows in the mid 40s.",
-    "Morning showers. Highs in the mid 70s and lows in the upper 50s.",
-    "Afternoon showers, windy. Highs in the upper 70s and lows in the mid 40s."
+    "Mostly cloudy. Highs in the mid 50s and lows in the mid 40s.",
+    "Showers ending by midday. Highs in the mid 70s and lows in the upper 50s.",
+    "Rain in the afternoon, windy. Highs in the upper 70s and lows in the mid 40s."
   ],
   "qpf": [
     0,
@@ -169,8 +169,8 @@
         26,
         27,
         39,
-        27,
-        39,
+        29,
+        12,
         12
       ],
       "iconCodeExtend": [
@@ -179,19 +179,19 @@
         2600,
         2700,
         6103,
-        2700,
-        7113,
+        2900,
+        7313,
         1200
       ],
       "narrative": [
         null,
-        "Partly cloudy. Low 28F. Winds WSW at 10 to 20 mph, becoming NE and decreasing to less than 5 mph.",
-        "Overcast. High near 55F. Winds SSE at 10 to 15 mph.",
+        "Partly cloudy skies. Low 28F. WSW winds shifting to NE at 10 to 15 mph.",
+        "Cloudy. High near 55F. Winds SSE at 10 to 15 mph.",
         "Partly cloudy skies in the evening, then becoming cloudy overnight. Low 46F. Winds S at 10 to 15 mph.",
-        "Showers in the morning with some clearing in the afternoon. Near record high temperatures. High near 75F. Winds SW at 15 to 25 mph. Chance of rain 50%.",
-        "Mostly cloudy skies. Low 59F. Winds WSW at 10 to 20 mph.",
-        "Becoming windy with showers developing later in the day. High 79F. Winds SW at 20 to 30 mph. Chance of rain 70%.  Higher wind gusts possible.",
-        "A steady rain in the evening. Showers continuing late. Low near 45F. Winds W at 10 to 20 mph. Chance of rain 90%. Rainfall near a quarter of an inch."
+        "Showers in the morning, then partly cloudy in the afternoon. Near record high temperatures. High around 75F. Winds SW at 15 to 25 mph. Chance of rain 50%.",
+        "Partly cloudy in the evening with more clouds for later at night. Low 59F. Winds WSW at 10 to 20 mph.",
+        "Becoming windy. Cloudy skies with periods of rain developing in the afternoon. High 79F. Winds SW at 20 to 30 mph. Chance of rain 70%.  Higher wind gusts possible.",
+        "Rain early...then remaining cloudy with showers late. Low near 45F. Winds W at 10 to 20 mph. Chance of rain 90%. Rainfall around a quarter of an inch."
       ],
       "precipChance": [
         null,
@@ -255,7 +255,7 @@
       ],
       "relativeHumidity": [
         null,
-        50,
+        53,
         45,
         76,
         63,
@@ -285,7 +285,7 @@
       ],
       "temperatureHeatIndex": [
         null,
-        40,
+        39,
         54,
         57,
         73,
@@ -345,7 +345,7 @@
       ],
       "windDirection": [
         null,
-        253,
+        256,
         147,
         173,
         223,
@@ -365,7 +365,7 @@
       ],
       "windPhrase": [
         null,
-        "Winds WSW at 10 to 20 mph, becoming NE and decreasing to less than 5 mph.",
+        "WSW winds shifting to NE at 10 to 15 mph.",
         "Winds SSE at 10 to 15 mph.",
         "Winds S at 10 to 15 mph.",
         "Winds SW at 15 to 25 mph.",
@@ -375,7 +375,7 @@
       ],
       "windSpeed": [
         null,
-        14,
+        11,
         10,
         10,
         20,
@@ -389,8 +389,8 @@
         "Cloudy",
         "Mostly Cloudy",
         "AM Showers",
-        "Mostly Cloudy",
-        "PM Showers/Wind",
+        "Partly Cloudy",
+        "PM Rain/Wind",
         "Rain"
       ],
       "wxPhraseShort": [
@@ -399,8 +399,8 @@
         "Cloudy",
         "M Cloudy",
         "AM Showers",
-        "M Cloudy",
-        "Showers/Wind",
+        "P Cloudy",
+        "PM Rain/Wind",
         "Rain"
       ]
     }
