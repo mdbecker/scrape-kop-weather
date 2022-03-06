@@ -1,14 +1,14 @@
 {
   "calendarDayTemperatureMax": [
     55,
-    74,
-    79,
-    60
+    73,
+    78,
+    58
   ],
   "calendarDayTemperatureMin": [
     27,
     45,
-    58,
+    56,
     41
   ],
   "dayOfWeek": [
@@ -18,10 +18,10 @@
     "Tuesday"
   ],
   "expirationTimeUtc": [
-    1646536511,
-    1646536511,
-    1646536511,
-    1646536511
+    1646540828,
+    1646540828,
+    1646540828,
+    1646540828
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -67,14 +67,14 @@
   ],
   "narrative": [
     "Cloudy. Lows overnight in the mid 40s.",
-    "Rain in the morning. Highs in the mid 70s and lows in the upper 50s.",
-    "Windy, chance of a few afternoon showers. Highs in the upper 70s and lows in the low 40s.",
-    "Times of sun and clouds. Highs in the low 50s and lows in the upper 30s."
+    "Cloudy with rain in the morning. Highs in the low 70s and lows in the upper 50s.",
+    "Windy, chance of late day showers. Highs in the upper 70s and lows in the low 40s.",
+    "Partly cloudy. Highs in the low 50s and lows in the upper 30s."
   ],
   "qpf": [
     0,
     0.19,
-    0.23,
+    0.22,
     0
   ],
   "qpfSnow": [
@@ -109,13 +109,13 @@
   ],
   "temperatureMax": [
     null,
-    74,
-    79,
+    73,
+    78,
     52
   ],
   "temperatureMin": [
     45,
-    59,
+    58,
     42,
     39
   ],
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        88,
         89,
-        69,
-        80,
-        83,
+        89,
+        68,
+        79,
+        81,
         53,
-        73
+        76
       ],
       "dayOrNight": [
         null,
@@ -167,7 +167,7 @@
         null,
         26,
         12,
-        29,
+        27,
         39,
         12,
         30,
@@ -177,7 +177,7 @@
         null,
         2600,
         6303,
-        2900,
+        2700,
         7113,
         6300,
         3000,
@@ -185,23 +185,23 @@
       ],
       "narrative": [
         null,
-        "Overcast. Low near 45F. Winds S at 5 to 10 mph.",
-        "Cloudy with occasional rain...mainly in the morning. Near record high temperatures. High 74F. Winds SW at 15 to 25 mph. Chance of rain 80%.",
-        "Partly cloudy in the evening with more clouds for later at night. Low 59F. Winds SW at 10 to 20 mph.",
-        "Becoming windy with showers developing later in the day. High 79F. Winds SW at 20 to 30 mph. Chance of rain 50%.  Higher wind gusts possible.",
-        "Cloudy and damp with rain early...then becoming partly cloudy. Low 42F. Winds WNW at 15 to 25 mph. Chance of rain 90%.",
-        "Partly cloudy. High 52F. Winds NW at 10 to 20 mph.",
+        "Overcast. Low near 45F. Winds SSW at 5 to 10 mph.",
+        "Cloudy with rain ending in the afternoon. Near record high temperatures. High 73F. Winds SW at 15 to 25 mph. Chance of rain 80%.",
+        "Mostly cloudy skies. Low 58F. Winds SW at 10 to 20 mph.",
+        "Mostly cloudy early, then windy with showers in the afternoon. High 78F. Winds SSW at 20 to 30 mph. Chance of rain 50%.  Higher wind gusts possible.",
+        "Rain early. Decreasing clouds late. Low 42F. Winds WNW at 15 to 25 mph. Chance of rain 90%.",
+        "Partly cloudy skies. High 52F. Winds NW at 10 to 20 mph.",
         "Partly cloudy skies early will become overcast later during the night. Low 39F. Winds NNE at 5 to 10 mph."
       ],
       "precipChance": [
         null,
-        18,
-        83,
+        13,
+        78,
         14,
         48,
         88,
         1,
-        22
+        20
       ],
       "precipType": [
         null,
@@ -219,7 +219,7 @@
         0.19,
         0,
         0.04,
-        0.19,
+        0.18,
         0,
         0
       ],
@@ -255,13 +255,13 @@
       ],
       "relativeHumidity": [
         null,
-        83,
+        79,
         66,
-        65,
-        57,
+        67,
+        59,
         60,
-        39,
-        51
+        38,
+        52
       ],
       "snowRange": [
         null,
@@ -276,9 +276,9 @@
       "temperature": [
         null,
         45,
-        74,
-        59,
-        79,
+        73,
+        58,
+        78,
         42,
         52,
         39
@@ -286,21 +286,21 @@
       "temperatureHeatIndex": [
         null,
         55,
-        72,
+        71,
         68,
         77,
-        71,
+        70,
         51,
-        47
+        46
       ],
       "temperatureWindChill": [
         null,
         44,
-        55,
+        54,
+        59,
         60,
-        60,
-        39,
-        37,
+        38,
+        36,
         37
       ],
       "thunderCategory": [
@@ -345,49 +345,49 @@
       ],
       "windDirection": [
         null,
-        188,
-        223,
+        193,
+        224,
         234,
-        215,
-        288,
-        311,
+        213,
+        289,
+        310,
         16
       ],
       "windDirectionCardinal": [
         null,
-        "S",
+        "SSW",
         "SW",
         "SW",
-        "SW",
+        "SSW",
         "WNW",
         "NW",
         "NNE"
       ],
       "windPhrase": [
         null,
-        "Winds S at 5 to 10 mph.",
+        "Winds SSW at 5 to 10 mph.",
         "Winds SW at 15 to 25 mph.",
         "Winds SW at 10 to 20 mph.",
-        "Winds SW at 20 to 30 mph.",
+        "Winds SSW at 20 to 30 mph.",
         "Winds WNW at 15 to 25 mph.",
         "Winds NW at 10 to 20 mph.",
         "Winds NNE at 5 to 10 mph."
       ],
       "windSpeed": [
         null,
-        9,
+        7,
+        18,
+        16,
+        21,
         19,
         15,
-        21,
-        17,
-        14,
         7
       ],
       "wxPhraseLong": [
         null,
         "Cloudy",
         "AM Rain",
-        "Partly Cloudy",
+        "Mostly Cloudy",
         "PM Showers/Wind",
         "Rain Early",
         "Partly Cloudy",
@@ -397,7 +397,7 @@
         null,
         "Cloudy",
         "AM Rain",
-        "P Cloudy",
+        "M Cloudy",
         "Showers/Wind",
         "Rain Early",
         "P Cloudy",
