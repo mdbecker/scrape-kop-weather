@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
     49,
-    39,
+    40,
     58,
     66
   ],
   "calendarDayTemperatureMin": [
-    23,
+    22,
     22,
     32,
-    39
+    40
   ],
   "dayOfWeek": [
     "Saturday",
@@ -18,10 +18,10 @@
     "Tuesday"
   ],
   "expirationTimeUtc": [
-    1647139203,
-    1647139203,
-    1647139203,
-    1647139203
+    1647142806,
+    1647142806,
+    1647142806,
+    1647142806
   ],
   "moonPhase": [
     "Waxing Gibbous",
@@ -67,8 +67,8 @@
   ],
   "narrative": [
     "Windy with a few clouds. Lows overnight in the low 20s.",
-    "More clouds than sun. Highs in the upper 30s and lows in the low 30s.",
-    "A few clouds. Highs in the upper 50s and lows in the upper 30s.",
+    "Times of sun and clouds. Highs in the low 40s and lows in the low 30s.",
+    "Plenty of sun. Highs in the upper 50s and lows in the low 40s.",
     "Times of sun and clouds. Highs in the mid 60s and lows in the low 40s."
   ],
   "qpf": [
@@ -109,14 +109,14 @@
   ],
   "temperatureMax": [
     null,
-    39,
+    40,
     58,
     66
   ],
   "temperatureMin": [
     22,
     32,
-    39,
+    40,
     41
   ],
   "validTimeLocal": [
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        31,
+        19,
         40,
-        38,
-        29,
-        28,
-        57,
-        37
+        37,
+        30,
+        27,
+        61,
+        38
       ],
       "dayOrNight": [
         null,
@@ -166,7 +166,7 @@
       "iconCode": [
         null,
         24,
-        28,
+        30,
         29,
         34,
         29,
@@ -176,7 +176,7 @@
       "iconCodeExtend": [
         null,
         2910,
-        2800,
+        3000,
         2900,
         3400,
         2900,
@@ -185,13 +185,13 @@
       ],
       "narrative": [
         null,
-        "Partly cloudy skies with gusty winds. Low 22F. Winds WNW at 20 to 30 mph.  Winds could occasionally gust over 40 mph.",
-        "A mix of clouds and sun in the morning followed by cloudy skies during the afternoon. High 39F. Winds WSW at 10 to 20 mph.",
+        "Windy with mostly clear skies. Low 22F. Winds WNW at 20 to 30 mph.  Winds could occasionally gust over 40 mph.",
+        "Intervals of clouds and sunshine. High near 40F. Winds WSW at 10 to 20 mph.",
         "Partly cloudy skies. Low 32F. Winds SW at 5 to 10 mph.",
-        "Generally sunny despite a few afternoon clouds. High 58F. Winds WSW at 5 to 10 mph.",
-        "Some clouds early will give way to generally clear conditions overnight. Low 39F. Winds SW at 5 to 10 mph.",
-        "Partly cloudy. High 66F. Winds WSW at 5 to 10 mph.",
-        "A few clouds. Low 41F. Winds WNW at 5 to 10 mph."
+        "Mostly sunny skies. High 58F. Winds WSW at 5 to 10 mph.",
+        "Some clouds early will give way to generally clear conditions overnight. Low around 40F. Winds SW at 5 to 10 mph.",
+        "Partly to mostly cloudy. High 66F. Winds WSW at 5 to 10 mph.",
+        "Clear to partly cloudy. Low 41F. Winds WNW at 5 to 10 mph."
       ],
       "precipChance": [
         null,
@@ -257,11 +257,11 @@
         null,
         48,
         42,
-        59,
+        58,
         52,
-        68,
+        65,
         54,
-        65
+        66
       ],
       "snowRange": [
         null,
@@ -276,10 +276,10 @@
       "temperature": [
         null,
         22,
-        39,
+        40,
         32,
         58,
-        39,
+        40,
         66,
         41
       ],
@@ -289,17 +289,17 @@
         38,
         37,
         56,
-        52,
-        65,
+        53,
+        64,
         59
       ],
       "temperatureWindChill": [
         null,
-        9,
+        8,
         11,
         27,
         29,
-        37,
+        38,
         38,
         41
       ],
@@ -345,13 +345,13 @@
       ],
       "windDirection": [
         null,
-        287,
+        288,
         258,
         224,
         246,
-        215,
-        253,
-        291
+        214,
+        249,
+        286
       ],
       "windDirectionCardinal": [
         null,
@@ -375,7 +375,7 @@
       ],
       "windSpeed": [
         null,
-        22,
+        21,
         14,
         10,
         10,
@@ -386,7 +386,7 @@
       "wxPhraseLong": [
         null,
         "Partly Cloudy/Wind",
-        "Mostly Cloudy",
+        "Partly Cloudy",
         "Partly Cloudy",
         "Mostly Sunny",
         "Partly Cloudy",
@@ -396,7 +396,7 @@
       "wxPhraseShort": [
         null,
         "P Cldy/Wind",
-        "M Cloudy",
+        "P Cloudy",
         "P Cloudy",
         "M Sunny",
         "P Cloudy",
