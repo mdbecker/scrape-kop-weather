@@ -9,7 +9,7 @@
     32,
     39,
     43,
-    47
+    48
   ],
   "dayOfWeek": [
     "Monday",
@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1647248052,
-    1647248052,
-    1647248052,
-    1647248052
+    1647251656,
+    1647251656,
+    1647251656,
+    1647251656
   ],
   "moonPhase": [
     "Waxing Gibbous",
@@ -42,40 +42,40 @@
     14
   ],
   "moonriseTimeLocal": [
-    "2022-03-14T15:18:34-0400",
-    "2022-03-15T16:23:15-0400",
-    "2022-03-16T17:30:06-0400",
-    "2022-03-17T18:36:43-0400"
+    "2022-03-14T15:18:41-0400",
+    "2022-03-15T16:23:20-0400",
+    "2022-03-16T17:30:10-0400",
+    "2022-03-17T18:36:45-0400"
   ],
   "moonriseTimeUtc": [
-    1647285514,
-    1647375795,
-    1647466206,
-    1647556603
+    1647285521,
+    1647375800,
+    1647466210,
+    1647556605
   ],
   "moonsetTimeLocal": [
-    "2022-03-14T05:39:56-0400",
-    "2022-03-15T06:13:39-0400",
-    "2022-03-16T06:43:28-0400",
-    "2022-03-17T07:10:31-0400"
+    "2022-03-14T05:39:48-0400",
+    "2022-03-15T06:13:33-0400",
+    "2022-03-16T06:43:24-0400",
+    "2022-03-17T07:10:29-0400"
   ],
   "moonsetTimeUtc": [
-    1647250796,
-    1647339219,
-    1647427408,
-    1647515431
+    1647250788,
+    1647339213,
+    1647427404,
+    1647515429
   ],
   "narrative": [
-    "Mix of sun and clouds. Highs in the low 60s and lows in the upper 30s.",
-    "Times of sun and clouds. Highs in the upper 60s and lows in the low 40s.",
+    "Times of sun and clouds. Highs in the low 60s and lows in the upper 30s.",
+    "Partly cloudy. Highs in the upper 60s and lows in the low 40s.",
     "Plenty of sun. Highs in the low 70s and lows in the upper 40s.",
-    "Chance of showers. Highs in the low 60s and lows in the low 50s."
+    "Showers possible. Highs in the low 60s and lows in the upper 40s."
   ],
   "qpf": [
     0,
     0,
-    0.02,
-    0.2
+    0.07,
+    0.21
   ],
   "qpfSnow": [
     0,
@@ -116,8 +116,8 @@
   "temperatureMin": [
     39,
     43,
-    47,
-    50
+    48,
+    49
   ],
   "validTimeLocal": [
     "2022-03-14T07:00:00-0400",
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        27,
-        21,
+        38,
+        20,
         51,
-        21,
-        21,
-        70,
-        94,
-        58
+        20,
+        22,
+        75,
+        95,
+        57
       ],
       "dayOrNight": [
         "D",
@@ -184,14 +184,14 @@
         6100
       ],
       "narrative": [
-        "Partly cloudy. High around 60F. Winds WSW at 10 to 15 mph.",
+        "Sun and clouds mixed. High around 60F. Winds WSW at 10 to 15 mph.",
         "Some clouds this evening will give way to mainly clear skies overnight. Low 39F. Winds SW at 5 to 10 mph.",
-        "Intervals of clouds and sunshine. High 68F. Winds SW at 5 to 10 mph.",
-        "Partly cloudy skies. Low 43F. Winds WSW at 5 to 10 mph.",
-        "A few clouds from time to time. High near 70F. Winds W at 5 to 10 mph.",
-        "Partly cloudy in the evening. Increasing clouds with periods of showers after midnight. Low 47F. Winds E at 5 to 10 mph. Chance of rain 40%.",
-        "Considerable cloudiness with occasional rain showers. High around 60F. Winds NNE at 10 to 15 mph. Chance of rain 50%.",
-        "Chance of a shower or two during the evening, followed by partly cloudy skies late. Low near 50F. Winds NW at 5 to 10 mph. Chance of rain 40%."
+        "Partly cloudy. High 68F. Winds SW at 5 to 10 mph.",
+        "Clear to partly cloudy. Low 43F. Winds WSW at 5 to 10 mph.",
+        "Generally sunny despite a few afternoon clouds. High around 70F. Winds W at 5 to 10 mph.",
+        "Partly cloudy skies early followed by increasing clouds with showers developing later at night. Low 48F. Winds ESE at 5 to 10 mph. Chance of rain 60%.",
+        "Steady light rain in the morning. Showers continuing in the afternoon. High near 60F. Winds NNE at 10 to 15 mph. Chance of rain 60%.",
+        "Showers in the evening, then partly cloudy overnight. Low 49F. Winds NW at 5 to 10 mph. Chance of rain 40%."
       ],
       "precipChance": [
         2,
@@ -199,8 +199,8 @@
         7,
         7,
         7,
-        39,
-        54,
+        55,
+        64,
         41
       ],
       "precipType": [
@@ -219,9 +219,9 @@
         0,
         0,
         0,
-        0.02,
-        0.16,
-        0.05
+        0.07,
+        0.19,
+        0.02
       ],
       "qpfSnow": [
         0,
@@ -259,8 +259,8 @@
         49,
         63,
         50,
-        67,
-        78,
+        68,
+        79,
         81
       ],
       "snowRange": [
@@ -279,13 +279,13 @@
         68,
         43,
         70,
-        47,
+        48,
         60,
-        50
+        49
       ],
       "temperatureHeatIndex": [
         58,
-        54,
+        55,
         66,
         62,
         69,
@@ -294,14 +294,14 @@
         59
       ],
       "temperatureWindChill": [
-        28,
+        26,
         39,
         39,
         44,
         44,
-        46,
+        47,
         49,
-        51
+        50
       ],
       "thunderCategory": [
         "No thunder",
@@ -344,14 +344,14 @@
         0
       ],
       "windDirection": [
-        241,
-        219,
+        243,
+        220,
         236,
-        256,
-        265,
-        99,
-        25,
-        308
+        254,
+        260,
+        106,
+        24,
+        307
       ],
       "windDirectionCardinal": [
         "WSW",
@@ -359,7 +359,7 @@
         "SW",
         "WSW",
         "W",
-        "E",
+        "ESE",
         "NNE",
         "NW"
       ],
@@ -369,7 +369,7 @@
         "Winds SW at 5 to 10 mph.",
         "Winds WSW at 5 to 10 mph.",
         "Winds W at 5 to 10 mph.",
-        "Winds E at 5 to 10 mph.",
+        "Winds ESE at 5 to 10 mph.",
         "Winds NNE at 10 to 15 mph.",
         "Winds NW at 5 to 10 mph."
       ],
