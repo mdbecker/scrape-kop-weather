@@ -8,7 +8,7 @@
   "calendarDayTemperatureMin": [
     32,
     40,
-    44,
+    45,
     49
   ],
   "dayOfWeek": [
@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1647308652,
-    1647308652,
-    1647308652,
-    1647308652
+    1647314863,
+    1647314863,
+    1647314863,
+    1647314863
   ],
   "moonPhase": [
     "Waxing Gibbous",
@@ -67,15 +67,15 @@
   ],
   "narrative": [
     "Partly cloudy. Lows overnight in the low 40s.",
-    "Times of sun and clouds. Highs in the upper 60s and lows in the mid 40s.",
+    "Mix of sun and clouds. Highs in the upper 60s and lows in the mid 40s.",
     "A few clouds. Highs in the upper 60s and lows in the upper 40s.",
-    "Mainly cloudy and rainy. Highs in the upper 50s and lows in the upper 40s."
+    "Cloudy with rain. Highs in the upper 50s and lows in the low 50s."
   ],
   "qpf": [
     0,
     0,
     0.02,
-    0.48
+    0.45
   ],
   "qpfSnow": [
     0,
@@ -115,9 +115,9 @@
   ],
   "temperatureMin": [
     40,
-    44,
+    45,
     49,
-    49
+    50
   ],
   "validTimeLocal": [
     "2022-03-14T07:00:00-0400",
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        27,
-        58,
-        24,
-        23,
-        82,
-        100,
-        55
+        12,
+        59,
+        28,
+        21,
+        78,
+        98,
+        58
       ],
       "dayOrNight": [
         null,
@@ -185,23 +185,23 @@
       ],
       "narrative": [
         null,
-        "Partly cloudy skies. Low around 40F. Winds SW at 5 to 10 mph.",
-        "Partly cloudy. High 68F. Winds SW at 5 to 10 mph.",
-        "Partly cloudy skies. Low 44F. Winds WSW at 5 to 10 mph.",
+        "Partly cloudy skies. Low around 40F. Winds SW at 10 to 15 mph.",
+        "Partly to mostly cloudy. High 68F. Winds SW at 5 to 10 mph.",
+        "Partly cloudy skies. Low near 45F. Winds W at 5 to 10 mph.",
         "Except for a few afternoon clouds, mainly sunny. High 69F. Winds W at 5 to 10 mph.",
-        "Cloudy in the evening, then off and on rain showers after midnight. Low 49F. Winds ESE at 5 to 10 mph. Chance of rain 50%.",
-        "Rain likely. High 57F. Winds NNE at 10 to 15 mph. Chance of rain 90%. Rainfall near a half an inch.",
-        "A shower or two possible early with partly cloudy skies later at night. Low 49F. Winds NW at 5 to 10 mph. Chance of rain 70%."
+        "Increasing clouds with showers arriving sometime after midnight. Low 49F. Winds ESE at 5 to 10 mph. Chance of rain 50%.",
+        "Periods of rain. High 57F. Winds NE at 10 to 15 mph. Chance of rain 90%. Rainfall near a half an inch.",
+        "Chance of a shower or two during the evening, followed by partly cloudy skies late. Low near 50F. Winds NW at 5 to 10 mph. Chance of rain 60%."
       ],
       "precipChance": [
         null,
-        5,
         6,
         7,
         7,
+        8,
         48,
         85,
-        66
+        61
       ],
       "precipType": [
         null,
@@ -220,7 +220,7 @@
         0,
         0,
         0.02,
-        0.44,
+        0.42,
         0.04
       ],
       "qpfSnow": [
@@ -255,13 +255,13 @@
       ],
       "relativeHumidity": [
         null,
-        57,
+        60,
         48,
-        62,
+        61,
         51,
         67,
-        83,
-        81
+        82,
+        82
       ],
       "snowRange": [
         null,
@@ -277,15 +277,15 @@
         null,
         40,
         68,
-        44,
+        45,
         69,
         49,
         57,
-        49
+        50
       ],
       "temperatureHeatIndex": [
         null,
-        48,
+        47,
         67,
         62,
         68,
@@ -296,12 +296,12 @@
       "temperatureWindChill": [
         null,
         39,
-        39,
-        45,
+        38,
+        46,
         45,
         48,
         49,
-        49
+        50
       ],
       "thunderCategory": [
         null,
@@ -347,37 +347,37 @@
         null,
         224,
         233,
-        257,
-        267,
+        265,
+        271,
         105,
-        27,
-        309
+        34,
+        313
       ],
       "windDirectionCardinal": [
         null,
         "SW",
         "SW",
-        "WSW",
+        "W",
         "W",
         "ESE",
-        "NNE",
+        "NE",
         "NW"
       ],
       "windPhrase": [
         null,
+        "Winds SW at 10 to 15 mph.",
         "Winds SW at 5 to 10 mph.",
-        "Winds SW at 5 to 10 mph.",
-        "Winds WSW at 5 to 10 mph.",
+        "Winds W at 5 to 10 mph.",
         "Winds W at 5 to 10 mph.",
         "Winds ESE at 5 to 10 mph.",
-        "Winds NNE at 10 to 15 mph.",
+        "Winds NE at 10 to 15 mph.",
         "Winds NW at 5 to 10 mph."
       ],
       "windSpeed": [
         null,
+        12,
         9,
-        9,
-        7,
+        8,
         9,
         9,
         11,
