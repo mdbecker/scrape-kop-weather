@@ -1,7 +1,7 @@
 {
   "calendarDayTemperatureMax": [
     75,
-    74,
+    73,
     59,
     68
   ],
@@ -18,10 +18,10 @@
     "Monday"
   ],
   "expirationTimeUtc": [
-    1647618602,
-    1647618602,
-    1647618602,
-    1647618602
+    1647624006,
+    1647624006,
+    1647624006,
+    1647624006
   ],
   "moonPhase": [
     "Full Moon",
@@ -66,14 +66,14 @@
     1647867285
   ],
   "narrative": [
-    "Morning clouds followed by afternoon sun. Highs in the mid 70s and lows in the mid 50s.",
-    "Scattered thunderstorms possible. Highs in the mid 70s and lows in the low 50s.",
-    "Mostly cloudy. Highs in the upper 50s and lows in the low 40s.",
+    "Mix of sun and clouds. Highs in the mid 70s and lows in the mid 50s.",
+    "Scattered thunderstorms possible. Highs in the low 70s and lows in the low 50s.",
+    "Considerable cloudiness. Highs in the upper 50s and lows in the low 40s.",
     "Sunshine. Highs in the upper 60s and lows in the upper 40s."
   ],
   "qpf": [
-    0.05,
-    0.13,
+    0.04,
+    0.17,
     0,
     0
   ],
@@ -109,8 +109,8 @@
   ],
   "temperatureMax": [
     75,
-    74,
-    58,
+    73,
+    57,
     68
   ],
   "temperatureMin": [
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        61,
-        91,
-        86,
-        35,
-        62,
-        17,
-        7,
-        37
+        38,
+        90,
+        85,
+        33,
+        66,
+        24,
+        6,
+        32
       ],
       "dayOrNight": [
         "D",
@@ -174,7 +174,7 @@
         29
       ],
       "iconCodeExtend": [
-        9003,
+        3000,
         7100,
         3800,
         6200,
@@ -184,24 +184,24 @@
         2900
       ],
       "narrative": [
-        "Areas of dense morning fog. Cloudy skies this morning will become partly cloudy this afternoon. High near 75F. Winds SW at 5 to 10 mph.",
-        "Cloudy skies early, then off and on rain showers overnight. Low 56F. Winds SSE at 5 to 10 mph. Chance of rain 50%.",
-        "Rain showers in the morning with scattered thunderstorms arriving in the afternoon. High 74F. Winds SSW at 10 to 20 mph. Chance of rain 60%.",
-        "Partly to mostly cloudy skies with scattered thunderstorms before midnight. Low 51F. Winds W at 10 to 15 mph. Chance of rain 40%.",
-        "Partly cloudy skies during the morning hours will become overcast in the afternoon. High 58F. Winds WNW at 15 to 25 mph.",
-        "Partly cloudy skies. Low 43F. Winds WNW at 10 to 20 mph.",
-        "A mainly sunny sky. High 68F. Winds WNW at 10 to 20 mph.",
-        "A few clouds. Low 48F. Winds WNW at 5 to 10 mph."
+        "A mix of clouds and sun. High around 75F. Winds SSW at 5 to 10 mph.",
+        "Considerable cloudiness. Occasional rain showers after midnight. Thunder possible. Low 56F. Winds SSE at 5 to 10 mph. Chance of rain 50%.",
+        "Rain showers in the morning with scattered thunderstorms arriving in the afternoon. High 73F. Winds SSW at 10 to 20 mph. Chance of rain 60%.",
+        "Scattered thunderstorms in the evening. Partly cloudy skies overnight. Low 51F. Winds W at 10 to 20 mph. Chance of rain 40%.",
+        "A mix of clouds and sun in the morning followed by cloudy skies during the afternoon. High 57F. Winds WNW at 15 to 25 mph.",
+        "Partly cloudy skies. Low 43F. Winds NW at 10 to 20 mph.",
+        "Sunny skies. High 68F. Winds WNW at 10 to 20 mph.",
+        "Partly cloudy. Low 48F. Winds WNW at 5 to 10 mph."
       ],
       "precipChance": [
         1,
-        49,
-        56,
+        50,
+        58,
         35,
-        3,
+        4,
         2,
         2,
-        1
+        2
       ],
       "precipType": [
         "rain",
@@ -215,8 +215,8 @@
       ],
       "qpf": [
         0,
-        0.05,
-        0.11,
+        0.04,
+        0.15,
         0.02,
         0,
         0,
@@ -234,8 +234,8 @@
         0
       ],
       "qualifierCode": [
-        "Q910",
         null,
+        "Q8003",
         null,
         null,
         null,
@@ -244,8 +244,8 @@
         null
       ],
       "qualifierPhrase": [
-        "Areas of dense morning fog.",
         null,
+        "Thunder possible.",
         null,
         null,
         null,
@@ -254,14 +254,14 @@
         null
       ],
       "relativeHumidity": [
-        58,
+        51,
         72,
         72,
         65,
         52,
         48,
         39,
-        45
+        49
       ],
       "snowRange": [
         "",
@@ -276,9 +276,9 @@
       "temperature": [
         75,
         56,
-        74,
+        73,
         51,
-        58,
+        57,
         43,
         68,
         48
@@ -286,7 +286,7 @@
       "temperatureHeatIndex": [
         73,
         68,
-        73,
+        72,
         70,
         57,
         55,
@@ -294,18 +294,18 @@
         63
       ],
       "temperatureWindChill": [
-        58,
+        64,
         55,
         57,
         50,
         49,
         41,
-        41,
+        40,
         47
       ],
       "thunderCategory": [
         "No thunder",
-        "No thunder",
+        "Thunder possible",
         "Thunder expected",
         "Thunder expected",
         "No thunder",
@@ -315,7 +315,7 @@
       ],
       "thunderIndex": [
         0,
-        0,
+        1,
         2,
         2,
         0,
@@ -338,38 +338,38 @@
         0,
         2,
         0,
-        4,
+        3,
         0,
         5,
         0
       ],
       "windDirection": [
-        216,
-        165,
-        193,
-        262,
-        283,
-        302,
+        213,
+        164,
+        195,
+        260,
         282,
-        288
+        305,
+        284,
+        287
       ],
       "windDirectionCardinal": [
-        "SW",
+        "SSW",
         "SSE",
         "SSW",
         "W",
         "WNW",
-        "WNW",
+        "NW",
         "WNW",
         "WNW"
       ],
       "windPhrase": [
-        "Winds SW at 5 to 10 mph.",
+        "Winds SSW at 5 to 10 mph.",
         "Winds SSE at 5 to 10 mph.",
         "Winds SSW at 10 to 20 mph.",
-        "Winds W at 10 to 15 mph.",
+        "Winds W at 10 to 20 mph.",
         "Winds WNW at 15 to 25 mph.",
-        "Winds WNW at 10 to 20 mph.",
+        "Winds NW at 10 to 20 mph.",
         "Winds WNW at 10 to 20 mph.",
         "Winds WNW at 5 to 10 mph."
       ],
@@ -381,10 +381,10 @@
         18,
         16,
         14,
-        10
+        9
       ],
       "wxPhraseLong": [
-        "AM Clouds/PM Sun",
+        "Partly Cloudy",
         "Showers Late",
         "Scattered Thunderstorms",
         "Thunderstorms Early",
@@ -394,7 +394,7 @@
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
-        "AM Clouds",
+        "P Cloudy",
         "Shwrs Late",
         "Sct T-Storms",
         "T-Storms",
