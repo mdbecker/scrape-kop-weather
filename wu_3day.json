@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
     74,
-    59,
+    60,
     67,
     63
   ],
   "calendarDayTemperatureMin": [
-    55,
+    56,
     47,
     43,
-    45
+    46
   ],
   "dayOfWeek": [
     "Saturday",
@@ -18,10 +18,10 @@
     "Tuesday"
   ],
   "expirationTimeUtc": [
-    1647690745,
-    1647690745,
-    1647690745,
-    1647690745
+    1647696155,
+    1647696155,
+    1647696155,
+    1647696155
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -42,34 +42,34 @@
     19
   ],
   "moonriseTimeLocal": [
-    "2022-03-19T20:54:06-0400",
-    "2022-03-20T22:05:22-0400",
-    "2022-03-21T23:19:05-0400",
+    "2022-03-19T20:54:05-0400",
+    "2022-03-20T22:05:21-0400",
+    "2022-03-21T23:19:03-0400",
     ""
   ],
   "moonriseTimeUtc": [
-    1647737646,
-    1647828322,
-    1647919145,
+    1647737645,
+    1647828321,
+    1647919143,
     null
   ],
   "moonsetTimeLocal": [
     "2022-03-19T08:00:20-0400",
-    "2022-03-20T08:25:59-0400",
-    "2022-03-21T08:54:45-0400",
-    "2022-03-22T09:28:13-0400"
+    "2022-03-20T08:26:00-0400",
+    "2022-03-21T08:54:46-0400",
+    "2022-03-22T09:28:15-0400"
   ],
   "moonsetTimeUtc": [
     1647691220,
-    1647779159,
-    1647867285,
-    1647955693
+    1647779160,
+    1647867286,
+    1647955695
   ],
   "narrative": [
-    "Isolated thunderstorms. Highs in the mid 70s and lows in the low 50s.",
-    "Mostly cloudy. Highs in the upper 50s and lows in the low 40s.",
-    "Abundant sunshine. Highs in the upper 60s and lows in the upper 40s.",
-    "Mostly cloudy. Highs in the low 60s and lows in the low 40s."
+    "More clouds than sun. Highs in the mid 70s and lows in the low 50s.",
+    "More clouds than sun. Highs in the upper 50s and lows in the low 40s.",
+    "Sunny. Highs in the upper 60s and lows in the upper 40s.",
+    "Considerable cloudiness. Highs in the low 60s and lows in the low 40s."
   ],
   "qpf": [
     0.07,
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        67,
-        41,
-        69,
-        41,
+        71,
+        40,
+        68,
+        42,
         6,
-        36,
+        38,
         73,
-        65
+        66
       ],
       "dayOrNight": [
         "D",
@@ -164,43 +164,43 @@
         "Tuesday night"
       ],
       "iconCode": [
-        37,
+        28,
         47,
         28,
         29,
         32,
-        33,
+        29,
         28,
         29
       ],
       "iconCodeExtend": [
-        3700,
+        2800,
         6200,
         2800,
         2900,
         3200,
-        3300,
+        2900,
         2800,
         2900
       ],
       "narrative": [
-        "Some clouds and possibly an isolated thunderstorm this afternoon. High 74F. Winds SSW at 10 to 20 mph. Chance of rain 30%.",
-        "Scattered thunderstorms early, then partly cloudy after midnight. Gusty winds and small hail are possible. Low 52F. Winds W at 10 to 20 mph. Chance of rain 60%.",
-        "Partly cloudy skies in the morning will give way to cloudy skies during the afternoon. High 58F. Winds W at 15 to 25 mph.  Higher wind gusts possible.",
-        "Clear to partly cloudy. Low 43F. Winds NW at 10 to 20 mph.",
-        "Mainly sunny. High 67F. Winds WNW at 10 to 20 mph.",
-        "Mostly clear skies. Low 47F. Winds NW at 5 to 10 mph.",
+        "Partly cloudy skies this morning will become overcast during the afternoon. A stray shower or thunderstorm is possible. High 74F. Winds SSW at 10 to 20 mph.",
+        "Scattered thunderstorms during the evening. Partly cloudy skies after midnight. Gusty winds and small hail are possible. Low 52F. Winds W at 10 to 20 mph. Chance of rain 50%.",
+        "A mix of clouds and sun early, then becoming cloudy later in the day. High 58F. Winds W at 15 to 25 mph.  Higher wind gusts possible.",
+        "Partly cloudy. Low 43F. Winds NW at 10 to 20 mph.",
+        "Sunny. High 67F. Winds WNW at 10 to 20 mph.",
+        "A few clouds. Low 47F. Winds NW at 5 to 10 mph.",
         "More clouds than sun. High 63F. Winds NW at 10 to 15 mph.",
-        "Partly cloudy skies during the evening will give way to cloudy skies overnight. Low 42F. Winds N at 5 to 10 mph."
+        "Partly cloudy in the evening with more clouds for later at night. Low 42F. Winds N at 5 to 10 mph."
       ],
       "precipChance": [
-        30,
-        55,
+        24,
+        52,
         3,
         1,
         2,
         2,
-        1,
+        2,
         2
       ],
       "precipType": [
@@ -214,7 +214,7 @@
         "rain"
       ],
       "qpf": [
-        0.01,
+        0,
         0.07,
         0,
         0,
@@ -234,7 +234,7 @@
         0
       ],
       "qualifierCode": [
-        null,
+        "Q8001",
         "Q8035",
         "Q1016",
         null,
@@ -244,7 +244,7 @@
         null
       ],
       "qualifierPhrase": [
-        null,
+        "A stray shower or thunderstorm is possible.",
         "Gusty winds and small hail are possible.",
         "Higher wind gusts possible.",
         null,
@@ -254,14 +254,14 @@
         null
       ],
       "relativeHumidity": [
-        68,
+        64,
         66,
         51,
         50,
         38,
         49,
         36,
-        40
+        41
       ],
       "snowRange": [
         "",
@@ -287,24 +287,24 @@
         72,
         70,
         58,
-        54,
+        55,
         65,
         62,
         62,
         57
       ],
       "temperatureWindChill": [
-        56,
+        60,
         51,
         49,
         40,
-        40,
+        39,
         46,
         46,
-        39
+        40
       ],
       "thunderCategory": [
-        "Thunder expected",
+        "Thunder possible",
         "Thunder expected",
         "No thunder",
         "No thunder",
@@ -314,7 +314,7 @@
         "No thunder"
       ],
       "thunderIndex": [
-        2,
+        1,
         2,
         0,
         0,
@@ -344,14 +344,14 @@
         0
       ],
       "windDirection": [
-        208,
+        211,
         262,
         277,
         305,
-        287,
+        289,
         305,
-        325,
-        3
+        324,
+        6
       ],
       "windDirectionCardinal": [
         "SSW",
@@ -374,32 +374,32 @@
         "Winds N at 5 to 10 mph."
       ],
       "windSpeed": [
-        13,
+        14,
         13,
         18,
         16,
         15,
         9,
-        11,
+        10,
         8
       ],
       "wxPhraseLong": [
-        "Isolated Thunderstorms",
+        "Mostly Cloudy",
         "Thunderstorms Early",
         "Mostly Cloudy",
         "Partly Cloudy",
         "Sunny",
-        "Mostly Clear",
+        "Partly Cloudy",
         "Mostly Cloudy",
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
-        "Iso T-Storms",
+        "M Cloudy",
         "T-Storms",
         "M Cloudy",
         "P Cloudy",
         "Sunny",
-        "M Clear",
+        "P Cloudy",
         "M Cloudy",
         "P Cloudy"
       ]
