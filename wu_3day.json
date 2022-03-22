@@ -18,10 +18,10 @@
     "Friday"
   ],
   "expirationTimeUtc": [
-    1647986193,
-    1647986193,
-    1647986193,
-    1647986193
+    1647988998,
+    1647988998,
+    1647988998,
+    1647988998
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -67,8 +67,8 @@
   ],
   "narrative": [
     "Partly cloudy. Lows overnight in the low 40s.",
-    "Showers possible in the afternoon. Highs in the mid 50s and lows in the upper 40s.",
-    "Cloudy with showers and thunderstorms. Highs in the mid 60s and lows in the upper 40s.",
+    "Afternoon showers. Highs in the mid 50s and lows in the upper 40s.",
+    "Rain. Highs in the mid 60s and lows in the upper 40s.",
     "Partly cloudy. Highs in the low 60s and lows in the mid 40s."
   ],
   "qpf": [
@@ -135,7 +135,7 @@
     {
       "cloudCover": [
         null,
-        51,
+        57,
         90,
         98,
         97,
@@ -167,8 +167,8 @@
         null,
         29,
         39,
-        4,
-        11,
+        12,
+        12,
         12,
         30,
         29
@@ -177,25 +177,25 @@
         null,
         2900,
         7103,
-        400,
-        1140,
+        1240,
+        1200,
         6300,
         3000,
         2900
       ],
       "narrative": [
         null,
-        "Partly cloudy. Low 41F. Winds NNE at 5 to 10 mph.",
-        "Cloudy in the morning, then off and on rain showers during the afternoon hours. High 54F. Winds E at 10 to 20 mph. Chance of rain 50%.",
-        "Rain with thunderstorms by morning. Low 48F. Winds ESE at 10 to 20 mph. Chance of rain 100%.",
-        "Showers with a possible thunderstorm in the morning, then variable clouds during the afternoon with still a chance of showers. High 64F. Winds NNE at 5 to 10 mph. Chance of rain 70%.",
-        "Rain ending early. Partial clearing late. Low 49F. Winds W at 10 to 15 mph. Chance of rain 70%.",
-        "Intervals of clouds and sunshine. High 61F. Winds W at 10 to 20 mph.",
-        "Partly cloudy skies. Low near 45F. Winds W at 10 to 15 mph."
+        "A few clouds. Low 41F. Winds NNE at 10 to 15 mph.",
+        "Cloudy with occasional showers for the afternoon. High 54F. Winds E at 10 to 20 mph. Chance of rain 50%.",
+        "Rain early...then remaining cloudy with thundershowers developing late. Low 48F. Winds ESE at 10 to 20 mph. Chance of rain 100%.",
+        "A steady rain in the morning. Showers continuing in the afternoon. Thunder possible. High 64F. Winds NNE at 5 to 10 mph. Chance of rain 70%.",
+        "Becoming partly cloudy after some evening rain. Low 49F. Winds W at 10 to 15 mph. Chance of rain 70%.",
+        "Intervals of clouds and sunshine in the morning with more clouds for later in the day. High 61F. Winds W at 10 to 20 mph.",
+        "A few clouds. Low near 45F. Winds W at 10 to 15 mph."
       ],
       "precipChance": [
         null,
-        14,
+        6,
         52,
         99,
         70,
@@ -238,7 +238,7 @@
         null,
         null,
         null,
-        null,
+        "Q8003",
         null,
         null,
         null
@@ -248,7 +248,7 @@
         null,
         null,
         null,
-        null,
+        "Thunder possible.",
         null,
         null,
         null
@@ -285,7 +285,7 @@
       ],
       "temperatureHeatIndex": [
         null,
-        61,
+        60,
         54,
         59,
         64,
@@ -307,8 +307,8 @@
         null,
         "No thunder",
         "No thunder",
-        "Thunder expected",
-        "Thunder expected",
+        "Thunder possible",
+        "Thunder possible",
         "No thunder",
         "No thunder",
         "No thunder"
@@ -317,8 +317,8 @@
         null,
         0,
         0,
-        2,
-        2,
+        1,
+        1,
         0,
         0,
         0
@@ -345,7 +345,7 @@
       ],
       "windDirection": [
         null,
-        25,
+        29,
         89,
         103,
         20,
@@ -365,7 +365,7 @@
       ],
       "windPhrase": [
         null,
-        "Winds NNE at 5 to 10 mph.",
+        "Winds NNE at 10 to 15 mph.",
         "Winds E at 10 to 20 mph.",
         "Winds ESE at 10 to 20 mph.",
         "Winds NNE at 5 to 10 mph.",
@@ -375,7 +375,7 @@
       ],
       "windSpeed": [
         null,
-        9,
+        13,
         14,
         16,
         9,
@@ -387,8 +387,8 @@
         null,
         "Partly Cloudy",
         "PM Showers",
-        "Thunderstorms",
-        "Thundershowers",
+        "Rain/Thunder",
+        "Rain",
         "Rain Early",
         "Partly Cloudy",
         "Partly Cloudy"
@@ -397,8 +397,8 @@
         null,
         "P Cloudy",
         "PM Showers",
-        "T-Storms",
-        "T-Showers",
+        "Rain/Thunder",
+        "Rain",
         "Rain Early",
         "P Cloudy",
         "P Cloudy"
