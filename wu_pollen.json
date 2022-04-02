@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1648854000,
       1648897200,
       1648940400,
       1648983600,
@@ -22,10 +21,11 @@
       1649329200,
       1649372400,
       1649415600,
-      1649458800
+      1649458800,
+      1649502000,
+      1649545200
     ],
     "fcstValidLocal": [
-      "2022-04-01T19:00:00-0400",
       "2022-04-02T07:00:00-0400",
       "2022-04-02T19:00:00-0400",
       "2022-04-03T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2022-04-07T07:00:00-0400",
       "2022-04-07T19:00:00-0400",
       "2022-04-08T07:00:00-0400",
-      "2022-04-08T19:00:00-0400"
+      "2022-04-08T19:00:00-0400",
+      "2022-04-09T07:00:00-0400",
+      "2022-04-09T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Sunday",
-      "Sunday night",
       "Monday",
       "Monday night",
       "Tuesday",
@@ -90,9 +93,12 @@
       "Thursday",
       "Thursday night",
       "Friday",
-      "Friday night"
+      "Friday night",
+      "Saturday",
+      "Saturday night"
     ],
     "grassPollenIndex": [
+      0,
       0,
       0,
       0,
@@ -124,16 +130,16 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "treePollenIndex": [
       1,
-      2,
       1,
       1,
       1,
-      2,
-      2,
+      1,
+      1,
       2,
       0,
       0,
@@ -141,16 +147,17 @@
       0,
       0,
       1,
+      2,
+      2,
       2
     ],
     "treePollenCategory": [
       "Low",
-      "Moderate",
       "Low",
       "Low",
       "Low",
-      "Moderate",
-      "Moderate",
+      "Low",
+      "Low",
       "Moderate",
       "None",
       "None",
@@ -158,6 +165,8 @@
       "None",
       "None",
       "Low",
+      "Moderate",
+      "Moderate",
       "Moderate"
     ],
     "ragweedPollenIndex": [
@@ -175,9 +184,11 @@
       0,
       0,
       0,
+      0,
       0
     ],
     "ragweedPollenCategory": [
+      "None",
       "None",
       "None",
       "None",
