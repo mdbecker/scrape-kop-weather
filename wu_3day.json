@@ -6,9 +6,9 @@
     82
   ],
   "calendarDayTemperatureMin": [
-    37,
+    36,
     49,
-    55,
+    54,
     62
   ],
   "dayOfWeek": [
@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1649671005,
-    1649671005,
-    1649671005,
-    1649671005
+    1649674607,
+    1649674607,
+    1649674607,
+    1649674607
   ],
   "moonPhase": [
     "Waxing Gibbous",
@@ -66,10 +66,10 @@
     1649928991
   ],
   "narrative": [
-    "A few clouds. Highs in the low 60s and lows in the upper 40s.",
-    "Clouds giving way to sun . Highs in the mid 70s and lows in the mid 50s.",
-    "More clouds than sun. Highs in the upper 70s and lows in the mid 60s.",
-    "Afternoon thunderstorms. Highs in the low 80s and lows in the mid 50s."
+    "Times of sun and clouds. Highs in the low 60s and lows in the upper 40s.",
+    "Morning clouds followed by afternoon sun. Highs in the mid 70s and lows in the mid 50s.",
+    "Mostly cloudy. Highs in the upper 70s and lows in the mid 60s.",
+    "Showers and thunderstorms late. Highs in the low 80s and lows in the mid 50s."
   ],
   "qpf": [
     0,
@@ -115,7 +115,7 @@
   ],
   "temperatureMin": [
     49,
-    55,
+    54,
     66,
     54
   ],
@@ -135,11 +135,11 @@
     {
       "cloudCover": [
         33,
-        77,
+        78,
         52,
-        26,
-        77,
-        77,
+        27,
+        80,
+        78,
         69,
         82
       ],
@@ -164,31 +164,31 @@
         "Thursday night"
       ],
       "iconCode": [
-        34,
+        30,
         27,
         30,
         33,
-        28,
+        26,
         27,
         38,
         45
       ],
       "iconCodeExtend": [
-        3400,
+        3000,
         2700,
         9003,
         3300,
-        2800,
+        2600,
         2700,
         7203,
         6100
       ],
       "narrative": [
-        "Mainly sunny to start, then a few afternoon clouds. High 63F. Winds WSW at 10 to 15 mph.",
-        "Considerable cloudiness. Low 49F. Winds SSW at 10 to 15 mph.",
-        "Cloudy skies early, followed by partial clearing. Slight chance of a rain shower. High 74F. Winds WNW at 10 to 20 mph.",
-        "Mainly clear early, then a few clouds later on. Low near 55F. Winds NNE at 5 to 10 mph.",
-        "Considerable cloudiness. High 79F. ESE winds shifting to SSW at 10 to 15 mph.",
+        "Sunshine and clouds mixed. High 63F. Winds WSW at 10 to 15 mph.",
+        "Mainly cloudy. Low 49F. Winds SSW at 10 to 15 mph.",
+        "Mostly cloudy early, then afternoon sunshine. Slight chance of a rain shower. High 74F. Winds WNW at 10 to 20 mph.",
+        "A few clouds overnight. Low 54F. Winds NNE at 5 to 10 mph.",
+        "Cloudy. High 79F. E winds shifting to SSW at 10 to 15 mph.",
         "Considerable cloudiness. Low 66F. Winds SSW at 10 to 15 mph.",
         "Partly cloudy in the morning followed by scattered thunderstorms in the afternoon. High 82F. Winds SW at 10 to 20 mph. Chance of rain 60%.",
         "Showers in the evening, then cloudy overnight. Low 54F. Winds NW at 10 to 15 mph. Chance of rain 50%."
@@ -199,7 +199,7 @@
         24,
         4,
         11,
-        16,
+        15,
         58,
         46
       ],
@@ -254,11 +254,11 @@
         null
       ],
       "relativeHumidity": [
-        46,
+        44,
         60,
         55,
-        60,
-        54,
+        57,
+        52,
         65,
         53,
         58
@@ -277,7 +277,7 @@
         63,
         49,
         74,
-        55,
+        54,
         79,
         66,
         82,
@@ -286,9 +286,9 @@
       "temperatureHeatIndex": [
         62,
         58,
-        73,
-        70,
-        79,
+        72,
+        69,
+        78,
         74,
         81,
         72
@@ -338,16 +338,16 @@
         0,
         7,
         0,
-        5,
+        4,
         0,
         5,
         0
       ],
       "windDirection": [
-        257,
-        198,
-        287,
-        23,
+        250,
+        197,
+        288,
+        24,
         149,
         208,
         231,
@@ -368,15 +368,15 @@
         "Winds SSW at 10 to 15 mph.",
         "Winds WNW at 10 to 20 mph.",
         "Winds NNE at 5 to 10 mph.",
-        "ESE winds shifting to SSW at 10 to 15 mph.",
+        "E winds shifting to SSW at 10 to 15 mph.",
         "Winds SSW at 10 to 15 mph.",
         "Winds SW at 10 to 20 mph.",
         "Winds NW at 10 to 15 mph."
       ],
       "windSpeed": [
-        12,
+        13,
         11,
-        15,
+        17,
         9,
         11,
         10,
@@ -384,21 +384,21 @@
         11
       ],
       "wxPhraseLong": [
-        "Mostly Sunny",
+        "Partly Cloudy",
         "Mostly Cloudy",
         "AM Clouds/PM Sun",
         "Mostly Clear",
-        "Mostly Cloudy",
+        "Cloudy",
         "Mostly Cloudy",
         "PM Thunderstorms",
         "Showers Early"
       ],
       "wxPhraseShort": [
-        "M Sunny",
+        "P Cloudy",
         "M Cloudy",
         "AM Clouds",
         "M Clear",
-        "M Cloudy",
+        "Cloudy",
         "M Cloudy",
         "PM T-Storms",
         "Shwrs Early"
