@@ -1,9 +1,9 @@
 {
   "calendarDayTemperatureMax": [
     75,
-    81,
     82,
-    72
+    82,
+    71
   ],
   "calendarDayTemperatureMin": [
     47,
@@ -18,10 +18,10 @@
     "Friday"
   ],
   "expirationTimeUtc": [
-    1649830524,
-    1649830524,
-    1649830524,
-    1649830524
+    1649833166,
+    1649833166,
+    1649833166,
+    1649833166
   ],
   "moonPhase": [
     "Waxing Gibbous",
@@ -66,10 +66,10 @@
     1650016858
   ],
   "narrative": [
-    "Mostly cloudy. Lows overnight in the mid 50s.",
-    "Partly cloudy. Highs in the low 80s and lows in the mid 60s.",
-    "Showers possible in the afternoon. Highs in the low 80s and lows in the low 50s.",
-    "Times of sun and clouds. Highs in the low 70s and lows in the low 50s."
+    "Partly cloudy. Lows overnight in the mid 50s.",
+    "More clouds than sun. Highs in the low 80s and lows in the mid 60s.",
+    "Afternoon showers. Highs in the low 80s and lows in the low 50s.",
+    "Partly cloudy. Highs in the low 70s and lows in the low 50s."
   ],
   "qpf": [
     0,
@@ -111,7 +111,7 @@
     null,
     82,
     82,
-    72
+    71
   ],
   "temperatureMin": [
     54,
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        77,
-        61,
+        52,
+        60,
         58,
         60,
-        64,
+        65,
         19,
-        45
+        48
       ],
       "dayOrNight": [
         null,
@@ -165,8 +165,8 @@
       ],
       "iconCode": [
         null,
-        26,
-        30,
+        29,
+        28,
         29,
         39,
         29,
@@ -175,8 +175,8 @@
       ],
       "iconCodeExtend": [
         null,
-        2600,
-        3000,
+        2900,
+        2800,
         2900,
         7103,
         9000,
@@ -185,12 +185,12 @@
       ],
       "narrative": [
         null,
-        "Overcast. Low 54F. Winds light and variable.",
-        "Partly to mostly cloudy. High 82F. Winds S at 10 to 15 mph.",
-        "Mostly cloudy skies early will become partly cloudy late. Low 66F. Winds SSW at 10 to 15 mph.",
-        "Partly cloudy in the morning. Increasing clouds with periods of showers later in the day. High 82F. Winds WSW at 15 to 25 mph. Chance of rain 50%.",
-        "Cloudy skies early, then partly cloudy after midnight. Low near 50F. Winds NNW at 10 to 20 mph.",
-        "Some clouds in the morning will give way to mainly sunny skies for the afternoon. High 72F. Winds W at 10 to 20 mph.",
+        "Partly cloudy. Low 54F. Winds light and variable.",
+        "A mix of clouds and sun early, then becoming cloudy later in the day. High 82F. Winds S at 10 to 15 mph.",
+        "Partly to mostly cloudy. Low 66F. Winds SSW at 10 to 15 mph.",
+        "Partly cloudy early followed by increasing clouds with showers developing later in the day. High 82F. Winds WSW at 15 to 25 mph. Chance of rain 50%.",
+        "Cloudy skies early will become partly cloudy later at night. Low near 50F. Winds NNW at 10 to 20 mph.",
+        "Partly cloudy skies. High 71F. Winds W at 10 to 20 mph.",
         "Partly cloudy skies. Low 52F. Winds SSW at 10 to 15 mph."
       ],
       "precipChance": [
@@ -256,11 +256,11 @@
       "relativeHumidity": [
         null,
         73,
-        53,
+        54,
         61,
-        55,
-        53,
-        32,
+        54,
+        52,
+        30,
         42
       ],
       "snowRange": [
@@ -280,27 +280,27 @@
         66,
         82,
         50,
-        72,
+        71,
         52
       ],
       "temperatureHeatIndex": [
         null,
-        57,
+        56,
         81,
-        78,
+        79,
         82,
         67,
         70,
-        66
+        65
       ],
       "temperatureWindChill": [
         null,
         55,
-        56,
-        67,
+        55,
+        68,
         67,
         50,
-        50,
+        49,
         50
       ],
       "thunderCategory": [
@@ -345,17 +345,17 @@
       ],
       "windDirection": [
         null,
-        85,
-        185,
-        212,
+        69,
+        187,
+        213,
         237,
-        331,
+        330,
         280,
         212
       ],
       "windDirectionCardinal": [
         null,
-        "E",
+        "ENE",
         "S",
         "SSW",
         "WSW",
@@ -379,14 +379,14 @@
         12,
         11,
         19,
-        14,
+        15,
         14,
         12
       ],
       "wxPhraseLong": [
         null,
-        "Cloudy",
         "Partly Cloudy",
+        "Mostly Cloudy",
         "Partly Cloudy",
         "PM Showers",
         "Clouds Early/Clearing Late",
@@ -395,8 +395,8 @@
       ],
       "wxPhraseShort": [
         null,
-        "Cloudy",
         "P Cloudy",
+        "M Cloudy",
         "P Cloudy",
         "PM Showers",
         "Clear Late",
