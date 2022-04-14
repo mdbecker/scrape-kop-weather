@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1649890800,
       1649934000,
       1649977200,
       1650020400,
@@ -22,10 +21,11 @@
       1650366000,
       1650409200,
       1650452400,
-      1650495600
+      1650495600,
+      1650538800,
+      1650582000
     ],
     "fcstValidLocal": [
-      "2022-04-13T19:00:00-0400",
       "2022-04-14T07:00:00-0400",
       "2022-04-14T19:00:00-0400",
       "2022-04-15T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2022-04-19T07:00:00-0400",
       "2022-04-19T19:00:00-0400",
       "2022-04-20T07:00:00-0400",
-      "2022-04-20T19:00:00-0400"
+      "2022-04-20T19:00:00-0400",
+      "2022-04-21T07:00:00-0400",
+      "2022-04-21T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Friday",
-      "Friday night",
       "Saturday",
       "Saturday night",
       "Sunday",
@@ -90,7 +93,9 @@
       "Tuesday",
       "Tuesday night",
       "Wednesday",
-      "Wednesday night"
+      "Wednesday night",
+      "Thursday",
+      "Thursday night"
     ],
     "grassPollenIndex": [
       0,
@@ -101,13 +106,14 @@
       0,
       0,
       0,
-      1,
       0,
       0,
       0,
       0,
-      1,
-      1
+      0,
+      0,
+      0,
+      0
     ],
     "grassPollenCategory": [
       "None",
@@ -118,13 +124,14 @@
       "None",
       "None",
       "None",
-      "Low",
       "None",
       "None",
       "None",
       "None",
-      "Low",
-      "Low"
+      "None",
+      "None",
+      "None",
+      "None"
     ],
     "treePollenIndex": [
       2,
@@ -132,14 +139,15 @@
       2,
       2,
       2,
-      3,
       2,
-      3,
+      2,
       3,
       2,
       1,
       1,
       2,
+      2,
+      3,
       3,
       3
     ],
@@ -149,14 +157,15 @@
       "Moderate",
       "Moderate",
       "Moderate",
-      "High",
       "Moderate",
-      "High",
+      "Moderate",
       "High",
       "Moderate",
       "Low",
       "Low",
       "Moderate",
+      "Moderate",
+      "High",
       "High",
       "High"
     ],
@@ -175,9 +184,11 @@
       0,
       0,
       0,
+      0,
       0
     ],
     "ragweedPollenCategory": [
+      "None",
       "None",
       "None",
       "None",
