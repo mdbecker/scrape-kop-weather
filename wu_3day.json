@@ -3,7 +3,7 @@
     51,
     61,
     66,
-    75
+    74
   ],
   "calendarDayTemperatureMin": [
     38,
@@ -18,10 +18,10 @@
     "Friday"
   ],
   "expirationTimeUtc": [
-    1650411608,
-    1650411608,
-    1650411608,
-    1650411608
+    1650422416,
+    1650422416,
+    1650422416,
+    1650422416
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -66,9 +66,9 @@
     1650639225
   ],
   "narrative": [
-    "Partly cloudy. Lows overnight in the upper 30s.",
+    "Mostly clear. Lows overnight in the upper 30s.",
     "Abundant sunshine. Highs in the low 60s and lows in the low 40s.",
-    "Mix of sun and clouds. Highs in the mid 60s and lows in the upper 40s.",
+    "Mostly cloudy. Highs in the mid 60s and lows in the upper 40s.",
     "Mix of sun and clouds. Highs in the mid 70s and lows in the upper 40s."
   ],
   "qpf": [
@@ -111,7 +111,7 @@
     null,
     61,
     66,
-    75
+    74
   ],
   "temperatureMin": [
     38,
@@ -135,12 +135,12 @@
     {
       "cloudCover": [
         null,
-        21,
+        17,
         3,
-        20,
-        73,
-        42,
-        43,
+        24,
+        75,
+        40,
+        45,
         74
       ],
       "dayOrNight": [
@@ -165,43 +165,43 @@
       ],
       "iconCode": [
         null,
-        29,
+        33,
         32,
         33,
-        30,
+        26,
         29,
         30,
         27
       ],
       "iconCodeExtend": [
         null,
-        2900,
+        3300,
         3200,
         3300,
-        3000,
+        2600,
         9000,
         3000,
         2700
       ],
       "narrative": [
         null,
-        "Some clouds this evening will give way to mainly clear skies overnight. Low 38F. Winds W at 15 to 25 mph.  Higher wind gusts possible.",
-        "Mainly sunny. High 61F. Winds WNW at 10 to 20 mph.",
+        "Mainly clear skies. Low 38F. Winds W at 10 to 20 mph.",
+        "Sunny. High 61F. Winds WNW at 10 to 20 mph.",
         "Partly cloudy. Low 43F. Winds S at 5 to 10 mph.",
-        "Intervals of clouds and sunshine in the morning with more clouds for later in the day. High 66F. Winds S at 10 to 20 mph.",
-        "Evening clouds will give way to clearing. Low 49F. Winds WSW at 10 to 15 mph.",
-        "Sunshine and clouds mixed. High around 75F. Winds NW at 10 to 15 mph.",
-        "Mostly cloudy skies. Low 49F. Winds NNE at 5 to 10 mph."
+        "Cloudy. High 66F. Winds S at 10 to 20 mph.",
+        "Mostly cloudy early, then clearing later on. Low 49F. Winds WSW at 10 to 15 mph.",
+        "Sunshine and clouds mixed. High 74F. Winds NW at 10 to 15 mph.",
+        "Considerable cloudiness. Low 49F. Winds NNE at 5 to 10 mph."
       ],
       "precipChance": [
         null,
-        4,
+        3,
         3,
         7,
         6,
         8,
         8,
-        7
+        10
       ],
       "precipType": [
         null,
@@ -235,7 +235,7 @@
       ],
       "qualifierCode": [
         null,
-        "Q1016",
+        null,
         null,
         null,
         null,
@@ -245,7 +245,7 @@
       ],
       "qualifierPhrase": [
         null,
-        "Higher wind gusts possible.",
+        null,
         null,
         null,
         null,
@@ -255,11 +255,11 @@
       ],
       "relativeHumidity": [
         null,
-        56,
+        58,
         43,
         60,
         49,
-        63,
+        64,
         47,
         51
       ],
@@ -280,22 +280,22 @@
         43,
         66,
         49,
-        75,
+        74,
         49
       ],
       "temperatureHeatIndex": [
         null,
-        47,
+        44,
         60,
         58,
         65,
         62,
         73,
-        67
+        66
       ],
       "temperatureWindChill": [
         null,
-        32,
+        33,
         33,
         41,
         42,
@@ -345,12 +345,12 @@
       ],
       "windDirection": [
         null,
-        270,
+        271,
         298,
-        187,
+        184,
         191,
         240,
-        319,
+        320,
         17
       ],
       "windDirectionCardinal": [
@@ -365,7 +365,7 @@
       ],
       "windPhrase": [
         null,
-        "Winds W at 15 to 25 mph.",
+        "Winds W at 10 to 20 mph.",
         "Winds WNW at 10 to 20 mph.",
         "Winds S at 5 to 10 mph.",
         "Winds S at 10 to 20 mph.",
@@ -375,7 +375,7 @@
       ],
       "windSpeed": [
         null,
-        18,
+        16,
         15,
         6,
         15,
@@ -385,20 +385,20 @@
       ],
       "wxPhraseLong": [
         null,
-        "Partly Cloudy",
+        "Mostly Clear",
         "Sunny",
         "Mostly Clear",
-        "Partly Cloudy",
+        "Cloudy",
         "Clouds Early/Clearing Late",
         "Partly Cloudy",
         "Mostly Cloudy"
       ],
       "wxPhraseShort": [
         null,
-        "P Cloudy",
+        "M Clear",
         "Sunny",
         "M Clear",
-        "P Cloudy",
+        "Cloudy",
         "Clear Late",
         "P Cloudy",
         "M Cloudy"
