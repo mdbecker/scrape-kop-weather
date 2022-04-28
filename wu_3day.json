@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    60,
     58,
-    59,
-    64
+    57,
+    64,
+    68
   ],
   "calendarDayTemperatureMin": [
-    57,
     41,
     37,
-    37
+    37,
+    41
   ],
   "dayOfWeek": [
     "Wednesday",
@@ -18,10 +18,10 @@
     "Saturday"
   ],
   "expirationTimeUtc": [
-    1651122625,
-    1651122625,
-    1651122625,
-    1651122625
+    1651126238,
+    1651126238,
+    1651126238,
+    1651126238
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -44,31 +44,31 @@
   "moonriseTimeLocal": [
     "2022-04-27T04:51:22-0400",
     "2022-04-28T05:14:59-0400",
-    "2022-04-29T05:38:05-0400",
-    "2022-04-30T06:01:41-0400"
+    "2022-04-29T05:38:04-0400",
+    "2022-04-30T06:01:40-0400"
   ],
   "moonriseTimeUtc": [
     1651049482,
     1651137299,
-    1651225085,
-    1651312901
+    1651225084,
+    1651312900
   ],
   "moonsetTimeLocal": [
     "2022-04-27T16:43:09-0400",
     "2022-04-28T17:48:06-0400",
-    "2022-04-29T18:51:37-0400",
-    "2022-04-30T19:55:23-0400"
+    "2022-04-29T18:51:39-0400",
+    "2022-04-30T19:55:26-0400"
   ],
   "moonsetTimeUtc": [
     1651092189,
     1651182486,
-    1651272697,
-    1651362923
+    1651272699,
+    1651362926
   ],
   "narrative": [
     "Partly cloudy. Lows overnight in the upper 30s.",
     "Sunny. Highs in the upper 50s and lows in the upper 30s.",
-    "Sunshine. Highs in the mid 60s and lows in the low 40s.",
+    "Abundant sunshine. Highs in the mid 60s and lows in the low 40s.",
     "Sunny. Highs in the upper 60s and lows in the low 40s."
   ],
   "qpf": [
@@ -84,28 +84,28 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2022-04-27T06:06:16-0400",
-    "2022-04-28T06:04:59-0400",
-    "2022-04-29T06:03:43-0400",
-    "2022-04-30T06:02:28-0400"
+    "2022-04-27T06:06:14-0400",
+    "2022-04-28T06:04:56-0400",
+    "2022-04-29T06:03:41-0400",
+    "2022-04-30T06:02:26-0400"
   ],
   "sunriseTimeUtc": [
-    1651053976,
-    1651140299,
-    1651226623,
-    1651312948
+    1651053974,
+    1651140296,
+    1651226621,
+    1651312946
   ],
   "sunsetTimeLocal": [
-    "2022-04-27T19:51:38-0400",
-    "2022-04-28T19:52:38-0400",
-    "2022-04-29T19:53:37-0400",
-    "2022-04-30T19:54:37-0400"
+    "2022-04-27T19:51:40-0400",
+    "2022-04-28T19:52:40-0400",
+    "2022-04-29T19:53:39-0400",
+    "2022-04-30T19:54:39-0400"
   ],
   "sunsetTimeUtc": [
-    1651103498,
-    1651189958,
-    1651276417,
-    1651362877
+    1651103500,
+    1651189960,
+    1651276419,
+    1651362879
   ],
   "temperatureMax": [
     null,
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        35,
+        43,
+        3,
+        0,
+        4,
+        2,
         5,
-        1,
-        4,
-        4,
-        6,
-        15
+        17
       ],
       "dayOrNight": [
         null,
@@ -171,7 +171,7 @@
         32,
         31,
         32,
-        31
+        33
       ],
       "iconCodeExtend": [
         null,
@@ -181,16 +181,16 @@
         3200,
         3100,
         3200,
-        3100
+        3300
       ],
       "narrative": [
         null,
-        "Partly cloudy skies. Low 37F. Winds NW at 15 to 25 mph.  Higher wind gusts possible.",
-        "Sunny skies. High 59F. Winds NW at 15 to 25 mph.  Higher wind gusts possible.",
-        "Clear. Low 37F. Winds NW at 10 to 20 mph.",
-        "Sunny skies. High 64F. Winds NW at 10 to 20 mph.",
+        "Partly cloudy. Low 37F. Winds NW at 15 to 25 mph.  Higher wind gusts possible.",
+        "Mainly sunny. High 59F. Winds NW at 15 to 25 mph.  Higher wind gusts possible.",
+        "Clear skies. Low 37F. Winds NW at 10 to 20 mph.",
+        "Sunny. High 64F. Winds NW at 10 to 20 mph.",
         "Clear skies. Low 41F. Winds NNW at 10 to 20 mph.",
-        "Sunny. High 68F. Winds NW at 10 to 15 mph.",
+        "A mainly sunny sky. High 68F. Winds NW at 10 to 15 mph.",
         "A mostly clear sky. Low 43F. Winds NW at 5 to 10 mph."
       ],
       "precipChance": [
@@ -257,11 +257,11 @@
         null,
         48,
         33,
-        32,
+        33,
         27,
         35,
         28,
-        51
+        49
       ],
       "snowRange": [
         null,
@@ -285,11 +285,11 @@
       ],
       "temperatureHeatIndex": [
         null,
-        43,
+        41,
         57,
         55,
         63,
-        61,
+        60,
         67,
         64
       ],
@@ -299,7 +299,7 @@
         31,
         33,
         34,
-        38,
+        37,
         39,
         42
       ],
@@ -347,11 +347,11 @@
         null,
         316,
         320,
-        326,
+        325,
         319,
         335,
-        325,
-        323
+        326,
+        325
       ],
       "windDirectionCardinal": [
         null,
@@ -377,7 +377,7 @@
         null,
         18,
         20,
-        17,
+        16,
         16,
         13,
         11,
@@ -391,7 +391,7 @@
         "Sunny",
         "Clear",
         "Sunny",
-        "Clear"
+        "Mostly Clear"
       ],
       "wxPhraseShort": [
         null,
@@ -401,7 +401,7 @@
         "Sunny",
         "Clear",
         "Sunny",
-        "Clear"
+        "M Clear"
       ]
     }
   ]
