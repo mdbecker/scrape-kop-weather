@@ -6,7 +6,7 @@
     70
   ],
   "calendarDayTemperatureMin": [
-    36,
+    37,
     38,
     40,
     42
@@ -18,10 +18,10 @@
     "Sunday"
   ],
   "expirationTimeUtc": [
-    1651135275,
-    1651135275,
-    1651135275,
-    1651135275
+    1651141388,
+    1651141388,
+    1651141388,
+    1651141388
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -66,10 +66,10 @@
     1651453127
   ],
   "narrative": [
-    "Abundant sunshine. Highs in the upper 50s and lows in the upper 30s.",
+    "Sunny and windy. Highs in the upper 50s and lows in the upper 30s.",
     "Sunshine. Highs in the mid 60s and lows in the low 40s.",
-    "Sunshine. Highs in the upper 60s and lows in the low 40s.",
-    "Mostly cloudy. Highs in the low 70s and lows in the mid 50s."
+    "Abundant sunshine. Highs in the upper 60s and lows in the low 40s.",
+    "Mostly cloudy. Highs in the low 70s and lows in the low 50s."
   ],
   "qpf": [
     0,
@@ -117,7 +117,7 @@
     38,
     40,
     42,
-    54
+    53
   ],
   "validTimeLocal": [
     "2022-04-28T07:00:00-0400",
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        9,
+        8,
         0,
         4,
+        1,
         2,
-        3,
-        12,
-        64,
-        93
+        9,
+        62,
+        94
       ],
       "dayOrNight": [
         "D",
@@ -164,7 +164,7 @@
         "Sunday night"
       ],
       "iconCode": [
-        32,
+        24,
         31,
         32,
         31,
@@ -174,7 +174,7 @@
         12
       ],
       "iconCodeExtend": [
-        3200,
+        3210,
         3100,
         3200,
         3100,
@@ -184,23 +184,23 @@
         1200
       ],
       "narrative": [
-        "Plentiful sunshine. High 58F. Winds NW at 15 to 25 mph.  Higher wind gusts possible.",
+        "Mostly sunny with gusty winds developing this afternoon. High 58F. Winds NW at 20 to 30 mph.  Higher wind gusts possible.",
         "Clear skies. Low 38F. Winds NW at 15 to 25 mph.  Higher wind gusts possible.",
-        "A mainly sunny sky. High 64F. Winds NW at 10 to 20 mph.",
+        "Sunny skies. High 64F. Winds NW at 10 to 20 mph.",
         "Clear skies. Low near 40F. Winds NNW at 10 to 15 mph.",
-        "Sunny. High 68F. Winds NW at 10 to 15 mph.",
-        "Clear skies. Low 42F. Winds NNW at 5 to 10 mph.",
-        "Partly cloudy skies in the morning will give way to cloudy skies during the afternoon. High around 70F. NE winds shifting to S at 10 to 15 mph.",
-        "Periods of rain. Low 54F. Winds SE at 10 to 15 mph. Chance of rain 80%. Rainfall around a quarter of an inch."
+        "Mainly sunny. High 68F. Winds NNW at 10 to 15 mph.",
+        "Clear. Low 42F. Winds NNW at 5 to 10 mph.",
+        "Partly cloudy skies during the morning hours will become overcast in the afternoon. High near 70F. NE winds shifting to S at 10 to 15 mph.",
+        "Rain. Low 53F. Winds SE at 10 to 15 mph. Chance of rain 80%. Rainfall near a quarter of an inch."
       ],
       "precipChance": [
-        1,
+        0,
         0,
         0,
         0,
         0,
         2,
-        5,
+        3,
         76
       ],
       "precipType": [
@@ -254,13 +254,13 @@
         null
       ],
       "relativeHumidity": [
-        36,
-        33,
-        27,
+        34,
+        34,
+        28,
         36,
         28,
-        48,
-        41,
+        49,
+        40,
         67
       ],
       "snowRange": [
@@ -281,27 +281,27 @@
         68,
         42,
         70,
-        54
+        53
       ],
       "temperatureHeatIndex": [
         57,
         55,
-        62,
+        63,
         60,
-        67,
+        66,
         64,
-        69,
+        68,
         63
       ],
       "temperatureWindChill": [
-        30,
+        31,
         33,
         34,
         37,
         39,
         41,
         43,
-        53
+        52
       ],
       "thunderCategory": [
         "No thunder",
@@ -345,12 +345,12 @@
       ],
       "windDirection": [
         319,
-        326,
-        320,
-        335,
         325,
-        332,
-        126,
+        320,
+        336,
+        327,
+        334,
+        123,
         131
       ],
       "windDirectionCardinal": [
@@ -358,17 +358,17 @@
         "NW",
         "NW",
         "NNW",
-        "NW",
         "NNW",
-        "SE",
+        "NNW",
+        "ESE",
         "SE"
       ],
       "windPhrase": [
-        "Winds NW at 15 to 25 mph.",
+        "Winds NW at 20 to 30 mph.",
         "Winds NW at 15 to 25 mph.",
         "Winds NW at 10 to 20 mph.",
         "Winds NNW at 10 to 15 mph.",
-        "Winds NW at 10 to 15 mph.",
+        "Winds NNW at 10 to 15 mph.",
         "Winds NNW at 5 to 10 mph.",
         "NE winds shifting to S at 10 to 15 mph.",
         "Winds SE at 10 to 15 mph."
@@ -384,7 +384,7 @@
         11
       ],
       "wxPhraseLong": [
-        "Sunny",
+        "Sunny/Wind",
         "Clear",
         "Sunny",
         "Clear",
@@ -394,7 +394,7 @@
         "Rain"
       ],
       "wxPhraseShort": [
-        "Sunny",
+        "Sunny/Wind",
         "Clear",
         "Sunny",
         "Clear",
