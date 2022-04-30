@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    52,
-    64,
+    65,
+    68,
     69,
-    69
+    71
   ],
   "calendarDayTemperatureMin": [
-    45,
     39,
     40,
-    44
+    44,
+    52
   ],
   "dayOfWeek": [
     "Friday",
@@ -18,10 +18,10 @@
     "Monday"
   ],
   "expirationTimeUtc": [
-    1651296111,
-    1651296111,
-    1651296111,
-    1651296111
+    1651297924,
+    1651297924,
+    1651297924,
+    1651297924
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -42,33 +42,33 @@
     1
   ],
   "moonriseTimeLocal": [
-    "2022-04-29T05:38:05-0400",
-    "2022-04-30T06:01:41-0400",
-    "2022-05-01T06:27:27-0400",
-    "2022-05-02T06:57:04-0400"
+    "2022-04-29T05:38:02-0400",
+    "2022-04-30T06:01:37-0400",
+    "2022-05-01T06:27:23-0400",
+    "2022-05-02T06:57:00-0400"
   ],
   "moonriseTimeUtc": [
-    1651225085,
-    1651312901,
-    1651400847,
-    1651489024
+    1651225082,
+    1651312897,
+    1651400843,
+    1651489020
   ],
   "moonsetTimeLocal": [
-    "2022-04-29T18:51:38-0400",
-    "2022-04-30T19:55:24-0400",
-    "2022-05-01T20:58:46-0400",
+    "2022-04-29T18:51:36-0400",
+    "2022-04-30T19:55:23-0400",
+    "2022-05-01T20:58:45-0400",
     "2022-05-02T22:01:27-0400"
   ],
   "moonsetTimeUtc": [
-    1651272698,
-    1651362924,
-    1651453126,
+    1651272696,
+    1651362923,
+    1651453125,
     1651543287
   ],
   "narrative": [
     "Clear. Lows overnight in the low 40s.",
-    "Mostly sunny. Highs in the upper 60s and lows in the mid 40s.",
-    "Mostly cloudy. Highs in the upper 60s and lows in the low 50s.",
+    "A few clouds. Highs in the upper 60s and lows in the mid 40s.",
+    "Considerable cloudiness. Highs in the upper 60s and lows in the low 50s.",
     "Considerable cloudiness. Highs in the low 70s and lows in the low 50s."
   ],
   "qpf": [
@@ -84,28 +84,28 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2022-04-29T06:03:42-0400",
-    "2022-04-30T06:02:27-0400",
-    "2022-05-01T06:01:13-0400",
-    "2022-05-02T06:00:01-0400"
+    "2022-04-29T06:03:38-0400",
+    "2022-04-30T06:02:23-0400",
+    "2022-05-01T06:01:10-0400",
+    "2022-05-02T05:59:58-0400"
   ],
   "sunriseTimeUtc": [
-    1651226622,
-    1651312947,
-    1651399273,
-    1651485601
+    1651226618,
+    1651312943,
+    1651399270,
+    1651485598
   ],
   "sunsetTimeLocal": [
-    "2022-04-29T19:53:38-0400",
-    "2022-04-30T19:54:38-0400",
-    "2022-05-01T19:55:37-0400",
-    "2022-05-02T19:56:36-0400"
+    "2022-04-29T19:53:37-0400",
+    "2022-04-30T19:54:36-0400",
+    "2022-05-01T19:55:36-0400",
+    "2022-05-02T19:56:35-0400"
   ],
   "sunsetTimeUtc": [
-    1651276418,
-    1651362878,
-    1651449337,
-    1651535796
+    1651276417,
+    1651362876,
+    1651449336,
+    1651535795
   ],
   "temperatureMax": [
     null,
@@ -138,7 +138,7 @@
         0,
         11,
         47,
-        72,
+        73,
         95,
         81,
         53
@@ -185,13 +185,13 @@
       ],
       "narrative": [
         null,
-        "Clear skies. Low around 40F. Winds NNW at 10 to 15 mph.",
-        "Plentiful sunshine. High 69F. Winds NNW at 10 to 15 mph.",
+        "A clear sky. Low around 40F. Winds NNW at 10 to 15 mph.",
+        "Mostly sunny skies. High 69F. Winds NNW at 10 to 15 mph.",
         "Partly cloudy skies. Low 44F. Winds NNW at 5 to 10 mph.",
-        "Partly cloudy skies during the morning hours will become overcast in the afternoon. High 69F. ENE winds shifting to SSW at 10 to 15 mph.",
-        "Cloudy with periods of rain. Low 52F. Winds SE at 5 to 10 mph. Chance of rain 80%. Rainfall around a quarter of an inch.",
+        "A mix of clouds and sun early, then becoming cloudy later in the day. Slight chance of a rain shower. High 69F. ENE winds shifting to SSW at 10 to 15 mph.",
+        "Periods of rain. Low 52F. Winds SE at 5 to 10 mph. Chance of rain 80%. Rainfall near a quarter of an inch.",
         "Mostly cloudy. Slight chance of a rain shower. High 71F. Winds NNW at 10 to 15 mph.",
-        "Partly cloudy skies in the evening, then becoming cloudy overnight. Low 52F. Winds NNE at 5 to 10 mph."
+        "Partly cloudy during the evening followed by cloudy skies overnight. Low 52F. Winds NNE at 5 to 10 mph."
       ],
       "precipChance": [
         null,
@@ -238,7 +238,7 @@
         null,
         null,
         null,
-        null,
+        "Q5015",
         null,
         "Q5015",
         null
@@ -248,14 +248,14 @@
         null,
         null,
         null,
-        null,
+        "Slight chance of a rain shower.",
         null,
         "Slight chance of a rain shower.",
         null
       ],
       "relativeHumidity": [
         null,
-        35,
+        34,
         26,
         45,
         42,
@@ -285,7 +285,7 @@
       ],
       "temperatureHeatIndex": [
         null,
-        51,
+        49,
         67,
         65,
         67,
@@ -345,7 +345,7 @@
       ],
       "windDirection": [
         null,
-        335,
+        333,
         327,
         341,
         158,
@@ -375,7 +375,7 @@
       ],
       "windSpeed": [
         null,
-        12,
+        10,
         11,
         8,
         10,
