@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1651402800,
       1651446000,
       1651489200,
       1651532400,
@@ -26,7 +25,6 @@
       1652050800
     ],
     "fcstValidLocal": [
-      "2022-05-01T07:00:00-0400",
       "2022-05-01T19:00:00-0400",
       "2022-05-02T07:00:00-0400",
       "2022-05-02T19:00:00-0400",
@@ -44,7 +42,6 @@
       "2022-05-08T19:00:00-0400"
     ],
     "dayInd": [
-      "D",
       "N",
       "D",
       "N",
@@ -76,11 +73,9 @@
       12,
       13,
       14,
-      15,
-      16
+      15
     ],
     "daypartName": [
-      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
@@ -98,10 +93,9 @@
       "Sunday night"
     ],
     "grassPollenIndex": [
-      1,
       0,
       0,
-      1,
+      2,
       1,
       1,
       0,
@@ -110,16 +104,15 @@
       1,
       1,
       1,
-      0,
+      1,
       1,
       2,
       2
     ],
     "grassPollenCategory": [
-      "Low",
       "None",
       "None",
-      "Low",
+      "Moderate",
       "Low",
       "Low",
       "None",
@@ -128,12 +121,15 @@
       "Low",
       "Low",
       "Low",
-      "None",
+      "Low",
       "Low",
       "Moderate",
       "Moderate"
     ],
     "treePollenIndex": [
+      2,
+      2,
+      3,
       3,
       2,
       2,
@@ -141,10 +137,6 @@
       3,
       3,
       2,
-      3,
-      3,
-      3,
-      3,
       3,
       2,
       3,
@@ -152,6 +144,9 @@
       4
     ],
     "treePollenCategory": [
+      "Moderate",
+      "Moderate",
+      "High",
       "High",
       "Moderate",
       "Moderate",
@@ -159,10 +154,6 @@
       "High",
       "High",
       "Moderate",
-      "High",
-      "High",
-      "High",
-      "High",
       "High",
       "Moderate",
       "High",
@@ -184,11 +175,9 @@
       0,
       0,
       0,
-      0,
       0
     ],
     "ragweedPollenCategory": [
-      "None",
       "None",
       "None",
       "None",
