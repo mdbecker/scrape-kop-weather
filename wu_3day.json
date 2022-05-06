@@ -2,11 +2,11 @@
   "calendarDayTemperatureMax": [
     60,
     53,
-    50,
+    51,
     63
   ],
   "calendarDayTemperatureMin": [
-    51,
+    50,
     45,
     44,
     45
@@ -18,10 +18,10 @@
     "Monday"
   ],
   "expirationTimeUtc": [
-    1651867543,
-    1651867543,
-    1651867543,
-    1651867543
+    1651870763,
+    1651870763,
+    1651870763,
+    1651870763
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -67,13 +67,13 @@
   ],
   "narrative": [
     "Windy with periods of rain. Lows overnight in the low 50s.",
-    "Windy with rain at times. Highs in the low 50s and lows in the mid 40s.",
+    "Windy with periods of rain. Highs in the low 50s and lows in the mid 40s.",
     "Mostly cloudy. Highs in the low 50s and lows in the mid 40s.",
-    "Times of sun and clouds. Highs in the low 60s and lows in the upper 40s."
+    "Mix of sun and clouds. Highs in the low 60s and lows in the upper 40s."
   ],
   "qpf": [
-    1.22,
-    0.52,
+    1.41,
+    0.59,
     0,
     0
   ],
@@ -114,10 +114,10 @@
     63
   ],
   "temperatureMin": [
-    51,
+    50,
     44,
     45,
-    48
+    47
   ],
   "validTimeLocal": [
     "2022-05-06T07:00:00-0400",
@@ -136,12 +136,12 @@
       "cloudCover": [
         null,
         100,
+        100,
         99,
-        99,
-        94,
-        76,
-        54,
-        33
+        96,
+        81,
+        52,
+        27
       ],
       "dayOrNight": [
         null,
@@ -167,7 +167,7 @@
         null,
         12,
         12,
-        11,
+        12,
         26,
         26,
         30,
@@ -177,7 +177,7 @@
         null,
         1210,
         1210,
-        1110,
+        1210,
         2600,
         2600,
         3000,
@@ -185,19 +185,19 @@
       ],
       "narrative": [
         null,
-        "Periods of rain. Becoming windy late. Thunder possible. Low 51F. Winds ENE at 20 to 30 mph. Chance of rain 100%. 1 to 2 inches of rain expected.",
-        "Windy with periods of rain. High 53F. Winds NE at 20 to 30 mph. Chance of rain 80%. Rainfall near a quarter of an inch.  Higher wind gusts possible.",
-        "Windy with a steady light rain in the evening. Showers continuing late. Low 44F. Winds NE at 20 to 30 mph. Chance of rain 80%.  Higher wind gusts possible.",
-        "Cloudy. Slight chance of a rain shower. High around 50F. Winds NE at 15 to 25 mph.",
-        "Overcast. Low around 45F. Winds NE at 10 to 20 mph.",
+        "Rain likely. Becoming windy late. Low around 50F. Winds ENE at 20 to 30 mph. Chance of rain 100%. 1 to 2 inches of rain expected.",
+        "Windy with periods of rain. High 53F. Winds ENE at 20 to 30 mph. Chance of rain 80%. Rainfall near a quarter of an inch.  Higher wind gusts possible.",
+        "Cloudy and windy at times with periods of rain. Low 44F. Winds NE at 20 to 30 mph. Chance of rain 80%. Rainfall around a quarter of an inch.  Higher wind gusts possible.",
+        "Overcast. Slight chance of a rain shower. High around 50F. Winds NE at 15 to 25 mph.",
+        "Overcast. Low near 45F. Winds NE at 10 to 20 mph.",
         "Intervals of clouds and sunshine. High 63F. Winds NE at 10 to 20 mph.",
-        "A few clouds. Low 48F. Winds NE at 10 to 20 mph."
+        "A few clouds. Low 47F. Winds NE at 10 to 15 mph."
       ],
       "precipChance": [
         null,
         100,
-        83,
-        75,
+        84,
+        79,
         24,
         17,
         4,
@@ -215,9 +215,9 @@
       ],
       "qpf": [
         null,
-        1.22,
-        0.33,
-        0.18,
+        1.41,
+        0.37,
+        0.22,
         0,
         0,
         0,
@@ -235,7 +235,7 @@
       ],
       "qualifierCode": [
         null,
-        "Q8003",
+        null,
         "Q1016",
         "Q1016",
         "Q5015",
@@ -245,7 +245,7 @@
       ],
       "qualifierPhrase": [
         null,
-        "Thunder possible.",
+        null,
         "Higher wind gusts possible.",
         "Higher wind gusts possible.",
         "Slight chance of a rain shower.",
@@ -258,8 +258,8 @@
         83,
         82,
         75,
-        65,
-        52,
+        64,
+        50,
         42,
         37
       ],
@@ -275,37 +275,37 @@
       ],
       "temperature": [
         null,
-        51,
+        50,
         53,
         44,
         50,
         45,
         63,
-        48
+        47
       ],
       "temperatureHeatIndex": [
         null,
-        57,
+        56,
         52,
         49,
         50,
         50,
         61,
-        60
+        59
       ],
       "temperatureWindChill": [
         null,
         46,
         42,
-        38,
+        37,
         38,
         40,
         40,
-        44
+        43
       ],
       "thunderCategory": [
         null,
-        "Thunder possible",
+        "No thunder",
         "No thunder",
         "No thunder",
         "No thunder",
@@ -315,7 +315,7 @@
       ],
       "thunderIndex": [
         null,
-        1,
+        0,
         0,
         0,
         0,
@@ -346,17 +346,17 @@
       "windDirection": [
         null,
         66,
-        56,
+        57,
         40,
-        39,
-        35,
-        37,
+        38,
+        34,
+        38,
         41
       ],
       "windDirectionCardinal": [
         null,
         "ENE",
-        "NE",
+        "ENE",
         "NE",
         "NE",
         "NE",
@@ -366,19 +366,19 @@
       "windPhrase": [
         null,
         "Winds ENE at 20 to 30 mph.",
-        "Winds NE at 20 to 30 mph.",
+        "Winds ENE at 20 to 30 mph.",
         "Winds NE at 20 to 30 mph.",
         "Winds NE at 15 to 25 mph.",
         "Winds NE at 10 to 20 mph.",
         "Winds NE at 10 to 20 mph.",
-        "Winds NE at 10 to 20 mph."
+        "Winds NE at 10 to 15 mph."
       ],
       "windSpeed": [
         null,
         21,
         22,
         22,
-        18,
+        19,
         15,
         16,
         13
@@ -387,7 +387,7 @@
         null,
         "Rain/Wind",
         "Rain/Wind",
-        "Showers/Wind",
+        "Rain/Wind",
         "Cloudy",
         "Cloudy",
         "Partly Cloudy",
@@ -397,7 +397,7 @@
         null,
         "Rain/Wind",
         "Rain/Wind",
-        "Showers/Wind",
+        "Rain/Wind",
         "Cloudy",
         "Cloudy",
         "P Cloudy",
