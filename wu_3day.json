@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
     68,
-    71,
-    74,
+    70,
+    73,
     74
   ],
   "calendarDayTemperatureMin": [
     47,
     48,
-    48,
-    54
+    49,
+    53
   ],
   "dayOfWeek": [
     "Monday",
@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1652112616,
-    1652112616,
-    1652112616,
-    1652112616
+    1652116220,
+    1652116220,
+    1652116220,
+    1652116220
   ],
   "moonPhase": [
     "Waxing Gibbous",
@@ -67,9 +67,9 @@
   ],
   "narrative": [
     "Sunny. Highs in the upper 60s and lows in the upper 40s.",
-    "Sunny. Highs in the low 70s and lows in the upper 40s.",
-    "A few clouds. Highs in the mid 70s and lows in the mid 50s.",
-    "Partly cloudy. Highs in the mid 70s and lows in the upper 50s."
+    "A few clouds. Highs in the low 70s and lows in the upper 40s.",
+    "More sun than clouds. Highs in the low 70s and lows in the low 50s.",
+    "Times of sun and clouds. Highs in the mid 70s and lows in the upper 50s."
   ],
   "qpf": [
     0,
@@ -109,14 +109,14 @@
   ],
   "temperatureMax": [
     68,
-    71,
-    74,
+    70,
+    73,
     74
   ],
   "temperatureMin": [
     48,
-    48,
-    54,
+    49,
+    53,
     58
   ],
   "validTimeLocal": [
@@ -134,13 +134,13 @@
   "daypart": [
     {
       "cloudCover": [
-        13,
-        17,
-        10,
-        7,
-        18,
-        33,
-        47,
+        5,
+        16,
+        12,
+        8,
+        20,
+        32,
+        46,
         66
       ],
       "dayOrNight": [
@@ -166,7 +166,7 @@
       "iconCode": [
         32,
         33,
-        32,
+        34,
         31,
         34,
         29,
@@ -176,7 +176,7 @@
       "iconCodeExtend": [
         3200,
         3300,
-        3200,
+        3400,
         3100,
         3400,
         2900,
@@ -185,12 +185,12 @@
       ],
       "narrative": [
         "Sunny. High 68F. Winds NE at 15 to 25 mph.",
-        "Mostly clear. Low 48F. Winds NE at 10 to 20 mph.",
-        "Mainly sunny. High 71F. Winds NE at 10 to 20 mph.",
-        "Clear. Low 48F. Winds NE at 10 to 15 mph.",
-        "Except for a few afternoon clouds, mainly sunny. High 74F. Winds NE at 10 to 20 mph.",
-        "A few clouds from time to time. Low 54F. Winds NE at 10 to 15 mph.",
-        "Partly cloudy skies. High 74F. Winds NE at 10 to 15 mph.",
+        "Mainly clear skies. Low 48F. Winds NE at 10 to 20 mph.",
+        "Sunshine. High near 70F. Winds NE at 10 to 20 mph.",
+        "Clear skies. Low 49F. Winds NE at 10 to 15 mph.",
+        "Sunny, along with a few afternoon clouds. High 73F. Winds NE at 10 to 20 mph.",
+        "Partly cloudy. Low 53F. Winds NE at 10 to 15 mph.",
+        "Intervals of clouds and sunshine. High 74F. Winds NE at 10 to 15 mph.",
         "Partly cloudy skies early will become overcast later during the night. Low 58F. Winds ENE at 10 to 15 mph."
       ],
       "precipChance": [
@@ -254,12 +254,12 @@
         null
       ],
       "relativeHumidity": [
-        24,
+        23,
         33,
-        31,
+        32,
         40,
-        36,
-        62,
+        37,
+        63,
         55,
         77
       ],
@@ -276,30 +276,30 @@
       "temperature": [
         68,
         48,
-        71,
-        48,
-        74,
-        54,
+        70,
+        49,
+        73,
+        53,
         74,
         58
       ],
       "temperatureHeatIndex": [
-        67,
+        68,
         64,
-        69,
-        66,
-        72,
+        68,
+        65,
+        71,
         68,
         73,
         69
       ],
       "temperatureWindChill": [
-        60,
+        63,
         44,
         45,
-        45,
+        46,
         47,
-        53,
+        52,
         54,
         58
       ],
@@ -344,12 +344,12 @@
         0
       ],
       "windDirection": [
-        40,
+        41,
         38,
         44,
         43,
-        40,
-        52,
+        43,
+        54,
         55,
         62
       ],
@@ -374,7 +374,7 @@
         "Winds ENE at 10 to 15 mph."
       ],
       "windSpeed": [
-        18,
+        17,
         14,
         16,
         12,
@@ -386,7 +386,7 @@
       "wxPhraseLong": [
         "Sunny",
         "Mostly Clear",
-        "Sunny",
+        "Mostly Sunny",
         "Clear",
         "Mostly Sunny",
         "Partly Cloudy",
@@ -396,7 +396,7 @@
       "wxPhraseShort": [
         "Sunny",
         "M Clear",
-        "Sunny",
+        "M Sunny",
         "Clear",
         "M Sunny",
         "P Cloudy",
