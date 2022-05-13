@@ -9,7 +9,7 @@
     60,
     63,
     64,
-    62
+    63
   ],
   "dayOfWeek": [
     "Friday",
@@ -18,10 +18,10 @@
     "Monday"
   ],
   "expirationTimeUtc": [
-    1652451364,
-    1652451364,
-    1652451364,
-    1652451364
+    1652454966,
+    1652454966,
+    1652454966,
+    1652454966
   ],
   "moonPhase": [
     "Waxing Gibbous",
@@ -66,9 +66,9 @@
     1652695019
   ],
   "narrative": [
-    "Showers ending by midday. Highs in the mid 70s and lows in the low 60s.",
-    "Chance of afternoon showers. Highs in the upper 70s and lows in the mid 60s.",
-    "Clouds giving way to sun . Highs in the low 80s and lows in the mid 60s.",
+    "Mostly cloudy. Highs in the mid 70s and lows in the low 60s.",
+    "Afternoon showers. Highs in the upper 70s and lows in the mid 60s.",
+    "Morning clouds followed by afternoon sun. Highs in the low 80s and lows in the mid 60s.",
     "Thunderstorms developing in the afternoon. Highs in the mid 80s and lows in the upper 50s."
   ],
   "qpf": [
@@ -134,7 +134,7 @@
   "daypart": [
     {
       "cloudCover": [
-        94,
+        93,
         90,
         92,
         89,
@@ -164,7 +164,7 @@
         "Monday night"
       ],
       "iconCode": [
-        39,
+        26,
         20,
         39,
         26,
@@ -174,7 +174,7 @@
         29
       ],
       "iconCodeExtend": [
-        6103,
+        2600,
         9300,
         7103,
         2600,
@@ -184,17 +184,17 @@
         2900
       ],
       "narrative": [
-        "Areas of patchy fog early. A few showers this morning with overcast skies during the afternoon hours. High near 75F. Winds ENE at 5 to 10 mph. Chance of rain 30%.",
-        "Cloudy this evening. Fog developing late. Slight chance of a rain shower. Low 63F. Winds E at 5 to 10 mph.",
-        "Foggy during the morning hours followed by occasional showers in the afternoon. Thunder possible. High 77F. Winds ESE at 5 to 10 mph. Chance of rain 40%.",
+        "Generally cloudy. A stray shower or thunderstorm is possible. High around 75F. Winds E at 5 to 10 mph.",
+        "Cloudy this evening then becoming foggy and damp after midnight. Slight chance of a rain shower. Low 63F. Winds E at 5 to 10 mph.",
+        "Foggy early with showers developing later in the day. Thunder possible. High 77F. Winds ESE at 5 to 10 mph. Chance of rain 40%.",
         "Cloudy skies. Slight chance of a rain shower. Low 64F. Winds SSE at 5 to 10 mph.",
-        "Cloudy skies early, then partly cloudy in the afternoon. A stray shower or thunderstorm is possible. High 83F. Winds SSW at 10 to 15 mph.",
+        "Cloudy skies early will become partly cloudy later in the day. A stray shower or thunderstorm is possible. High 83F. Winds SSW at 10 to 15 mph.",
         "Scattered thunderstorms in the evening. Partly cloudy skies overnight. Low 66F. Winds SW at 5 to 10 mph. Chance of rain 40%.",
-        "Partly cloudy skies during the morning hours. Thunderstorms likely in the afternoon. High 84F. Winds WSW at 10 to 20 mph. Chance of rain 90%.",
-        "Partly cloudy skies. Low 59F. Winds WNW at 10 to 15 mph."
+        "Partly cloudy in the morning. Thunderstorms developing later in the day. High 84F. Winds WSW at 10 to 20 mph. Chance of rain 90%.",
+        "Some clouds early will give way to generally clear conditions overnight. Low 59F. Winds WNW at 10 to 15 mph."
       ],
       "precipChance": [
-        31,
+        15,
         24,
         43,
         24,
@@ -234,7 +234,7 @@
         0
       ],
       "qualifierCode": [
-        "Q904",
+        "Q8001",
         "Q5015",
         "Q8003",
         "Q5015",
@@ -244,7 +244,7 @@
         null
       ],
       "qualifierPhrase": [
-        "Areas of patchy fog early.",
+        "A stray shower or thunderstorm is possible.",
         "Slight chance of a rain shower.",
         "Thunder possible.",
         "Slight chance of a rain shower.",
@@ -254,11 +254,11 @@
         null
       ],
       "relativeHumidity": [
-        79,
+        77,
         83,
         77,
         83,
-        69,
+        68,
         76,
         60,
         70
@@ -294,7 +294,7 @@
         72
       ],
       "temperatureWindChill": [
-        61,
+        64,
         64,
         65,
         65,
@@ -304,7 +304,7 @@
         59
       ],
       "thunderCategory": [
-        "No thunder",
+        "Thunder possible",
         "No thunder",
         "Thunder possible",
         "No thunder",
@@ -314,7 +314,7 @@
         "No thunder"
       ],
       "thunderIndex": [
-        0,
+        1,
         0,
         1,
         0,
@@ -344,7 +344,7 @@
         0
       ],
       "windDirection": [
-        76,
+        79,
         93,
         108,
         162,
@@ -354,7 +354,7 @@
         284
       ],
       "windDirectionCardinal": [
-        "ENE",
+        "E",
         "E",
         "ESE",
         "SSE",
@@ -364,7 +364,7 @@
         "WNW"
       ],
       "windPhrase": [
-        "Winds ENE at 5 to 10 mph.",
+        "Winds E at 5 to 10 mph.",
         "Winds E at 5 to 10 mph.",
         "Winds ESE at 5 to 10 mph.",
         "Winds SSE at 5 to 10 mph.",
@@ -384,7 +384,7 @@
         11
       ],
       "wxPhraseLong": [
-        "AM Showers",
+        "Cloudy",
         "Fog Late",
         "PM Showers",
         "Cloudy",
@@ -394,7 +394,7 @@
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
-        "AM Showers",
+        "Cloudy",
         "Fog Late",
         "PM Showers",
         "Cloudy",
