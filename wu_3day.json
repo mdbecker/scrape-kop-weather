@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    79,
-    82,
-    76,
-    72
+    67,
+    78,
+    80,
+    77
   ],
   "calendarDayTemperatureMin": [
+    64,
     63,
-    60,
-    58,
-    54
+    61,
+    58
   ],
   "dayOfWeek": [
     "Sunday",
@@ -18,10 +18,10 @@
     "Wednesday"
   ],
   "expirationTimeUtc": [
-    1652675025,
-    1652675025,
-    1652675025,
-    1652675025
+    1652678398,
+    1652678398,
+    1652678398,
+    1652678398
   ],
   "moonPhase": [
     "Full Moon",
@@ -66,14 +66,14 @@
     1652873720
   ],
   "narrative": [
-    "Considerable cloudiness. Lows overnight in the mid 60s.",
+    "Mainly cloudy. Lows overnight in the mid 60s.",
     "Strong to severe thunderstorms likely. Highs in the low 80s and lows in the upper 50s.",
-    "Abundant sunshine. Highs in the mid 70s and lows in the mid 50s.",
+    "Mainly sunny. Highs in the upper 70s and lows in the low 50s.",
     "Partly cloudy. Highs in the low 70s and lows in the upper 50s."
   ],
   "qpf": [
     0,
-    0.58,
+    0.52,
     0,
     0.03
   ],
@@ -109,14 +109,14 @@
   ],
   "temperatureMax": [
     null,
-    82,
-    76,
+    80,
+    77,
     72
   ],
   "temperatureMin": [
     65,
     58,
-    54,
+    53,
     59
   ],
   "validTimeLocal": [
@@ -135,8 +135,8 @@
     {
       "cloudCover": [
         null,
-        72,
-        76,
+        71,
+        75,
         27,
         10,
         4,
@@ -185,22 +185,22 @@
       ],
       "narrative": [
         null,
-        "Mostly cloudy skies. A stray shower or thunderstorm is possible. Low near 65F. Winds light and variable.",
-        "Strong thunderstorms likely. Damaging winds, large hail and possibly a tornado with some storms. High 82F. Winds SSW at 10 to 20 mph. Chance of rain 80%.",
-        "Partly cloudy skies. A stray shower or thunderstorm is possible. Low 58F. Winds W at 10 to 20 mph.",
-        "A mainly sunny sky. High 76F. Winds WNW at 15 to 25 mph.",
-        "Clear skies. Low 54F. Winds NW at 10 to 15 mph.",
-        "Partly cloudy. High 72F. Winds NW at 10 to 15 mph.",
-        "Mostly cloudy skies with a few showers late. Low 59F. Winds SSE at 5 to 10 mph. Chance of rain 30%."
+        "Mostly cloudy skies. A stray shower or thunderstorm is possible. Low around 65F. Winds light and variable.",
+        "Variable clouds with strong thunderstorms. Damaging winds, large hail and possibly a tornado with some storms. High near 80F. Winds SSW at 10 to 20 mph. Chance of rain 80%.",
+        "Some clouds early will give way to generally clear conditions overnight. A stray shower or thunderstorm is possible. Low 58F. Winds W at 10 to 20 mph.",
+        "Sunny. High 77F. Winds W at 15 to 25 mph.",
+        "A mostly clear sky. Low 53F. Winds NW at 10 to 15 mph.",
+        "Partly cloudy skies. High 72F. Winds NW at 10 to 15 mph.",
+        "Mostly cloudy during the evening. A few showers developing late. Low 59F. Winds SSE at 5 to 10 mph. Chance of rain 30%."
       ],
       "precipChance": [
         null,
         15,
-        83,
+        81,
         24,
         5,
         2,
-        9,
+        8,
         34
       ],
       "precipType": [
@@ -216,7 +216,7 @@
       "qpf": [
         null,
         0,
-        0.52,
+        0.45,
         0,
         0,
         0,
@@ -256,11 +256,11 @@
       "relativeHumidity": [
         null,
         85,
-        72,
-        69,
-        44,
+        70,
+        67,
+        43,
         49,
-        39,
+        38,
         53
       ],
       "snowRange": [
@@ -276,30 +276,30 @@
       "temperature": [
         null,
         65,
-        82,
+        80,
         58,
-        76,
-        54,
+        77,
+        53,
         72,
         59
       ],
       "temperatureHeatIndex": [
         null,
         68,
-        83,
-        70,
-        74,
+        82,
         72,
+        75,
+        73,
         71,
         68
       ],
       "temperatureWindChill": [
         null,
+        65,
         66,
-        67,
         57,
         59,
-        53,
+        52,
         54,
         59
       ],
@@ -345,20 +345,20 @@
       ],
       "windDirection": [
         null,
-        200,
-        203,
-        267,
-        282,
+        197,
+        204,
+        268,
+        281,
         305,
         311,
-        150
+        152
       ],
       "windDirectionCardinal": [
         null,
         "SSW",
         "SSW",
         "W",
-        "WNW",
+        "W",
         "NW",
         "NW",
         "SSE"
@@ -368,15 +368,15 @@
         "Winds light and variable.",
         "Winds SSW at 10 to 20 mph.",
         "Winds W at 10 to 20 mph.",
-        "Winds WNW at 15 to 25 mph.",
+        "Winds W at 15 to 25 mph.",
         "Winds NW at 10 to 15 mph.",
         "Winds NW at 10 to 15 mph.",
         "Winds SSE at 5 to 10 mph."
       ],
       "windSpeed": [
         null,
-        5,
-        14,
+        4,
+        13,
         13,
         19,
         13,
