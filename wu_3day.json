@@ -1,6 +1,6 @@
 {
   "calendarDayTemperatureMax": [
-    80,
+    79,
     75,
     84,
     89
@@ -18,10 +18,10 @@
     "Friday"
   ],
   "expirationTimeUtc": [
-    1652814227,
-    1652814227,
-    1652814227,
-    1652814227
+    1652817845,
+    1652817845,
+    1652817845,
+    1652817845
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -66,14 +66,14 @@
     1653054740
   ],
   "narrative": [
-    "Windy with times of sun and clouds. Highs in the low 80s and lows in the mid 50s.",
+    "Mainly clear and windy. Lows overnight in the mid 50s.",
     "More sun than clouds. Highs in the mid 70s and lows in the upper 50s.",
-    "Clouds giving way to sun . Highs in the mid 80s and lows in the low 60s.",
+    "Morning clouds followed by afternoon sun. Highs in the mid 80s and lows in the low 60s.",
     "Plenty of sun. Highs in the upper 80s and lows in the low 70s."
   ],
   "qpf": [
     0,
-    0.3,
+    0.29,
     0,
     0
   ],
@@ -108,7 +108,7 @@
     1653092016
   ],
   "temperatureMax": [
-    80,
+    null,
     75,
     84,
     89
@@ -134,17 +134,17 @@
   "daypart": [
     {
       "cloudCover": [
-        46,
-        1,
+        null,
+        13,
         34,
         92,
-        59,
-        16,
-        25,
+        66,
+        17,
+        26,
         38
       ],
       "dayOrNight": [
-        "D",
+        null,
         "N",
         "D",
         "N",
@@ -154,7 +154,7 @@
         "N"
       ],
       "daypartName": [
-        "Today",
+        null,
         "Tonight",
         "Tomorrow",
         "Tomorrow night",
@@ -164,8 +164,8 @@
         "Friday night"
       ],
       "iconCode": [
+        null,
         24,
-        31,
         34,
         12,
         30,
@@ -174,8 +174,8 @@
         29
       ],
       "iconCodeExtend": [
-        3010,
-        3100,
+        null,
+        3310,
         3400,
         1200,
         9003,
@@ -184,27 +184,27 @@
         2900
       ],
       "narrative": [
-        "A mix of clouds and sun with gusty winds. High around 80F. Winds WNW at 20 to 30 mph.",
-        "Clear skies. Low around 55F. Winds NW at 10 to 20 mph.",
-        "Except for a few afternoon clouds, mainly sunny. High around 75F. Winds NW at 5 to 10 mph.",
-        "Rain likely. Low 58F. Winds S at 10 to 15 mph. Chance of rain 90%. Rainfall around a quarter of an inch.",
-        "Cloudy skies early, followed by partial clearing. High 84F. Winds WSW at 10 to 15 mph.",
-        "A mostly clear sky. Low 63F. Winds WNW at 5 to 10 mph.",
-        "Mostly sunny skies. High 89F. Winds SSE at 10 to 15 mph.",
-        "Partly cloudy skies. Low 71F. Winds S at 10 to 15 mph."
+        null,
+        "Partly cloudy skies. Gusty winds during the evening. Low near 55F. NW winds at 20 to 30 mph, decreasing to 5 to 10 mph.",
+        "Sunny along with a few clouds. High near 75F. Winds NW at 5 to 10 mph.",
+        "Rain likely. Low 58F. Winds S at 10 to 15 mph. Chance of rain 90%. Rainfall near a quarter of an inch.",
+        "Cloudy skies early, followed by partial clearing. Slight chance of a rain shower. High 84F. Winds WSW at 10 to 15 mph.",
+        "A mostly clear sky. Low 63F. Winds NW at 5 to 10 mph.",
+        "Sunshine along with some cloudy intervals. High 89F. Winds SSE at 10 to 20 mph.",
+        "Partly cloudy. Low 71F. Winds S at 10 to 15 mph."
       ],
       "precipChance": [
-        1,
+        null,
         2,
         1,
-        89,
+        90,
         24,
         7,
         6,
-        10
+        12
       ],
       "precipType": [
-        "rain",
+        null,
         "rain",
         "rain",
         "rain",
@@ -214,17 +214,17 @@
         "rain"
       ],
       "qpf": [
+        null,
         0,
         0,
-        0,
-        0.3,
+        0.29,
         0,
         0,
         0,
         0
       ],
       "qpfSnow": [
-        0,
+        null,
         0,
         0,
         0,
@@ -238,7 +238,7 @@
         null,
         null,
         null,
-        null,
+        "Q5015",
         null,
         null,
         null
@@ -248,23 +248,23 @@
         null,
         null,
         null,
-        null,
+        "Slight chance of a rain shower.",
         null,
         null,
         null
       ],
       "relativeHumidity": [
-        29,
-        45,
+        null,
+        41,
         38,
-        61,
-        58,
+        60,
+        59,
         66,
         51,
-        67
+        66
       ],
       "snowRange": [
-        "",
+        null,
         "",
         "",
         "",
@@ -274,7 +274,7 @@
         ""
       ],
       "temperature": [
-        80,
+        null,
         55,
         75,
         58,
@@ -284,17 +284,17 @@
         71
       ],
       "temperatureHeatIndex": [
-        80,
-        76,
+        null,
+        79,
         74,
         72,
+        84,
         83,
-        82,
         88,
         85
       ],
       "temperatureWindChill": [
-        78,
+        null,
         54,
         56,
         57,
@@ -304,7 +304,7 @@
         72
       ],
       "thunderCategory": [
-        "No thunder",
+        null,
         "No thunder",
         "No thunder",
         "No thunder",
@@ -314,7 +314,7 @@
         "No thunder"
       ],
       "thunderIndex": [
-        0,
+        null,
         0,
         0,
         0,
@@ -324,68 +324,68 @@
         0
       ],
       "uvDescription": [
+        null,
+        "Low",
+        "Very High",
+        "Low",
         "High",
-        "Low",
-        "Very High",
-        "Low",
-        "Very High",
         "Low",
         "Very High",
         "Low"
       ],
       "uvIndex": [
-        6,
+        null,
         0,
         8,
         0,
-        8,
+        7,
         0,
         8,
         0
       ],
       "windDirection": [
-        286,
-        316,
+        null,
+        310,
         306,
-        179,
-        250,
-        302,
-        154,
-        186
+        178,
+        248,
+        306,
+        157,
+        189
       ],
       "windDirectionCardinal": [
-        "WNW",
+        null,
         "NW",
         "NW",
         "S",
         "WSW",
-        "WNW",
+        "NW",
         "SSE",
         "S"
       ],
       "windPhrase": [
-        "Winds WNW at 20 to 30 mph.",
-        "Winds NW at 10 to 20 mph.",
+        null,
+        "NW winds at 20 to 30 mph, decreasing to 5 to 10 mph.",
         "Winds NW at 5 to 10 mph.",
         "Winds S at 10 to 15 mph.",
         "Winds WSW at 10 to 15 mph.",
-        "Winds WNW at 5 to 10 mph.",
-        "Winds SSE at 10 to 15 mph.",
+        "Winds NW at 5 to 10 mph.",
+        "Winds SSE at 10 to 20 mph.",
         "Winds S at 10 to 15 mph."
       ],
       "windSpeed": [
+        null,
         20,
-        14,
         10,
         10,
-        12,
+        13,
         9,
         13,
         12
       ],
       "wxPhraseLong": [
-        "Partly Cloudy/Wind",
-        "Clear",
+        null,
+        "Mostly Clear/Wind",
         "Mostly Sunny",
         "Rain",
         "AM Clouds/PM Sun",
@@ -394,8 +394,8 @@
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
-        "P Cldy/Wind",
-        "Clear",
+        null,
+        "M Clr/Wind",
         "M Sunny",
         "Rain",
         "AM Clouds",
