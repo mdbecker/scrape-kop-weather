@@ -1,7 +1,7 @@
 {
   "calendarDayTemperatureMax": [
     76,
-    74,
+    72,
     85,
     80
   ],
@@ -18,10 +18,10 @@
     "Saturday"
   ],
   "expirationTimeUtc": [
-    1653473802,
-    1653473802,
-    1653473802,
-    1653473802
+    1653476559,
+    1653476559,
+    1653476559,
+    1653476559
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -67,14 +67,14 @@
   ],
   "narrative": [
     "Times of sun and clouds. Highs in the mid 70s and lows in the mid 50s.",
-    "Mostly cloudy. Highs in the mid 70s and lows in the upper 60s.",
-    "Showers and thunderstorms late. Potential for severe thunderstorms. Highs in the mid 80s and lows in the upper 60s.",
-    "A few thunderstorms possible. Highs in the low 80s and lows in the low 60s."
+    "Cloudy. Highs in the low 70s and lows in the upper 60s.",
+    "Afternoon thunderstorms. Potential for severe thunderstorms. Highs in the mid 80s and lows in the upper 60s.",
+    "Scattered thunderstorms possible. Highs in the low 80s and lows in the low 60s."
   ],
   "qpf": [
     0,
     0,
-    0.44,
+    0.42,
     0.21
   ],
   "qpfSnow": [
@@ -109,7 +109,7 @@
   ],
   "temperatureMax": [
     76,
-    74,
+    72,
     85,
     80
   ],
@@ -134,12 +134,12 @@
   "daypart": [
     {
       "cloudCover": [
-        54,
+        56,
         71,
-        92,
         91,
-        86,
-        92,
+        91,
+        82,
+        93,
         65,
         46
       ],
@@ -169,7 +169,7 @@
         26,
         26,
         38,
-        4,
+        11,
         38,
         47
       ],
@@ -179,27 +179,27 @@
         2600,
         2600,
         7203,
-        400,
+        1140,
         3800,
         3809
       ],
       "narrative": [
-        "Mostly cloudy skies this morning will become partly cloudy this afternoon. High 76F. Winds E at 10 to 15 mph.",
-        "Partly cloudy skies early will give way to cloudy skies late. Low 56F. Winds E at 10 to 15 mph.",
-        "Overcast. Slight chance of a rain shower. High 74F. Winds SE at 10 to 15 mph.",
-        "Overcast. Low 67F. Winds SSE at 5 to 10 mph.",
-        "Cloudy in the morning, then thunderstorms developing later in the day. Potential for severe thunderstorms. High near 85F. Winds S at 10 to 20 mph. Chance of rain 70%.",
-        "Thunderstorms. Low 68F. Winds S at 10 to 15 mph. Chance of rain 80%.",
+        "Sun and clouds mixed. High 76F. Winds E at 10 to 15 mph.",
+        "Partly cloudy early followed by cloudy skies overnight. Low 56F. Winds E at 10 to 15 mph.",
+        "Cloudy skies. Slight chance of a rain shower. High 72F. Winds SE at 10 to 15 mph.",
+        "Cloudy. Low 67F. Winds SSE at 5 to 10 mph.",
+        "Cloudy early. Scattered thunderstorms developing later in the day. Potential for severe thunderstorms. High near 85F. Winds SSW at 10 to 20 mph. Chance of rain 60%.",
+        "Showers and thundershowers likely. Low 68F. Winds S at 10 to 20 mph. Chance of rain 70%.",
         "Mixed clouds and sun with scattered thunderstorms. High around 80F. Winds WSW at 10 to 15 mph. Chance of rain 60%.",
-        "Variable clouds with showers and scattered thunderstorms. Storms more numerous during the evening. Low 62F. Winds NW at 5 to 10 mph. Chance of rain 60%."
+        "Scattered thunderstorms during the evening followed by occasional showers overnight. Low 62F. Winds NW at 5 to 10 mph. Chance of rain 60%."
       ],
       "precipChance": [
         2,
         11,
+        22,
         20,
-        17,
-        66,
-        83,
+        57,
+        74,
         58,
         58
       ],
@@ -218,8 +218,8 @@
         0,
         0,
         0,
-        0.14,
-        0.3,
+        0.1,
+        0.32,
         0.13,
         0.08
       ],
@@ -256,9 +256,9 @@
       "relativeHumidity": [
         48,
         59,
-        70,
+        69,
         85,
-        70,
+        69,
         81,
         65,
         76
@@ -276,7 +276,7 @@
       "temperature": [
         76,
         56,
-        74,
+        72,
         67,
         85,
         68,
@@ -286,18 +286,18 @@
       "temperatureHeatIndex": [
         74,
         69,
-        72,
         71,
+        70,
         86,
         76,
         81,
         75
       ],
       "temperatureWindChill": [
-        53,
+        54,
         56,
-        58,
-        67,
+        57,
+        68,
         69,
         69,
         69,
@@ -344,12 +344,12 @@
         0
       ],
       "windDirection": [
-        89,
+        92,
         94,
-        129,
+        130,
         161,
-        191,
-        189,
+        192,
+        190,
         241,
         317
       ],
@@ -358,7 +358,7 @@
         "E",
         "SE",
         "SSE",
-        "S",
+        "SSW",
         "S",
         "WSW",
         "NW"
@@ -368,18 +368,18 @@
         "Winds E at 10 to 15 mph.",
         "Winds SE at 10 to 15 mph.",
         "Winds SSE at 5 to 10 mph.",
+        "Winds SSW at 10 to 20 mph.",
         "Winds S at 10 to 20 mph.",
-        "Winds S at 10 to 15 mph.",
         "Winds WSW at 10 to 15 mph.",
         "Winds NW at 5 to 10 mph."
       ],
       "windSpeed": [
         12,
         11,
-        11,
         10,
+        9,
         16,
-        12,
+        14,
         11,
         8
       ],
@@ -389,7 +389,7 @@
         "Cloudy",
         "Cloudy",
         "PM Thunderstorms",
-        "Thunderstorms",
+        "Thundershowers",
         "Scattered Thunderstorms",
         "Scattered Thunderstorms"
       ],
@@ -399,7 +399,7 @@
         "Cloudy",
         "Cloudy",
         "PM T-Storms",
-        "T-Storms",
+        "T-Showers",
         "Sct T-Storms",
         "Sct T-Storms"
       ]
