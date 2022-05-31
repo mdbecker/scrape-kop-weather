@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    91,
-    97,
+    74,
     89,
-    84
+    97,
+    89
   ],
   "calendarDayTemperatureMin": [
-    61,
+    65,
+    62,
     70,
-    72,
-    67
+    72
   ],
   "dayOfWeek": [
     "Monday",
@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1653968486,
-    1653968486,
-    1653968486,
-    1653968486
+    1653972091,
+    1653972091,
+    1653972091,
+    1653972091
   ],
   "moonPhase": [
     "New Moon",
@@ -42,34 +42,34 @@
     3
   ],
   "moonriseTimeLocal": [
-    "2022-05-30T05:31:28-0400",
-    "2022-05-31T06:08:57-0400",
-    "2022-06-01T06:53:28-0400",
-    "2022-06-02T07:44:44-0400"
+    "2022-05-30T05:31:24-0400",
+    "2022-05-31T06:08:53-0400",
+    "2022-06-01T06:53:23-0400",
+    "2022-06-02T07:44:40-0400"
   ],
   "moonriseTimeUtc": [
-    1653903088,
-    1653991737,
-    1654080808,
-    1654170284
+    1653903084,
+    1653991733,
+    1654080803,
+    1654170280
   ],
   "moonsetTimeLocal": [
-    "2022-05-30T20:53:10-0400",
-    "2022-05-31T21:51:26-0400",
-    "2022-06-01T22:44:00-0400",
-    "2022-06-02T23:30:46-0400"
+    "2022-05-30T20:53:14-0400",
+    "2022-05-31T21:51:31-0400",
+    "2022-06-01T22:44:05-0400",
+    "2022-06-02T23:30:51-0400"
   ],
   "moonsetTimeUtc": [
-    1653958390,
-    1654048286,
-    1654137840,
-    1654227046
+    1653958394,
+    1654048291,
+    1654137845,
+    1654227051
   ],
   "narrative": [
     "Partly cloudy. Lows overnight in the low 70s.",
-    "A few clouds. Highs in the upper 90s and lows in the low 70s.",
-    "Partly cloudy. Highs in the upper 80s and lows in the upper 60s.",
-    "Thunderstorms developing in the afternoon. Highs in the mid 80s and lows in the mid 60s."
+    "More sun than clouds. Highs in the upper 90s and lows in the low 70s.",
+    "Times of sun and clouds. Highs in the upper 80s and lows in the upper 60s.",
+    "Afternoon showers and thunderstorms. Highs in the mid 80s and lows in the mid 60s."
   ],
   "qpf": [
     0,
@@ -84,28 +84,28 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2022-05-30T05:35:52-0400",
-    "2022-05-31T05:35:24-0400",
-    "2022-06-01T05:34:59-0400",
-    "2022-06-02T05:34:35-0400"
+    "2022-05-30T05:35:48-0400",
+    "2022-05-31T05:35:21-0400",
+    "2022-06-01T05:34:55-0400",
+    "2022-06-02T05:34:31-0400"
   ],
   "sunriseTimeUtc": [
-    1653903352,
-    1653989724,
-    1654076099,
-    1654162475
+    1653903348,
+    1653989721,
+    1654076095,
+    1654162471
   ],
   "sunsetTimeLocal": [
-    "2022-05-30T20:21:40-0400",
-    "2022-05-31T20:22:24-0400",
-    "2022-06-01T20:23:06-0400",
-    "2022-06-02T20:23:48-0400"
+    "2022-05-30T20:21:43-0400",
+    "2022-05-31T20:22:27-0400",
+    "2022-06-01T20:23:10-0400",
+    "2022-06-02T20:23:52-0400"
   ],
   "sunsetTimeUtc": [
-    1653956500,
-    1654042944,
-    1654129386,
-    1654215828
+    1653956503,
+    1654042947,
+    1654129390,
+    1654215832
   ],
   "temperatureMax": [
     null,
@@ -135,7 +135,7 @@
     {
       "cloudCover": [
         null,
-        45,
+        42,
         25,
         47,
         53,
@@ -185,18 +185,18 @@
       ],
       "narrative": [
         null,
-        "Partly cloudy. Low near 70F. Winds SW at 5 to 10 mph.",
-        "Except for a few afternoon clouds, mainly sunny. Near record high temperatures. High 97F. Winds WNW at 5 to 10 mph.",
+        "Some clouds. Low around 70F. Winds WSW at 5 to 10 mph.",
+        "Sunny along with a few clouds. Near record high temperatures. High 97F. Winds WNW at 5 to 10 mph.",
         "Partly cloudy skies. A stray shower or thunderstorm is possible. Low 72F. Winds NW at 5 to 10 mph.",
-        "Partly cloudy skies. A stray shower or thunderstorm is possible. High 89F. Winds SE at 5 to 10 mph.",
-        "Scattered thunderstorms during the evening, then mainly cloudy overnight. Low 69F. Winds W at 5 to 10 mph. Chance of rain 40%.",
-        "Mostly cloudy in the morning with scattered thunderstorms developing later in the day. High 84F. Winds NNW at 5 to 10 mph. Chance of rain 60%.",
-        "Scattered thunderstorms in the evening, then variable clouds overnight with more showers at times. Low around 65F. Winds ENE at 5 to 10 mph. Chance of rain 60%."
+        "Intervals of clouds and sunshine. A stray shower or thunderstorm is possible. High 89F. Winds SE at 5 to 10 mph.",
+        "Mostly cloudy with scattered thunderstorms mainly before midnight. Low 69F. Winds W at 5 to 10 mph. Chance of rain 40%.",
+        "Partly to mostly cloudy with scattered showers and thunderstorms developing in the afternoon. High 84F. Winds NNW at 5 to 10 mph. Chance of rain 60%.",
+        "Variable clouds with showers and scattered thunderstorms. Storms more numerous during the evening. Low near 65F. Winds ENE at 5 to 10 mph. Chance of rain 60%."
       ],
       "precipChance": [
         null,
-        4,
-        6,
+        2,
+        3,
         21,
         24,
         41,
@@ -255,13 +255,13 @@
       ],
       "relativeHumidity": [
         null,
-        74,
+        76,
         45,
         59,
-        56,
-        73,
-        60,
-        78
+        57,
+        72,
+        61,
+        79
       ],
       "snowRange": [
         null,
@@ -285,10 +285,10 @@
       ],
       "temperatureHeatIndex": [
         null,
-        76,
+        75,
         98,
-        96,
-        90,
+        95,
+        91,
         87,
         85,
         81
@@ -298,7 +298,7 @@
         71,
         73,
         73,
-        74,
+        73,
         70,
         72,
         66
@@ -345,7 +345,7 @@
       ],
       "windDirection": [
         null,
-        234,
+        237,
         297,
         306,
         135,
@@ -355,7 +355,7 @@
       ],
       "windDirectionCardinal": [
         null,
-        "SW",
+        "WSW",
         "WNW",
         "NW",
         "SE",
@@ -365,7 +365,7 @@
       ],
       "windPhrase": [
         null,
-        "Winds SW at 5 to 10 mph.",
+        "Winds WSW at 5 to 10 mph.",
         "Winds WNW at 5 to 10 mph.",
         "Winds NW at 5 to 10 mph.",
         "Winds SE at 5 to 10 mph.",
@@ -376,10 +376,10 @@
       "windSpeed": [
         null,
         7,
-        9,
-        9,
-        9,
         10,
+        9,
+        9,
+        9,
         8,
         7
       ],
