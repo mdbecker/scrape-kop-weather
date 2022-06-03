@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    70,
+    87,
+    82,
     85,
-    84,
-    85
+    81
   ],
   "calendarDayTemperatureMin": [
     62,
-    62,
     67,
-    62
+    62,
+    58
   ],
   "dayOfWeek": [
     "Thursday",
@@ -18,10 +18,10 @@
     "Sunday"
   ],
   "expirationTimeUtc": [
-    1654232885,
-    1654232885,
-    1654232885,
-    1654232885
+    1654236933,
+    1654236933,
+    1654236933,
+    1654236933
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -42,34 +42,34 @@
     5
   ],
   "moonriseTimeLocal": [
-    "2022-06-02T07:44:37-0400",
-    "2022-06-03T08:40:45-0400",
-    "2022-06-04T09:41:21-0400",
-    "2022-06-05T10:43:05-0400"
+    "2022-06-02T07:44:35-0400",
+    "2022-06-03T08:40:42-0400",
+    "2022-06-04T09:41:19-0400",
+    "2022-06-05T10:43:02-0400"
   ],
   "moonriseTimeUtc": [
-    1654170277,
-    1654260045,
-    1654350081,
-    1654440185
+    1654170275,
+    1654260042,
+    1654350079,
+    1654440182
   ],
   "moonsetTimeLocal": [
-    "2022-06-02T23:30:58-0400",
+    "2022-06-02T23:30:55-0400",
     "",
-    "2022-06-04T00:10:11-0400",
-    "2022-06-05T00:43:50-0400"
+    "2022-06-04T00:10:09-0400",
+    "2022-06-05T00:43:48-0400"
   ],
   "moonsetTimeUtc": [
-    1654227058,
+    1654227055,
     null,
-    1654315811,
-    1654404230
+    1654315809,
+    1654404228
   ],
   "narrative": [
     "Mostly cloudy. Lows overnight in the upper 60s.",
-    "Clouds giving way to sun . Highs in the mid 80s and lows in the low 60s.",
+    "Clouds giving way to sun . Highs in the low 80s and lows in the low 60s.",
     "Partly cloudy. Highs in the mid 80s and lows in the upper 50s.",
-    "More sun than clouds. Highs in the low 80s and lows in the upper 50s."
+    "Mostly sunny. Highs in the low 80s and lows in the upper 50s."
   ],
   "qpf": [
     0,
@@ -84,39 +84,39 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2022-06-02T05:34:30-0400",
-    "2022-06-03T05:34:08-0400",
-    "2022-06-04T05:33:48-0400",
-    "2022-06-05T05:33:30-0400"
+    "2022-06-02T05:34:27-0400",
+    "2022-06-03T05:34:06-0400",
+    "2022-06-04T05:33:46-0400",
+    "2022-06-05T05:33:28-0400"
   ],
   "sunriseTimeUtc": [
-    1654162470,
-    1654248848,
-    1654335228,
-    1654421610
+    1654162467,
+    1654248846,
+    1654335226,
+    1654421608
   ],
   "sunsetTimeLocal": [
-    "2022-06-02T20:23:58-0400",
-    "2022-06-03T20:24:39-0400",
-    "2022-06-04T20:25:18-0400",
-    "2022-06-05T20:25:56-0400"
+    "2022-06-02T20:23:56-0400",
+    "2022-06-03T20:24:36-0400",
+    "2022-06-04T20:25:16-0400",
+    "2022-06-05T20:25:54-0400"
   ],
   "sunsetTimeUtc": [
-    1654215838,
-    1654302279,
-    1654388718,
-    1654475156
+    1654215836,
+    1654302276,
+    1654388716,
+    1654475154
   ],
   "temperatureMax": [
     null,
-    84,
+    83,
     85,
     81
   ],
   "temperatureMin": [
     69,
     62,
-    59,
+    58,
     59
   ],
   "validTimeLocal": [
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        98,
-        55,
-        37,
-        18,
+        99,
+        64,
+        36,
+        14,
         2,
-        18,
-        26
+        16,
+        23
       ],
       "dayOrNight": [
         null,
@@ -186,12 +186,12 @@
       "narrative": [
         null,
         "Cloudy. Slight chance of a rain shower. Low 69F. Winds light and variable.",
-        "Cloudy early with partial sunshine expected late. High 84F. Winds NNW at 10 to 15 mph.",
-        "Partly cloudy. Low 62F. Winds NW at 10 to 15 mph.",
+        "Cloudy early with partial sunshine expected late. High 83F. Winds NNW at 10 to 15 mph.",
+        "A few clouds from time to time. Low 62F. Winds NNW at 10 to 15 mph.",
         "Partly cloudy skies. High near 85F. Winds WNW at 10 to 15 mph.",
-        "Clear skies. Low 59F. Winds N at 10 to 15 mph.",
+        "Clear. Low 58F. Winds N at 10 to 15 mph.",
         "Generally sunny despite a few afternoon clouds. High 81F. Winds E at 5 to 10 mph.",
-        "A few clouds. Low 59F. Winds ESE at 5 to 10 mph."
+        "Clear to partly cloudy. Low 59F. Winds ESE at 5 to 10 mph."
       ],
       "precipChance": [
         null,
@@ -255,13 +255,13 @@
       ],
       "relativeHumidity": [
         null,
-        87,
-        52,
+        88,
+        53,
         53,
         36,
         43,
         33,
-        59
+        56
       ],
       "snowRange": [
         null,
@@ -276,21 +276,21 @@
       "temperature": [
         null,
         69,
-        84,
+        83,
         62,
         85,
-        59,
+        58,
         81,
         59
       ],
       "temperatureHeatIndex": [
         null,
-        75,
+        74,
         82,
         80,
         83,
         80,
-        80,
+        79,
         76
       ],
       "temperatureWindChill": [
@@ -300,7 +300,7 @@
         63,
         65,
         59,
-        62,
+        61,
         60
       ],
       "thunderCategory": [
@@ -345,19 +345,19 @@
       ],
       "windDirection": [
         null,
-        312,
-        328,
-        325,
-        298,
-        353,
-        87,
-        111
+        323,
+        330,
+        327,
+        297,
+        351,
+        81,
+        114
       ],
       "windDirectionCardinal": [
         null,
         "NW",
         "NNW",
-        "NW",
+        "NNW",
         "WNW",
         "N",
         "E",
@@ -367,7 +367,7 @@
         null,
         "Winds light and variable.",
         "Winds NNW at 10 to 15 mph.",
-        "Winds NW at 10 to 15 mph.",
+        "Winds NNW at 10 to 15 mph.",
         "Winds WNW at 10 to 15 mph.",
         "Winds N at 10 to 15 mph.",
         "Winds E at 5 to 10 mph.",
@@ -375,13 +375,13 @@
       ],
       "windSpeed": [
         null,
-        6,
+        5,
         11,
         10,
         12,
         10,
         8,
-        10
+        9
       ],
       "wxPhraseLong": [
         null,
