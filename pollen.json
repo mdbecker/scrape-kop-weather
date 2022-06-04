@@ -1,6 +1,6 @@
 {
   "Type": "pollen",
-  "ForecastDate": "2022-06-03T00:00:00-04:00",
+  "ForecastDate": "2022-06-04T00:00:00-04:00",
   "Location": {
     "ZIP": "19406",
     "City": "KING OF PRUSSIA",
@@ -9,45 +9,20 @@
       {
         "Triggers": [
           {
-            "LGID": 186,
-            "Name": "Oak",
-            "Genus": "Quercus",
-            "PlantType": "Tree"
-          },
-          {
             "LGID": 346,
             "Name": "Grasses",
             "Genus": "Grasses",
             "PlantType": "Grass"
           },
           {
-            "LGID": 236,
-            "Name": "Mulberry",
-            "Genus": "Morus",
+            "LGID": 186,
+            "Name": "Oak",
+            "Genus": "Quercus",
             "PlantType": "Tree"
           }
         ],
         "Period": "0001-01-01T00:00:00",
         "Type": "Yesterday",
-        "Index": 8.2
-      },
-      {
-        "Triggers": [
-          {
-            "LGID": 346,
-            "Name": "Grasses",
-            "Genus": "Grasses",
-            "PlantType": "Grass"
-          },
-          {
-            "LGID": 186,
-            "Name": "Oak",
-            "Genus": "Quercus",
-            "PlantType": "Tree"
-          }
-        ],
-        "Period": "0001-01-01T00:00:00",
-        "Type": "Today",
         "Index": 8.7
       },
       {
@@ -66,8 +41,27 @@
           }
         ],
         "Period": "0001-01-01T00:00:00",
-        "Type": "Tomorrow",
+        "Type": "Today",
         "Index": 8.2
+      },
+      {
+        "Triggers": [
+          {
+            "LGID": 346,
+            "Name": "Grasses",
+            "Genus": "Grasses",
+            "PlantType": "Grass"
+          },
+          {
+            "LGID": 186,
+            "Name": "Oak",
+            "Genus": "Quercus",
+            "PlantType": "Tree"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Tomorrow",
+        "Index": 8
       }
     ],
     "DisplayLocation": "King Of Prussia, PA"
