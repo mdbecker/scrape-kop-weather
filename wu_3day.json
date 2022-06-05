@@ -18,10 +18,10 @@
     "Wednesday"
   ],
   "expirationTimeUtc": [
-    1654422515,
-    1654422515,
-    1654422515,
-    1654422515
+    1654426117,
+    1654426117,
+    1654426117,
+    1654426117
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -66,10 +66,10 @@
     1654668156
   ],
   "narrative": [
-    "Sunny. Highs in the low 80s and lows in the upper 50s.",
-    "Abundant sunshine. Highs in the mid 80s and lows in the low 60s.",
-    "More clouds than sun. Highs in the low 80s and lows in the upper 60s.",
-    "Scattered thunderstorms possible. Highs in the low 80s and lows in the upper 60s."
+    "Mainly sunny. Highs in the low 80s and lows in the upper 50s.",
+    "Sunny. Highs in the mid 80s and lows in the low 60s.",
+    "Times of sun and clouds. Highs in the low 80s and lows in the upper 60s.",
+    "A few thunderstorms possible. Highs in the low 80s and lows in the upper 60s."
   ],
   "qpf": [
     0,
@@ -134,12 +134,12 @@
   "daypart": [
     {
       "cloudCover": [
-        14,
+        12,
         4,
         3,
-        26,
-        63,
-        78,
+        24,
+        62,
+        80,
         82,
         77
       ],
@@ -168,7 +168,7 @@
         31,
         32,
         33,
-        28,
+        30,
         4,
         38,
         47
@@ -178,18 +178,18 @@
         3100,
         3200,
         3300,
-        2800,
+        3000,
         7200,
         3800,
         3809
       ],
       "narrative": [
         "Sunny. High 82F. Winds E at 10 to 15 mph.",
-        "Clear skies. Low 58F. Winds SE at 5 to 10 mph.",
-        "Mainly sunny. High 84F. Winds SSE at 10 to 15 mph.",
-        "Generally fair. Low around 60F. Winds SSE at 10 to 15 mph.",
-        "A mix of clouds and sun early, then becoming cloudy later in the day. High 82F. Winds S at 10 to 20 mph.",
-        "Partly cloudy in the evening followed by scattered thunderstorms after midnight. Low 69F. Winds S at 10 to 20 mph. Chance of rain 50%.",
+        "Clear skies. Low 58F. Winds SSE at 5 to 10 mph.",
+        "Sunny skies. High 84F. Winds SSE at 10 to 15 mph.",
+        "Clear skies with a few passing clouds. Low around 60F. Winds SSE at 10 to 15 mph.",
+        "Partly cloudy skies in the morning will give way to cloudy skies during the afternoon. High 82F. Winds S at 10 to 20 mph.",
+        "Mostly cloudy skies early. Scattered thunderstorms developing late. Low 69F. Winds S at 10 to 20 mph. Chance of rain 50%.",
         "Mixed clouds and sun with scattered thunderstorms. High 81F. Winds SSW at 10 to 15 mph. Chance of rain 60%.",
         "Variably cloudy with scattered thunderstorms. Low 68F. Winds SW at 5 to 10 mph. Chance of rain 60%."
       ],
@@ -254,12 +254,12 @@
         null
       ],
       "relativeHumidity": [
-        32,
+        31,
         48,
         33,
-        59,
-        55,
-        71,
+        58,
+        54,
+        70,
         69,
         77
       ],
@@ -284,21 +284,21 @@
         68
       ],
       "temperatureHeatIndex": [
-        81,
+        80,
         77,
         83,
-        77,
+        78,
         82,
         76,
         84,
         81
       ],
       "temperatureWindChill": [
-        60,
+        61,
         59,
         62,
         61,
-        65,
+        64,
         70,
         71,
         69
@@ -344,18 +344,18 @@
         0
       ],
       "windDirection": [
-        80,
-        140,
-        153,
-        163,
+        83,
+        148,
+        156,
+        164,
         174,
-        177,
+        178,
         212,
         229
       ],
       "windDirectionCardinal": [
         "E",
-        "SE",
+        "SSE",
         "SSE",
         "SSE",
         "S",
@@ -365,7 +365,7 @@
       ],
       "windPhrase": [
         "Winds E at 10 to 15 mph.",
-        "Winds SE at 5 to 10 mph.",
+        "Winds SSE at 5 to 10 mph.",
         "Winds SSE at 10 to 15 mph.",
         "Winds SSE at 10 to 15 mph.",
         "Winds S at 10 to 20 mph.",
@@ -388,7 +388,7 @@
         "Clear",
         "Sunny",
         "Mostly Clear",
-        "Mostly Cloudy",
+        "Partly Cloudy",
         "Thunderstorms Late",
         "Scattered Thunderstorms",
         "Scattered Thunderstorms"
@@ -398,7 +398,7 @@
         "Clear",
         "Sunny",
         "M Clear",
-        "M Cloudy",
+        "P Cloudy",
         "T-Storms",
         "Sct T-Storms",
         "Sct T-Storms"
