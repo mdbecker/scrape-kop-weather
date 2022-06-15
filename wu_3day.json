@@ -3,13 +3,13 @@
     88,
     82,
     93,
-    75
+    76
   ],
   "calendarDayTemperatureMin": [
     64,
     67,
-    72,
-    62
+    71,
+    63
   ],
   "dayOfWeek": [
     "Wednesday",
@@ -18,10 +18,10 @@
     "Saturday"
   ],
   "expirationTimeUtc": [
-    1655316138,
-    1655316138,
-    1655316138,
-    1655316138
+    1655319740,
+    1655319740,
+    1655319740,
+    1655319740
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -66,14 +66,14 @@
     1655561048
   ],
   "narrative": [
-    "Times of sun and clouds. Highs in the upper 80s and lows in the upper 60s.",
-    "Showers ending by midday. Highs in the low 80s and lows in the low 70s.",
-    "Times of sun and clouds. Highs in the low 90s and lows in the mid 60s.",
-    "More sun than clouds. Highs in the mid 70s and lows in the upper 50s."
+    "Mix of sun and clouds. Highs in the upper 80s and lows in the upper 60s.",
+    "Morning showers. Highs in the low 80s and lows in the low 70s.",
+    "Mix of sun and clouds. Highs in the low 90s and lows in the upper 60s.",
+    "Mostly sunny. Highs in the mid 70s and lows in the upper 50s."
   ],
   "qpf": [
     0.08,
-    0.19,
+    0.33,
     0,
     0
   ],
@@ -115,8 +115,8 @@
   ],
   "temperatureMin": [
     67,
-    72,
-    66,
+    71,
+    67,
     58
   ],
   "validTimeLocal": [
@@ -134,10 +134,10 @@
   "daypart": [
     {
       "cloudCover": [
-        37,
-        55,
-        84,
-        66,
+        50,
+        58,
+        85,
+        67,
         19,
         3,
         28,
@@ -177,27 +177,27 @@
         3000,
         7100,
         6103,
-        6200,
+        3709,
         3000,
         3100,
         3400,
         3100
       ],
       "narrative": [
-        "Sun and clouds mixed. High 88F. Winds SSE at 10 to 15 mph.",
+        "Sunshine and clouds mixed. High 88F. Winds SSE at 10 to 15 mph.",
         "Partly cloudy this evening followed by increasing clouds with showers developing after midnight. Low 67F. Winds SE at 10 to 15 mph. Chance of rain 60%.",
-        "Rain showers early with overcast skies later in the day. High 82F. Winds S at 10 to 20 mph. Chance of rain 50%.",
-        "Scattered thunderstorms during the evening, then partly cloudy overnight. Low 72F. Winds SSW at 10 to 15 mph. Chance of rain 40%.",
+        "Showers in the morning, then cloudy in the afternoon. High 82F. Winds S at 10 to 20 mph. Chance of rain 50%.",
+        "Widely scattered showers or a thunderstorm early. Then partly cloudy. Low 71F. Winds SSW at 10 to 15 mph. Chance of rain 40%.",
         "Partly cloudy skies. High 93F. Winds W at 10 to 20 mph.",
-        "A mostly clear sky. Low 66F. Winds NW at 10 to 20 mph.",
-        "Generally sunny despite a few afternoon clouds. High around 75F. Winds NNW at 15 to 25 mph.",
-        "A mostly clear sky. Low 58F. Winds NNW at 10 to 20 mph."
+        "A mostly clear sky. Low 67F. Winds NW at 10 to 20 mph.",
+        "Generally sunny despite a few afternoon clouds. High near 75F. Winds NNW at 15 to 25 mph.",
+        "Clear skies. Low 58F. Winds NNW at 10 to 20 mph."
       ],
       "precipChance": [
         0,
-        55,
-        46,
-        36,
+        58,
+        48,
+        35,
         15,
         2,
         0,
@@ -216,8 +216,8 @@
       "qpf": [
         0,
         0.08,
-        0.09,
-        0.1,
+        0.11,
+        0.22,
         0,
         0,
         0,
@@ -255,13 +255,13 @@
       ],
       "relativeHumidity": [
         40,
-        69,
         67,
-        80,
-        53,
-        47,
-        41,
-        41
+        69,
+        79,
+        54,
+        46,
+        42,
+        40
       ],
       "snowRange": [
         "",
@@ -277,16 +277,16 @@
         88,
         67,
         82,
-        72,
+        71,
         93,
-        66,
+        67,
         75,
         58
       ],
       "temperatureHeatIndex": [
         88,
         82,
-        84,
+        83,
         82,
         93,
         88,
@@ -297,10 +297,10 @@
         84,
         67,
         68,
-        72,
+        71,
         73,
-        66,
         67,
+        68,
         58
       ],
       "thunderCategory": [
@@ -334,7 +334,7 @@
         "Low"
       ],
       "uvIndex": [
-        9,
+        8,
         0,
         6,
         0,
@@ -344,12 +344,12 @@
         0
       ],
       "windDirection": [
-        162,
+        160,
         146,
         179,
-        213,
-        263,
-        310,
+        209,
+        261,
+        308,
         327,
         331
       ],
@@ -387,7 +387,7 @@
         "Partly Cloudy",
         "Showers Late",
         "AM Showers",
-        "Thunderstorms Early",
+        "Isolated Thunderstorms",
         "Partly Cloudy",
         "Clear",
         "Mostly Sunny",
@@ -397,7 +397,7 @@
         "P Cloudy",
         "Shwrs Late",
         "AM Showers",
-        "T-Storms",
+        "Iso T-Storms",
         "P Cloudy",
         "Clear",
         "M Sunny",
