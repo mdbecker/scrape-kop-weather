@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    78,
+    71,
+    77,
     94,
-    76,
-    77
+    75
   ],
   "calendarDayTemperatureMin": [
+    68,
     65,
     72,
-    61,
-    57
+    61
   ],
   "dayOfWeek": [
     "Thursday",
@@ -18,10 +18,10 @@
     "Sunday"
   ],
   "expirationTimeUtc": [
-    1655439057,
-    1655439057,
-    1655439057,
-    1655439057
+    1655442680,
+    1655442680,
+    1655442680,
+    1655442680
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -66,10 +66,10 @@
     1655651869
   ],
   "narrative": [
-    "Thunderstorms likely early. Lows overnight in the low 70s.",
-    "Mix of sun and clouds. Highs in the mid 90s and lows in the upper 60s.",
+    "Mostly cloudy. Lows overnight in the low 70s.",
+    "Partly cloudy. Highs in the mid 90s and lows in the upper 60s.",
     "Partly cloudy. Highs in the low 70s and lows in the upper 50s.",
-    "Abundant sunshine. Highs in the upper 70s and lows in the upper 50s."
+    "Sunshine. Highs in the upper 70s and lows in the upper 50s."
   ],
   "qpf": [
     0,
@@ -135,10 +135,10 @@
     {
       "cloudCover": [
         null,
-        88,
+        86,
         23,
         1,
-        34,
+        33,
         4,
         3,
         6
@@ -165,7 +165,7 @@
       ],
       "iconCode": [
         null,
-        47,
+        26,
         30,
         31,
         30,
@@ -175,7 +175,7 @@
       ],
       "iconCodeExtend": [
         null,
-        6200,
+        2600,
         3000,
         3100,
         3000,
@@ -185,18 +185,18 @@
       ],
       "narrative": [
         null,
-        "Thunderstorms early, then cloudy skies after midnight. Low 71F. Winds SSW at 5 to 10 mph. Chance of rain 60%.",
+        "Cloudy. A stray shower or thunderstorm is possible. Low 71F. Winds SSW at 10 to 15 mph.",
         "Partly cloudy skies. High 94F. Winds W at 15 to 25 mph.",
-        "Clear. Low 67F. Winds WNW at 10 to 20 mph.",
+        "Clear skies. Low 67F. Winds WNW at 10 to 20 mph.",
         "Intervals of clouds and sunshine. High 72F. Winds NW at 15 to 25 mph.",
-        "Clear skies. Low 57F. Winds NW at 10 to 20 mph.",
-        "Sunny skies. High 77F. Winds NW at 10 to 20 mph.",
-        "Clear skies. Low 57F. Winds NNW at 10 to 20 mph."
+        "A mostly clear sky. Low 57F. Winds NW at 10 to 20 mph.",
+        "A mainly sunny sky. High 77F. Winds NW at 10 to 20 mph.",
+        "A mostly clear sky. Low 57F. Winds NNW at 10 to 20 mph."
       ],
       "precipChance": [
         null,
-        60,
-        8,
+        15,
+        7,
         1,
         0,
         0,
@@ -235,7 +235,7 @@
       ],
       "qualifierCode": [
         null,
-        null,
+        "Q8001",
         null,
         null,
         null,
@@ -245,7 +245,7 @@
       ],
       "qualifierPhrase": [
         null,
-        null,
+        "A stray shower or thunderstorm is possible.",
         null,
         null,
         null,
@@ -255,11 +255,11 @@
       ],
       "relativeHumidity": [
         null,
-        84,
+        83,
         54,
         47,
         46,
-        46,
+        47,
         35,
         40
       ],
@@ -285,18 +285,18 @@
       ],
       "temperatureHeatIndex": [
         null,
-        75,
-        94,
+        76,
+        95,
         88,
         72,
-        70,
+        69,
         77,
         74
       ],
       "temperatureWindChill": [
         null,
         71,
-        74,
+        75,
         67,
         66,
         56,
@@ -305,7 +305,7 @@
       ],
       "thunderCategory": [
         null,
-        "Thunder expected",
+        "Thunder possible",
         "No thunder",
         "No thunder",
         "No thunder",
@@ -315,7 +315,7 @@
       ],
       "thunderIndex": [
         null,
-        2,
+        1,
         0,
         0,
         0,
@@ -345,9 +345,9 @@
       ],
       "windDirection": [
         null,
-        212,
-        262,
-        300,
+        213,
+        261,
+        299,
         323,
         323,
         316,
@@ -365,7 +365,7 @@
       ],
       "windPhrase": [
         null,
-        "Winds SSW at 5 to 10 mph.",
+        "Winds SSW at 10 to 15 mph.",
         "Winds W at 15 to 25 mph.",
         "Winds WNW at 10 to 20 mph.",
         "Winds NW at 15 to 25 mph.",
@@ -375,17 +375,17 @@
       ],
       "windSpeed": [
         null,
-        8,
+        10,
         20,
         16,
         18,
         16,
-        16,
+        17,
         14
       ],
       "wxPhraseLong": [
         null,
-        "Thunderstorms Early",
+        "Cloudy",
         "Partly Cloudy",
         "Clear",
         "Partly Cloudy",
@@ -395,7 +395,7 @@
       ],
       "wxPhraseShort": [
         null,
-        "T-Storms",
+        "Cloudy",
         "P Cloudy",
         "Clear",
         "P Cloudy",
