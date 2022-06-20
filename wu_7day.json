@@ -6,18 +6,18 @@
     85,
     84,
     87,
-    86,
-    80
+    87,
+    81
   ],
   "calendarDayTemperatureMin": [
     49,
     56,
     64,
     63,
-    63,
+    62,
     63,
     66,
-    66
+    67
   ],
   "dayOfWeek": [
     "Monday",
@@ -30,14 +30,14 @@
     "Monday"
   ],
   "expirationTimeUtc": [
-    1655753136,
-    1655753136,
-    1655753136,
-    1655753136,
-    1655753136,
-    1655753136,
-    1655753136,
-    1655753136
+    1655756738,
+    1655756738,
+    1655756738,
+    1655756738,
+    1655756738,
+    1655756738,
+    1655756738,
+    1655756738
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -110,14 +110,14 @@
     1656373640
   ],
   "narrative": [
-    "Mix of sun and clouds. Highs in the upper 70s and lows in the mid 50s.",
-    "Mostly cloudy. Highs in the upper 70s and lows in the mid 60s.",
+    "Partly cloudy. Lows overnight in the mid 50s.",
+    "Cloudy. Highs in the upper 70s and lows in the mid 60s.",
     "Scattered thunderstorms. Highs in the upper 70s and lows in the low 60s.",
-    "Morning clouds followed by afternoon sun. Highs in the mid 80s and lows in the low 60s.",
-    "Mix of sun and clouds. Highs in the mid 80s and lows in the low 60s.",
-    "Partly cloudy. Highs in the upper 80s and lows in the mid 60s.",
-    "Showers ending by midday. Highs in the mid 80s and lows in the upper 60s.",
-    "Scattered thunderstorms. Highs in the low 80s and lows in the low 60s."
+    "Clouds giving way to sun . Highs in the mid 80s and lows in the low 60s.",
+    "Partly cloudy. Highs in the mid 80s and lows in the low 60s.",
+    "Times of sun and clouds. Highs in the upper 80s and lows in the mid 60s.",
+    "Showers ending by midday. Highs in the upper 80s and lows in the upper 60s.",
+    "A few thunderstorms possible. Highs in the low 80s and lows in the low 60s."
   ],
   "qpf": [
     0,
@@ -126,8 +126,8 @@
     0,
     0,
     0,
-    0.09,
-    0.64
+    0.14,
+    0.69
   ],
   "qpfSnow": [
     0,
@@ -180,20 +180,20 @@
     1656376489
   ],
   "temperatureMax": [
-    79,
+    null,
     79,
     77,
     85,
     84,
     87,
-    86,
-    80
+    87,
+    81
   ],
   "temperatureMin": [
     56,
     64,
     63,
-    63,
+    62,
     63,
     66,
     67,
@@ -222,25 +222,25 @@
   "daypart": [
     {
       "cloudCover": [
-        27,
-        50,
-        81,
-        60,
-        74,
-        90,
+        null,
+        47,
+        83,
+        61,
         75,
-        34,
-        49,
-        25,
-        54,
-        45,
-        50,
-        57,
-        79,
-        69
+        90,
+        74,
+        33,
+        48,
+        23,
+        53,
+        44,
+        47,
+        56,
+        82,
+        74
       ],
       "dayOrNight": [
-        "D",
+        null,
         "N",
         "D",
         "N",
@@ -258,7 +258,7 @@
         "N"
       ],
       "daypartName": [
-        "Today",
+        null,
         "Tonight",
         "Tomorrow",
         "Tomorrow night",
@@ -276,7 +276,7 @@
         "Monday night"
       ],
       "iconCode": [
-        30,
+        null,
         29,
         26,
         29,
@@ -294,10 +294,10 @@
         11
       ],
       "iconCodeExtend": [
-        3000,
+        null,
         2900,
         2600,
-        2900,
+        9000,
         3800,
         3809,
         9003,
@@ -312,43 +312,43 @@
         1100
       ],
       "narrative": [
-        "A mix of clouds and sun. High 79F. Winds NW at 5 to 10 mph.",
+        null,
         "Partly cloudy. Low 56F. Winds light and variable.",
-        "Overcast. High 79F. Winds light and variable.",
-        "Partly cloudy skies. Slight chance of a rain shower. Low 64F. Winds light and variable.",
-        "Partly to mostly cloudy with a chance of thunderstorms. High 77F. Winds ESE at 5 to 10 mph. Chance of rain 50%.",
-        "Scattered thunderstorms in the evening, then variable clouds overnight with more showers at times. Low 63F. Winds light and variable. Chance of rain 60%.",
-        "Cloudy early with partial sunshine expected late. A stray shower or thunderstorm is possible. High around 85F. Winds light and variable.",
-        "Mostly clear skies. Low 63F. Winds light and variable.",
-        "Partly cloudy. A stray shower or thunderstorm is possible. High 84F. Winds light and variable.",
-        "Generally fair. Low 63F. Winds light and variable.",
-        "Sunshine and clouds mixed. A stray shower or thunderstorm is possible. High 87F. Winds light and variable.",
-        "A few clouds. Low 66F. Winds light and variable.",
-        "Rain showers early with some sunshine later in the day. High 86F. Winds S at 5 to 10 mph. Chance of rain 30%.",
-        "Cloudy with occasional rain showers. Low 67F. Winds S at 5 to 10 mph. Chance of rain 50%.",
-        "Rain showers in the morning with scattered thunderstorms arriving in the afternoon. High near 80F. Winds WSW at 5 to 10 mph. Chance of rain 60%.",
-        "Cloudy with occasional rain showers. Low 62F. Winds light and variable. Chance of rain 60%."
+        "Cloudy skies. High 79F. Winds light and variable.",
+        "Cloudy early with partial clearing expected late. Slight chance of a rain shower. Low 64F. Winds light and variable.",
+        "Scattered thunderstorms in the morning followed by occasional showers in the afternoon. High 77F. Winds ESE at 5 to 10 mph. Chance of rain 50%.",
+        "Mostly cloudy with showers and a few thunderstorms. Low 63F. Winds light and variable. Chance of rain 60%.",
+        "Cloudy skies early, followed by partial clearing. A stray shower or thunderstorm is possible. High near 85F. Winds light and variable.",
+        "Mostly clear skies. Low 62F. Winds light and variable.",
+        "Intervals of clouds and sunshine. A stray shower or thunderstorm is possible. High 84F. Winds light and variable.",
+        "Clear skies with a few passing clouds. Low 63F. Winds light and variable.",
+        "Partly cloudy. A stray shower or thunderstorm is possible. High 87F. Winds light and variable.",
+        "A few clouds from time to time. Low 66F. Winds light and variable.",
+        "Showers in the morning, then partly cloudy in the afternoon. High 87F. Winds S at 5 to 10 mph. Chance of rain 30%.",
+        "Cloudy with occasional rain showers. Low 67F. Winds S at 5 to 10 mph. Chance of rain 60%.",
+        "Showers early then scattered thunderstorms developing later in the day. High 81F. Winds SW at 5 to 10 mph. Chance of rain 60%.",
+        "Cloudy with showers. Low 62F. Winds light and variable. Chance of rain 60%."
       ],
       "precipChance": [
-        0,
-        4,
-        18,
+        null,
+        2,
+        19,
         24,
-        48,
+        50,
         58,
         24,
         24,
-        23,
-        16,
+        19,
+        7,
         15,
         24,
         34,
-        46,
+        58,
         58,
         58
       ],
       "precipType": [
-        "rain",
+        null,
         "rain",
         "rain",
         "rain",
@@ -366,7 +366,7 @@
         "rain"
       ],
       "qpf": [
-        0,
+        null,
         0,
         0,
         0,
@@ -379,12 +379,12 @@
         0,
         0,
         0.01,
-        0.08,
-        0.27,
-        0.37
+        0.12,
+        0.29,
+        0.4
       ],
       "qpfSnow": [
-        0,
+        null,
         0,
         0,
         0,
@@ -438,25 +438,25 @@
         null
       ],
       "relativeHumidity": [
-        26,
-        62,
+        null,
+        54,
         58,
         75,
         73,
-        91,
+        92,
         69,
-        86,
-        66,
-        80,
+        87,
+        65,
+        81,
         57,
         79,
-        61,
+        60,
         80,
         72,
-        80
+        81
       ],
       "snowRange": [
-        "",
+        null,
         "",
         "",
         "",
@@ -474,27 +474,27 @@
         ""
       ],
       "temperature": [
-        79,
+        null,
         56,
         79,
         64,
         77,
         63,
         85,
-        63,
+        62,
         84,
         63,
         87,
         66,
-        86,
+        87,
         67,
-        80,
+        81,
         62
       ],
       "temperatureHeatIndex": [
+        null,
         79,
-        77,
-        80,
+        79,
         76,
         80,
         75,
@@ -504,20 +504,20 @@
         82,
         87,
         85,
-        87,
+        88,
         84,
-        82,
-        77
+        83,
+        80
       ],
       "temperatureWindChill": [
-        78,
+        null,
         56,
         61,
         64,
         67,
         63,
         65,
-        63,
+        62,
         65,
         63,
         67,
@@ -528,7 +528,7 @@
         62
       ],
       "thunderCategory": [
-        "No thunder",
+        null,
         "No thunder",
         "No thunder",
         "No thunder",
@@ -546,7 +546,7 @@
         "No thunder"
       ],
       "thunderIndex": [
-        0,
+        null,
         0,
         0,
         0,
@@ -564,7 +564,7 @@
         0
       ],
       "uvDescription": [
-        "High",
+        null,
         "Low",
         "High",
         "Low",
@@ -582,7 +582,7 @@
         "Low"
       ],
       "uvIndex": [
-        7,
+        null,
         0,
         6,
         0,
@@ -600,25 +600,25 @@
         0
       ],
       "windDirection": [
-        312,
-        287,
-        262,
+        null,
+        290,
+        261,
         152,
-        108,
-        118,
-        75,
-        79,
-        102,
-        132,
-        95,
-        141,
-        173,
-        178,
-        249,
-        353
+        105,
+        116,
+        77,
+        81,
+        98,
+        133,
+        88,
+        138,
+        172,
+        177,
+        230,
+        346
       ],
       "windDirectionCardinal": [
-        "NW",
+        null,
         "WNW",
         "W",
         "SSE",
@@ -626,17 +626,17 @@
         "ESE",
         "ENE",
         "E",
-        "ESE",
+        "E",
         "SE",
         "E",
         "SE",
         "S",
         "S",
-        "WSW",
-        "N"
+        "SW",
+        "NNW"
       ],
       "windPhrase": [
-        "Winds NW at 5 to 10 mph.",
+        null,
         "Winds light and variable.",
         "Winds light and variable.",
         "Winds light and variable.",
@@ -650,12 +650,12 @@
         "Winds light and variable.",
         "Winds S at 5 to 10 mph.",
         "Winds S at 5 to 10 mph.",
-        "Winds WSW at 5 to 10 mph.",
+        "Winds SW at 5 to 10 mph.",
         "Winds light and variable."
       ],
       "windSpeed": [
-        7,
-        4,
+        null,
+        5,
         4,
         4,
         7,
@@ -672,10 +672,10 @@
         5
       ],
       "wxPhraseLong": [
-        "Partly Cloudy",
+        null,
         "Partly Cloudy",
         "Cloudy",
-        "Partly Cloudy",
+        "Clouds Early/Clearing Late",
         "Scattered Thunderstorms",
         "Scattered Thunderstorms",
         "AM Clouds/PM Sun",
@@ -690,10 +690,10 @@
         "Showers"
       ],
       "wxPhraseShort": [
-        "P Cloudy",
+        null,
         "P Cloudy",
         "Cloudy",
-        "P Cloudy",
+        "Clear Late",
         "Sct T-Storms",
         "Sct T-Storms",
         "AM Clouds",
