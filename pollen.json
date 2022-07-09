@@ -1,24 +1,11 @@
 {
   "Type": "pollen",
-  "ForecastDate": "2022-07-08T00:00:00-04:00",
+  "ForecastDate": "2022-07-09T00:00:00-04:00",
   "Location": {
     "ZIP": "19406",
     "City": "KING OF PRUSSIA",
     "State": "PA",
     "periods": [
-      {
-        "Triggers": [
-          {
-            "LGID": 346,
-            "Name": "Grasses",
-            "Genus": "Grasses",
-            "PlantType": "Grass"
-          }
-        ],
-        "Period": "0001-01-01T00:00:00",
-        "Type": "Yesterday",
-        "Index": 0.9
-      },
       {
         "Triggers": [
           {
@@ -41,7 +28,7 @@
           }
         ],
         "Period": "0001-01-01T00:00:00",
-        "Type": "Today",
+        "Type": "Yesterday",
         "Index": 3.7
       },
       {
@@ -66,8 +53,33 @@
           }
         ],
         "Period": "0001-01-01T00:00:00",
-        "Type": "Tomorrow",
+        "Type": "Today",
         "Index": 3.6
+      },
+      {
+        "Triggers": [
+          {
+            "LGID": 346,
+            "Name": "Grasses",
+            "Genus": "Grasses",
+            "PlantType": "Grass"
+          },
+          {
+            "LGID": 161,
+            "Name": "Dock",
+            "Genus": "Rumex",
+            "PlantType": "Ragweed"
+          },
+          {
+            "LGID": 206,
+            "Name": "Plantain",
+            "Genus": "Plantago",
+            "PlantType": "Ragweed"
+          }
+        ],
+        "Period": "0001-01-01T00:00:00",
+        "Type": "Tomorrow",
+        "Index": 4.1
       }
     ],
     "DisplayLocation": "King Of Prussia, PA"
