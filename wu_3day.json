@@ -3,7 +3,7 @@
     93,
     92,
     90,
-    88
+    89
   ],
   "calendarDayTemperatureMin": [
     69,
@@ -18,10 +18,10 @@
     "Friday"
   ],
   "expirationTimeUtc": [
-    1657669201,
-    1657669201,
-    1657669201,
-    1657669201
+    1657681861,
+    1657681861,
+    1657681861,
+    1657681861
   ],
   "moonPhase": [
     "Waxing Gibbous",
@@ -66,13 +66,13 @@
     1657885186
   ],
   "narrative": [
-    "Thunderstorms, some may be strong. Potential for severe thunderstorms. Lows overnight in the low 70s.",
-    "Mostly sunny. Highs in the low 90s and lows in the low 70s.",
+    "Partly cloudy. Lows overnight in the low 70s.",
     "A few clouds. Highs in the low 90s and lows in the low 70s.",
+    "Mix of sun and clouds. Highs in the low 90s and lows in the low 70s.",
     "Times of sun and clouds. Highs in the upper 80s and lows in the upper 60s."
   ],
   "qpf": [
-    0.37,
+    0,
     0,
     0,
     0
@@ -111,7 +111,7 @@
     null,
     92,
     90,
-    88
+    89
   ],
   "temperatureMin": [
     72,
@@ -135,13 +135,13 @@
     {
       "cloudCover": [
         null,
-        67,
-        21,
-        63,
-        32,
-        35,
-        27,
-        39
+        43,
+        19,
+        65,
+        34,
+        42,
+        37,
+        37
       ],
       "dayOrNight": [
         null,
@@ -165,43 +165,43 @@
       ],
       "iconCode": [
         null,
-        3,
-        34,
         29,
         34,
+        29,
+        30,
         29,
         30,
         29
       ],
       "iconCodeExtend": [
         null,
-        300,
-        3400,
         2900,
         3400,
+        2900,
+        3000,
         2900,
         3000,
         2900
       ],
       "narrative": [
         null,
-        "Thunderstorms, some strong early, then partly cloudy after midnight. Potential for severe thunderstorms. Low 72F. Winds WSW at 10 to 15 mph. Chance of rain 80%.",
-        "Except for a few afternoon clouds, mainly sunny. High 92F. Winds W at 5 to 10 mph.",
+        "A few clouds. Low 72F. Winds WSW at 5 to 10 mph.",
+        "Sunny, along with a few afternoon clouds. High 92F. Winds WNW at 5 to 10 mph.",
         "A few clouds. A stray shower or thunderstorm is possible. Low 73F. Winds W at 5 to 10 mph.",
-        "Except for a few afternoon clouds, mainly sunny. High near 90F. Winds WNW at 5 to 10 mph.",
+        "Intervals of clouds and sunshine. High near 90F. Winds WNW at 5 to 10 mph.",
         "Partly cloudy. Low around 70F. Winds NNW at 5 to 10 mph.",
-        "Intervals of clouds and sunshine. High 88F. Winds NNW at 5 to 10 mph.",
-        "Partly cloudy skies. Low 69F. Winds S at 5 to 10 mph."
+        "Partly cloudy. High 89F. Winds NNW at 5 to 10 mph.",
+        "Partly cloudy. Low 69F. Winds S at 5 to 10 mph."
       ],
       "precipChance": [
         null,
-        83,
-        8,
-        15,
         11,
-        6,
-        16,
-        16
+        7,
+        15,
+        8,
+        7,
+        17,
+        18
       ],
       "precipType": [
         null,
@@ -215,7 +215,7 @@
       ],
       "qpf": [
         null,
-        0.37,
+        0,
         0,
         0,
         0,
@@ -235,7 +235,7 @@
       ],
       "qualifierCode": [
         null,
-        "Q9605",
+        null,
         null,
         "Q8001",
         null,
@@ -245,7 +245,7 @@
       ],
       "qualifierPhrase": [
         null,
-        "Potential for severe thunderstorms.",
+        null,
         null,
         "A stray shower or thunderstorm is possible.",
         null,
@@ -255,13 +255,13 @@
       ],
       "relativeHumidity": [
         null,
-        82,
+        83,
         55,
         65,
-        50,
+        51,
         57,
         43,
-        65
+        66
       ],
       "snowRange": [
         null,
@@ -280,32 +280,32 @@
         73,
         90,
         70,
-        88,
+        89,
         69
       ],
       "temperatureHeatIndex": [
         null,
-        84,
+        82,
         93,
         91,
-        90,
+        91,
         88,
-        88,
-        84
+        89,
+        85
       ],
       "temperatureWindChill": [
         null,
         72,
         74,
         73,
-        75,
+        76,
         70,
-        72,
+        73,
         69
       ],
       "thunderCategory": [
         null,
-        "Severe thunderstorms likely",
+        "No thunder",
         "No thunder",
         "Thunder possible",
         "No thunder",
@@ -315,7 +315,7 @@
       ],
       "thunderIndex": [
         null,
-        4,
+        0,
         0,
         1,
         0,
@@ -345,18 +345,18 @@
       ],
       "windDirection": [
         null,
-        252,
-        279,
-        260,
-        291,
-        337,
-        327,
-        185
+        257,
+        283,
+        261,
+        288,
+        336,
+        329,
+        189
       ],
       "windDirectionCardinal": [
         null,
         "WSW",
-        "W",
+        "WNW",
         "W",
         "WNW",
         "NNW",
@@ -365,8 +365,8 @@
       ],
       "windPhrase": [
         null,
-        "Winds WSW at 10 to 15 mph.",
-        "Winds W at 5 to 10 mph.",
+        "Winds WSW at 5 to 10 mph.",
+        "Winds WNW at 5 to 10 mph.",
         "Winds W at 5 to 10 mph.",
         "Winds WNW at 5 to 10 mph.",
         "Winds NNW at 5 to 10 mph.",
@@ -375,30 +375,30 @@
       ],
       "windSpeed": [
         null,
-        11,
+        8,
         10,
         9,
         10,
-        8,
+        9,
         9,
         7
       ],
       "wxPhraseLong": [
         null,
-        "Strong Storms",
-        "Mostly Sunny",
         "Partly Cloudy",
         "Mostly Sunny",
+        "Partly Cloudy",
+        "Partly Cloudy",
         "Partly Cloudy",
         "Partly Cloudy",
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
         null,
-        "Strong Tstms",
-        "M Sunny",
         "P Cloudy",
         "M Sunny",
+        "P Cloudy",
+        "P Cloudy",
         "P Cloudy",
         "P Cloudy",
         "P Cloudy"
