@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    89,
+    82,
     88,
-    89,
-    88
+    88,
+    89
   ],
   "calendarDayTemperatureMin": [
-    70,
-    71,
+    73,
+    69,
     72,
-    75
+    71
   ],
   "dayOfWeek": [
     "Friday",
@@ -18,10 +18,10 @@
     "Monday"
   ],
   "expirationTimeUtc": [
-    1657945233,
-    1657945233,
-    1657945233,
-    1657945233
+    1657948840,
+    1657948840,
+    1657948840,
+    1657948840
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -42,40 +42,40 @@
     20
   ],
   "moonriseTimeLocal": [
-    "2022-07-15T22:28:16-0400",
-    "2022-07-16T22:59:51-0400",
+    "2022-07-15T22:28:14-0400",
+    "2022-07-16T22:59:49-0400",
     "2022-07-17T23:26:55-0400",
-    "2022-07-18T23:51:13-0400"
+    "2022-07-18T23:51:14-0400"
   ],
   "moonriseTimeUtc": [
-    1657938496,
-    1658026791,
+    1657938494,
+    1658026789,
     1658114815,
-    1658202673
+    1658202674
   ],
   "moonsetTimeLocal": [
-    "2022-07-15T07:39:44-0400",
-    "2022-07-16T08:57:00-0400",
-    "2022-07-17T10:10:30-0400",
+    "2022-07-15T07:39:48-0400",
+    "2022-07-16T08:57:02-0400",
+    "2022-07-17T10:10:31-0400",
     "2022-07-18T11:20:30-0400"
   ],
   "moonsetTimeUtc": [
-    1657885184,
-    1657976220,
-    1658067030,
+    1657885188,
+    1657976222,
+    1658067031,
     1658157630
   ],
   "narrative": [
     "Mostly cloudy. Lows overnight in the low 70s.",
-    "Considerable cloudiness. Highs in the upper 80s and lows in the low 70s.",
-    "Afternoon thunderstorms. Highs in the upper 80s and lows in the mid 70s.",
-    "Scattered thunderstorms possible. Highs in the upper 80s and lows in the mid 70s."
+    "Cloudy. Highs in the upper 80s and lows in the low 70s.",
+    "Afternoon showers and thunderstorms. Highs in the upper 80s and lows in the mid 70s.",
+    "Scattered thunderstorms. Highs in the upper 80s and lows in the mid 70s."
   ],
   "qpf": [
     0,
-    0.15,
+    0.24,
     0.05,
-    0.44
+    0.46
   ],
   "qpfSnow": [
     0,
@@ -84,39 +84,39 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2022-07-15T05:45:29-0400",
-    "2022-07-16T05:46:14-0400",
-    "2022-07-17T05:47:01-0400",
-    "2022-07-18T05:47:48-0400"
+    "2022-07-15T05:45:32-0400",
+    "2022-07-16T05:46:18-0400",
+    "2022-07-17T05:47:04-0400",
+    "2022-07-18T05:47:51-0400"
   ],
   "sunriseTimeUtc": [
-    1657878329,
-    1657964774,
-    1658051221,
-    1658137668
+    1657878332,
+    1657964778,
+    1658051224,
+    1658137671
   ],
   "sunsetTimeLocal": [
-    "2022-07-15T20:28:06-0400",
-    "2022-07-16T20:27:30-0400",
-    "2022-07-17T20:26:52-0400",
-    "2022-07-18T20:26:13-0400"
+    "2022-07-15T20:28:02-0400",
+    "2022-07-16T20:27:26-0400",
+    "2022-07-17T20:26:49-0400",
+    "2022-07-18T20:26:10-0400"
   ],
   "sunsetTimeUtc": [
-    1657931286,
-    1658017650,
-    1658104012,
-    1658190373
+    1657931282,
+    1658017646,
+    1658104009,
+    1658190370
   ],
   "temperatureMax": [
     null,
     88,
     89,
-    88
+    89
   ],
   "temperatureMin": [
-    71,
     72,
-    75,
+    71,
+    76,
     76
   ],
   "validTimeLocal": [
@@ -135,12 +135,12 @@
     {
       "cloudCover": [
         null,
-        65,
-        82,
-        75,
-        71,
+        77,
+        83,
+        74,
+        70,
         89,
-        87,
+        86,
         78
       ],
       "dayOrNight": [
@@ -165,8 +165,8 @@
       ],
       "iconCode": [
         null,
-        27,
-        28,
+        26,
+        26,
         47,
         38,
         47,
@@ -175,8 +175,8 @@
       ],
       "iconCodeExtend": [
         null,
-        2700,
-        2800,
+        2600,
+        2600,
         3809,
         7203,
         3709,
@@ -185,19 +185,19 @@
       ],
       "narrative": [
         null,
-        "Partly cloudy early followed by cloudy skies overnight. Low 71F. Winds light and variable.",
-        "Considerable cloudiness. A stray shower or thunderstorm is possible. High 88F. Winds SSE at 5 to 10 mph.",
-        "Scattered showers and thunderstorms. Low 72F. Winds SSW at 5 to 10 mph. Chance of rain 50%.",
-        "Partly cloudy with afternoon showers or thunderstorms. High 89F. Winds S at 5 to 10 mph. Chance of rain 40%.",
-        "Cloudy skies during the evening followed by isolated thunderstorms overnight. Low around 75F. Winds S at 5 to 10 mph. Chance of rain 30%.",
-        "Variable clouds with scattered thunderstorms. High 88F. Winds SSW at 10 to 15 mph. Chance of rain 60%.",
-        "Scattered thunderstorms in the evening. Cloudy skies overnight. Low 76F. Winds SW at 10 to 15 mph. Chance of rain 60%."
+        "Cloudy. Low 72F. Winds light and variable.",
+        "Cloudy skies. A stray shower or thunderstorm is possible. High 88F. Winds SSE at 5 to 10 mph.",
+        "Scattered thunderstorms. Low 71F. Winds S at 5 to 10 mph. Chance of rain 60%.",
+        "Partly cloudy in the morning followed by scattered thunderstorms in the afternoon. High 89F. Winds S at 5 to 10 mph. Chance of rain 40%.",
+        "A few isolated thunderstorms developing late. Low 76F. Winds S at 5 to 10 mph. Chance of rain 30%.",
+        "Variable clouds with scattered thunderstorms. High 89F. Winds SSW at 10 to 15 mph. Chance of rain 60%.",
+        "Scattered thunderstorms during the evening, then cloudy skies overnight. Low 76F. Winds SW at 10 to 15 mph. Chance of rain 60%."
       ],
       "precipChance": [
         null,
         4,
         24,
-        46,
+        55,
         41,
         32,
         58,
@@ -217,11 +217,11 @@
         null,
         0,
         0,
-        0.15,
+        0.22,
         0.04,
         0.01,
         0.31,
-        0.13
+        0.15
       ],
       "qpfSnow": [
         null,
@@ -275,31 +275,31 @@
       ],
       "temperature": [
         null,
-        71,
-        88,
         72,
-        89,
-        75,
         88,
+        71,
+        89,
+        76,
+        89,
         76
       ],
       "temperatureHeatIndex": [
         null,
         76,
         90,
-        84,
+        83,
         93,
         90,
-        96,
-        88
+        97,
+        86
       ],
       "temperatureWindChill": [
         null,
-        71,
-        73,
         72,
         73,
-        75,
+        71,
+        73,
+        76,
         77,
         76
       ],
@@ -336,28 +336,28 @@
       "uvIndex": [
         null,
         0,
-        6,
-        0,
         7,
+        0,
+        6,
         0,
         6,
         0
       ],
       "windDirection": [
         null,
-        111,
+        108,
         153,
-        193,
+        188,
         185,
-        183,
-        199,
+        185,
+        200,
         224
       ],
       "windDirectionCardinal": [
         null,
         "ESE",
         "SSE",
-        "SSW",
+        "S",
         "S",
         "S",
         "SSW",
@@ -367,7 +367,7 @@
         null,
         "Winds light and variable.",
         "Winds SSE at 5 to 10 mph.",
-        "Winds SSW at 5 to 10 mph.",
+        "Winds S at 5 to 10 mph.",
         "Winds S at 5 to 10 mph.",
         "Winds S at 5 to 10 mph.",
         "Winds SSW at 10 to 15 mph.",
@@ -376,17 +376,17 @@
       "windSpeed": [
         null,
         5,
-        8,
-        8,
+        7,
+        7,
         9,
         9,
-        12,
-        12
+        13,
+        11
       ],
       "wxPhraseLong": [
         null,
-        "Mostly Cloudy",
-        "Mostly Cloudy",
+        "Cloudy",
+        "Cloudy",
         "Scattered Thunderstorms",
         "PM Thunderstorms",
         "Isolated Thunderstorms",
@@ -395,8 +395,8 @@
       ],
       "wxPhraseShort": [
         null,
-        "M Cloudy",
-        "M Cloudy",
+        "Cloudy",
+        "Cloudy",
         "Sct T-Storms",
         "PM T-Storms",
         "Iso T-Storms",
