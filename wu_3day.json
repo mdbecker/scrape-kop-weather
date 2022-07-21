@@ -2,12 +2,12 @@
   "calendarDayTemperatureMax": [
     98,
     97,
-    98,
+    99,
     100
   ],
   "calendarDayTemperatureMin": [
     77,
-    77,
+    76,
     77,
     79
   ],
@@ -18,10 +18,10 @@
     "Sunday"
   ],
   "expirationTimeUtc": [
-    1658397601,
-    1658397601,
-    1658397601,
-    1658397601
+    1658401205,
+    1658401205,
+    1658401205,
+    1658401205
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -66,8 +66,8 @@
     1658698791
   ],
   "narrative": [
-    "Mix of sun and clouds. Highs in the upper 90s and lows in the upper 70s.",
-    "Mostly sunny. Highs in the upper 90s and lows in the upper 70s.",
+    "Slight chance of a thunderstorm. Highs in the upper 90s and lows in the mid 70s.",
+    "Plenty of sun. Highs in the upper 90s and lows in the upper 70s.",
     "Mainly sunny. Highs in the upper 90s and lows in the upper 70s.",
     "Mostly sunny. Highs 98 to 102F and lows in the low 80s."
   ],
@@ -110,11 +110,11 @@
   "temperatureMax": [
     98,
     97,
-    98,
+    99,
     100
   ],
   "temperatureMin": [
-    77,
+    76,
     77,
     79,
     83
@@ -136,10 +136,10 @@
       "cloudCover": [
         43,
         9,
-        8,
+        10,
         13,
-        11,
-        14,
+        10,
+        12,
         31,
         58
       ],
@@ -164,41 +164,41 @@
         "Sunday night"
       ],
       "iconCode": [
-        30,
-        33,
+        37,
+        31,
         34,
-        33,
+        31,
         32,
         31,
         34,
         29
       ],
       "iconCodeExtend": [
-        3000,
-        3300,
+        3700,
+        3100,
         3400,
-        3300,
+        3100,
         3200,
         3100,
         3400,
         2900
       ],
       "narrative": [
-        "A mix of clouds and sun. A stray shower or thunderstorm is possible. High 98F. Winds SW at 10 to 20 mph.",
-        "Mostly clear. Low 77F. Winds W at 10 to 15 mph.",
-        "Plentiful sunshine. Hot. High 97F. Winds W at 10 to 15 mph.",
-        "Clear skies. Low 77F. Winds SW at 10 to 15 mph.",
-        "Sunny. Hot. High 98F. Winds W at 10 to 15 mph.",
-        "Clear skies. Low 79F. Winds SSW at 5 to 10 mph.",
-        "Mostly sunny skies. Near record high temperatures. High near 100F. Winds SW at 10 to 20 mph.",
-        "Partly cloudy in the evening with more clouds for later at night. Low 83F. Winds SSW at 10 to 20 mph."
+        "Isolated thunderstorms this morning, then partly cloudy during the afternoon hours. High 98F. Winds SW at 10 to 20 mph. Chance of rain 30%.",
+        "Clear skies. Low 76F. Winds W at 10 to 15 mph.",
+        "Sunshine and some clouds. Hot. High 97F. Winds WSW at 10 to 15 mph.",
+        "A mostly clear sky. Low 77F. Winds SW at 10 to 15 mph.",
+        "Mainly sunny. Hot. High 99F. Winds W at 10 to 15 mph.",
+        "Clear skies. Low 79F. Winds SSW at 10 to 15 mph.",
+        "Mostly sunny skies. Near record high temperatures. High around 100F. Winds SW at 10 to 20 mph.",
+        "Partly to mostly cloudy. Low 83F. Winds SSW at 10 to 20 mph."
       ],
       "precipChance": [
-        24,
+        32,
         7,
-        3,
+        10,
+        5,
         4,
-        13,
         5,
         16,
         8
@@ -234,7 +234,7 @@
         0
       ],
       "qualifierCode": [
-        "Q8001",
+        null,
         null,
         "Q604",
         null,
@@ -244,7 +244,7 @@
         null
       ],
       "qualifierPhrase": [
-        "A stray shower or thunderstorm is possible.",
+        null,
         null,
         "Hot.",
         null,
@@ -254,12 +254,12 @@
         null
       ],
       "relativeHumidity": [
-        61,
+        59,
         61,
         43,
         60,
         44,
-        62,
+        63,
         50,
         60
       ],
@@ -275,27 +275,27 @@
       ],
       "temperature": [
         98,
-        77,
+        76,
         97,
         77,
-        98,
+        99,
         79,
         100,
         83
       ],
       "temperatureHeatIndex": [
-        106,
+        107,
         99,
         99,
         95,
         100,
-        96,
+        97,
         106,
         102
       ],
       "temperatureWindChill": [
-        79,
-        77,
+        80,
+        76,
         79,
         77,
         80,
@@ -304,7 +304,7 @@
         83
       ],
       "thunderCategory": [
-        "Thunder possible",
+        "Thunder expected",
         "No thunder",
         "No thunder",
         "No thunder",
@@ -314,7 +314,7 @@
         "No thunder"
       ],
       "thunderIndex": [
-        1,
+        2,
         0,
         0,
         0,
@@ -344,19 +344,19 @@
         0
       ],
       "windDirection": [
-        229,
-        263,
-        262,
-        232,
-        259,
-        213,
+        231,
+        264,
+        257,
+        233,
+        266,
+        212,
         214,
         208
       ],
       "windDirectionCardinal": [
         "SW",
         "W",
-        "W",
+        "WSW",
         "SW",
         "W",
         "SSW",
@@ -366,38 +366,38 @@
       "windPhrase": [
         "Winds SW at 10 to 20 mph.",
         "Winds W at 10 to 15 mph.",
-        "Winds W at 10 to 15 mph.",
+        "Winds WSW at 10 to 15 mph.",
         "Winds SW at 10 to 15 mph.",
         "Winds W at 10 to 15 mph.",
-        "Winds SSW at 5 to 10 mph.",
+        "Winds SSW at 10 to 15 mph.",
         "Winds SW at 10 to 20 mph.",
         "Winds SSW at 10 to 20 mph."
       ],
       "windSpeed": [
-        15,
+        14,
         12,
         12,
-        12,
+        10,
         11,
-        9,
+        10,
         13,
         13
       ],
       "wxPhraseLong": [
-        "Partly Cloudy",
-        "Mostly Clear",
+        "Isolated Thunderstorms",
+        "Clear",
         "Mostly Sunny",
-        "Mostly Clear",
+        "Clear",
         "Sunny",
         "Clear",
         "Mostly Sunny",
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
-        "P Cloudy",
-        "M Clear",
+        "Iso T-Storms",
+        "Clear",
         "M Sunny",
-        "M Clear",
+        "Clear",
         "Sunny",
         "Clear",
         "M Sunny",
