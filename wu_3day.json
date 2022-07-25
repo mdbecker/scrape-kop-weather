@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1658736447,
-    1658736447,
-    1658736447,
-    1658736447
+    1658738471,
+    1658738471,
+    1658738471,
+    1658738471
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -66,16 +66,16 @@
     1659055617
   ],
   "narrative": [
-    "Afternoon thunderstorms. Potential for severe thunderstorms. Highs in the low 90s and lows in the low 70s.",
+    "Thunderstorms developing in the afternoon. Potential for severe thunderstorms. Highs in the low 90s and lows in the low 70s.",
     "Cloudy. Highs in the low 80s and lows in the low 70s.",
-    "More clouds than sun. Highs in the upper 80s and lows in the mid 70s.",
-    "More clouds than sun. Highs in the low 90s and lows in the mid 70s."
+    "Mostly cloudy. Highs in the upper 80s and lows in the mid 70s.",
+    "Mostly cloudy. Highs in the low 90s and lows in the mid 70s."
   ],
   "qpf": [
-    0.43,
-    0.17,
-    0,
-    0.19
+    0.44,
+    0.18,
+    0.03,
+    0.2
   ],
   "qpfSnow": [
     0,
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        69,
-        77,
+        80,
+        78,
         87,
-        72,
+        73,
         65,
-        68,
-        68,
-        70
+        70,
+        67,
+        72
       ],
       "dayOrNight": [
         "D",
@@ -169,7 +169,7 @@
         26,
         45,
         28,
-        29,
+        47,
         28,
         47
       ],
@@ -179,27 +179,27 @@
         2600,
         7100,
         2800,
-        2900,
+        3709,
         2800,
         6200
       ],
       "narrative": [
-        "Cloudy skies this morning followed by thunderstorms during the afternoon. Potential for severe thunderstorms. High 91F. Winds SW at 10 to 20 mph. Chance of rain 80%.",
-        "Thunderstorms early, then cloudy skies after midnight. Low 73F. Winds WSW at 10 to 15 mph. Chance of rain 70%.",
-        "Cloudy skies. High 83F. Winds WNW at 5 to 10 mph.",
-        "Cloudy during the evening. A few showers developing late. Low 71F. Winds WSW at 5 to 10 mph. Chance of rain 30%.",
-        "Mostly cloudy skies. High 89F. Winds WSW at 5 to 10 mph.",
-        "Partly to mostly cloudy. Low 76F. Winds SW at 5 to 10 mph.",
-        "Mainly cloudy. A stray shower or thunderstorm is possible. High 93F. Winds WSW at 10 to 15 mph.",
-        "Scattered thunderstorms in the evening. Cloudy skies overnight. Low 76F. Winds SW at 10 to 15 mph. Chance of rain 40%."
+        "Cloudy early, then thunderstorms developing this afternoon. Potential for severe thunderstorms. High 91F. Winds SW at 10 to 20 mph. Chance of rain 80%.",
+        "Thunderstorms during the evening will give way to cloudy skies after midnight. Low 73F. Winds WSW at 10 to 15 mph. Chance of rain 60%.",
+        "Overcast. High 83F. Winds WNW at 5 to 10 mph.",
+        "Cloudy skies with a few showers later at night. Low 71F. Winds WSW at 5 to 10 mph. Chance of rain 30%.",
+        "Mostly cloudy. High 89F. Winds WSW at 5 to 10 mph.",
+        "Partly cloudy with isolated thunderstorms possible. Storms may contain strong gusty winds. Low 76F. Winds SW at 5 to 10 mph. Chance of rain 40%.",
+        "Considerable cloudiness. A stray shower or thunderstorm is possible. High 93F. Winds WSW at 10 to 15 mph.",
+        "Mostly cloudy with scattered thunderstorms mainly before midnight. Low 76F. Winds WSW at 10 to 15 mph. Chance of rain 40%."
       ],
       "precipChance": [
         75,
-        72,
+        62,
         9,
         34,
         23,
-        24,
+        37,
         24,
         42
       ],
@@ -214,12 +214,12 @@
         "rain"
       ],
       "qpf": [
-        0.19,
-        0.24,
+        0.21,
+        0.23,
         0,
-        0.17,
+        0.18,
         0,
-        0,
+        0.03,
         0,
         0.19
       ],
@@ -239,7 +239,7 @@
         null,
         null,
         null,
-        null,
+        "Q8029",
         "Q8001",
         null
       ],
@@ -249,17 +249,17 @@
         null,
         null,
         null,
-        null,
+        "Storms may contain strong gusty winds.",
         "A stray shower or thunderstorm is possible.",
         null
       ],
       "relativeHumidity": [
         65,
-        83,
-        57,
-        74,
-        62,
-        77,
+        82,
+        56,
+        73,
+        63,
+        78,
         64,
         77
       ],
@@ -286,15 +286,15 @@
       "temperatureHeatIndex": [
         101,
         91,
-        83,
+        84,
         82,
         92,
-        91,
+        92,
         100,
-        95
+        96
       ],
       "temperatureWindChill": [
-        83,
+        82,
         73,
         75,
         71,
@@ -309,7 +309,7 @@
         "No thunder",
         "No thunder",
         "No thunder",
-        "No thunder",
+        "Thunder expected",
         "Thunder possible",
         "Thunder expected"
       ],
@@ -319,7 +319,7 @@
         0,
         0,
         0,
-        0,
+        2,
         1,
         2
       ],
@@ -344,14 +344,14 @@
         0
       ],
       "windDirection": [
-        227,
-        254,
-        299,
-        243,
-        254,
-        216,
-        246,
-        235
+        228,
+        258,
+        292,
+        253,
+        249,
+        217,
+        248,
+        237
       ],
       "windDirectionCardinal": [
         "SW",
@@ -361,7 +361,7 @@
         "WSW",
         "SW",
         "WSW",
-        "SW"
+        "WSW"
       ],
       "windPhrase": [
         "Winds SW at 10 to 20 mph.",
@@ -371,17 +371,17 @@
         "Winds WSW at 5 to 10 mph.",
         "Winds SW at 5 to 10 mph.",
         "Winds WSW at 10 to 15 mph.",
-        "Winds SW at 10 to 15 mph."
+        "Winds WSW at 10 to 15 mph."
       ],
       "windSpeed": [
         15,
         12,
+        10,
         9,
         9,
         9,
-        9,
-        11,
-        10
+        12,
+        11
       ],
       "wxPhraseLong": [
         "PM Thunderstorms",
@@ -389,7 +389,7 @@
         "Cloudy",
         "Showers Late",
         "Mostly Cloudy",
-        "Partly Cloudy",
+        "Isolated Thunderstorms",
         "Mostly Cloudy",
         "Thunderstorms Early"
       ],
@@ -399,7 +399,7 @@
         "Cloudy",
         "Shwrs Late",
         "M Cloudy",
-        "P Cloudy",
+        "Iso T-Storms",
         "M Cloudy",
         "T-Storms"
       ]
