@@ -4,7 +4,7 @@
     "longitude": -75.39,
     "source": "Contains Copernicus Atmosphere Monitoring Service information 2022 and/or modified Copernicus Atmosphere Monitoring Service information 2022",
     "disclaimer": "Neither the European Commission nor ECMWF is responsible for any use of this information",
-    "airQualityIndex": 42,
+    "airQualityIndex": 44,
     "airQualityCategory": "Good",
     "airQualityCategoryIndex": 1,
     "airQualityCategoryIndexColor": "00E838",
@@ -13,7 +13,7 @@
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 13.09,
+        "amount": 13.1,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -22,7 +22,7 @@
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 54.39,
+        "amount": 54.44,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -44,7 +44,7 @@
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 42
+        "index": 44
       },
       "PM10": {
         "name": "PM10",
@@ -53,12 +53,12 @@
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 15
+        "index": 16
       },
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 171.88,
+        "amount": 172.19,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -75,6 +75,6 @@
         "text": "Air quality is considered satisfactory, and air pollution poses little or no risk."
       }
     },
-    "expireTimeGmt": 1658844063
+    "expireTimeGmt": 1658844101
   }
 }
