@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1659740400,
       1659783600,
       1659826800,
       1659870000,
@@ -22,10 +21,11 @@
       1660215600,
       1660258800,
       1660302000,
-      1660345200
+      1660345200,
+      1660388400,
+      1660431600
     ],
     "fcstValidLocal": [
-      "2022-08-05T19:00:00-0400",
       "2022-08-06T07:00:00-0400",
       "2022-08-06T19:00:00-0400",
       "2022-08-07T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2022-08-11T07:00:00-0400",
       "2022-08-11T19:00:00-0400",
       "2022-08-12T07:00:00-0400",
-      "2022-08-12T19:00:00-0400"
+      "2022-08-12T19:00:00-0400",
+      "2022-08-13T07:00:00-0400",
+      "2022-08-13T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Sunday",
-      "Sunday night",
       "Monday",
       "Monday night",
       "Tuesday",
@@ -90,14 +93,15 @@
       "Thursday",
       "Thursday night",
       "Friday",
-      "Friday night"
+      "Friday night",
+      "Saturday",
+      "Saturday night"
     ],
     "grassPollenIndex": [
       2,
       2,
       1,
       1,
-      1,
       2,
       2,
       2,
@@ -106,6 +110,8 @@
       1,
       1,
       1,
+      2,
+      2,
       2,
       2
     ],
@@ -114,7 +120,6 @@
       "Moderate",
       "Low",
       "Low",
-      "Low",
       "Moderate",
       "Moderate",
       "Moderate",
@@ -123,10 +128,13 @@
       "Low",
       "Low",
       "Low",
+      "Moderate",
+      "Moderate",
       "Moderate",
       "Moderate"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -175,9 +184,11 @@
       0,
       0,
       0,
+      0,
       0
     ],
     "ragweedPollenCategory": [
+      "None",
       "None",
       "None",
       "None",
