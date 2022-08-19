@@ -1,6 +1,6 @@
 {
   "calendarDayTemperatureMax": [
-    91,
+    90,
     92,
     88,
     80
@@ -8,7 +8,7 @@
   "calendarDayTemperatureMin": [
     67,
     72,
-    71,
+    72,
     72
   ],
   "dayOfWeek": [
@@ -18,10 +18,10 @@
     "Monday"
   ],
   "expirationTimeUtc": [
-    1660920939,
-    1660920939,
-    1660920939,
-    1660920939
+    1660924548,
+    1660924548,
+    1660924548,
+    1660924548
   ],
   "moonPhase": [
     "Last Quarter",
@@ -66,16 +66,16 @@
     1661203364
   ],
   "narrative": [
+    "A few clouds. Highs in the low 90s and lows in the low 70s.",
     "Plenty of sun. Highs in the low 90s and lows in the low 70s.",
-    "Mostly sunny. Highs in the low 90s and lows in the low 70s.",
-    "Mostly cloudy. Highs in the upper 80s and lows in the low 70s.",
+    "Showers possible in the afternoon. Highs in the upper 80s and lows in the low 70s.",
     "Thunderstorms. Highs in the low 80s and lows in the low 70s."
   ],
   "qpf": [
     0,
     0,
-    0.28,
-    0.48
+    0.31,
+    0.44
   ],
   "qpfSnow": [
     0,
@@ -108,14 +108,14 @@
     1661212060
   ],
   "temperatureMax": [
-    91,
+    90,
     92,
     88,
     80
   ],
   "temperatureMin": [
     72,
-    71,
+    72,
     72,
     71
   ],
@@ -134,13 +134,13 @@
   "daypart": [
     {
       "cloudCover": [
-        35,
-        73,
-        25,
-        33,
+        40,
+        76,
+        23,
+        32,
         75,
-        88,
-        90,
+        89,
+        91,
         63
       ],
       "dayOrNight": [
@@ -168,7 +168,7 @@
         27,
         34,
         33,
-        26,
+        39,
         4,
         4,
         47
@@ -178,29 +178,29 @@
         2700,
         3400,
         3300,
-        2600,
+        7103,
         400,
         400,
         6200
       ],
       "narrative": [
-        "Mostly sunny. High 91F. Winds SW at 10 to 15 mph.",
-        "Considerable cloudiness. Low 72F. Winds SSW at 10 to 15 mph.",
-        "Sun and a few passing clouds. High 92F. Winds S at 10 to 15 mph.",
-        "Mostly clear skies. Low 71F. Winds SSE at 10 to 15 mph.",
-        "Overcast. Slight chance of a rain shower. High 88F. Winds SE at 10 to 15 mph.",
+        "Mostly sunny. High near 90F. Winds SW at 10 to 15 mph.",
+        "Mostly cloudy. Low 72F. Winds SSW at 10 to 15 mph.",
+        "A few clouds early, otherwise mostly sunny. High 92F. Winds SSW at 10 to 15 mph.",
+        "Mostly clear skies. Low 72F. Winds SSE at 10 to 15 mph.",
+        "Mostly cloudy skies with a few showers later in the day. High 88F. Winds SE at 10 to 15 mph. Chance of rain 30%.",
         "Thunderstorms likely. Low 72F. Winds SSE at 10 to 15 mph. Chance of rain 80%.",
-        "Thunderstorms likely. High near 80F. Winds S at 5 to 10 mph. Chance of rain 80%.",
+        "Thunderstorms. High around 80F. Winds S at 5 to 10 mph. Chance of rain 90%.",
         "Thunderstorms in the evening will give way to partly cloudy skies overnight. Low 71F. Winds SW at 5 to 10 mph. Chance of rain 80%."
       ],
       "precipChance": [
-        3,
+        5,
         5,
         4,
         16,
-        24,
-        77,
-        83,
+        32,
+        75,
+        87,
         77
       ],
       "precipType": [
@@ -218,9 +218,9 @@
         0,
         0,
         0,
-        0,
-        0.26,
-        0.39,
+        0.02,
+        0.28,
+        0.36,
         0.08
       ],
       "qpfSnow": [
@@ -238,7 +238,7 @@
         null,
         null,
         null,
-        "Q5015",
+        null,
         null,
         null,
         null
@@ -248,20 +248,20 @@
         null,
         null,
         null,
-        "Slight chance of a rain shower.",
+        null,
         null,
         null,
         null
       ],
       "relativeHumidity": [
-        39,
-        66,
+        38,
+        65,
         51,
         75,
         65,
         82,
         80,
-        87
+        86
       ],
       "snowRange": [
         "",
@@ -274,18 +274,18 @@
         ""
       ],
       "temperature": [
-        91,
+        90,
         72,
         92,
-        71,
+        72,
         88,
         72,
         80,
         71
       ],
       "temperatureHeatIndex": [
-        91,
-        88,
+        90,
+        89,
         92,
         88,
         90,
@@ -294,10 +294,10 @@
         83
       ],
       "temperatureWindChill": [
-        83,
+        86,
         72,
-        73,
-        71,
+        74,
+        72,
         73,
         72,
         73,
@@ -340,23 +340,23 @@
         0,
         7,
         0,
-        5,
+        4,
         0
       ],
       "windDirection": [
-        215,
+        217,
         207,
-        191,
+        192,
         156,
-        141,
-        148,
-        186,
+        138,
+        151,
+        187,
         225
       ],
       "windDirectionCardinal": [
         "SW",
         "SSW",
-        "S",
+        "SSW",
         "SSE",
         "SE",
         "SSE",
@@ -366,7 +366,7 @@
       "windPhrase": [
         "Winds SW at 10 to 15 mph.",
         "Winds SSW at 10 to 15 mph.",
-        "Winds S at 10 to 15 mph.",
+        "Winds SSW at 10 to 15 mph.",
         "Winds SSE at 10 to 15 mph.",
         "Winds SE at 10 to 15 mph.",
         "Winds SSE at 10 to 15 mph.",
@@ -374,7 +374,7 @@
         "Winds SW at 5 to 10 mph."
       ],
       "windSpeed": [
-        11,
+        10,
         12,
         11,
         11,
@@ -388,7 +388,7 @@
         "Mostly Cloudy",
         "Mostly Sunny",
         "Mostly Clear",
-        "Cloudy",
+        "PM Showers",
         "Thunderstorms",
         "Thunderstorms",
         "Thunderstorms Early"
@@ -398,7 +398,7 @@
         "M Cloudy",
         "M Sunny",
         "M Clear",
-        "Cloudy",
+        "PM Showers",
         "T-Storms",
         "T-Storms",
         "T-Storms"
