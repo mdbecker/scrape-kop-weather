@@ -18,10 +18,10 @@
     "Tuesday"
   ],
   "expirationTimeUtc": [
-    1660996634,
-    1660996634,
-    1660996634,
-    1660996634
+    1661002038,
+    1661002038,
+    1661002038,
+    1661002038
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -67,14 +67,14 @@
   ],
   "narrative": [
     "Mix of sun and clouds. Highs in the low 90s and lows in the low 70s.",
-    "Cloudy. Highs in the upper 80s and lows in the low 70s.",
+    "Mostly cloudy. Highs in the upper 80s and lows in the low 70s.",
     "Thunderstorms. Highs in the low 80s and lows in the low 70s.",
-    "Morning showers and thunderstorms. Highs in the mid 80s and lows in the low 70s."
+    "Isolated thunderstorms. Highs in the mid 80s and lows in the low 70s."
   ],
   "qpf": [
     0,
-    0.46,
-    0.9,
+    0.48,
+    1.11,
     0.02
   ],
   "qpfSnow": [
@@ -134,12 +134,12 @@
   "daypart": [
     {
       "cloudCover": [
-        45,
-        59,
-        97,
+        50,
+        64,
+        99,
         95,
-        87,
-        72,
+        88,
+        74,
         56,
         29
       ],
@@ -165,43 +165,43 @@
       ],
       "iconCode": [
         30,
-        29,
+        27,
         26,
         4,
         4,
-        47,
-        38,
+        4,
+        37,
         29
       ],
       "iconCodeExtend": [
         3000,
-        2900,
+        2700,
         2600,
         400,
         400,
-        3809,
-        6203,
+        400,
+        3700,
         2900
       ],
       "narrative": [
-        "Sunshine and clouds mixed. High 92F. Winds SSW at 10 to 15 mph.",
-        "Some clouds. Low 71F. Winds S at 10 to 15 mph.",
+        "Sun and clouds mixed. High 92F. Winds SSW at 10 to 15 mph.",
+        "Partly cloudy early followed by cloudy skies overnight. Low 71F. Winds S at 10 to 15 mph.",
         "Cloudy. A stray shower or thunderstorm is possible. High 88F. Winds SE at 10 to 15 mph.",
         "Scattered thunderstorms in the evening, then mainly cloudy overnight with thunderstorms likely. Low 73F. Winds SE at 10 to 15 mph. Chance of rain 80%.",
-        "Thunderstorms. High 82F. Winds S at 5 to 10 mph. Chance of rain 80%.",
-        "Variably cloudy with scattered thunderstorms. Low 71F. Winds SW at 5 to 10 mph. Chance of rain 70%.",
-        "Partly to mostly cloudy skies with scattered thunderstorms in the morning. High 86F. Winds WSW at 10 to 15 mph. Chance of rain 40%.",
-        "A few clouds. Low 71F. Winds W at 5 to 10 mph."
+        "Thunderstorms likely. High 82F. Winds S at 5 to 10 mph. Chance of rain 80%.",
+        "Thunderstorms likely in the evening. Then a chance of scattered thunderstorms later on. Low 71F. Winds SW at 5 to 10 mph. Chance of rain 70%.",
+        "Isolated thunderstorms in the morning, then skies turning partly cloudy late. High 86F. Winds WSW at 10 to 15 mph. Chance of rain 40%.",
+        "A few clouds from time to time. Low 71F. Winds W at 5 to 10 mph."
       ],
       "precipChance": [
         4,
         13,
-        21,
-        81,
+        24,
         79,
-        70,
+        80,
+        71,
         37,
-        16
+        15
       ],
       "precipType": [
         "rain",
@@ -217,9 +217,9 @@
         0,
         0,
         0,
-        0.46,
-        0.72,
-        0.18,
+        0.48,
+        0.8,
+        0.3,
         0.02,
         0
       ],
@@ -254,14 +254,14 @@
         null
       ],
       "relativeHumidity": [
-        53,
+        48,
         75,
         62,
         82,
         81,
         87,
-        69,
-        76
+        70,
+        75
       ],
       "snowRange": [
         "",
@@ -294,9 +294,9 @@
         86
       ],
       "temperatureWindChill": [
-        75,
+        78,
         71,
-        73,
+        72,
         73,
         74,
         71,
@@ -344,14 +344,14 @@
         0
       ],
       "windDirection": [
-        203,
-        176,
+        202,
+        177,
         146,
-        143,
+        144,
         178,
-        216,
-        239,
-        260
+        215,
+        240,
+        262
       ],
       "windDirectionCardinal": [
         "SSW",
@@ -385,22 +385,22 @@
       ],
       "wxPhraseLong": [
         "Partly Cloudy",
-        "Partly Cloudy",
+        "Mostly Cloudy",
         "Cloudy",
         "Thunderstorms",
         "Thunderstorms",
-        "Scattered Thunderstorms",
-        "AM Thunderstorms",
+        "Thunderstorms",
+        "Isolated Thunderstorms",
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
         "P Cloudy",
-        "P Cloudy",
+        "M Cloudy",
         "Cloudy",
         "T-Storms",
         "T-Storms",
-        "Sct T-Storms",
-        "AM T-Storms",
+        "T-Storms",
+        "Iso T-Storms",
         "P Cloudy"
       ]
     }
