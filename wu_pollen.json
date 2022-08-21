@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1661036400,
       1661079600,
       1661122800,
       1661166000,
@@ -22,10 +21,11 @@
       1661511600,
       1661554800,
       1661598000,
-      1661641200
+      1661641200,
+      1661684400,
+      1661727600
     ],
     "fcstValidLocal": [
-      "2022-08-20T19:00:00-0400",
       "2022-08-21T07:00:00-0400",
       "2022-08-21T19:00:00-0400",
       "2022-08-22T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2022-08-26T07:00:00-0400",
       "2022-08-26T19:00:00-0400",
       "2022-08-27T07:00:00-0400",
-      "2022-08-27T19:00:00-0400"
+      "2022-08-27T19:00:00-0400",
+      "2022-08-28T07:00:00-0400",
+      "2022-08-28T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Monday",
-      "Monday night",
       "Tuesday",
       "Tuesday night",
       "Wednesday",
@@ -90,14 +93,17 @@
       "Friday",
       "Friday night",
       "Saturday",
-      "Saturday night"
+      "Saturday night",
+      "Sunday",
+      "Sunday night"
     ],
     "grassPollenIndex": [
-      2,
+      1,
       1,
       0,
       0,
       0,
+      1,
       1,
       1,
       1,
@@ -110,11 +116,12 @@
       1
     ],
     "grassPollenCategory": [
-      "Moderate",
+      "Low",
       "Low",
       "None",
       "None",
       "None",
+      "Low",
       "Low",
       "Low",
       "Low",
@@ -127,6 +134,7 @@
       "Low"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -175,9 +184,11 @@
       0,
       0,
       0,
+      0,
       0
     ],
     "ragweedPollenCategory": [
+      "None",
       "None",
       "None",
       "None",
