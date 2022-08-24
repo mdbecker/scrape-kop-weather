@@ -1,81 +1,81 @@
 {
   "calendarDayTemperatureMax": [
-    88,
     89,
     93,
-    93
+    93,
+    91
   ],
   "calendarDayTemperatureMin": [
-    69,
-    69,
     70,
-    74
+    70,
+    74,
+    73
   ],
   "dayOfWeek": [
-    "Tuesday",
     "Wednesday",
     "Thursday",
-    "Friday"
+    "Friday",
+    "Saturday"
   ],
   "expirationTimeUtc": [
-    1661324635,
-    1661324635,
-    1661324635,
-    1661324635
+    1661328237,
+    1661328237,
+    1661328237,
+    1661328237
   ],
   "moonPhase": [
     "Waning Crescent",
     "Waning Crescent",
-    "Waning Crescent",
+    "New Moon",
     "New Moon"
   ],
   "moonPhaseCode": [
     "WNC",
     "WNC",
-    "WNC",
+    "N",
     "N"
   ],
   "moonPhaseDay": [
-    26,
     27,
     28,
-    29
+    29,
+    0
   ],
   "moonriseTimeLocal": [
-    "2022-08-23T02:21:23-0400",
-    "2022-08-24T03:19:03-0400",
-    "2022-08-25T04:19:40-0400",
-    "2022-08-26T05:23:00-0400"
+    "2022-08-24T03:19:02-0400",
+    "2022-08-25T04:19:39-0400",
+    "2022-08-26T05:23:00-0400",
+    "2022-08-27T06:25:57-0400"
   ],
   "moonriseTimeUtc": [
-    1661235683,
-    1661325543,
-    1661415580,
-    1661505780
+    1661325542,
+    1661415579,
+    1661505780,
+    1661595957
   ],
   "moonsetTimeLocal": [
-    "2022-08-23T18:08:11-0400",
-    "2022-08-24T18:47:27-0400",
-    "2022-08-25T19:21:07-0400",
-    "2022-08-26T19:49:45-0400"
+    "2022-08-24T18:47:38-0400",
+    "2022-08-25T19:21:17-0400",
+    "2022-08-26T19:49:54-0400",
+    "2022-08-27T20:14:52-0400"
   ],
   "moonsetTimeUtc": [
-    1661292491,
-    1661381247,
-    1661469667,
-    1661557785
+    1661381258,
+    1661469677,
+    1661557794,
+    1661645692
   ],
   "narrative": [
-    "Clear. Lows overnight in the upper 60s.",
-    "Abundant sunshine. Highs in the low 90s and lows in the low 70s.",
+    "Sunny. Highs in the upper 80s and lows in the low 70s.",
     "A few clouds. Highs in the low 90s and lows in the mid 70s.",
-    "Times of sun and clouds. Highs in the low 90s and lows in the low 70s."
+    "Partly cloudy. Highs in the low 90s and lows in the low 70s.",
+    "Thunderstorms developing in the afternoon. Highs in the low 90s and lows in the low 70s."
   ],
   "qpf": [
     0,
     0,
     0,
-    0
+    0.12
   ],
   "qpfSnow": [
     0,
@@ -84,67 +84,67 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2022-08-23T06:20:16-0400",
-    "2022-08-24T06:21:12-0400",
-    "2022-08-25T06:22:09-0400",
-    "2022-08-26T06:23:05-0400"
+    "2022-08-24T06:21:15-0400",
+    "2022-08-25T06:22:11-0400",
+    "2022-08-26T06:23:07-0400",
+    "2022-08-27T06:24:04-0400"
   ],
   "sunriseTimeUtc": [
-    1661250016,
-    1661336472,
-    1661422929,
-    1661509385
+    1661336475,
+    1661422931,
+    1661509387,
+    1661595844
   ],
   "sunsetTimeLocal": [
-    "2022-08-23T19:46:09-0400",
-    "2022-08-24T19:44:41-0400",
-    "2022-08-25T19:43:12-0400",
-    "2022-08-26T19:41:42-0400"
+    "2022-08-24T19:44:48-0400",
+    "2022-08-25T19:43:19-0400",
+    "2022-08-26T19:41:49-0400",
+    "2022-08-27T19:40:18-0400"
   ],
   "sunsetTimeUtc": [
-    1661298369,
-    1661384681,
-    1661470992,
-    1661557302
+    1661384688,
+    1661470999,
+    1661557309,
+    1661643618
   ],
   "temperatureMax": [
-    null,
-    90,
+    89,
     93,
-    93
+    93,
+    91
   ],
   "temperatureMin": [
-    69,
     70,
     74,
-    73
+    73,
+    72
   ],
   "validTimeLocal": [
-    "2022-08-23T07:00:00-0400",
     "2022-08-24T07:00:00-0400",
     "2022-08-25T07:00:00-0400",
-    "2022-08-26T07:00:00-0400"
+    "2022-08-26T07:00:00-0400",
+    "2022-08-27T07:00:00-0400"
   ],
   "validTimeUtc": [
-    1661252400,
     1661338800,
     1661425200,
-    1661511600
+    1661511600,
+    1661598000
   ],
   "daypart": [
     {
       "cloudCover": [
-        null,
-        9,
-        11,
-        8,
-        24,
-        31,
-        38,
-        29
+        10,
+        7,
+        26,
+        33,
+        42,
+        30,
+        34,
+        44
       ],
       "dayOrNight": [
-        null,
+        "D",
         "N",
         "D",
         "N",
@@ -154,57 +154,57 @@
         "N"
       ],
       "daypartName": [
-        null,
+        "Today",
         "Tonight",
         "Tomorrow",
         "Tomorrow night",
-        "Thursday",
-        "Thursday night",
         "Friday",
-        "Friday night"
+        "Friday night",
+        "Saturday",
+        "Saturday night"
       ],
       "iconCode": [
-        null,
-        31,
         32,
         31,
         34,
         29,
         30,
+        29,
+        38,
         29
       ],
       "iconCodeExtend": [
-        null,
-        3100,
         3200,
         3100,
         3400,
         2900,
         3000,
+        2900,
+        7203,
         2900
       ],
       "narrative": [
-        null,
-        "Clear skies. Low 69F. Winds light and variable.",
-        "A mainly sunny sky. High around 90F. Winds WNW at 10 to 15 mph.",
-        "A mostly clear sky. Low around 70F. Winds W at 5 to 10 mph.",
-        "Sunshine and some clouds. High 93F. Winds W at 5 to 10 mph.",
-        "Partly cloudy skies. Low 74F. Winds SW at 5 to 10 mph.",
-        "Partly cloudy. A stray shower or thunderstorm is possible. High 93F. Winds SW at 10 to 15 mph.",
-        "A few clouds. Low 73F. Winds WSW at 5 to 10 mph."
+        "Sunny. High 89F. Winds WNW at 10 to 15 mph.",
+        "A clear sky. Low around 70F. Winds W at 5 to 10 mph.",
+        "Sunny, along with a few afternoon clouds. High 93F. Winds W at 5 to 10 mph.",
+        "A few clouds from time to time. Low 74F. Winds SW at 5 to 10 mph.",
+        "Partly cloudy skies. A stray shower or thunderstorm is possible. High 93F. Winds SW at 10 to 15 mph.",
+        "Partly cloudy. Low 73F. Winds WSW at 5 to 10 mph.",
+        "Mostly sunny early. Scattered thunderstorms developing later in the day. High 91F. Winds WNW at 5 to 10 mph. Chance of rain 60%.",
+        "Partly cloudy skies. Low 72F. Winds SE at 5 to 10 mph."
       ],
       "precipChance": [
-        null,
-        2,
         3,
         4,
         3,
         6,
+        15,
         17,
-        16
+        57,
+        24
       ],
       "precipType": [
-        null,
+        "rain",
         "rain",
         "rain",
         "rain",
@@ -214,17 +214,17 @@
         "rain"
       ],
       "qpf": [
-        null,
         0,
         0,
         0,
         0,
         0,
         0,
+        0.11,
         0
       ],
       "qpfSnow": [
-        null,
+        0,
         0,
         0,
         0,
@@ -238,9 +238,9 @@
         null,
         null,
         null,
-        null,
-        null,
         "Q8001",
+        null,
+        null,
         null
       ],
       "qualifierPhrase": [
@@ -248,23 +248,23 @@
         null,
         null,
         null,
-        null,
-        null,
         "A stray shower or thunderstorm is possible.",
+        null,
+        null,
         null
       ],
       "relativeHumidity": [
-        null,
-        83,
-        52,
+        59,
         60,
         46,
         68,
         57,
-        67
+        68,
+        56,
+        77
       ],
       "snowRange": [
-        null,
+        "",
         "",
         "",
         "",
@@ -274,57 +274,57 @@
         ""
       ],
       "temperature": [
-        null,
-        69,
-        90,
+        89,
         70,
         93,
         74,
         93,
-        73
+        73,
+        91,
+        72
       ],
       "temperatureHeatIndex": [
-        null,
-        74,
-        90,
+        89,
         87,
         93,
         89,
-        95,
-        91
+        96,
+        91,
+        93,
+        88
       ],
       "temperatureWindChill": [
-        null,
-        69,
-        73,
+        71,
         70,
         71,
         74,
         75,
-        73
+        73,
+        74,
+        72
       ],
       "thunderCategory": [
-        null,
-        "No thunder",
         "No thunder",
         "No thunder",
         "No thunder",
         "No thunder",
         "Thunder possible",
+        "No thunder",
+        "Thunder expected",
         "No thunder"
       ],
       "thunderIndex": [
-        null,
-        0,
         0,
         0,
         0,
         0,
         1,
+        0,
+        2,
         0
       ],
       "uvDescription": [
-        null,
+        "Very High",
         "Low",
         "Very High",
         "Low",
@@ -334,7 +334,7 @@
         "Low"
       ],
       "uvIndex": [
-        null,
+        8,
         0,
         8,
         0,
@@ -344,63 +344,63 @@
         0
       ],
       "windDirection": [
-        null,
-        293,
-        283,
+        285,
         271,
-        272,
+        273,
         214,
-        222,
-        245
+        221,
+        244,
+        288,
+        143
       ],
       "windDirectionCardinal": [
-        null,
-        "WNW",
         "WNW",
         "W",
         "W",
         "SW",
         "SW",
-        "WSW"
+        "WSW",
+        "WNW",
+        "SE"
       ],
       "windPhrase": [
-        null,
-        "Winds light and variable.",
         "Winds WNW at 10 to 15 mph.",
         "Winds W at 5 to 10 mph.",
         "Winds W at 5 to 10 mph.",
         "Winds SW at 5 to 10 mph.",
         "Winds SW at 10 to 15 mph.",
-        "Winds WSW at 5 to 10 mph."
+        "Winds WSW at 5 to 10 mph.",
+        "Winds WNW at 5 to 10 mph.",
+        "Winds SE at 5 to 10 mph."
       ],
       "windSpeed": [
-        null,
-        5,
         10,
         9,
         8,
         8,
         12,
-        9
+        9,
+        6,
+        7
       ],
       "wxPhraseLong": [
-        null,
-        "Clear",
         "Sunny",
         "Clear",
         "Mostly Sunny",
         "Partly Cloudy",
         "Partly Cloudy",
+        "Partly Cloudy",
+        "PM Thunderstorms",
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
-        null,
-        "Clear",
         "Sunny",
         "Clear",
         "M Sunny",
         "P Cloudy",
         "P Cloudy",
+        "P Cloudy",
+        "PM T-Storms",
         "P Cloudy"
       ]
     }
