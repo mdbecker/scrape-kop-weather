@@ -1,12 +1,12 @@
 {
   "calendarDayTemperatureMax": [
+    92,
     91,
-    90,
     88,
     93
   ],
   "calendarDayTemperatureMin": [
-    74,
+    73,
     73,
     73,
     72
@@ -18,10 +18,10 @@
     "Monday"
   ],
   "expirationTimeUtc": [
-    1661506624,
-    1661506624,
-    1661506624,
-    1661506624
+    1661511924,
+    1661511924,
+    1661511924,
+    1661511924
   ],
   "moonPhase": [
     "New Moon",
@@ -66,15 +66,15 @@
     1661821255
   ],
   "narrative": [
-    "Times of sun and clouds. Highs in the low 90s and lows in the low 70s.",
-    "A few clouds. Highs in the low 90s and lows in the low 70s.",
-    "Thunderstorms developing in the afternoon. Highs in the upper 80s and lows in the low 70s.",
-    "Times of sun and clouds. Highs in the low 90s and lows in the mid 70s."
+    "Afternoon thunderstorms. Highs in the low 90s and lows in the low 70s.",
+    "More sun than clouds. Highs in the low 90s and lows in the low 70s.",
+    "Slight chance of a thunderstorm. Highs in the upper 80s and lows in the low 70s.",
+    "Partly cloudy. Highs in the low 90s and lows in the mid 70s."
   ],
   "qpf": [
+    0.02,
     0,
-    0,
-    0.03,
+    0.06,
     0
   ],
   "qpfSnow": [
@@ -108,8 +108,8 @@
     1661816231
   ],
   "temperatureMax": [
+    92,
     91,
-    90,
     88,
     93
   ],
@@ -134,12 +134,12 @@
   "daypart": [
     {
       "cloudCover": [
-        42,
+        46,
         30,
         37,
         42,
-        51,
-        30,
+        46,
+        32,
         35,
         31
       ],
@@ -164,42 +164,42 @@
         "Monday night"
       ],
       "iconCode": [
-        30,
+        38,
         29,
         34,
         29,
-        38,
+        37,
         29,
         30,
         29
       ],
       "iconCodeExtend": [
-        3000,
+        7203,
         2900,
         3400,
         2900,
-        7203,
+        3700,
         2900,
         3000,
         2900
       ],
       "narrative": [
-        "Partly cloudy. A stray shower or thunderstorm is possible. High 91F. Winds SW at 10 to 15 mph.",
-        "Some passing clouds. Low 73F. Winds WSW at 5 to 10 mph.",
-        "Sunny, along with a few afternoon clouds. A stray shower or thunderstorm is possible. High around 90F. Winds N at 5 to 10 mph.",
-        "A few clouds from time to time. Low 73F. Winds ESE at 5 to 10 mph.",
-        "Partial cloudiness early, with scattered showers and thunderstorms in the afternoon. High 88F. Winds ESE at 5 to 10 mph. Chance of rain 40%.",
+        "Partly cloudy early followed by scattered thunderstorms this afternoon. Storms may contain strong gusty winds. High 92F. Winds SW at 10 to 15 mph. Chance of rain 40%.",
+        "Clear to partly cloudy. Low 73F. Winds WSW at 5 to 10 mph.",
+        "Sunny, along with a few afternoon clouds. A stray shower or thunderstorm is possible. High 91F. Winds N at 5 to 10 mph.",
+        "Partly cloudy. Low 73F. Winds ESE at 5 to 10 mph.",
+        "Scattered clouds with the possibility of an isolated thunderstorm developing during the afternoon. High 88F. Winds ESE at 5 to 10 mph. Chance of rain 30%.",
         "Partly cloudy skies. Low 72F. Winds SSE at 5 to 10 mph.",
-        "Intervals of clouds and sunshine. High 93F. Winds S at 10 to 15 mph.",
-        "A few clouds from time to time. Low 74F. Winds SSW at 10 to 15 mph."
+        "Partly cloudy. High 93F. Winds S at 10 to 15 mph.",
+        "Partly cloudy skies. Low 74F. Winds SSW at 10 to 15 mph."
       ],
       "precipChance": [
+        37,
+        19,
         24,
-        19,
-        23,
-        15,
-        40,
-        19,
+        17,
+        33,
+        22,
         15,
         19
       ],
@@ -214,11 +214,11 @@
         "rain"
       ],
       "qpf": [
+        0.02,
         0,
         0,
         0,
-        0,
-        0.03,
+        0.06,
         0,
         0,
         0
@@ -234,7 +234,7 @@
         0
       ],
       "qualifierCode": [
-        "Q8001",
+        "Q8029",
         null,
         "Q8001",
         null,
@@ -244,7 +244,7 @@
         null
       ],
       "qualifierPhrase": [
-        "A stray shower or thunderstorm is possible.",
+        "Storms may contain strong gusty winds.",
         null,
         "A stray shower or thunderstorm is possible.",
         null,
@@ -254,11 +254,11 @@
         null
       ],
       "relativeHumidity": [
-        64,
-        74,
-        58,
-        74,
-        64,
+        62,
+        73,
+        56,
+        72,
+        62,
         81,
         61,
         76
@@ -274,9 +274,9 @@
         ""
       ],
       "temperature": [
-        91,
+        92,
         73,
-        90,
+        91,
         73,
         88,
         72,
@@ -284,11 +284,11 @@
         74
       ],
       "temperatureHeatIndex": [
-        94,
+        95,
         91,
         93,
-        88,
-        92,
+        89,
+        91,
         88,
         96,
         92
@@ -304,7 +304,7 @@
         74
       ],
       "thunderCategory": [
-        "Thunder possible",
+        "Thunder expected",
         "No thunder",
         "Thunder possible",
         "No thunder",
@@ -314,7 +314,7 @@
         "No thunder"
       ],
       "thunderIndex": [
-        1,
+        2,
         0,
         1,
         0,
@@ -344,12 +344,12 @@
         0
       ],
       "windDirection": [
-        226,
-        244,
-        358,
-        106,
-        116,
-        155,
+        230,
+        245,
+        349,
+        110,
+        118,
+        154,
         183,
         195
       ],
@@ -374,7 +374,7 @@
         "Winds SSW at 10 to 15 mph."
       ],
       "windSpeed": [
-        12,
+        13,
         9,
         8,
         8,
@@ -384,21 +384,21 @@
         11
       ],
       "wxPhraseLong": [
-        "Partly Cloudy",
+        "PM Thunderstorms",
         "Partly Cloudy",
         "Mostly Sunny",
         "Partly Cloudy",
-        "PM Thunderstorms",
+        "Isolated Thunderstorms",
         "Partly Cloudy",
         "Partly Cloudy",
         "Partly Cloudy"
       ],
       "wxPhraseShort": [
-        "P Cloudy",
+        "PM T-Storms",
         "P Cloudy",
         "M Sunny",
         "P Cloudy",
-        "PM T-Storms",
+        "Iso T-Storms",
         "P Cloudy",
         "P Cloudy",
         "P Cloudy"
