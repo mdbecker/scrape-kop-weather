@@ -6,10 +6,10 @@
     91
   ],
   "calendarDayTemperatureMin": [
-    66,
     65,
-    67,
-    72
+    65,
+    68,
+    71
   ],
   "dayOfWeek": [
     "Thursday",
@@ -18,10 +18,10 @@
     "Sunday"
   ],
   "expirationTimeUtc": [
-    1662043665,
-    1662043665,
-    1662043665,
-    1662043665
+    1662047278,
+    1662047278,
+    1662047278,
+    1662047278
   ],
   "moonPhase": [
     "Waxing Crescent",
@@ -42,40 +42,40 @@
     8
   ],
   "moonriseTimeLocal": [
-    "2022-09-01T11:52:42-0400",
-    "2022-09-02T13:04:02-0400",
-    "2022-09-03T14:16:41-0400",
-    "2022-09-04T15:28:24-0400"
+    "2022-09-01T11:52:34-0400",
+    "2022-09-02T13:03:53-0400",
+    "2022-09-03T14:16:30-0400",
+    "2022-09-04T15:28:12-0400"
   ],
   "moonriseTimeUtc": [
-    1662047562,
-    1662138242,
-    1662229001,
-    1662319704
+    1662047554,
+    1662138233,
+    1662228990,
+    1662319692
   ],
   "moonsetTimeLocal": [
-    "2022-09-01T22:17:26-0400",
-    "2022-09-02T22:52:02-0400",
-    "2022-09-03T23:35:11-0400",
+    "2022-09-01T22:17:29-0400",
+    "2022-09-02T22:52:07-0400",
+    "2022-09-03T23:35:18-0400",
     ""
   ],
   "moonsetTimeUtc": [
-    1662085046,
-    1662173522,
-    1662262511,
+    1662085049,
+    1662173527,
+    1662262518,
     null
   ],
   "narrative": [
-    "Mainly sunny. Highs in the upper 80s and lows in the mid 60s.",
+    "Sunny. Highs in the upper 80s and lows in the mid 60s.",
     "More sun than clouds. Highs in the upper 80s and lows in the upper 60s.",
-    "Times of sun and clouds. Highs in the upper 80s and lows in the low 70s.",
+    "Partly cloudy. Highs in the upper 80s and lows in the low 70s.",
     "Mostly cloudy. Highs in the low 90s and lows in the low 70s."
   ],
   "qpf": [
     0,
     0,
     0,
-    0.03
+    0.05
   ],
   "qpfSnow": [
     0,
@@ -96,16 +96,16 @@
     1662287489
   ],
   "sunsetTimeLocal": [
-    "2022-09-01T19:32:30-0400",
-    "2022-09-02T19:30:55-0400",
-    "2022-09-03T19:29:19-0400",
-    "2022-09-04T19:27:43-0400"
+    "2022-09-01T19:32:25-0400",
+    "2022-09-02T19:30:50-0400",
+    "2022-09-03T19:29:14-0400",
+    "2022-09-04T19:27:38-0400"
   ],
   "sunsetTimeUtc": [
-    1662075150,
-    1662161455,
-    1662247759,
-    1662334063
+    1662075145,
+    1662161450,
+    1662247754,
+    1662334058
   ],
   "temperatureMax": [
     88,
@@ -115,8 +115,8 @@
   ],
   "temperatureMin": [
     65,
-    67,
-    72,
+    68,
+    71,
     72
   ],
   "validTimeLocal": [
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        8,
-        0,
+        7,
+        1,
         15,
-        54,
+        57,
         65,
-        63,
-        83,
-        85
+        62,
+        81,
+        84
       ],
       "dayOrNight": [
         "D",
@@ -184,12 +184,12 @@
         1100
       ],
       "narrative": [
-        "Sunny. High 88F. Winds W at 10 to 15 mph.",
+        "Plentiful sunshine. High 88F. Winds W at 10 to 15 mph.",
         "Clear skies. Low around 65F. Winds N at 10 to 15 mph.",
         "Except for a few afternoon clouds, mainly sunny. High 87F. Winds E at 5 to 10 mph.",
-        "Partly cloudy skies during the evening will give way to cloudy skies overnight. Low 67F. Winds ESE at 5 to 10 mph.",
-        "Considerable clouds early. Some decrease in clouds later in the day. High 89F. Winds SSE at 5 to 10 mph.",
-        "Partly cloudy skies early will become overcast later during the night. Low 72F. Winds SSW at 5 to 10 mph.",
+        "Partly cloudy in the evening with more clouds for later at night. Low 68F. Winds ESE at 5 to 10 mph.",
+        "Mostly cloudy skies early, then partly cloudy in the afternoon. High 89F. Winds SSE at 5 to 10 mph.",
+        "Partly cloudy skies during the evening will give way to cloudy skies overnight. Low 71F. Winds SSW at 5 to 10 mph.",
         "Cloudy. A stray shower or thunderstorm is possible. High 91F. Winds SW at 5 to 10 mph.",
         "Considerable cloudiness with occasional rain showers. Low 72F. Winds SSW at 5 to 10 mph. Chance of rain 40%."
       ],
@@ -197,7 +197,7 @@
         0,
         1,
         1,
-        7,
+        9,
         7,
         11,
         24,
@@ -221,7 +221,7 @@
         0,
         0,
         0,
-        0.03
+        0.04
       ],
       "qpfSnow": [
         0,
@@ -254,11 +254,11 @@
         null
       ],
       "relativeHumidity": [
-        38,
-        48,
+        37,
+        49,
         40,
         68,
-        54,
+        55,
         72,
         57,
         73
@@ -277,9 +277,9 @@
         88,
         65,
         87,
-        67,
+        68,
         89,
-        72,
+        71,
         91,
         72
       ],
@@ -290,16 +290,16 @@
         82,
         89,
         86,
-        92,
+        93,
         88
       ],
       "temperatureWindChill": [
-        80,
+        82,
         65,
         66,
-        67,
+        68,
         69,
-        72,
+        71,
         73,
         72
       ],
@@ -344,14 +344,14 @@
         0
       ],
       "windDirection": [
-        281,
+        279,
         9,
-        83,
-        119,
-        159,
+        80,
+        117,
+        160,
         197,
-        220,
-        208
+        221,
+        209
       ],
       "windDirectionCardinal": [
         "W",
@@ -376,7 +376,7 @@
       "windSpeed": [
         13,
         10,
-        8,
+        9,
         9,
         8,
         9,
