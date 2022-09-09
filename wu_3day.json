@@ -2,14 +2,14 @@
   "calendarDayTemperatureMax": [
     84,
     84,
-    79,
+    78,
     82
   ],
   "calendarDayTemperatureMin": [
     62,
     63,
     70,
-    70
+    71
   ],
   "dayOfWeek": [
     "Friday",
@@ -18,10 +18,10 @@
     "Monday"
   ],
   "expirationTimeUtc": [
-    1662710514,
-    1662710514,
-    1662710514,
-    1662710514
+    1662714117,
+    1662714117,
+    1662714117,
+    1662714117
   ],
   "moonPhase": [
     "Full Moon",
@@ -66,16 +66,16 @@
     1662987441
   ],
   "narrative": [
-    "Mainly sunny. Highs in the mid 80s and lows in the low 60s.",
-    "Times of sun and clouds. Highs in the mid 80s and lows in the low 70s.",
-    "Showers possible in the afternoon. Highs in the upper 70s and lows in the low 70s.",
+    "Sunshine. Highs in the mid 80s and lows in the low 60s.",
+    "Partly cloudy. Highs in the mid 80s and lows in the low 70s.",
+    "Chance of showers. Highs in the upper 70s and lows in the low 70s.",
     "Thunderstorms. Highs in the low 80s and lows in the low 70s."
   ],
   "qpf": [
     0,
     0,
-    0.35,
-    0.39
+    0.43,
+    0.35
   ],
   "qpfSnow": [
     0,
@@ -110,13 +110,13 @@
   "temperatureMax": [
     84,
     84,
-    79,
+    78,
     82
   ],
   "temperatureMin": [
     63,
     70,
-    70,
+    71,
     71
   ],
   "validTimeLocal": [
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        4,
-        9,
-        63,
-        88,
+        3,
+        10,
+        65,
+        87,
         97,
         98,
-        86,
-        90
+        85,
+        87
       ],
       "dayOrNight": [
         "D",
@@ -168,7 +168,7 @@
         33,
         30,
         26,
-        39,
+        11,
         12,
         4,
         4
@@ -178,30 +178,30 @@
         3300,
         3000,
         2600,
-        7103,
+        1100,
         1240,
         400,
         400
       ],
       "narrative": [
-        "Sunny. High 84F. Winds NE at 5 to 10 mph.",
-        "Mainly clear skies. Low 63F. Winds SSE at 5 to 10 mph.",
-        "Some sun in the morning with increasing clouds during the afternoon. High 84F. Winds SSE at 5 to 10 mph.",
-        "Cloudy. Low around 70F. Winds SSW at 5 to 10 mph.",
-        "Cloudy early with showers for the afternoon hours. High 79F. Winds SSE at 5 to 10 mph. Chance of rain 40%.",
-        "Thundershowers following a period of rain early. Potential for heavy rainfall. Low near 70F. Winds SSE at 5 to 10 mph. Chance of rain 90%.",
-        "Scattered thunderstorms in the morning becoming more widespread in the afternoon. High 82F. Winds S at 5 to 10 mph. Chance of rain 80%.",
-        "Thunderstorms. Low 71F. Winds SSW at 5 to 10 mph. Chance of rain 80%."
+        "Sunny. High 84F. Winds ENE at 5 to 10 mph.",
+        "Generally clear. Low 63F. Winds ESE at 5 to 10 mph.",
+        "Partly to mostly cloudy. High 84F. Winds SSE at 5 to 10 mph.",
+        "Overcast. Low around 70F. Winds S at 5 to 10 mph.",
+        "Considerable cloudiness with occasional rain showers. High 78F. Winds SSE at 5 to 10 mph. Chance of rain 50%.",
+        "Thundershowers following a period of rain early. Potential for heavy rainfall. Low 71F. Winds SSE at 5 to 10 mph. Chance of rain 80%.",
+        "Scattered thunderstorms in the morning, then mainly cloudy during the afternoon with thunderstorms likely. High 82F. Winds SSW at 5 to 10 mph. Chance of rain 80%.",
+        "Thunderstorms likely. Low 71F. Winds SSW at 5 to 10 mph. Chance of rain 80%."
       ],
       "precipChance": [
         2,
         12,
         12,
-        10,
-        44,
-        85,
-        77,
-        81
+        19,
+        52,
+        78,
+        78,
+        82
       ],
       "precipType": [
         "rain",
@@ -218,10 +218,10 @@
         0,
         0,
         0,
-        0.07,
-        0.28,
-        0.18,
-        0.21
+        0.19,
+        0.24,
+        0.15,
+        0.2
       ],
       "qpfSnow": [
         0,
@@ -254,13 +254,13 @@
         null
       ],
       "relativeHumidity": [
-        61,
-        76,
         60,
+        76,
+        61,
         73,
-        70,
-        85,
-        82,
+        73,
+        87,
+        83,
         89
       ],
       "snowRange": [
@@ -278,8 +278,8 @@
         63,
         84,
         70,
-        79,
-        70,
+        78,
+        71,
         82,
         71
       ],
@@ -287,7 +287,7 @@
         84,
         80,
         84,
-        81,
+        80,
         81,
         76,
         86,
@@ -299,7 +299,7 @@
         64,
         70,
         71,
-        70,
+        71,
         72,
         71
       ],
@@ -344,51 +344,51 @@
         0
       ],
       "windDirection": [
-        54,
-        151,
+        57,
+        121,
         161,
-        193,
-        160,
-        157,
         188,
-        205
+        149,
+        163,
+        195,
+        212
       ],
       "windDirectionCardinal": [
-        "NE",
+        "ENE",
+        "ESE",
+        "SSE",
+        "S",
         "SSE",
         "SSE",
         "SSW",
-        "SSE",
-        "SSE",
-        "S",
         "SSW"
       ],
       "windPhrase": [
-        "Winds NE at 5 to 10 mph.",
+        "Winds ENE at 5 to 10 mph.",
+        "Winds ESE at 5 to 10 mph.",
+        "Winds SSE at 5 to 10 mph.",
+        "Winds S at 5 to 10 mph.",
         "Winds SSE at 5 to 10 mph.",
         "Winds SSE at 5 to 10 mph.",
         "Winds SSW at 5 to 10 mph.",
-        "Winds SSE at 5 to 10 mph.",
-        "Winds SSE at 5 to 10 mph.",
-        "Winds S at 5 to 10 mph.",
         "Winds SSW at 5 to 10 mph."
       ],
       "windSpeed": [
+        9,
         8,
-        8,
+        7,
         7,
         8,
         8,
-        8,
         9,
-        9
+        8
       ],
       "wxPhraseLong": [
         "Sunny",
         "Mostly Clear",
         "Partly Cloudy",
         "Cloudy",
-        "PM Showers",
+        "Showers",
         "Rain/Thunder",
         "Thunderstorms",
         "Thunderstorms"
@@ -398,7 +398,7 @@
         "M Clear",
         "P Cloudy",
         "Cloudy",
-        "PM Showers",
+        "Showers",
         "Rain/Thunder",
         "T-Storms",
         "T-Storms"
