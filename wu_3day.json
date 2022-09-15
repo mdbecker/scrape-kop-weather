@@ -1,9 +1,9 @@
 {
   "calendarDayTemperatureMax": [
     77,
-    81,
+    82,
     84,
-    88
+    89
   ],
   "calendarDayTemperatureMin": [
     60,
@@ -18,10 +18,10 @@
     "Sunday"
   ],
   "expirationTimeUtc": [
-    1663242083,
-    1663242083,
-    1663242083,
-    1663242083
+    1663249288,
+    1663249288,
+    1663249288,
+    1663249288
   ],
   "moonPhase": [
     "Waning Gibbous",
@@ -68,8 +68,8 @@
   "narrative": [
     "Abundant sunshine. Highs in the upper 70s and lows in the mid 50s.",
     "Mainly sunny. Highs in the low 80s and lows in the low 60s.",
-    "A few clouds. Highs in the mid 80s and lows in the mid 60s.",
-    "Mainly sunny. Highs in the upper 80s and lows in the upper 60s."
+    "Sunny. Highs in the mid 80s and lows in the mid 60s.",
+    "Sunny. Highs in the upper 80s and lows in the upper 60s."
   ],
   "qpf": [
     0,
@@ -109,9 +109,9 @@
   ],
   "temperatureMax": [
     77,
-    81,
+    82,
     84,
-    88
+    89
   ],
   "temperatureMin": [
     55,
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        7,
-        1,
-        8,
-        15,
-        22,
-        20,
+        10,
+        0,
+        10,
         14,
-        18
+        19,
+        20,
+        15,
+        16
       ],
       "dayOrNight": [
         "D",
@@ -168,7 +168,7 @@
         31,
         32,
         33,
-        34,
+        32,
         33,
         32,
         33
@@ -178,30 +178,30 @@
         3100,
         3200,
         3300,
-        3400,
+        3200,
         3300,
         3200,
         3300
       ],
       "narrative": [
-        "Abundant sunshine. High 77F. Winds N at 10 to 15 mph.",
+        "Abundant sunshine. High 77F. Winds NNW at 15 to 25 mph.",
         "Clear skies. Low near 55F. Winds NNW at 5 to 10 mph.",
-        "Sunny. High 81F. Winds light and variable.",
-        "Mostly clear skies. Low around 60F. Winds light and variable.",
-        "Mostly sunny skies. High 84F. Winds S at 5 to 10 mph.",
+        "Mainly sunny. High 82F. Winds light and variable.",
+        "A mostly clear sky. Low near 60F. Winds light and variable.",
+        "Sunny skies. High 84F. Winds S at 5 to 10 mph.",
         "Mostly clear. Low 64F. Winds SSW at 5 to 10 mph.",
-        "Sunny skies. High 88F. Winds SW at 10 to 15 mph.",
+        "A mainly sunny sky. High 89F. Winds SW at 10 to 15 mph.",
         "Mainly clear. Low 68F. Winds SW at 5 to 10 mph."
       ],
       "precipChance": [
-        2,
+        1,
         4,
         4,
         5,
         5,
         7,
         7,
-        7
+        6
       ],
       "precipType": [
         "rain",
@@ -254,14 +254,14 @@
         null
       ],
       "relativeHumidity": [
-        50,
+        42,
         60,
         44,
-        63,
-        52,
-        72,
-        58,
-        68
+        62,
+        51,
+        71,
+        57,
+        67
       ],
       "snowRange": [
         "",
@@ -276,25 +276,25 @@
       "temperature": [
         77,
         55,
-        81,
+        82,
         60,
         84,
         64,
-        88,
+        89,
         68
       ],
       "temperatureHeatIndex": [
         77,
-        72,
-        81,
+        73,
+        82,
         76,
         84,
         79,
-        88,
+        89,
         84
       ],
       "temperatureWindChill": [
-        66,
+        70,
         55,
         56,
         60,
@@ -344,17 +344,17 @@
         0
       ],
       "windDirection": [
-        349,
-        343,
-        326,
-        266,
-        173,
-        206,
+        346,
+        344,
+        325,
+        263,
+        179,
+        207,
         230,
-        225
+        226
       ],
       "windDirectionCardinal": [
-        "N",
+        "NNW",
         "NNW",
         "NW",
         "W",
@@ -364,7 +364,7 @@
         "SW"
       ],
       "windPhrase": [
-        "Winds N at 10 to 15 mph.",
+        "Winds NNW at 15 to 25 mph.",
         "Winds NNW at 5 to 10 mph.",
         "Winds light and variable.",
         "Winds light and variable.",
@@ -374,7 +374,7 @@
         "Winds SW at 5 to 10 mph."
       ],
       "windSpeed": [
-        12,
+        17,
         8,
         6,
         6,
@@ -388,7 +388,7 @@
         "Clear",
         "Sunny",
         "Mostly Clear",
-        "Mostly Sunny",
+        "Sunny",
         "Mostly Clear",
         "Sunny",
         "Mostly Clear"
@@ -398,7 +398,7 @@
         "Clear",
         "Sunny",
         "M Clear",
-        "M Sunny",
+        "Sunny",
         "M Clear",
         "Sunny",
         "M Clear"
