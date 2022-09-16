@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1663282800,
       1663326000,
       1663369200,
       1663412400,
@@ -22,10 +21,11 @@
       1663758000,
       1663801200,
       1663844400,
-      1663887600
+      1663887600,
+      1663930800,
+      1663974000
     ],
     "fcstValidLocal": [
-      "2022-09-15T19:00:00-0400",
       "2022-09-16T07:00:00-0400",
       "2022-09-16T19:00:00-0400",
       "2022-09-17T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2022-09-21T07:00:00-0400",
       "2022-09-21T19:00:00-0400",
       "2022-09-22T07:00:00-0400",
-      "2022-09-22T19:00:00-0400"
+      "2022-09-22T19:00:00-0400",
+      "2022-09-23T07:00:00-0400",
+      "2022-09-23T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Saturday",
-      "Saturday night",
       "Sunday",
       "Sunday night",
       "Monday",
@@ -90,9 +93,12 @@
       "Wednesday",
       "Wednesday night",
       "Thursday",
-      "Thursday night"
+      "Thursday night",
+      "Friday",
+      "Friday night"
     ],
     "grassPollenIndex": [
+      0,
       0,
       0,
       0,
@@ -124,9 +130,11 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -169,13 +178,14 @@
       2,
       2,
       2,
-      1,
       2,
       2,
       2,
       2,
       2,
-      2
+      2,
+      2,
+      3
     ],
     "ragweedPollenCategory": [
       "Moderate",
@@ -186,13 +196,14 @@
       "Moderate",
       "Moderate",
       "Moderate",
-      "Low",
       "Moderate",
       "Moderate",
       "Moderate",
       "Moderate",
       "Moderate",
-      "Moderate"
+      "Moderate",
+      "Moderate",
+      "High"
     ]
   }
 }
