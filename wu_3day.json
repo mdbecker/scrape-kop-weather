@@ -1,14 +1,14 @@
 {
   "calendarDayTemperatureMax": [
-    83,
+    68,
+    82,
     86,
-    88,
-    85
+    88
   ],
   "calendarDayTemperatureMin": [
+    63,
     60,
     65,
-    69,
     69
   ],
   "dayOfWeek": [
@@ -18,10 +18,10 @@
     "Tuesday"
   ],
   "expirationTimeUtc": [
-    1663472736,
-    1663472736,
-    1663472736,
-    1663472736
+    1663476347,
+    1663476347,
+    1663476347,
+    1663476347
   ],
   "moonPhase": [
     "Last Quarter",
@@ -42,34 +42,34 @@
     24
   ],
   "moonriseTimeLocal": [
-    "2022-09-17T23:23:07-0400",
+    "2022-09-17T23:23:10-0400",
     "",
-    "2022-09-19T00:12:09-0400",
-    "2022-09-20T01:07:55-0400"
+    "2022-09-19T00:12:11-0400",
+    "2022-09-20T01:07:57-0400"
   ],
   "moonriseTimeUtc": [
-    1663471387,
+    1663471390,
     null,
-    1663560729,
-    1663650475
+    1663560731,
+    1663650477
   ],
   "moonsetTimeLocal": [
-    "2022-09-17T14:20:54-0400",
-    "2022-09-18T15:16:22-0400",
-    "2022-09-19T16:04:39-0400",
-    "2022-09-20T16:46:12-0400"
+    "2022-09-17T14:20:57-0400",
+    "2022-09-18T15:16:24-0400",
+    "2022-09-19T16:04:42-0400",
+    "2022-09-20T16:46:14-0400"
   ],
   "moonsetTimeUtc": [
-    1663438854,
-    1663528582,
-    1663617879,
-    1663706772
+    1663438857,
+    1663528584,
+    1663617882,
+    1663706774
   ],
   "narrative": [
-    "Mostly clear. Lows overnight in the mid 60s.",
-    "Abundant sunshine. Highs in the mid 80s and lows in the upper 60s.",
+    "Partly cloudy. Lows overnight in the mid 60s.",
+    "Sunshine. Highs in the mid 80s and lows in the upper 60s.",
     "Plenty of sun. Highs in the upper 80s and lows in the upper 60s.",
-    "Abundant sunshine. Highs in the mid 80s and lows in the mid 60s."
+    "Mainly sunny. Highs in the mid 80s and lows in the mid 60s."
   ],
   "qpf": [
     0,
@@ -84,28 +84,28 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2022-09-17T06:43:42-0400",
-    "2022-09-18T06:44:38-0400",
-    "2022-09-19T06:45:35-0400",
-    "2022-09-20T06:46:32-0400"
+    "2022-09-17T06:43:44-0400",
+    "2022-09-18T06:44:41-0400",
+    "2022-09-19T06:45:38-0400",
+    "2022-09-20T06:46:35-0400"
   ],
   "sunriseTimeUtc": [
-    1663411422,
-    1663497878,
-    1663584335,
-    1663670792
+    1663411424,
+    1663497881,
+    1663584338,
+    1663670795
   ],
   "sunsetTimeLocal": [
-    "2022-09-17T19:06:16-0400",
-    "2022-09-18T19:04:35-0400",
-    "2022-09-19T19:02:55-0400",
-    "2022-09-20T19:01:15-0400"
+    "2022-09-17T19:06:18-0400",
+    "2022-09-18T19:04:38-0400",
+    "2022-09-19T19:02:58-0400",
+    "2022-09-20T19:01:17-0400"
   ],
   "sunsetTimeUtc": [
-    1663455976,
-    1663542275,
-    1663628575,
-    1663714875
+    1663455978,
+    1663542278,
+    1663628578,
+    1663714877
   ],
   "temperatureMax": [
     null,
@@ -135,7 +135,7 @@
     {
       "cloudCover": [
         null,
-        24,
+        25,
         10,
         17,
         46,
@@ -165,7 +165,7 @@
       ],
       "iconCode": [
         null,
-        33,
+        29,
         32,
         33,
         34,
@@ -175,7 +175,7 @@
       ],
       "iconCodeExtend": [
         null,
-        3300,
+        2900,
         3200,
         3300,
         3400,
@@ -185,18 +185,18 @@
       ],
       "narrative": [
         null,
-        "Mainly clear. Low around 65F. Winds SSW at 5 to 10 mph.",
-        "Mainly sunny. High 86F. Winds SW at 10 to 15 mph.",
+        "A few clouds. Low near 65F. Winds light and variable.",
+        "Mostly sunny. High 86F. Winds SW at 10 to 15 mph.",
         "Partly cloudy. Low 69F. Winds SW at 5 to 10 mph.",
-        "Sunny along with a few clouds. High 88F. Winds SW at 10 to 20 mph.",
-        "Partly cloudy skies. Low 69F. Winds W at 10 to 15 mph.",
-        "Sunny skies. High around 85F. Winds NW at 10 to 15 mph.",
+        "Except for a few afternoon clouds, mainly sunny. High 88F. Winds SW at 10 to 20 mph.",
+        "Partly cloudy. Low 69F. Winds W at 10 to 15 mph.",
+        "A mainly sunny sky. High near 85F. Winds NW at 10 to 15 mph.",
         "Mostly clear skies. Low 66F. Winds W at 5 to 10 mph."
       ],
       "precipChance": [
         null,
-        5,
-        8,
+        3,
+        7,
         7,
         15,
         17,
@@ -255,7 +255,7 @@
       ],
       "relativeHumidity": [
         null,
-        82,
+        84,
         60,
         67,
         56,
@@ -285,7 +285,7 @@
       ],
       "temperatureHeatIndex": [
         null,
-        69,
+        68,
         86,
         82,
         88,
@@ -345,7 +345,7 @@
       ],
       "windDirection": [
         null,
-        212,
+        214,
         226,
         222,
         233,
@@ -355,7 +355,7 @@
       ],
       "windDirectionCardinal": [
         null,
-        "SSW",
+        "SW",
         "SW",
         "SW",
         "SW",
@@ -365,7 +365,7 @@
       ],
       "windPhrase": [
         null,
-        "Winds SSW at 5 to 10 mph.",
+        "Winds light and variable.",
         "Winds SW at 10 to 15 mph.",
         "Winds SW at 5 to 10 mph.",
         "Winds SW at 10 to 20 mph.",
@@ -385,7 +385,7 @@
       ],
       "wxPhraseLong": [
         null,
-        "Mostly Clear",
+        "Partly Cloudy",
         "Sunny",
         "Mostly Clear",
         "Mostly Sunny",
@@ -395,7 +395,7 @@
       ],
       "wxPhraseShort": [
         null,
-        "M Clear",
+        "P Cloudy",
         "Sunny",
         "M Clear",
         "M Sunny",
