@@ -9,7 +9,7 @@
     49,
     59,
     61,
-    58
+    57
   ],
   "dayOfWeek": [
     "Saturday",
@@ -18,10 +18,10 @@
     "Tuesday"
   ],
   "expirationTimeUtc": [
-    1664007629,
-    1664007629,
-    1664007629,
-    1664007629
+    1664011239,
+    1664011239,
+    1664011239,
+    1664011239
   ],
   "moonPhase": [
     "Waning Crescent",
@@ -66,10 +66,10 @@
     1664322756
   ],
   "narrative": [
-    "Times of sun and clouds. Highs in the low 70s and lows in the upper 50s.",
-    "Isolated thunderstorms. Highs in the upper 70s and lows in the low 60s.",
-    "Sunny. Highs in the mid 70s and lows in the upper 50s.",
-    "Plenty of sun. Highs in the low 70s and lows in the mid 50s."
+    "Morning clouds followed by afternoon sun. Highs in the low 70s and lows in the upper 50s.",
+    "Thunderstorms developing in the afternoon. Highs in the upper 70s and lows in the low 60s.",
+    "Mainly sunny. Highs in the mid 70s and lows in the upper 50s.",
+    "A few clouds. Highs in the low 70s and lows in the mid 50s."
   ],
   "qpf": [
     0,
@@ -116,7 +116,7 @@
   "temperatureMin": [
     59,
     61,
-    58,
+    57,
     54
   ],
   "validTimeLocal": [
@@ -134,14 +134,14 @@
   "daypart": [
     {
       "cloudCover": [
-        45,
-        50,
+        55,
+        51,
         70,
-        36,
+        35,
         11,
-        26,
-        27,
-        9
+        28,
+        28,
+        11
       ],
       "dayOrNight": [
         "D",
@@ -166,7 +166,7 @@
       "iconCode": [
         30,
         27,
-        37,
+        38,
         47,
         32,
         33,
@@ -174,9 +174,9 @@
         31
       ],
       "iconCodeExtend": [
-        3000,
+        9003,
         2700,
-        3700,
+        7203,
         6200,
         3200,
         3300,
@@ -184,21 +184,21 @@
         3100
       ],
       "narrative": [
-        "A mix of clouds and sun. High 72F. Winds WNW at 10 to 15 mph.",
-        "Partly cloudy skies this evening will become overcast overnight. Low 59F. Winds SW at 5 to 10 mph.",
-        "Mostly cloudy in the morning. Isolated thunderstorms may develop later in the day. Storms may contain strong gusty winds. High 79F. Winds SSW at 10 to 20 mph. Chance of rain 40%.",
-        "Scattered thunderstorms during the evening, then becoming clear overnight. Low 61F. Winds WSW at 10 to 15 mph. Chance of rain 50%.",
-        "Sunny skies. High 76F. Winds WSW at 15 to 25 mph.",
-        "Mainly clear skies. Low 58F. Winds WSW at 10 to 15 mph.",
+        "Cloudy skies early, followed by partial clearing. High 72F. Winds WNW at 10 to 15 mph.",
+        "Partly cloudy early followed by cloudy skies overnight. Low 59F. Winds SW at 5 to 10 mph.",
+        "Mostly cloudy in the morning with scattered thunderstorms developing later in the day. Storms may contain strong gusty winds. High 79F. Winds SSW at 10 to 20 mph. Chance of rain 40%.",
+        "Scattered thunderstorms in the evening. Clear skies overnight. Low 61F. Winds WSW at 10 to 15 mph. Chance of rain 50%.",
+        "Mainly sunny. High 76F. Winds WSW at 15 to 25 mph.",
+        "Generally fair. Low 57F. Winds WSW at 10 to 15 mph.",
         "A few clouds early, otherwise mostly sunny. High 73F. Winds WSW at 10 to 20 mph.",
         "Clear. Low 54F. Winds W at 5 to 10 mph."
       ],
       "precipChance": [
         1,
-        6,
-        39,
-        47,
-        6,
+        4,
+        41,
+        46,
+        7,
         2,
         2,
         3
@@ -216,7 +216,7 @@
       "qpf": [
         0,
         0,
-        0.03,
+        0.04,
         0.06,
         0,
         0,
@@ -254,7 +254,7 @@
         null
       ],
       "relativeHumidity": [
-        49,
+        48,
         61,
         58,
         76,
@@ -279,7 +279,7 @@
         79,
         61,
         76,
-        58,
+        57,
         73,
         54
       ],
@@ -299,9 +299,9 @@
         60,
         61,
         61,
-        58,
-        58,
-        53
+        57,
+        57,
+        54
       ],
       "thunderCategory": [
         "No thunder",
@@ -344,14 +344,14 @@
         0
       ],
       "windDirection": [
-        289,
-        215,
+        288,
+        216,
         212,
         238,
-        252,
-        249,
-        257,
-        277
+        253,
+        251,
+        258,
+        280
       ],
       "windDirectionCardinal": [
         "WNW",
@@ -375,18 +375,18 @@
       ],
       "windSpeed": [
         11,
-        7,
+        8,
         14,
-        12,
-        17,
+        11,
+        18,
         11,
         14,
         10
       ],
       "wxPhraseLong": [
-        "Partly Cloudy",
+        "AM Clouds/PM Sun",
         "Mostly Cloudy",
-        "Isolated Thunderstorms",
+        "PM Thunderstorms",
         "Thunderstorms Early",
         "Sunny",
         "Mostly Clear",
@@ -394,9 +394,9 @@
         "Clear"
       ],
       "wxPhraseShort": [
-        "P Cloudy",
+        "AM Clouds",
         "M Cloudy",
-        "Iso T-Storms",
+        "PM T-Storms",
         "T-Storms",
         "Sunny",
         "M Clear",
