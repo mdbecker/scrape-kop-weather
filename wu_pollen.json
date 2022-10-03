@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1664751600,
       1664794800,
       1664838000,
       1664881200,
@@ -22,10 +21,11 @@
       1665226800,
       1665270000,
       1665313200,
-      1665356400
+      1665356400,
+      1665399600,
+      1665442800
     ],
     "fcstValidLocal": [
-      "2022-10-02T19:00:00-0400",
       "2022-10-03T07:00:00-0400",
       "2022-10-03T19:00:00-0400",
       "2022-10-04T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2022-10-08T07:00:00-0400",
       "2022-10-08T19:00:00-0400",
       "2022-10-09T07:00:00-0400",
-      "2022-10-09T19:00:00-0400"
+      "2022-10-09T19:00:00-0400",
+      "2022-10-10T07:00:00-0400",
+      "2022-10-10T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Tuesday",
-      "Tuesday night",
       "Wednesday",
       "Wednesday night",
       "Thursday",
@@ -90,9 +93,12 @@
       "Saturday",
       "Saturday night",
       "Sunday",
-      "Sunday night"
+      "Sunday night",
+      "Monday",
+      "Monday night"
     ],
     "grassPollenIndex": [
+      0,
       0,
       0,
       0,
@@ -124,9 +130,11 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,13 +166,14 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
       2,
-      2,
-      2,
       1,
+      0,
+      0,
       0,
       1,
       2,
@@ -175,17 +184,19 @@
       3,
       3,
       3,
+      3,
       3
     ],
     "ragweedPollenCategory": [
       "Moderate",
-      "Moderate",
-      "Moderate",
       "Low",
+      "None",
+      "None",
       "None",
       "Low",
       "Moderate",
       "Moderate",
+      "High",
       "High",
       "High",
       "High",
