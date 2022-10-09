@@ -8,12 +8,12 @@
     "airQualityCategory": "Good",
     "airQualityCategoryIndex": 1,
     "airQualityCategoryIndexColor": "00E838",
-    "primaryPollutant": "O3",
+    "primaryPollutant": "PM2.5",
     "pollutants": {
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 9.07,
+        "amount": 8.04,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -22,34 +22,34 @@
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 27.17,
+        "amount": 23.04,
+        "unit": "μg/m3",
+        "category": "Good",
+        "categoryIndex": 1,
+        "index": 17
+      },
+      "SO2": {
+        "name": "SO2",
+        "phrase": "Sulfur Dioxide",
+        "amount": 2.79,
+        "unit": "μg/m3",
+        "category": "Good",
+        "categoryIndex": 1,
+        "index": 1
+      },
+      "PM2.5": {
+        "name": "PM2.5",
+        "phrase": "Particulate matter less than 2.5 microns",
+        "amount": 9.09,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
         "index": 21
       },
-      "SO2": {
-        "name": "SO2",
-        "phrase": "Sulfur Dioxide",
-        "amount": 2.98,
-        "unit": "μg/m3",
-        "category": "Good",
-        "categoryIndex": 1,
-        "index": 2
-      },
-      "PM2.5": {
-        "name": "PM2.5",
-        "phrase": "Particulate matter less than 2.5 microns",
-        "amount": 7.57,
-        "unit": "μg/m3",
-        "category": "Good",
-        "categoryIndex": 1,
-        "index": 20
-      },
       "PM10": {
         "name": "PM10",
         "phrase": "Particulate matter less than 10 microns",
-        "amount": 9.67,
+        "amount": 8.83,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -58,7 +58,7 @@
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 145.88,
+        "amount": 143.16,
         "unit": "μg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -75,6 +75,6 @@
         "text": "Air quality is considered satisfactory, and air pollution poses little or no risk."
       }
     },
-    "expireTimeGmt": 1665288008
+    "expireTimeGmt": 1665291632
   }
 }
