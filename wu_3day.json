@@ -1,15 +1,15 @@
 {
   "calendarDayTemperatureMax": [
-    66,
-    70,
-    74,
-    72
+    52,
+    65,
+    69,
+    74
   ],
   "calendarDayTemperatureMin": [
+    44,
     41,
     45,
-    49,
-    51
+    49
   ],
   "dayOfWeek": [
     "Sunday",
@@ -18,10 +18,10 @@
     "Wednesday"
   ],
   "expirationTimeUtc": [
-    1665373998,
-    1665373998,
-    1665373998,
-    1665373998
+    1665377822,
+    1665377822,
+    1665377822,
+    1665377822
   ],
   "moonPhase": [
     "Full Moon",
@@ -43,33 +43,33 @@
   ],
   "moonriseTimeLocal": [
     "2022-10-09T18:39:33-0400",
-    "2022-10-10T19:04:26-0400",
-    "2022-10-11T19:31:07-0400",
-    "2022-10-12T20:00:39-0400"
+    "2022-10-10T19:04:24-0400",
+    "2022-10-11T19:31:05-0400",
+    "2022-10-12T20:00:36-0400"
   ],
   "moonriseTimeUtc": [
     1665355173,
-    1665443066,
-    1665531067,
-    1665619239
+    1665443064,
+    1665531065,
+    1665619236
   ],
   "moonsetTimeLocal": [
     "2022-10-09T06:37:08-0400",
-    "2022-10-10T07:45:56-0400",
-    "2022-10-11T08:53:19-0400",
-    "2022-10-12T10:00:22-0400"
+    "2022-10-10T07:45:58-0400",
+    "2022-10-11T08:53:21-0400",
+    "2022-10-12T10:00:25-0400"
   ],
   "moonsetTimeUtc": [
     1665311828,
-    1665402356,
-    1665492799,
-    1665583222
+    1665402358,
+    1665492801,
+    1665583225
   ],
   "narrative": [
-    "Clear. Lows overnight in the mid 40s.",
-    "Sunny. Highs in the low 70s and lows in the upper 40s.",
-    "Sunshine. Highs in the mid 70s and lows in the low 50s.",
-    "More clouds than sun. Highs in the low 70s and lows in the low 60s."
+    "Mainly clear. Lows overnight in the mid 40s.",
+    "Sunny. Highs in the upper 60s and lows in the upper 40s.",
+    "Sunny. Highs in the mid 70s and lows in the low 50s.",
+    "Mostly cloudy. Highs in the low 70s and lows in the low 60s."
   ],
   "qpf": [
     0,
@@ -84,32 +84,32 @@
     0
   ],
   "sunriseTimeLocal": [
-    "2022-10-09T07:05:14-0400",
-    "2022-10-10T07:06:16-0400",
-    "2022-10-11T07:07:17-0400",
-    "2022-10-12T07:08:20-0400"
+    "2022-10-09T07:05:15-0400",
+    "2022-10-10T07:06:17-0400",
+    "2022-10-11T07:07:18-0400",
+    "2022-10-12T07:08:21-0400"
   ],
   "sunriseTimeUtc": [
-    1665313514,
-    1665399976,
-    1665486437,
-    1665572900
+    1665313515,
+    1665399977,
+    1665486438,
+    1665572901
   ],
   "sunsetTimeLocal": [
-    "2022-10-09T18:30:20-0400",
-    "2022-10-10T18:28:47-0400",
-    "2022-10-11T18:27:15-0400",
-    "2022-10-12T18:25:43-0400"
+    "2022-10-09T18:30:19-0400",
+    "2022-10-10T18:28:46-0400",
+    "2022-10-11T18:27:14-0400",
+    "2022-10-12T18:25:42-0400"
   ],
   "sunsetTimeUtc": [
-    1665354620,
-    1665440927,
-    1665527235,
-    1665613543
+    1665354619,
+    1665440926,
+    1665527234,
+    1665613542
   ],
   "temperatureMax": [
     null,
-    70,
+    69,
     74,
     72
   ],
@@ -137,11 +137,11 @@
         null,
         2,
         6,
+        3,
         4,
-        5,
         22,
-        63,
-        82
+        61,
+        81
       ],
       "dayOrNight": [
         null,
@@ -185,17 +185,17 @@
       ],
       "narrative": [
         null,
-        "Clear skies. Low around 45F. Winds light and variable.",
-        "A mainly sunny sky. High around 70F. Winds W at 5 to 10 mph.",
-        "A mostly clear sky. Low 49F. Winds WSW at 5 to 10 mph.",
+        "Clear skies. Low near 45F. Winds light and variable.",
+        "Sunny. High 69F. Winds W at 5 to 10 mph.",
+        "Clear skies. Low 49F. Winds WSW at 5 to 10 mph.",
         "Sunny. High 74F. Winds W at 5 to 10 mph.",
-        "Mainly clear early, then a few clouds later on. Low 51F. Winds SW at 5 to 10 mph.",
-        "Partly cloudy skies during the morning hours will become overcast in the afternoon. High 72F. Winds SSW at 10 to 15 mph.",
-        "Cloudy skies early with showers later at night. Low 62F. Winds S at 10 to 15 mph. Chance of rain 40%."
+        "Partly cloudy. Low 51F. Winds SW at 5 to 10 mph.",
+        "A mix of clouds and sun early, then becoming cloudy later in the day. High 72F. Winds SSW at 10 to 15 mph.",
+        "Cloudy in the evening, then off and on rain showers after midnight. Low 62F. Winds S at 10 to 15 mph. Chance of rain 40%."
       ],
       "precipChance": [
         null,
-        3,
+        2,
         5,
         6,
         6,
@@ -255,7 +255,7 @@
       ],
       "relativeHumidity": [
         null,
-        79,
+        81,
         52,
         68,
         55,
@@ -276,7 +276,7 @@
       "temperature": [
         null,
         45,
-        70,
+        69,
         49,
         74,
         51,
@@ -286,7 +286,7 @@
       "temperatureHeatIndex": [
         null,
         48,
-        70,
+        69,
         63,
         74,
         65,
@@ -296,7 +296,7 @@
       "temperatureWindChill": [
         null,
         45,
-        45,
+        44,
         49,
         49,
         51,
@@ -345,11 +345,11 @@
       ],
       "windDirection": [
         null,
-        248,
-        261,
+        253,
+        263,
         257,
-        275,
-        227,
+        278,
+        228,
         197,
         178
       ],
@@ -375,7 +375,7 @@
       ],
       "windSpeed": [
         null,
-        5,
+        4,
         9,
         6,
         7,
