@@ -1,10 +1,10 @@
 {
   "globalairquality": {
-    "latitude": 40.09,
-    "longitude": -75.39,
+    "latitude": 40.08,
+    "longitude": -75.4,
     "source": "Contains Copernicus Atmosphere Monitoring Service information 2022 and/or modified Copernicus Atmosphere Monitoring Service information 2022",
     "disclaimer": "Neither the European Commission nor ECMWF is responsible for any use of this information",
-    "airQualityIndex": 39,
+    "airQualityIndex": 38,
     "airQualityCategory": "Good",
     "airQualityCategoryIndex": 1,
     "airQualityCategoryIndexColor": "00E838",
@@ -13,17 +13,17 @@
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 3.42,
-        "unit": "μg/m3",
+        "amount": 5.98,
+        "unit": "µg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 2
+        "index": 3
       },
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 79.9,
-        "unit": "μg/m3",
+        "amount": 82.6,
+        "unit": "µg/m3",
         "category": "Good",
         "categoryIndex": 1,
         "index": 30
@@ -31,38 +31,38 @@
       "SO2": {
         "name": "SO2",
         "phrase": "Sulfur Dioxide",
-        "amount": 2.89,
-        "unit": "μg/m3",
+        "amount": 2.64,
+        "unit": "µg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 2
+        "index": 1
       },
       "PM2.5": {
         "name": "PM2.5",
         "phrase": "Particulate matter less than 2.5 microns",
-        "amount": 6.78,
-        "unit": "μg/m3",
+        "amount": 6.67,
+        "unit": "µg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 39
+        "index": 38
       },
       "PM10": {
         "name": "PM10",
         "phrase": "Particulate matter less than 10 microns",
-        "amount": 13.51,
-        "unit": "μg/m3",
+        "amount": 11.5,
+        "unit": "µg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 16
+        "index": 15
       },
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 145.34,
-        "unit": "μg/m3",
+        "amount": 149.59,
+        "unit": "µg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 2
+        "index": 1
       }
     },
     "messages": {
@@ -75,6 +75,6 @@
         "text": "Air quality is considered satisfactory, and air pollution poses little or no risk."
       }
     },
-    "expireTimeGmt": 1665604819
+    "expireTimeGmt": 1665612041
   }
 }
