@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1665874800,
       1665918000,
       1665961200,
       1666004400,
@@ -22,10 +21,11 @@
       1666350000,
       1666393200,
       1666436400,
-      1666479600
+      1666479600,
+      1666522800,
+      1666566000
     ],
     "fcstValidLocal": [
-      "2022-10-15T19:00:00-0400",
       "2022-10-16T07:00:00-0400",
       "2022-10-16T19:00:00-0400",
       "2022-10-17T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2022-10-21T07:00:00-0400",
       "2022-10-21T19:00:00-0400",
       "2022-10-22T07:00:00-0400",
-      "2022-10-22T19:00:00-0400"
+      "2022-10-22T19:00:00-0400",
+      "2022-10-23T07:00:00-0400",
+      "2022-10-23T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Monday",
-      "Monday night",
       "Tuesday",
       "Tuesday night",
       "Wednesday",
@@ -90,9 +93,12 @@
       "Friday",
       "Friday night",
       "Saturday",
-      "Saturday night"
+      "Saturday night",
+      "Sunday",
+      "Sunday night"
     ],
     "grassPollenIndex": [
+      0,
       0,
       0,
       0,
@@ -124,9 +130,11 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -166,10 +175,11 @@
       2,
       2,
       2,
-      3,
-      3,
-      3,
-      3,
+      2,
+      2,
+      2,
+      2,
+      2,
       2,
       2,
       2,
@@ -183,10 +193,11 @@
       "Moderate",
       "Moderate",
       "Moderate",
-      "High",
-      "High",
-      "High",
-      "High",
+      "Moderate",
+      "Moderate",
+      "Moderate",
+      "Moderate",
+      "Moderate",
       "Moderate",
       "Moderate",
       "Moderate",
