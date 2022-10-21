@@ -8,7 +8,6 @@
   },
   "pollenForecast12hour": {
     "fcstValid": [
-      1666306800,
       1666350000,
       1666393200,
       1666436400,
@@ -22,10 +21,11 @@
       1666782000,
       1666825200,
       1666868400,
-      1666911600
+      1666911600,
+      1666954800,
+      1666998000
     ],
     "fcstValidLocal": [
-      "2022-10-20T19:00:00-0400",
       "2022-10-21T07:00:00-0400",
       "2022-10-21T19:00:00-0400",
       "2022-10-22T07:00:00-0400",
@@ -39,9 +39,12 @@
       "2022-10-26T07:00:00-0400",
       "2022-10-26T19:00:00-0400",
       "2022-10-27T07:00:00-0400",
-      "2022-10-27T19:00:00-0400"
+      "2022-10-27T19:00:00-0400",
+      "2022-10-28T07:00:00-0400",
+      "2022-10-28T19:00:00-0400"
     ],
     "dayInd": [
+      "D",
       "N",
       "D",
       "N",
@@ -73,14 +76,14 @@
       12,
       13,
       14,
-      15
+      15,
+      16
     ],
     "daypartName": [
+      "Today",
       "Tonight",
       "Tomorrow",
       "Tomorrow night",
-      "Saturday",
-      "Saturday night",
       "Sunday",
       "Sunday night",
       "Monday",
@@ -90,9 +93,12 @@
       "Wednesday",
       "Wednesday night",
       "Thursday",
-      "Thursday night"
+      "Thursday night",
+      "Friday",
+      "Friday night"
     ],
     "grassPollenIndex": [
+      0,
       0,
       0,
       0,
@@ -124,9 +130,11 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "treePollenIndex": [
+      0,
       0,
       0,
       0,
@@ -158,6 +166,7 @@
       "None",
       "None",
       "None",
+      "None",
       "None"
     ],
     "ragweedPollenIndex": [
@@ -166,7 +175,6 @@
       2,
       2,
       2,
-      2,
       1,
       2,
       2,
@@ -174,13 +182,14 @@
       2,
       2,
       2,
+      1,
+      1,
       1,
       1
     ],
     "ragweedPollenCategory": [
       "High",
       "High",
-      "Moderate",
       "Moderate",
       "Moderate",
       "Moderate",
@@ -191,6 +200,8 @@
       "Moderate",
       "Moderate",
       "Moderate",
+      "Low",
+      "Low",
       "Low",
       "Low"
     ]
