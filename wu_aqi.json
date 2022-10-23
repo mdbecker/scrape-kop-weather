@@ -4,7 +4,7 @@
     "longitude": -75.4,
     "source": "Contains Copernicus Atmosphere Monitoring Service information 2022 and/or modified Copernicus Atmosphere Monitoring Service information 2022",
     "disclaimer": "Neither the European Commission nor ECMWF is responsible for any use of this information",
-    "airQualityIndex": 54,
+    "airQualityIndex": 55,
     "airQualityCategory": "Moderate",
     "airQualityCategoryIndex": 2,
     "airQualityCategoryIndexColor": "FFFF24",
@@ -13,25 +13,25 @@
       "NO2": {
         "name": "NO2",
         "phrase": "Nitrogen Dioxide",
-        "amount": 36.65,
+        "amount": 17.08,
         "unit": "µg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 17
+        "index": 8
       },
       "O3": {
         "name": "O3",
         "phrase": "Ozone",
-        "amount": 33.61,
+        "amount": 10.57,
         "unit": "µg/m3",
         "category": "Good",
         "categoryIndex": 1,
-        "index": 13
+        "index": 9
       },
       "SO2": {
         "name": "SO2",
         "phrase": "Sulfur Dioxide",
-        "amount": 6.92,
+        "amount": 6.72,
         "unit": "µg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -40,16 +40,16 @@
       "PM2.5": {
         "name": "PM2.5",
         "phrase": "Particulate matter less than 2.5 microns",
-        "amount": 18.6,
+        "amount": 19.16,
         "unit": "µg/m3",
         "category": "Moderate",
         "categoryIndex": 2,
-        "index": 54
+        "index": 55
       },
       "PM10": {
         "name": "PM10",
         "phrase": "Particulate matter less than 10 microns",
-        "amount": 29.14,
+        "amount": 28.64,
         "unit": "µg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -58,7 +58,7 @@
       "CO": {
         "name": "CO",
         "phrase": "Carbon Monoxide",
-        "amount": 228.19,
+        "amount": 209,
         "unit": "µg/m3",
         "category": "Good",
         "categoryIndex": 1,
@@ -75,6 +75,6 @@
         "text": "Air quality is acceptable; however, for some pollutants there may be a moderate health concern for a very small number of people who are unusually sensitive to air pollution."
       }
     },
-    "expireTimeGmt": 1666512036
+    "expireTimeGmt": 1666519314
   }
 }
