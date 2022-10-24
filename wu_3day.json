@@ -2,13 +2,13 @@
   "calendarDayTemperatureMax": [
     64,
     73,
-    72,
+    71,
     68
   ],
   "calendarDayTemperatureMin": [
     53,
     62,
-    62,
+    61,
     53
   ],
   "dayOfWeek": [
@@ -18,10 +18,10 @@
     "Thursday"
   ],
   "expirationTimeUtc": [
-    1666606584,
-    1666606584,
-    1666606584,
-    1666606584
+    1666610187,
+    1666610187,
+    1666610187,
+    1666610187
   ],
   "moonPhase": [
     "New Moon",
@@ -66,13 +66,13 @@
     1666913419
   ],
   "narrative": [
-    "Chance of afternoon showers. Highs in the mid 60s and lows in the low 60s.",
-    "Areas of fog early, then cloudy. Highs in the low 70s and lows in the mid 60s.",
+    "Afternoon showers. Highs in the mid 60s and lows in the low 60s.",
+    "Cloudy with areas of morning fog. Highs in the low 70s and lows in the mid 60s.",
     "Morning clouds followed by afternoon sun. Highs in the low 70s and lows in the upper 50s.",
-    "Mainly sunny. Highs in the upper 60s and lows in the upper 40s."
+    "Sunny. Highs in the upper 60s and lows in the upper 40s."
   ],
   "qpf": [
-    0.05,
+    0.04,
     0,
     0,
     0
@@ -110,7 +110,7 @@
   "temperatureMax": [
     64,
     73,
-    72,
+    71,
     68
   ],
   "temperatureMin": [
@@ -136,7 +136,7 @@
       "cloudCover": [
         98,
         97,
-        90,
+        89,
         86,
         78,
         42,
@@ -179,23 +179,23 @@
         9203,
         9300,
         9003,
-        9000,
+        2900,
         3200,
         3100
       ],
       "narrative": [
-        "Cloudy this morning. A few showers developing during the afternoon. High 64F. Winds NNE at 10 to 15 mph. Chance of rain 30%.",
-        "Considerable cloudiness with occasional rain showers. Low 61F. Winds NE at 5 to 10 mph. Chance of rain 50%.",
-        "Morning fog, then cloudy in the afternoon. Slight chance of a rain shower. High 73F. Winds SE at 5 to 10 mph.",
-        "Cloudy skies during the evening. Fog developing overnight. Slight chance of a rain shower. Low near 65F. Winds light and variable.",
-        "Cloudy skies early, followed by partial clearing. Slight chance of a rain shower. High 72F. Winds SSW at 5 to 10 mph.",
-        "Mostly cloudy early, then clearing later on. Low 57F. Winds W at 5 to 10 mph.",
-        "Mainly sunny. High 68F. Winds NNW at 10 to 15 mph.",
+        "Cloudy this morning with showers during the afternoon. High 64F. Winds NNE at 10 to 15 mph. Chance of rain 40%.",
+        "Cloudy with occasional rain showers. Low 61F. Winds NNE at 5 to 10 mph. Chance of rain 50%.",
+        "Morning fog, then cloudy in the afternoon. Slight chance of a rain shower. High 73F. Winds light and variable.",
+        "Cloudy skies early with areas of fog developing after midnight. Slight chance of a rain shower. Low around 65F. Winds light and variable.",
+        "Cloudy skies early, then partly cloudy in the afternoon. Slight chance of a rain shower. High 71F. Winds SSW at 5 to 10 mph.",
+        "A few clouds. Low 57F. Winds W at 5 to 10 mph.",
+        "Sunny skies. High 68F. Winds NNW at 10 to 15 mph.",
         "Clear skies. Low 49F. Winds N at 5 to 10 mph."
       ],
       "precipChance": [
-        33,
-        47,
+        36,
+        46,
         24,
         24,
         24,
@@ -214,7 +214,7 @@
         "rain"
       ],
       "qpf": [
-        0.02,
+        0.01,
         0.03,
         0,
         0,
@@ -258,8 +258,8 @@
         95,
         87,
         96,
-        81,
-        83,
+        82,
+        82,
         60,
         63
       ],
@@ -278,27 +278,27 @@
         61,
         73,
         65,
-        72,
+        71,
         57,
         68,
         49
       ],
       "temperatureHeatIndex": [
         64,
-        64,
+        63,
         73,
         70,
-        72,
+        71,
         67,
         68,
         62
       ],
       "temperatureWindChill": [
-        53,
+        54,
         61,
         64,
         65,
-        65,
+        66,
         57,
         57,
         47
@@ -328,7 +328,7 @@
         "Low",
         "Low",
         "Low",
-        "Moderate",
+        "Low",
         "Low",
         "Moderate",
         "Low"
@@ -338,24 +338,24 @@
         0,
         2,
         0,
-        3,
+        2,
         0,
         4,
         0
       ],
       "windDirection": [
         26,
-        36,
-        137,
-        123,
-        197,
-        272,
+        33,
+        131,
+        120,
+        195,
+        271,
         333,
         5
       ],
       "windDirectionCardinal": [
         "NNE",
-        "NE",
+        "NNE",
         "SE",
         "ESE",
         "SSW",
@@ -365,8 +365,8 @@
       ],
       "windPhrase": [
         "Winds NNE at 10 to 15 mph.",
-        "Winds NE at 5 to 10 mph.",
-        "Winds SE at 5 to 10 mph.",
+        "Winds NNE at 5 to 10 mph.",
+        "Winds light and variable.",
         "Winds light and variable.",
         "Winds SSW at 5 to 10 mph.",
         "Winds W at 5 to 10 mph.",
@@ -389,7 +389,7 @@
         "AM Fog/PM Clouds",
         "Fog Late",
         "AM Clouds/PM Sun",
-        "Clouds Early/Clearing Late",
+        "Partly Cloudy",
         "Sunny",
         "Clear"
       ],
@@ -399,7 +399,7 @@
         "AM Fog",
         "Fog Late",
         "AM Clouds",
-        "Clear Late",
+        "P Cloudy",
         "Sunny",
         "Clear"
       ]
